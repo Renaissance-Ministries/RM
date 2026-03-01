@@ -13,6 +13,9 @@
     "build": "npm run build --workspace=client",
     "start": "node server/index.js"
   },
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "devDependencies": {
     "concurrently": "^9.1.0"
   }
