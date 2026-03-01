@@ -1,4 +1,5 @@
 const express = require('express');
+const path = require('path');
 const cors = require('cors');
 const { loadEnv } = require('./config/env');
 const { initializeDatabase } = require('./config/database');
@@ -22,6 +23,15 @@ app.use('/api', routes);
 app.get('/health', (req, res) => {
   res.json({ status: 'ok', service: 'christos-voting-network' });
 });
+
+// Serve static files in production
+if (process.env.NODE_ENV === 'production') {
+  const clientDist = path.resolve(__dirname, '../client/dist');
+  app.use(express.static(clientDist));
+  app.get('*', (req, res) => {
+    res.sendFile(path.join(clientDist, 'index.html'));
+  });
+}
 
 // Error handler
 app.use(errorHandler);
