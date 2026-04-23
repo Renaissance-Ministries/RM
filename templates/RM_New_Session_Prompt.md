@@ -21,6 +21,8 @@ I am Thomas Abshier. We are continuing work on the Renaissance Ministries projec
 
 6. For the module inventory (all seventeen Christos modules and their statuses), read MODULES.md at repo root.
 
+7. If the task involves drafting content in Thomas's voice (a fellowship essay, newsletter issue, or response to an interlocutor), read templates/authors_voice.md before drafting, and read at least one exemplar essay listed in that file.
+
 Once oriented, tell me you are ready and give me a brief summary of: (a) what RM is aiming at, (b) the current state of the repo as you see it, and (c) what was in the most recent seed archive entry if any. Then ask me what I want to work on today.
 ```
 

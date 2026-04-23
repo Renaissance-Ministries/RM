@@ -58,7 +58,9 @@ RM/
 │   ├── Christos_AI_Theological_Grammar_v1.3.md
 │   ├── RM_Kingdom_Wisdom_Database_Vision.md
 │   ├── RM_wisdom_database_operating_system.md
-│   └── CNL_newsletter_operating_system.md
+│   ├── CNL_newsletter_operating_system.md
+│   ├── authors_voice.md               ← Thomas's voice guide for essay/newsletter drafting
+│   └── RM_New_Session_Prompt.md       ← Paste-to-bootstrap for new Claude sessions
 │
 ├── founders_vision/                   ← Founding vision — three complementary forms
 │   ├── README.md                      ← Folder guide — what's here and how it relates
@@ -107,6 +109,7 @@ For folder paths, operating system files, open questions, and naming conventions
 
 **Content production — read for the specific sub-project:**
 - The sub-project's `{CODE}_operating_system.md` — authoritative voice/scope for that project.
+- `templates/authors_voice.md` — Thomas's voice and rhetorical style. **Essential for fellowship essays, newsletter issues, and responses to interlocutors.** Read before drafting anything that will appear under his name.
 - `templates/RM_wisdom_database_operating_system.md` — how curated positions get generated and versioned.
 - `templates/CNL_newsletter_operating_system.md` — newsletter template, rules, workflow.
 
