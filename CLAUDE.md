@@ -2,7 +2,7 @@
 
 **Audience:** a fresh Claude instance (Opus, Sonnet, or Claude Code) opening this repo for the first time in a new context window.
 **Purpose:** give you enough repo-mechanical context to be immediately useful without Thomas having to re-explain the project.
-**Companion file:** `bootup.md` (higher-level orientation and session-start ritual, same conventions as the CPP repo).
+**Companion file:** `RM_bootup.md` at repo root (higher-level orientation and session-start ritual, same conventions as the CPP repo). Read that one for content/ministry work; this one is strictly repo-mechanical.
 
 ---
 
@@ -50,9 +50,16 @@ RM/
 │   ├── utils/                           # promptBuilder, questionGenerator, responseParser
 │   ├── middleware/                      # errorHandler, rateLimiter
 │   └── db/                              # schema.sql, seed.sql
-├── templates/                           # Shared operating-system docs
-│   ├── newsletter_operating_system.md
-│   └── wisdom_database_operating_system.md
+├── templates/                           # Shared framework and operating-system docs
+│   ├── Christos_AI_Theological_Grammar_v1.3.md
+│   ├── RM_Kingdom_Wisdom_Database_Vision.md
+│   ├── RM_wisdom_database_operating_system.md
+│   └── CNL_newsletter_operating_system.md
+├── founders_vision/                     # Seed archive (dated, immutable)
+│   ├── README.md                        # Archive policies
+│   ├── YYMMDD_topic_slug.md             # Seed entries
+│   └── founders_quotes/                 # Topical quote collections (stubbed, pending)
+├── archive/                             # Superseded documents kept for history
 ├── CCR_christos_conspiracy_review/      # Sub-project: Conspiracy Review
 ├── CEA_christos_economic_annex/         # Sub-project: Economic Annex
 ├── CHR-christos_historical_review/      # Sub-project: Historical Review
@@ -62,9 +69,11 @@ RM/
 ├── render.yaml                          # Render.com deployment blueprint
 ├── package.json                         # npm workspaces root (client + server)
 ├── .env.example                         # required env vars
-├── README.md                            # human-facing setup doc
-├── CLAUDE.md                            # this file
-└── bootup.md                            # session orientation
+├── README.md                            # repo-level overview (public-facing)
+├── RM_bootup.md                         # session orientation (content/ministry work)
+├── MODULES.md                           # master module inventory (single source of truth)
+├── RM_Content_Catalog.md                # inventory of essays and documents
+└── CLAUDE.md                            # this file (repo-mechanical / code work)
 ```
 
 Note the CHR folder uses a hyphen (`CHR-christos_historical_review`) while the others use underscores. Preserve existing casing and separators when referencing paths; do not silently "normalize" them.
@@ -84,13 +93,16 @@ Note the CHR folder uses a hyphen (`CHR-christos_historical_review`) while the o
 
 When Thomas refers to a sub-project by its code, resolve to the directory above. When producing new sub-project content, match the existing naming convention exactly.
 
+**The full Christos module family is larger than what's in this repo** — 17 modules total in the current inventory, of which 6 live here. For the complete list, statuses, and 3-letter codes of modules not yet materialized as folders, see `MODULES.md` at repo root. That file is the single source of truth; do not maintain duplicate lists elsewhere in the repo.
+
 ---
 
 ## 5. Filename conventions
 
-- **Operating-system docs:** `{CODE}_operating_system.md` at the root of each sub-project folder (e.g., `CCR_operating_system.md`, `CEA_operating_system.md`). The exception is CHS which uses `CHS_lecture_processing_Operating_System.md` and CHR which lives under `templates/`. Shared/cross-cutting operating-system docs live in `/templates/` (currently `newsletter_operating_system.md` and `wisdom_database_operating_system.md`).
+- **Operating-system docs:** `{CODE}_operating_system.md` at the root of each sub-project folder (e.g., `CCR_operating_system.md`, `CEA_operating_system.md`). The exceptions are CHS (`CHS_lecture_processing_Operating_System.md`) and CHR (file lives under a nested `templates/` subfolder). Shared/cross-cutting operating-system docs live in `/templates/` — currently the Grammar, Kingdom Wisdom Database Vision, wisdom database OS, and newsletter OS.
 - **Newsletter articles:** `YYMMDD_slug.md` under `CNL_christos_newsletter/articles/` (e.g., `260416_25th_amendment_yates.md`). Six-digit date, lowercase slug, underscores.
-- **No version suffixes in filenames.** Mirror the CPP rule: the canonical filename stays fixed; version history is tracked in an internal CHANGELOG header inside the file, never as `_v1.1` in the filename.
+- **Seed archive entries:** `YYMMDD_topic_slug.md` under `founders_vision/` (e.g., `260419_seed_archive_establishment.md`). Same date/slug convention as newsletter articles.
+- **No version suffixes in filenames.** Mirror the CPP rule: the canonical filename stays fixed; version history is tracked in an internal CHANGELOG header inside the file, never as `_v1.1` in the filename. The Grammar file currently carries `_v1.3` as a known exception predating this convention; new files should not.
 
 ---
 
@@ -118,7 +130,7 @@ When Thomas refers to a sub-project by its code, resolve to the directory above.
 
 **Content work (newsletters, articles, operating-system docs):**
 - The relevant sub-project's `{CODE}_operating_system.md` is the authoritative voice/scope guide for that sub-project. Read it before producing content for that sub-project.
-- `templates/wisdom_database_operating_system.md` — the master framework doc describing the Founders Vision corpus that filters all RM content generation.
+- `templates/RM_wisdom_database_operating_system.md` — the master framework doc describing the Founders Vision corpus that filters all RM content generation. Companion: `templates/RM_Kingdom_Wisdom_Database_Vision.md` (architecture) and `templates/Christos_AI_Theological_Grammar_v1.3.md` (theological grammar).
 
 ---
 
@@ -134,7 +146,7 @@ When Thomas refers to a sub-project by its code, resolve to the directory above.
 - Commit or echo real API keys. `.env` is gitignored. `CLAUDE_API_KEY` in `.env.example` is a placeholder.
 - Rename schema fields without updating seed data, parsers, and the frontend consumers — the votes table has 20+ columns and schema changes ripple.
 - Change the model string (`claude-sonnet-4-20250514`) casually. It is pinned intentionally for reproducibility of user-facing analyses.
-- Assume `bootup.md` exists in every session — read it if present, otherwise this file stands alone.
+- Assume `RM_bootup.md` exists in every session — read it if present, otherwise this file stands alone.
 - Add version suffixes to filenames (see §5).
 - Treat this repo as the CPP repo. Content conventions are similar but the tech stack and scope differ; the CPP repo is documentation-only LaTeX/markdown, this one ships a live application.
 
@@ -156,7 +168,7 @@ Update `CLAUDE.md` when:
 - A new "first-read" key file emerges from refactoring (update §6).
 - A new operational rule is established across sessions (update §7).
 
-Do not update it for transient project status, personnel changes, or roadmap notes — that belongs in `bootup.md` or in commit messages. This file should change rarely and remain terse.
+Do not update it for transient project status, personnel changes, or roadmap notes — that belongs in `RM_bootup.md` or in commit messages. This file should change rarely and remain terse.
 
 ---
 
