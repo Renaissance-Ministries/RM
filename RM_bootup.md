@@ -60,6 +60,7 @@ RM/
 │   ├── RM_wisdom_database_operating_system.md
 │   ├── CNL_newsletter_operating_system.md
 │   ├── authors_voice.md               ← Thomas's voice guide for essay/newsletter drafting
+│   ├── copyright_discipline.md        ← Source-engagement rule (defensive + generous posture)
 │   └── RM_New_Session_Prompt.md       ← Paste-to-bootstrap for new Claude sessions
 │
 ├── founders_vision/                   ← Founding vision — three complementary forms
@@ -110,6 +111,7 @@ For folder paths, operating system files, open questions, and naming conventions
 **Content production — read for the specific sub-project:**
 - The sub-project's `{CODE}_operating_system.md` — authoritative voice/scope for that project.
 - `templates/authors_voice.md` — Thomas's voice and rhetorical style. **Essential for fellowship essays, newsletter issues, and responses to interlocutors.** Read before drafting anything that will appear under his name.
+- `templates/copyright_discipline.md` — Working rule for engaging copyrighted sources (lectures, interviews, books, articles, podcasts, videos). Two-part posture: defensive (no legal harm) and generous (send traffic, give credit, build relationship). **Pair with `authors_voice.md`** — read both before drafting any content that engages another creator's work.
 - `templates/RM_wisdom_database_operating_system.md` — how curated positions get generated and versioned.
 - `templates/CNL_newsletter_operating_system.md` — newsletter template, rules, workflow.
 
