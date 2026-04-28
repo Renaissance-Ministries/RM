@@ -2,7 +2,7 @@
 
 **Location:** `/RM_bootup.md` (at repo root)
 **Purpose:** Session-start orientation for humans and Claude sessions beginning content work on Renaissance Ministries projects. Read this first. For repo-mechanical / Voting Network app work, read `CLAUDE.md` instead; the two cross-reference each other.
-**Last updated:** April 19, 2026
+**Last updated:** April 28, 2026
 
 ---
 
@@ -42,6 +42,20 @@ The repo is public. No authentication needed.
 
 There is no GitHub MCP connector wired up. Use fetch or clone.
 
+### Landing deliverables from a Claude session (Thomas's local workflow)
+
+When a Claude session produces files intended for the repo, the session writes them to `/mnt/user-data/outputs/` along with a small import script named `import_<topic_slug>.sh`. Thomas downloads those deliverables to `~/Downloads/` and lands them on the repo with three commands run from a terminal on his local machine:
+
+```bash
+cd ~/Documents/GitHub/RM
+git pull origin main
+bash ~/Downloads/import_<topic_slug>.sh
+```
+
+The import script is responsible for: (1) sanity-checking that it is running from the repo root, (2) copying or verifying the deliverables in place, (3) staging and committing them with a structured commit message, and (4) pushing to `origin/main`. Scripts should be idempotent — re-running after a successful commit is a safe no-op.
+
+**A Claude session producing repo-bound deliverables should always include such a script as the final piece of the deliverable set**, so that Thomas's local handoff stays a three-line operation regardless of how complex the underlying change is. The script and its sibling deliverables are then re-exported via `present_files` so they appear together in the chat as downloadable artifacts.
+
 ---
 
 ## 3. Repository structure
@@ -53,6 +67,8 @@ RM/
 ├── CLAUDE.md                          ← Repo-mechanical bootstrap (AI/code work)
 ├── MODULES.md                         ← Master module inventory (single source of truth)
 ├── RM_Content_Catalog.md              ← Inventory of essays and documents
+├── LICENSE                            ← CC BY-SA 4.0 license text (canonical, immutable)
+├── COPYRIGHT.md                       ← License declaration: copyright holder, scope, carve-outs
 │
 ├── templates/                         ← Cross-cutting framework documents
 │   ├── Christos_AI_Theological_Grammar_v1.3.md
@@ -112,6 +128,7 @@ For folder paths, operating system files, open questions, and naming conventions
 - The sub-project's `{CODE}_operating_system.md` — authoritative voice/scope for that project.
 - `templates/authors_voice.md` — Thomas's voice and rhetorical style. **Essential for fellowship essays, newsletter issues, and responses to interlocutors.** Read before drafting anything that will appear under his name.
 - `templates/copyright_discipline.md` — Working rule for engaging copyrighted sources (lectures, interviews, books, articles, podcasts, videos). Two-part posture: defensive (no legal harm) and generous (send traffic, give credit, build relationship). **Pair with `authors_voice.md`** — read both before drafting any content that engages another creator's work.
+- `/COPYRIGHT.md` and `/LICENSE` — Counterpart to `copyright_discipline.md`: where that file governs how *we* engage others' work, these two govern how *others* may engage *ours*. The RM corpus is licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). `COPYRIGHT.md` declares scope, carve-outs (fellowship contributions, AI collaboration, third-party fair-use quotation, scripture, the separately-governed CPP repo), and attribution requirements. Read these before answering any question about reuse, republication, or AI-training rights to RM material.
 - `templates/RM_wisdom_database_operating_system.md` — how curated positions get generated and versioned.
 - `templates/CNL_newsletter_operating_system.md` — newsletter template, rules, workflow.
 
