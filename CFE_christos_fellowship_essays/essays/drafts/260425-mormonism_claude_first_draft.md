@@ -1,3 +1,14 @@
+---
+title: "What Do Mormons Believe? — A Fellowship Response to the PragerU Interview with President Michael Stanley (Claude First Draft)"
+author: "Thomas Lee Abshier, ND"
+date: 2026-04-25
+module: CFE
+secondary_modules: []
+topics: [mormonism, lds, prageru, michael_stanley, draft]
+status: PROVISIONAL
+type: essay
+audience: intermediate
+---
 # What Do Mormons Believe?
 
 ## A Fellowship Response to the PragerU Interview with President Michael Stanley

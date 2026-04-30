@@ -1,10 +1,21 @@
+---
+title: "Upon This Rock — What Christ Was Building, and Why It Has Not Fallen"
+author: "Thomas Lee Abshier, ND"
+date: 2026-04-28
+module: CFE
+secondary_modules: []
+topics: [matthew_16_18, ecclesiology, christ_building_church, restoration, apostasy, upon_this_rock]
+status: ESTABLISHED
+type: essay
+audience: intermediate
+---
 # Upon This Rock
 
 ## What Christ Was Building, and Why It Has Not Fallen
 
 **Standalone Theological Essay | April 28, 2026**
 
-**Context:** This essay is the natural companion to [The Restoration That Was Not Needed](https://github.com/Renaissance-Ministries/RM/blob/main/Fellowship_essays/260427-restoration_that_was_not_needed.md) (April 27, 2026). That essay argued, against the Snuffer/Mormon restoration claim, that Christ promised His church would not perish. The present essay does the exegetical work to defend that promise carefully — walking through Matthew 16:18 in its context, examining the three serious readings of *upon this rock*, and showing why the reading that integrates the rest of the New Testament's foundation language also forecloses every restoration claim. The point is not merely defensive. Matthew 16:18 is, equally, the productive promise that Christ is *building* something — and what He is building is what the Christos Civitas project is consciously trying to participate in.
+**Context:** This essay is the natural companion to [The Restoration That Was Not Needed](https://github.com/Renaissance-Ministries/RM/blob/main/CFE_christos_fellowship_essays/essays/260427-restoration_that_was_not_needed.md) (April 27, 2026). That essay argued, against the Snuffer/Mormon restoration claim, that Christ promised His church would not perish. The present essay does the exegetical work to defend that promise carefully — walking through Matthew 16:18 in its context, examining the three serious readings of *upon this rock*, and showing why the reading that integrates the rest of the New Testament's foundation language also forecloses every restoration claim. The point is not merely defensive. Matthew 16:18 is, equally, the productive promise that Christ is *building* something — and what He is building is what the Christos Civitas project is consciously trying to participate in.
 
 ---
 

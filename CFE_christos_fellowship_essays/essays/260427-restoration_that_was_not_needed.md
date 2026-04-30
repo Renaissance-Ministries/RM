@@ -1,3 +1,15 @@
+---
+title: "The Restoration That Was Not Needed — A Christian Response to Denver Snuffer's \"Testimony of Jesus\" and the Restoration Claim"
+author: "Thomas Lee Abshier, ND"
+date: 2026-04-27
+module: CFE
+secondary_modules: []
+topics: [snuffer, mormonism, restoration, apostasy, ecclesiology, testimony_of_jesus]
+status: ESTABLISHED
+type: essay
+audience: intermediate
+series: "Snuffer Restoration Engagement"
+---
 # The Restoration That Was Not Needed
 
 ## A Christian Response to Denver Snuffer's "Testimony of Jesus" and the Restoration Claim
@@ -6,7 +18,7 @@
 
 **Source:** Denver Snuffer lecture transcript, "Testimony of Jesus," posted on the front page of [learnofchrist.org](https://learnofchrist.org). The lecture spans roughly 100 minutes and provides a historical-theological narrative running from the Catholic apostasy through the Protestant Reformation through Joseph Smith to Snuffer's own 2017 Boise covenant. A companion site, [Covenant Christians](https://covenantchristians.info/), serves as the public-facing front of the same movement. A second video on [learnofchrist.org](https://learnofchrist.org) addresses the History of Christianity and is presumed to advance the same restorationist framework — the present essay anticipates its content but does not yet engage it directly.
 
-**Context:** This essay was prompted by Leonard Hofheins's transmission of the Snuffer transcript to the fellowship and by Thomas's framing of the central question: was Joseph Smith's revelation the actual restoration of the lost gospel, or was it (in Susan's reading) a demonic visitation of an angel-of-light type whose mostly-true message contained the small, fatal poison that has held its adherents in bondage ever since? This is the third essay in the present sequence engaging the Mormonism question — building on the [April 25 Mormonism essay](https://github.com/Renaissance-Ministries/RM/blob/main/Fellowship_essays/260425-mormonism_claude_third_draft.md), the [April 26 Snuffer evaluation](https://github.com/Renaissance-Ministries/RM/blob/main/Fellowship_essays/260426-snuffer_evaluation.md) of his "Culture by Precept and Practice" lecture, and the [April 19 fellowship meeting analysis](https://github.com/Renaissance-Ministries/RM/blob/main/Fellowship_essays/260419-where_is_god_in_this.md). It is the engagement of the central restoration claim itself — the claim on which everything Snuffer says and everything Leonard believes structurally depends.
+**Context:** This essay was prompted by Leonard Hofheins's transmission of the Snuffer transcript to the fellowship and by Thomas's framing of the central question: was Joseph Smith's revelation the actual restoration of the lost gospel, or was it (in Susan's reading) a demonic visitation of an angel-of-light type whose mostly-true message contained the small, fatal poison that has held its adherents in bondage ever since? This is the third essay in the present sequence engaging the Mormonism question — building on the [April 25 Mormonism essay](https://github.com/Renaissance-Ministries/RM/blob/main/CFE_christos_fellowship_essays/essays/260425-mormonism_claude_third_draft.md), the [April 26 Snuffer evaluation](https://github.com/Renaissance-Ministries/RM/blob/main/CFE_christos_fellowship_essays/essays/260426-snuffer_evaluation.md) of his "Culture by Precept and Practice" lecture, and the [April 19 fellowship meeting analysis](https://github.com/Renaissance-Ministries/RM/blob/main/CFE_christos_fellowship_essays/essays/260419-where_is_god_in_this.md). It is the engagement of the central restoration claim itself — the claim on which everything Snuffer says and everything Leonard believes structurally depends.
 
 ---
 

@@ -1,3 +1,13 @@
+---
+title: "Where Is God in This? — A Fellowship Meeting Analysis: The Question of God's Voice in the Christos Civitas Vision"
+author: "Thomas Lee Abshier, ND"
+date: 2026-04-19
+module: CFE
+secondary_modules: [CRF]
+topics: [christos_civitas, fellowship_meeting, divine_voice, discernment]
+status: ESTABLISHED
+type: essay
+---
 # Where Is God in This?
 
 ## A Fellowship Meeting Analysis: The Question of God's Voice in the Christos Civitas Vision

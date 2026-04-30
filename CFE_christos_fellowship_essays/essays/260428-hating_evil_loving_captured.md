@@ -1,10 +1,20 @@
+---
+title: "Hating Evil, Loving the Captured — A Christos Civitas Code of Relational Ethics: The Four-Component Framework"
+author: "Thomas Lee Abshier, ND"
+date: 2026-04-28
+module: CFE
+secondary_modules: [CRF, CPS]
+topics: [christos_civitas, relational_ethics, four_component_framework, hating_evil, loving_captured]
+status: ESTABLISHED
+type: essay
+---
 # Hating Evil, Loving the Captured
 
 ## A Christos Civitas Code of Relational Ethics — The Four-Component Framework
 
 **Fellowship Discussion Essay | April 28, 2026**
 
-**Occasion:** This essay is the deeper development of the relational-ethics framework first sketched in [Truth in Love, Across the Lines That Divide](https://github.com/Renaissance-Ministries/RM/blob/main/Fellowship_essays/260428-truth_in_love_kirschner.md), which engaged Dr. Rick Kirschner's social-media reflection on the fracturing of American discourse and his proposed book *False Friends and Fractured Professionals.* The first essay was calibrated as a bridge-building piece — engaging Kirschner as a fellow-traveler reaching largely the same conclusions through natural-law warrant, and articulating a three-component Christian alternative to the contemporary collapse of generosity in disagreement. This second essay does the deeper theological work the first essay sketched but did not fully develop. It articulates a four-component framework that takes seriously what the first essay treated too lightly: that the Christian moral universe contains legitimate objects of hatred, that correction is participation in God's labor rather than optional kindness, and that listening is theological discipline rather than mere pastoral courtesy.
+**Occasion:** This essay is the deeper development of the relational-ethics framework first sketched in [Truth in Love, Across the Lines That Divide](https://github.com/Renaissance-Ministries/RM/blob/main/CFE_christos_fellowship_essays/essays/260428-truth_in_love_kirschner.md), which engaged Dr. Rick Kirschner's social-media reflection on the fracturing of American discourse and his proposed book *False Friends and Fractured Professionals.* The first essay was calibrated as a bridge-building piece — engaging Kirschner as a fellow-traveler reaching largely the same conclusions through natural-law warrant, and articulating a three-component Christian alternative to the contemporary collapse of generosity in disagreement. This second essay does the deeper theological work the first essay sketched but did not fully develop. It articulates a four-component framework that takes seriously what the first essay treated too lightly: that the Christian moral universe contains legitimate objects of hatred, that correction is participation in God's labor rather than optional kindness, and that listening is theological discipline rather than mere pastoral courtesy.
 
 **Context:** This is the second essay in the Christos Civitas relational-ethics treatment. Where the first essay was calibrated for Kirschner as a Jewish cultural-conservative interlocutor, this one is calibrated for the fellowship's own internal use — though Rick is welcome to read it and would, I think, find much in it he could affirm through his own warrant, even where the spiritual-warfare framing is foreign to his idiom. The framework articulated here is what the Christos Civitas Code of Relational Ethics would actually contain if developed as the book the first essay proposed.
 
@@ -76,7 +86,7 @@ This is what *Component Two* of the Christos Civitas framework actually says —
 
 Now the other side of the discipline. The love of the captured person is not optional kindness; it is theological necessity, and the warrant for it goes deeper than the first essay's articulation reached.
 
-The phenomenology-of-the-Cross insight developed in the [April 25 essay](https://github.com/Renaissance-Ministries/RM/blob/main/Fellowship_essays/260425-phenomenology_of_the_cross_standalone.md) named that the Cross is morally coherent because the experiential recoil of God's nature against sin was absorbed by the only Being who could survive absorbing it. That insight, when extended to the broader question of God's relationship to His creatures, has direct relational-ethics consequences.
+The phenomenology-of-the-Cross insight developed in the [April 25 essay](https://github.com/Renaissance-Ministries/RM/blob/main/CFE_christos_fellowship_essays/essays/260425-phenomenology_of_the_cross_standalone.md) named that the Cross is morally coherent because the experiential recoil of God's nature against sin was absorbed by the only Being who could survive absorbing it. That insight, when extended to the broader question of God's relationship to His creatures, has direct relational-ethics consequences.
 
 If God is omniscient — if His knowledge of His creatures is not the knowledge of a distant observer reading a report but the knowledge of a Being who experiences each person from the inside, who feels the world through every set of eyes, who tastes the cup of every soul — then the person captured by evil is the one through whom God Himself is bearing that evil. God is not at a distance from the friend's sin; God is feeling-it-from-the-inside as the friend feels it, and feeling also the recoil of His own holiness against what He is feeling. Sin is not just objectively wrong by some external metric. Sin is something God is experiencing through every soul who commits it, and the experience is grief, and the grief is real.
 

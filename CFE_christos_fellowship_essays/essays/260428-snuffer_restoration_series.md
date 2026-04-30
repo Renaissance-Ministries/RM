@@ -1,3 +1,16 @@
+---
+title: "The Altar Call at bornofwater.org — A Christian Engagement with Denver Snuffer's Christian Restoration Series (Parts 1-7)"
+author: "Thomas Lee Abshier, ND"
+date: 2026-04-28
+module: CFE
+secondary_modules: []
+topics: [snuffer, mormonism, restoration, baptism, born_of_water, altar_call]
+status: ESTABLISHED
+type: essay
+audience: intermediate
+series: "Snuffer Series Engagement"
+series_position: 2
+---
 # The Altar Call at bornofwater.org
 
 ## A Christian Engagement with Denver Snuffer's *Christian Restoration* Series (Parts 1-7)
@@ -6,7 +19,7 @@
 
 **Source:** Denver Snuffer, *Christian Restoration* lecture series (Parts 1-7), available as transcripts at [learnofchrist.org/videos.html#restoration](https://www.learnofchrist.org/videos.html#restoration). The series is the second of four corpus-defining lecture series posted at learnofchrist.org. Where the [Protestant Reformation series](https://www.learnofchrist.org/videos.html#reformation) traced the Reformation history without yet naming the restorer, the *Christian Restoration* series names Joseph Smith, narrates the Mormon-Campbellite collision, catalogs the post-Smith fragmentation, and concludes with an explicit baptismal invitation directing readers to [bornofwater.org](https://bornofwater.org) to be baptized by men who claim authority from Jesus Christ to administer the ordinance.
 
-**Context:** This is the fourth Snuffer engagement in the corpus and the second in the systematic four-series treatment. The companion essays so far are: [Culture by Precept and Practice](https://github.com/Renaissance-Ministries/RM/blob/main/Fellowship_essays/260426-snuffer_evaluation.md) (April 26), [Testimony of Jesus and the Restoration Claim](https://github.com/Renaissance-Ministries/RM/blob/main/Fellowship_essays/260427-restoration_that_was_not_needed.md) (April 27), [Upon This Rock](https://github.com/Renaissance-Ministries/RM/blob/main/Fellowship_essays/260428-upon_this_rock.md) (April 28), and the [Protestant Reformation Series](https://github.com/Renaissance-Ministries/RM/blob/main/Fellowship_essays/260428-snuffer_reformation_series.md) (April 28). The April 27 essay engaged Snuffer's restoration *thesis*; the present essay engages Snuffer's restoration *narrative* — the seven-part account of how he believes the restoration unfolded from Roger Williams to the Campbells to Joseph Smith to the 2017 Boise covenant — and the *altar call* with which the series concludes.
+**Context:** This is the fourth Snuffer engagement in the corpus and the second in the systematic four-series treatment. The companion essays so far are: [Culture by Precept and Practice](https://github.com/Renaissance-Ministries/RM/blob/main/CFE_christos_fellowship_essays/essays/260426-snuffer_evaluation.md) (April 26), [Testimony of Jesus and the Restoration Claim](https://github.com/Renaissance-Ministries/RM/blob/main/CFE_christos_fellowship_essays/essays/260427-restoration_that_was_not_needed.md) (April 27), [Upon This Rock](https://github.com/Renaissance-Ministries/RM/blob/main/CFE_christos_fellowship_essays/essays/260428-upon_this_rock.md) (April 28), and the [Protestant Reformation Series](https://github.com/Renaissance-Ministries/RM/blob/main/CFE_christos_fellowship_essays/essays/260428-snuffer_reformation_series.md) (April 28). The April 27 essay engaged Snuffer's restoration *thesis*; the present essay engages Snuffer's restoration *narrative* — the seven-part account of how he believes the restoration unfolded from Roger Williams to the Campbells to Joseph Smith to the 2017 Boise covenant — and the *altar call* with which the series concludes.
 
 ---
 

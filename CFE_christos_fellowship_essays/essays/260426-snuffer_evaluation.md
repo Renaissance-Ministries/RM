@@ -1,3 +1,14 @@
+---
+title: "Denver Snuffer's Restoration — A Christian Theological Evaluation of \"Culture by Precept and Practice\""
+author: "Thomas Lee Abshier, ND"
+date: 2026-04-26
+module: CFE
+secondary_modules: []
+topics: [snuffer, mormonism, restoration, theological_evaluation, culture_precept_practice]
+status: ESTABLISHED
+type: essay
+audience: intermediate
+---
 # Denver Snuffer's Restoration
 
 ## A Christian Theological Evaluation of "Culture by Precept and Practice"
@@ -6,7 +17,7 @@
 
 **Source:** Lecture by Denver Snuffer, "Culture by Precept and Practice," delivered at a Covenant Christian conference, April 2026 (transcript provided to fellowship). Snuffer materials and conference recordings are accessible through [Covenant Christian Events](https://covenantchristianevents.com) and [Restoration Archives](https://restorationarchives.com).
 
-**Context:** This essay engages Denver Snuffer because Leonard Hofheins, a member of our fellowship, identified Snuffer as the present teacher whose movement Leonard has joined. Yesterday's [Three Conversations at One Table](https://github.com/Renaissance-Ministries/RM/blob/main/Fellowship_essays/260426-three_conversations_at_one_table.md) flagged Snuffer's claim to face-to-face encounters with Christ as the question requiring careful engagement. This essay is that engagement. It is written in the spirit of Susan's procedural counsel: examine the *root* of a movement before adjudicating its branches.
+**Context:** This essay engages Denver Snuffer because Leonard Hofheins, a member of our fellowship, identified Snuffer as the present teacher whose movement Leonard has joined. Yesterday's [Three Conversations at One Table](https://github.com/Renaissance-Ministries/RM/blob/main/CFE_christos_fellowship_essays/essays/260426-three_conversations_at_one_table.md) flagged Snuffer's claim to face-to-face encounters with Christ as the question requiring careful engagement. This essay is that engagement. It is written in the spirit of Susan's procedural counsel: examine the *root* of a movement before adjudicating its branches.
 
 ---
 

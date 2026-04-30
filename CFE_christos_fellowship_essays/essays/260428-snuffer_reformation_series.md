@@ -1,3 +1,16 @@
+---
+title: "Reformation, Restoration, and the Stone Cut Without Hands — A Christian Engagement with Denver Snuffer's Protestant Reformation Series (Parts 1-7)"
+author: "Thomas Lee Abshier, ND"
+date: 2026-04-28
+module: CFE
+secondary_modules: []
+topics: [snuffer, mormonism, reformation, restoration, protestant, stone_cut_without_hands]
+status: ESTABLISHED
+type: essay
+audience: intermediate
+series: "Snuffer Series Engagement"
+series_position: 1
+---
 # Reformation, Restoration, and the Stone Cut Without Hands
 
 ## A Christian Engagement with Denver Snuffer's *Protestant Reformation* Series (Parts 1-7)
@@ -6,7 +19,7 @@
 
 **Source:** Denver Snuffer, *Protestant Reformation* lecture series (Parts 1-7), available as transcripts at [learnofchrist.org/videos.html#reformation](https://www.learnofchrist.org/videos.html#reformation). The series is the first of four corpus-defining lecture series posted at learnofchrist.org, treating, in order: the Protestant Reformation; (presumably) post-Reformation history and restorationist precursors; Joseph Smith and the original Restoration; and Snuffer's own contemporary covenantal continuation. The present essay engages only the first series (seven parts on the Reformation). Subsequent essays will engage the remaining three series as Thomas transmits the transcripts.
 
-**Context:** This is the third Snuffer engagement in the corpus, building on the [April 26 evaluation](https://github.com/Renaissance-Ministries/RM/blob/main/Fellowship_essays/260426-snuffer_evaluation.md) of *Culture by Precept and Practice* and the [April 27 engagement](https://github.com/Renaissance-Ministries/RM/blob/main/Fellowship_essays/260427-restoration_that_was_not_needed.md) of *Testimony of Jesus*. The April 27 essay engaged Snuffer's restoration *thesis* directly — the claim that apostolic Christianity perished and required Joseph Smith's prophetic restoration. The present essay engages Snuffer's *Reformation history* on its own terms — what he says about Luther, Calvin, Knox, and Zwingli; how he characterizes their motives, their accomplishments, and their limits; and what his framing of the Reformation tells us about the larger argument the four-series corpus is constructing.
+**Context:** This is the third Snuffer engagement in the corpus, building on the [April 26 evaluation](https://github.com/Renaissance-Ministries/RM/blob/main/CFE_christos_fellowship_essays/essays/260426-snuffer_evaluation.md) of *Culture by Precept and Practice* and the [April 27 engagement](https://github.com/Renaissance-Ministries/RM/blob/main/CFE_christos_fellowship_essays/essays/260427-restoration_that_was_not_needed.md) of *Testimony of Jesus*. The April 27 essay engaged Snuffer's restoration *thesis* directly — the claim that apostolic Christianity perished and required Joseph Smith's prophetic restoration. The present essay engages Snuffer's *Reformation history* on its own terms — what he says about Luther, Calvin, Knox, and Zwingli; how he characterizes their motives, their accomplishments, and their limits; and what his framing of the Reformation tells us about the larger argument the four-series corpus is constructing.
 
 ---
 

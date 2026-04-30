@@ -1,10 +1,20 @@
+---
+title: "Three Conversations at One Table — A Fellowship Meeting Analysis: Engagement, Mormonism Revisited, and the Trinitarian Geometry of the Cross"
+author: "Thomas Lee Abshier, ND"
+date: 2026-04-26
+module: CFE
+secondary_modules: []
+topics: [fellowship_meeting, mormonism, engagement, trinity, cross, theology]
+status: ESTABLISHED
+type: essay
+---
 # Three Conversations at One Table
 
 ## A Fellowship Meeting Analysis: Engagement, Mormonism Revisited, and the Trinitarian Geometry of the Cross
 
 **Fellowship Discussion Essay | April 26, 2026**
 
-**Source:** Sunday Zoom fellowship, April 26, 2026. Participants: Thomas Abshier, Michael Sherman, Charlie Gutierrez, Susan Gutierrez, Leonard Hofheins, Isak Gutierrez, Armond Boulware. Discussion arose from circulation of the [Mormonism fellowship essay](https://github.com/Renaissance-Ministries/RM/blob/main/Fellowship_essays/260425-mormonism_claude_third_draft.md) (April 25, 2026) and the [phenomenology of the Cross essay](https://github.com/Renaissance-Ministries/RM/blob/main/Fellowship_essays/260425-phenomenology_of_the_cross_standalone.md).
+**Source:** Sunday Zoom fellowship, April 26, 2026. Participants: Thomas Abshier, Michael Sherman, Charlie Gutierrez, Susan Gutierrez, Leonard Hofheins, Isak Gutierrez, Armond Boulware. Discussion arose from circulation of the [Mormonism fellowship essay](https://github.com/Renaissance-Ministries/RM/blob/main/CFE_christos_fellowship_essays/essays/260425-mormonism_claude_third_draft.md) (April 25, 2026) and the [phenomenology of the Cross essay](https://github.com/Renaissance-Ministries/RM/blob/main/CFE_christos_fellowship_essays/essays/260425-phenomenology_of_the_cross_standalone.md).
 
 ---
 
