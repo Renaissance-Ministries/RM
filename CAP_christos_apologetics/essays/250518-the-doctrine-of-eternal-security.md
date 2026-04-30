@@ -1,0 +1,71 @@
+---
+title: "The Doctrine of Eternal Security"
+author: "Thomas Lee Abshier, ND"
+date: 2025-05-18
+module: CAP
+status: ESTABLISHED
+type: essay
+source_url: "https://renaissance-ministries.com/2025/05/18/the-doctrine-of-eternal-security/"
+wordpress_post_id: 1207
+---
+**The Doctrine of Eternal Security: A Critical Biblical Examination**by Thomas Lee Abshier, ND
+5/18/20205
+**Introduction**
+Among Christianity's most enduring theological debates stands the question of salvation's permanence: Once a person accepts Jesus Christ as Savior, is their eternal destiny irrevocably secured? The doctrine of "eternal security"—often expressed in the phrase "once saved, always saved"—has become a cornerstone of many Protestant denominations and evangelical movements. This belief suggests that, following genuine conversion, a believer cannot lose their salvation regardless of subsequent behavior or spiritual condition.
+[Richard T. Ritenbaugh's analysis](https://www.cgg.org/index.cfm/library/article/id/693/eternal-security.htm) challenges this doctrine, presenting a biblical case that salvation requires not only initial acceptance of Christ but continued obedience and spiritual growth. This essay examines the scriptural foundations of this perspective, explores the theological implications of both positions, and considers the profound impact these views have on Christian living.
+**The Origins of Eternal Security Doctrine**
+The eternal security doctrine finds its modern expression largely in Reformed and Baptist traditions, but Ritenbaugh traces its conceptual roots to a much earlier source—Satan's deception in Eden. When God warned that sin would result in death, the serpent countered, "You will not surely die" (Genesis 3:4), effectively promising humanity immunity from the ultimate consequence of disobedience.
+This ancient false assurance, Ritenbaugh suggests, finds its theological parallel in the modern belief that once God's grace covers a person, no future action can sever their relationship with Him. Just as the serpent promised immortality regardless of behavior, the doctrine of eternal security appears to offer salvation regardless of post-conversion conduct.
+The doctrine gained particular prominence during the Protestant Reformation, when theologians like John Calvin developed systematic frameworks emphasizing God's sovereignty in salvation. Calvin's doctrine of the "perseverance of the saints" maintained that those truly elected by God would invariably persevere in faith. Later interpretations, particularly in American evangelicalism, sometimes transformed this nuanced position into a more simplified "once saved, always saved" formula that minimized the necessity of ongoing sanctification.
+**Biblical Challenges to Eternal Security**
+Ritenbaugh identifies several key scriptural passages that directly challenge the doctrine of eternal security:
+**The Warning in Hebrews 10:26-31**
+Perhaps the most direct biblical challenge comes from Hebrews 10:26-27: "For if we sin willfully after we have received the knowledge of the truth, there no longer remains a sacrifice for sins, but a certain fearful expectation of judgment, and fiery indignation which will devour the adversaries."
+This passage explicitly addresses those who have "received the knowledge of the truth"—converted believers—and warns that willful, persistent sin can place them beyond the reach of Christ's sacrifice. The writer continues with a sobering comparison: if those who rejected Moses' law died without mercy, how much worse punishment awaits those who have "trampled the Son of God underfoot" and "insulted the Spirit of grace" (verses 29-30).
+Such language would be meaningless if salvation could never be lost. Why warn believers about judgment if their eternal security was guaranteed regardless of conduct?
+**Paul's Teaching on Judgment in Romans 2**
+Ritenbaugh highlights Romans 2:1-16 as particularly problematic for eternal security advocates. Here, Paul writes to believers that God "will render to each one according to his deeds," promising "eternal life to those who by patient continuance in doing good seek for glory, honor, and immortality," but "indignation and wrath" to "those who are self-seeking and do not obey the truth" (verses 6-8).
+This passage establishes a clear connection between behavior and ultimate outcome, even for believers. Paul's assertion that "the doers of the law will be justified" (verse 13) directly contradicts the notion that justification comes solely through initial faith without regard for subsequent obedience.
+**Jesus' Vine Analogy in John 15**
+Jesus' teaching in John 15:1-8 provides perhaps the most vivid illustration challenging eternal security. Christ describes himself as the vine and believers as branches, stating unequivocally that branches which fail to bear fruit will be "taken away" (verse 2) and "cast out," ultimately to be "thrown into the fire and burned" (verse 6).
+This agricultural metaphor leaves little room for ambiguity—branches that were genuinely connected to the vine (Christ) can be removed and destroyed if they prove unfruitful. If eternal security were biblical, such branches would remain connected regardless of their fruit-bearing capacity.
+**Peter's Admonition in 2 Peter 1:10-11**
+Ritenbaugh considers 2 Peter 1:10-11 particularly devastating to eternal security doctrine: "Therefore, brethren, be even more diligent to make your calling and election sure, for if you do these things you will never stumble; for so an entrance will be supplied to you abundantly into the everlasting kingdom."
+This direct apostolic instruction makes no sense if calling and election were automatically "sure" upon conversion. Why would Peter urge believers to "make sure" what was already guaranteed? The conditional phrase "if you do these things" clearly indicates that entrance into God's kingdom depends on ongoing diligence, not merely on initial acceptance of Christ.
+**The Necessity of Spiritual Growth**
+Rather than offering believers passive security, Scripture consistently presents salvation as a dynamic relationship requiring active participation through ongoing growth. Ritenbaugh emphasizes that genuine conversion initiates a process that must continue throughout a Christian's life.
+**Bearing Spiritual Fruit**
+Jesus' statement in Matthew 7:16-20 that "by their fruits you will know them" establishes fruit-bearing as the authentic evidence of genuine conversion. This theme continues throughout the New Testament, with Galatians 5:22-23 detailing the "fruit of the Spirit" that should characterize believers' lives.
+The absence of such fruit, far from being merely a matter of diminished rewards, indicates a fundamental problem with one's spiritual condition. As Jesus warns, trees without good fruit are "cut down and thrown into the fire" (Matthew 7:19).
+**Continuing in Faith**
+Colossians 1:21-23 emphasizes that Christ's reconciling work presents believers "holy, and blameless, and above reproach" only "if indeed you continue in the faith, grounded and steadfast, and are not moved away from the hope of the gospel." This conditional language directly contradicts the notion that salvation remains secure regardless of whether one continues in faith.
+**Growing in Grace and Knowledge**
+Peter's final exhortation in 2 Peter 3:18 to "grow in the grace and knowledge of our Lord and Savior Jesus Christ" comes immediately after warning believers to "beware lest you also fall from your own steadfastness" (verse 17). This juxtaposition establishes growth not as optional but as essential for preventing spiritual failure.
+Ritenbaugh's conclusion is straightforward: "If we grow, our salvation is assured." The biblical model presents salvation not as a static, one-time transaction but as a dynamic relationship that must be actively maintained through ongoing spiritual development.
+**Theological Implications**
+The question of eternal security reaches far beyond academic theological debate, profoundly shaping how Christians understand their relationship with God and their responsibility within that relationship.
+**The Nature of God's Promises**
+Advocates of eternal security often emphasize the faithfulness of God's promises, citing passages like John 10:28-29 where Jesus states that no one can snatch his sheep from his hand. This represents a valid and important biblical truth—God is absolutely faithful to His promises and desires all to be saved (2 Peter 3:9).
+However, Ritenbaugh notes that biblical promises often contain conditions. God's faithfulness does not override human responsibility or eliminate the conditional nature of the covenant relationship. As Deuteronomy repeatedly demonstrates, God's blessings are contingent upon obedience, while disobedience brings consequences. The New Covenant, while based on grace through faith, does not abolish this principle of conditionality.
+**The Role of Human Responsibility**
+The doctrine of eternal security risks minimizing human responsibility within salvation. Scripture consistently presents salvation as involving both divine initiative and human response—God's grace enables while human obedience actualizes. Philippians 2:12-13 captures this balance: "Work out your own salvation with fear and trembling; for it is God who works in you both to will and to do for His good pleasure."
+Ritenbaugh's analysis emphasizes that believers must "reciprocate" God's grace through obedient living. Without this reciprocity, "the relationship He has begun will fall apart." This perspective preserves divine sovereignty while acknowledging the genuine role of human choice in salvation's ongoing process.
+**The Reality of Apostasy**
+Perhaps most significantly, the doctrine of eternal security struggles to account for the biblical reality of apostasy—believers who genuinely experience spiritual life but later abandon faith. Hebrews 6:4-6 describes those who "were once enlightened, and have tasted the heavenly gift, and have become partakers of the Holy Spirit" yet fall away, effectively "crucifying again for themselves the Son of God."
+Such passages become problematic for eternal security advocates, who must either argue that such apostates were never truly saved (despite the passage's clear description of their spiritual experience) or reinterpret "falling away" as something less than loss of salvation. Ritenbaugh's perspective acknowledges apostasy's reality without requiring such interpretive gymnastics.
+**Practical Implications for Christian Living**
+Beyond theological considerations, the doctrine of eternal security has profound practical implications for how believers approach Christian living.
+**The Danger of Presumption**
+Ritenbaugh warns against taking "God's salvation for granted," noting that such presumption can lead to spiritual complacency. If salvation is guaranteed regardless of behavior, the motivation for vigilance against sin and commitment to spiritual growth may be significantly reduced.
+This concern echoes Dietrich Bonhoeffer's warning against "cheap grace" that "means the justification of sin without the justification of the sinner." The biblical pattern instead calls believers to "be diligent to be found by Him in peace, without spot and blameless" (2 Peter 3:14).
+**The Balance of Assurance and Vigilance**
+Rejecting eternal security does not mean Christians must live in perpetual anxiety about their salvation. Scripture offers genuine assurance to believers who maintain their relationship with Christ. Romans 8:38-39 affirms that nothing can separate us from God's love—a promise that brings tremendous comfort while still requiring our continued participation in that loving relationship.
+The biblical balance presents salvation as securely held by God's power but requiring our vigilant cooperation with His Spirit. This creates a healthy spiritual mindset of confident dependence rather than either anxious uncertainty or presumptuous complacency.
+**The Motivation for Obedience**
+Ritenbaugh's perspective underscores that obedience is not merely optional for the believer but essential to genuine faith. This aligns with James' teaching that "faith without works is dead" (James 2:26) and John's assertion that those who claim to know God while disregarding His commandments are "liars" (1 John 2:4).
+Rather than obedience flowing from fear of losing salvation, however, the biblical model presents obedience as the natural expression of genuine love for God. As Jesus stated, "If you love Me, keep My commandments" (John 14:15). Obedience becomes not the means of earning salvation but the inevitable outworking of authentic relationship with Christ.
+**Conclusion**
+The doctrine of eternal security, while offering an appealing sense of guaranteed salvation, faces significant challenges from Scripture's consistent teaching about the conditional nature of the believer's relationship with God. Richard Ritenbaugh's analysis highlights the biblical emphasis on continued obedience, spiritual growth, and active faith as essential components of salvation.
+Rather than undermining assurance, this perspective actually strengthens it by grounding confidence not in a past decision but in an ongoing, dynamic relationship with Christ. Believers can indeed have assurance of salvation—not because their eternal destiny was irrevocably settled at conversion regardless of subsequent behavior, but because they continue to "abide in the vine," bear spiritual fruit, and grow in grace and knowledge.
+The biblical pattern calls Christians neither to anxious uncertainty nor presumptuous complacency, but to diligent perseverance, knowing that God faithfully completes what He begins in those who continue in His way. In this understanding, salvation remains secure not despite human responsibility but through the believer's faithful response to God's grace—a response that continues from conversion until final glorification.
+As believers "make their calling and election sure" through continued growth and obedience, they can indeed have confidence that "an entrance will be supplied to them abundantly into the everlasting kingdom of our Lord and Savior Jesus Christ" (2 Peter 1:11).
