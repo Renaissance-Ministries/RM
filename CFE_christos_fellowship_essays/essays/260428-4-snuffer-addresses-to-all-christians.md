@@ -9,6 +9,8 @@ status: ESTABLISHED
 type: essay
 audience: intermediate
 series: "Snuffer Engagement"
+series_position: 4
+series_total: 4
 ---
 # The Front Porch That Becomes the Closed Door
 
@@ -20,7 +22,6 @@ series: "Snuffer Engagement"
 
 **Context:** This is the sixth Snuffer engagement in the corpus and the fourth in the systematic four-series treatment. The companion essays so far are: [Culture by Precept and Practice](https://github.com/Renaissance-Ministries/RM/blob/main/CFE_christos_fellowship_essays/essays/260426-snuffer_evaluation.md) (April 26), [Testimony of Jesus and the Restoration Claim](https://github.com/Renaissance-Ministries/RM/blob/main/CFE_christos_fellowship_essays/essays/260427-restoration_that_was_not_needed.md) (April 27), [Upon This Rock](https://github.com/Renaissance-Ministries/RM/blob/main/CFE_christos_fellowship_essays/essays/260428-upon_this_rock.md) (April 28), [Reformation Series](https://github.com/Renaissance-Ministries/RM/blob/main/CFE_christos_fellowship_essays/essays/260428-snuffer_reformation_series.md) (April 28), [Christian Restoration Series](https://github.com/Renaissance-Ministries/RM/blob/main/CFE_christos_fellowship_essays/essays/260428-snuffer_restoration_series.md) (April 28), and [Christian Restoration Continues Series](https://github.com/Renaissance-Ministries/RM/blob/main/CFE_christos_fellowship_essays/essays/260428-snuffer_restoration_continues_series.md) (April 28). With the present essay the systematic engagement is complete.
 
----
 
 To the Fellowship —
 
@@ -32,7 +33,6 @@ This is the arc the essay needs to engage. The front porch of 2017 leads, by 202
 
 I will engage the corpus in six movements. First, what is honorable in the addresses, particularly in their pastoral tone and their substantive Christian witness on certain subjects. Second, the arc of progressive narrowing across the eight years. Third, three doctrinal engagements that need direct response: the early-Christianity-was-diverse argument, the Gethsemane-substitution theology elaborated in the Atlanta address, and the Book-of-Mormon-as-hermeneutical-key claim. Fourth, the Daniel 2 stone-cut-without-hands eschatology that organizes the Sandy 2018 addresses. Fifth, the 2025 Philippines address as the corpus's culmination and the place where the framework's exclusivity becomes most explicit. Sixth, pastoral closing — to Leonard, to anyone reading toward bornofwater.org, and to the fellowship.
 
----
 
 ## I. What Is Honorable in the Addresses
 
@@ -50,7 +50,6 @@ The *Addresses to All Christians* contain genuine Christian substance that deser
 
 These five things are honorable. They deserve to be honored. The structural critique that follows does not undo any of them.
 
----
 
 ## II. The Arc of Progressive Narrowing
 
@@ -76,7 +75,6 @@ This arc is not accidental. It is the structure of the evangelistic appeal. The 
 
 Naming this arc is, I think, the single most useful service the present essay can perform. Anyone reading the *Addresses to All Christians* needs to read all nine addresses to see the arc. The reader who reads only Cerritos 2017 and stops there will form a picture of Snuffer's project that the 2025 Philippines address contradicts. The reader who reads only the 2025 Philippines address will miss the genuine pastoral generosity of 2017. Both are real. Both belong to the same project. The arc is what tells you what the project is.
 
----
 
 ## III. Three Doctrinal Engagements
 
@@ -124,7 +122,6 @@ Snuffer's likening of Christians who reject the Book of Mormon to those who cruc
 
 The sharpness of the Sandy 2018 sixth address's anathema actually inverts the relationship Snuffer needs. Far from showing that Christians who reject the Book of Mormon are like those who rejected Christ, it shows that the framework cannot tolerate disagreement at its load-bearing point. A framework that anathematizes those who decline its core claim is a framework that *needs* the core claim accepted in order to function. The apostolic deposit needs no such anathema, because the deposit is its own evidence — its historical credentials, its doctrinal coherence, its twenty centuries of attested fruit — and disagreement with it does not threaten its standing. The Book of Mormon, by contrast, must be accepted on faith and cannot tolerate the test.
 
----
 
 ## IV. The Daniel 2 Stone-Cut-Without-Hands Eschatology
 
@@ -142,7 +139,6 @@ Third, even granting Snuffer's reading of the historical chronology, the conclus
 
 The Christian reading of Daniel 2 — the stone is Christ Himself, His first coming inaugurated the kingdom, the kingdom has been growing for twenty centuries through the gospel's proclamation, and the consummation will come at His return — fits the text. The Snuffer reading does not.
 
----
 
 ## V. The 2025 Philippines Address
 
@@ -162,7 +158,6 @@ The Philippines address closes with a direct invitation to be re-baptized at the
 
 This is where the corpus has been heading all along.
 
----
 
 ## VI. Pastoral Closing
 
@@ -182,7 +177,6 @@ What remains is the harder work — the work that goes beyond writing essays —
 
 Thomas
 
----
 
 > *"For other foundation can no man lay than that is laid, which is Jesus Christ."*
 > — 1 Corinthians 3:11
@@ -193,7 +187,6 @@ Thomas
 > *"I beseech you that ye should earnestly contend for the faith which was once delivered unto the saints."*
 > — Jude 3
 
----
 
 **Renaissance Ministries | Fellowship Discussion Essay**
 *One heart to make Christ King.*

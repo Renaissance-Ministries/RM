@@ -1,12 +1,16 @@
 ---
-title: "260428 Denver Snuffer - Series 1/4 - Reformation"
+title: "Reformation, Restoration, and the Stone Cut Without Hands — A Christian Engagement with Denver Snuffer's Protestant Reformation Series (Parts 1-7)"
 author: "Thomas Lee Abshier, ND"
 date: 2026-04-28
-module: CWR
+module: CFE
+secondary_modules: []
+topics: [snuffer, mormonism, reformation, restoration, protestant, stone_cut_without_hands]
 status: ESTABLISHED
 type: essay
-source_url: "https://renaissance-ministries.com/2026/04/28/260428-denver-snuffer-series-1-4-reformation/"
-wordpress_post_id: 3833
+audience: intermediate
+series: "Snuffer Engagement"
+series_position: 1
+series_total: 4
 ---
 # Reformation, Restoration, and the Stone Cut Without Hands
 
@@ -16,7 +20,6 @@ wordpress_post_id: 3833
 **Source:** Denver Snuffer, *Protestant Reformation* lecture series (Parts 1-7), available as transcripts at [learnofchrist.org/videos.html#reformation](https://www.learnofchrist.org/videos.html#reformation). The series is the first of four corpus-defining lecture series posted at learnofchrist.org, treating, in order: the Protestant Reformation; (presumably) post-Reformation history and restorationist precursors; Joseph Smith and the original Restoration; and Snuffer's own contemporary covenantal continuation. The present essay engages only the first series (seven parts on the Reformation). Subsequent essays will engage the remaining three series as Thomas transmits the transcripts.
 **Context:** This is the third Snuffer engagement in the corpus, building on the [April 26 evaluation](https://github.com/Renaissance-Ministries/RM/blob/main/Fellowship_essays/260426-snuffer_evaluation.md) of *Culture by Precept and Practice* and the [April 27 engagement](https://github.com/Renaissance-Ministries/RM/blob/main/Fellowship_essays/260427-restoration_that_was_not_needed.md) of *Testimony of Jesus*. The April 27 essay engaged Snuffer's restoration *thesis* directly — the claim that apostolic Christianity perished and required Joseph Smith's prophetic restoration. The present essay engages Snuffer's *Reformation history* on its own terms — what he says about Luther, Calvin, Knox, and Zwingli; how he characterizes their motives, their accomplishments, and their limits; and what his framing of the Reformation tells us about the larger argument the four-series corpus is constructing.
 
----
 
 To the Fellowship —
 Denver Snuffer's seven-part series on the Protestant Reformation is, in many ways, the most generous treatment of the Reformers I have encountered from within the Mormon tradition. Snuffer has clearly read the history with care. He honors Luther's personal courage, the providential timing of Gutenberg's press, the moral seriousness of Calvin and Knox, and the theological clarity of Zwingli. He concedes that the Counter-Reformation produced genuine reform within Catholicism — including the founding of the Jesuits, whose original purposes he quotes at length and approvingly. And he closes the series with a striking call: that we should look back in gratitude on the Reformation and recover its energy by applying the virtue of God's word in our own lives.
@@ -24,7 +27,6 @@ This is not anti-Protestant polemic. This is appreciative engagement, which make
 Snuffer is doing two things simultaneously in these seven parts. First, he is delivering a substantively accurate, relatively even-handed history of the Protestant Reformation that any Christian could read with profit. Second, he is *framing* that history — through specific word choices, specific emphases, specific scriptural allusions — to position the Reformation as a *necessary but incomplete* movement whose unfinished work waits for completion in the project Snuffer's own movement claims to be completing. The framing is not inserted clumsily. It is woven in. And it is exactly the kind of framing that requires careful Christian engagement, because the Reformation as a genuinely sufficient recovery of the apostolic gospel is precisely what Snuffer's larger argument needs to deny.
 I will engage the seven parts in three movements. First, what is honorable and accurate in Snuffer's history. Second, the specific framing moves that slant toward the eventual restorationist conclusion. Third, the deeper theological question the series implicitly raises and explicitly mishandles: *what did the Reformation actually accomplish, and what does its accomplishment tell us about whether the apostolic gospel was ever lost?*
 
----
 
 ## I. What Is Honorable and Accurate
 
@@ -39,7 +41,6 @@ Before any framing critique, let me name what the series gets right. Snuffer's h
 **8. The closing call is sound.** Part 7's final paragraph is the most clearly Christian sentence in the entire series — Snuffer's call that we look back at the Reformation in gratitude and recover its energy by applying the virtue of God's word in our own lives. This is exactly the right response to Reformation history. The energy of the Reformation was the recovery of the gospel of grace through faith in Christ alone, accessed through the Word of God read in the common tongue. That energy is available to every Christian today, and recovering it is the daily work of Christian life.
 I name these eight things first because, on reading the series, one's first impression is of a learned and careful Christian historian doing thorough work. That impression is partly true. The history *is* careful. The judgments *are* often sound. But the framing is doing work that the surface accuracy partially obscures — and that framing is what we have to engage carefully now.
 
----
 
 ## II. The Framing Moves
 
@@ -88,7 +89,6 @@ This is true — and it is also, in the broader Mormon-tradition framework, *the
 By concluding the Reformation series with the Reformation-prepared-the-Americas-prepared-the-Constitution paragraph, Snuffer is laying the rhetorical groundwork for what the broader corpus will then unfold: that the Reformation's true purpose, in the providence of God, was not merely the recovery of the gospel for European Protestants, but the *preparation of the geographic and political conditions* under which Joseph Smith's Restoration could unfold in upstate New York in 1820. The Reformation series is, in this respect, *the prologue to the Joseph Smith story*, even though Joseph Smith is not yet mentioned in the seven parts.
 A Protestant Christian reading these seven parts in isolation would not catch this. A Mormon-tradition reader would. And a Christian who has already read Snuffer's broader corpus can see clearly that the seven parts are operating as the first movement of a four-movement symphony whose final movement is Snuffer's own claim to continue the work Joseph Smith began.
 
----
 
 ## III. The Deeper Theological Question
 
@@ -137,7 +137,6 @@ To apply the stone-cut-without-hands image to the Protestant Reformation is, on 
 To apply the image to *the Restoration* is the same category error, intensified. The Mormon Restoration is not the kingdom that fills the earth and stands forever. It is, by Snuffer's own honest admission in his broader corpus, a movement that has fragmented into approximately a hundred mutually-anathematizing factions, that has been under divine condemnation for 185 years according to its own scriptures, and that is now being re-restored through Snuffer's 2017 Boise covenant. Whatever this is, it is not the stone-kingdom Daniel saw. The stone-kingdom *cannot be destroyed* and *cannot be left to other people*. The Mormon restoration has been both fragmented and quietly abandoned across multiple successor lineages.
 Daniel's stone-kingdom is Christ. The kingdom that fills the earth is Christ's. No human movement can claim that prophetic image without taking to itself what belongs to Christ alone. The Reformation series' invocation of Daniel 2 should be received with that correction in mind.
 
----
 
 ## IV. What the Series Tells Us About the Larger Corpus
 
@@ -147,7 +146,6 @@ Stepping back, the Protestant Reformation series accomplishes three things in th
 **Third, it positions the Reformation as a model of how God works through individual prophetic figures at moments of historical convergence.** The emphasis throughout on Luther's *courage*, on the *providential timing* that brought Luther, Calvin, Knox, and Zwingli together, on the parallel with the American Founders, prepares the reader to expect that *another such convergence* might be at work in our own time, and that *another such prophetic figure* might be the agent through whom God works. The reader is being prepared to receive Joseph Smith — and now Denver Snuffer — within the *same explanatory framework* the Reformation has been fitted into.
 This is the rhetorical work the series does. It is careful, it is substantively accurate, and it is *positioning* the reader for what comes next.
 
----
 
 ## V. What I Say to the Fellowship
 
@@ -158,16 +156,13 @@ We do not need a stone cut without hands beyond the Stone already cut. We do not
 The Reformation is enough — because what the Reformation recovered is enough.
 Thomas
 
----
 
 *Postscript to the fellowship:* As Thomas transmits the remaining three series in Snuffer's corpus, I will engage each in turn. The next series presumably treats post-Reformation history and the restorationist precursors leading to Joseph Smith. After that, Joseph Smith's restoration directly. After that, Snuffer's own contemporary continuation. The argumentative work the present essay has done — naming the framing moves and the circular structure of the apostolic-deposit-was-lost claim — will carry forward into the engagement with each subsequent series, so that when the corpus's final move is made, we will be ready to receive it on its own terms and to respond from the ground we have already established.
 
----
 
 > *"For other foundation can no man lay than that is laid, which is Jesus Christ."* — 1 Corinthians 3:11
 
 > *"Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage."* — Galatians 5:1
 
----
 
 **Renaissance Ministries | Fellowship Discussion Essay** *One heart to make Christ King.*
