@@ -30,39 +30,50 @@ Examples already in use: `CRF_christos_rigorous_framework`, `CHR_christos_histor
 
 ## The canonical module list
 
-### Established modules (folders exist; OS documents in place)
+### Established modules (folders exist with content)
+
+Modules listed alphabetically by 3-letter identifier.
 
 | ID | Name | Folder | Primary product |
 |----|------|--------|-----------------|
+| `CAI` | Christos AI | `CAI_christos_ai/` | Meta-module: AI personas, system prompts, eval suites, theological grammar; charter and gold-standard Q&A pairs |
+| `CAP` | Christos Apologetics | `CAP_christos_apologetics/` | Biblical commentary; engagement with other Christian commentators (Berean, Jack Hibbs, AtheyCreek); Bible-verse analysis |
+| `CCK` | Christos Cross Check | `CCK_christos_cross_check/` | Verification, fact-checking, claim auditing in service of truth |
+| `CCN` | Christos Counselor | `CCN_christos_counselor/` | Pastoral counseling, founder grounding/training; post-scarcity meaning of life |
 | `CCR` | Christos Conspiracy Review | `CCR_christos_conspiracy_review/` | Conspiracy-narrative analysis (Mike Adams, Candace Owens, Alex Jones, Dr. Ardis, Todd Calendar) |
+| `CDI` | Christos Diagnostician | `CDI_christos_diagnostician/` | Counseling diagnosis as gift and skill; holistic system thinking applied to people |
 | `CEA` | Christos Economic Annex | `CEA_christos_economic_annex/` | Economic theory and applied microeconomics |
+| `CFE` | Christos Fellowship Essays | `CFE_christos_fellowship_essays/` | **Default home** for cross-cutting essays without a clear single-module primary |
+| `CGL` | Christos Group Leader | `CGL_christos_group_leader/` | Equipping the saints; small-group/fellowship leadership formation |
 | `CHR` | Christos Historical Review | `CHR_christos_historical_review/` | Christian framing of history (Napoleon series, etc.); anthology-to-book pipeline |
 | `CHS` | Christos Home School | `CHS_christos_home_school/` | Curriculum and education theory |
+| `CLO` | Christos Logos | `CLO_christos_logos/` | The Word/Logos as creative principle; theology of meaning and incarnation |
+| `CMD` | Christos Medicine | `CMD_christos_medicine/` | Anatomy, physiology, naturopathic and conventional medicine |
+| `CMT` | Christos Medical Testimony | `CMT_christos_medical_testimony/` | Healing testimonies and medical witness |
 | `CNL` | Christos Newsletter | `CNL_christos_newsletter/` | Daily current-events commentary; Summarize-Comment-Refer formula |
 | `CRF` | Christos Rigorous Framework | `CRF_christos_rigorous_framework/` | Axiom-to-theorem derivation of right action |
+| `CSE` | Christos Seminar | `CSE_christos_seminar/` | Christos Seminar series — gateway, foundational teaching |
 | `CVN` | Christos Voting Network | `CVN_christos_voting_network/` | Citizen voting database; legislation analysis; the production app |
-| `CFE` | Christos Fellowship Essays | `CFE_christos_fellowship_essays/` | **Default home** for cross-cutting essays without a clear single-module primary; populated by the v1 migration (commits 58bb8b2, 339d3b5) |
+| `CWR` | Christos World Religions | `CWR_christos_world_religions/` | Islam, Hinduism, Buddhism, Shinto, Sikhism, Zoroastrianism, paganism |
 
-### New modules (folders to be created as essays accrue)
+### Pending modules (folders to be created when first essay or OS doc is ready)
+
+Modules listed alphabetically. Each is created in the same commit as its first content per §"Adding a new module".
 
 | ID | Name | Folder (when created) | Primary product |
 |----|------|----------------------|-----------------|
-| `CAI` | Christos AI | `CAI_christos_ai/` | The meta-module: system prompts, role definitions, eval suites, gold-standard Q&A pairs, charter |
-| `CAP` | Christos Apologetics | `CAP_christos_apologetics/` | Biblical commentary; commentary on other commentaries (Berean, Jack Hibbs, AtheyCreek) |
-| `CCC` | Christos Christianity Catalog | `CCC_christos_christianity_catalog/` | Denominations (Protestant, Catholic, Orthodox, heretical movements). **Mormonism material — including Snuffer critique essays — lives here under `mormonism/`** |
-| `CWR` | Christos World Religions | `CWR_christos_world_religions/` | Islam, Hinduism, Buddhism, Shinto, Sikhism, Zoroastrianism, paganism |
-| `CSH` | Christos Secular and Humanist | `CSH_christos_secular_humanist/` | Atheism, agnosticism, gnosticism, stoicism, secular humanism |
-| `CCG` | Christos Cults and Gurus | `CCG_christos_cults_gurus/` | LDS, Moon, 3HO, SRF, JW, SDA, Christian Science. *(Note: overlap with CCC; LDS has a primary home in CCC/mormonism but secondary tag CCG)* |
-| `CPL` | Christos Political Theory | `CPL_christos_political_theory/` | Theory of government, constitution, divine law, types of government. **Distinct from CVN, which is the application/product layer** |
-| `CLG` | Christos Legislation | `CLG_christos_legislation/` | Under-review and proposed legislation analysis |
-| `CCD` | Christos Candidate Dossiers | `CCD_christos_candidate_dossiers/` | Politician evaluations from media searches |
-| `CMD` | Christos Medicine | `CMD_christos_medicine/` | Anatomy, physiology, conventional and naturopathic medicine (subdivided via subfolders) |
-| `CPS` | Christos Psychology | `CPS_christos_psychology/` | Theory and application; counseling, self-help, marriage, abuse-survivor, modeling, therapies |
 | `CAR` | Christos Arts | `CAR_christos_arts/` | Literature, painting, sculpture, photography, crafts. Biographies live here unless they earn a dedicated home |
-| `CTC` | Christos Technology Commentary | `CTC_christos_technology_commentary/` | Technology implementation, capability, social implications |
+| `CCC` | Christos Christianity Catalog | `CCC_christos_christianity_catalog/` | Denominations (Protestant, Catholic, Orthodox, heretical movements). **Mormonism material — including Snuffer critique essays — lives here under `mormonism/`** when CCC is created |
+| `CCD` | Christos Candidate Dossiers | `CCD_christos_candidate_dossiers/` | Politician evaluations from media searches |
+| `CCG` | Christos Cults and Gurus | `CCG_christos_cults_gurus/` | LDS, Moon, 3HO, SRF, JW, SDA, Christian Science. *(Note: overlap with CCC; LDS has a primary home in CCC/mormonism but secondary tag CCG)* |
 | `CHB` | Christos Hobbies | `CHB_christos_hobbies/` | Skill development; hobby communities |
+| `CLG` | Christos Legislation | `CLG_christos_legislation/` | Under-review and proposed legislation analysis |
+| `CPL` | Christos Political Theory | `CPL_christos_political_theory/` | Theory of government, constitution, divine law, types of government. **Distinct from CVN, which is the application/product layer** |
+| `CPS` | Christos Psychology | `CPS_christos_psychology/` | Theory and application; counseling, self-help, marriage, abuse-survivor, modeling, therapies |
+| `CSH` | Christos Secular and Humanist | `CSH_christos_secular_humanist/` | Atheism, agnosticism, gnosticism, stoicism, secular humanism |
+| `CTC` | Christos Technology Commentary | `CTC_christos_technology_commentary/` | Technology implementation, capability, social implications |
 
-**Total: 22 modules.** Eight established, fourteen pending. The eight established folders should not be renamed.
+**Total: 29 modules.** Nineteen established, ten pending. The nineteen established folders should not be renamed.
 
 This list is a starting cut. Modules will merge, split, or rename as the corpus matures. The convention is the contract; the specific list is provisional. All changes must be reflected in this document and in the topic index (see §5).
 
@@ -93,7 +104,7 @@ The `book/` subfolder structure follows whatever pattern CHR establishes first a
 
 ## The fully-populated repo tree
 
-When all twenty-two modules are populated, the repo will have the following top-level structure. This view consolidates the tables in §"The canonical module list" with the shared-asset folders in §"Shared assets at the repo root" and the per-module internal pattern in §"Module folder structure" — answering the question *what does the populated repo look like?* in a single glance.
+When all twenty-nine modules are populated, the repo will have the following top-level structure. This view consolidates the tables in §"The canonical module list" with the shared-asset folders in §"Shared assets at the repo root" and the per-module internal pattern in §"Module folder structure" — answering the question *what does the populated repo look like?* in a single glance.
 
 ```
 RM/
@@ -108,38 +119,46 @@ RM/
 │
 ├── templates/                                ← cross-cutting framework documents
 ├── INDEX/                                    ← auto-generated topic indexes
+├── tools/                                    ← repo-maintenance toolkits (website import, duplicate detector)
 ├── references/                               ← shared external-source quotation files (when needed)
 ├── glossary/                                 ← canonical definitions, paired with CRF (when needed)
 ├── founders_vision/                          ← foundational vision material (predates taxonomy)
 ├── archive/                                  ← superseded but preserved material
 │
-│  ──── ESTABLISHED MODULES (8) ─────────────────────────────────────
+│  ──── ESTABLISHED MODULES (19) ────────────────────────────────────
 │
+├── CAI_christos_ai/                          ← meta-module: AI personas, system prompts, eval suites, theological grammar
+├── CAP_christos_apologetics/                 ← Biblical commentary; Berean, Hibbs, AtheyCreek engagement
+├── CCK_christos_cross_check/                 ← verification, fact-checking, claim auditing
+├── CCN_christos_counselor/                   ← pastoral counseling, founder grounding/training
 ├── CCR_christos_conspiracy_review/           ← Mike Adams, Candace Owens, Alex Jones, Dr. Ardis, Todd Calendar
+├── CDI_christos_diagnostician/               ← counseling diagnosis as gift and skill
 ├── CEA_christos_economic_annex/              ← economic theory, applied microeconomics
 ├── CFE_christos_fellowship_essays/           ← default home for cross-cutting essays
+├── CGL_christos_group_leader/                ← equipping the saints; small-group leadership formation
 ├── CHR_christos_historical_review/           ← Napoleon series + book pipeline
 ├── CHS_christos_home_school/                 ← curriculum and education theory
+├── CLO_christos_logos/                       ← Word/Logos as creative principle
+├── CMD_christos_medicine/                    ← anatomy, physiology, naturopathic + conventional
+├── CMT_christos_medical_testimony/           ← healing testimonies and medical witness
 ├── CNL_christos_newsletter/                  ← daily current-events commentary
 ├── CRF_christos_rigorous_framework/          ← axiom-to-theorem derivations
+├── CSE_christos_seminar/                     ← Christos Seminar series — gateway, foundational teaching
 ├── CVN_christos_voting_network/              ← citizen voting database (the production app)
+├── CWR_christos_world_religions/             ← Islam, Hinduism, Buddhism, Shinto, Sikhism, paganism
 │
-│  ──── PENDING MODULES (14 — folders created when first essay or OS doc is ready) ────
+│  ──── PENDING MODULES (10 — folders created when first essay or OS doc is ready) ────
 │
-├── CAI_christos_ai/                          ← meta-module: system prompts, eval suites, gold-standard Q&A
-├── CAP_christos_apologetics/                 ← Berean, Hibbs, AtheyCreek, biblical commentary
 ├── CAR_christos_arts/                        ← literature, painting, sculpture, biographies
 ├── CCC_christos_christianity_catalog/        ← denominations, Catholic, Orthodox, heretical (incl. mormonism/)
 ├── CCD_christos_candidate_dossiers/          ← politician evaluations from media searches
 ├── CCG_christos_cults_gurus/                 ← LDS, Moon, JW, SDA, Christian Science
 ├── CHB_christos_hobbies/                     ← skill development, hobby communities
 ├── CLG_christos_legislation/                 ← under-review and proposed legislation analysis
-├── CMD_christos_medicine/                    ← anatomy, physiology, conventional + naturopathic
 ├── CPL_christos_political_theory/            ← theory of government, constitution, divine law
 ├── CPS_christos_psychology/                  ← theory, application, counseling, self-help
 ├── CSH_christos_secular_humanist/            ← atheism, agnosticism, stoicism
-├── CTC_christos_technology_commentary/       ← technology implementation, social implications
-└── CWR_christos_world_religions/             ← Islam, Hinduism, Buddhism, Shinto, Sikhism
+└── CTC_christos_technology_commentary/       ← technology implementation, social implications
 ```
 
 Inside each module folder, the per-module internal pattern from §"Module folder structure" applies. Not every module uses every subfolder; the pattern is a template, not a mandate. The pending modules above are not created speculatively — each waits for its first essay or operating-system document, then the folder and that content land in the same commit (per §"Adding a new module").
@@ -248,6 +267,7 @@ Where RM modules engage CPP material, the engagement is RM-side commentary on CP
 
 - **v1.0 (April 28, 2026)** — Initial taxonomy. Twenty-two modules declared (seven established, fifteen pending). Default-home rule established for cross-cutting essays. Migration policy: incremental, not bulk.
 - **v1.1 (April 30, 2026)** — CFE promoted from pending to established following completion of the Fellowship_essays/ → CFE/ migration (commits 58bb8b2 and 339d3b5). Counts updated to eight established, fourteen pending. New §"The fully-populated repo tree" section added between §"Module folder structure" and §"Where does a new essay go?", providing a consolidated tree view of all twenty-two modules plus shared root-level assets.
+- **v1.2 (April 30, 2026)** — Reflects the post-website-import reality (commits 8947c14 through 6e2085b, plus the duplicate-cleanup commit dc306e6). Eleven modules promoted to or added to the established table: CAI, CAP, CMD, and CWR were promoted from pending; CCK, CCN, CDI, CGL, CLO, CMT, and CSE were created during the import as new modules and registered for the first time. Total module count grew from 22 to 29; established count grew from 8 to 19; pending count dropped from 14 to 10. Both module tables now sort alphabetically by 3-letter identifier for navigability. The fully-populated tree section was rewritten to match the new 19/10 split. Module-product descriptions for the newly-established modules updated to reflect what's actually in their folders.
 
 ---
 
