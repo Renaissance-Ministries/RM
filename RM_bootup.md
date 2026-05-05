@@ -6,6 +6,33 @@
 
 ---
 
+## BEFORE YOU START: Clone the Repo
+
+If you haven't already, do this first:
+
+```bash
+git clone https://github.com/Renaissance-Ministries/RM.git
+cd RM
+```
+
+Then read the rest of this file.
+
+---
+
+## Files to Read in Priority Order
+
+| Priority | File | Purpose | Time |
+|----------|------|---------|------|
+| 1 | `RM_bootup.md` | THIS FILE — orientation, structure, conventions | 10 min |
+| 2 | `templates/Christos_AI_Theological_Grammar_vX.md` | **THE GRAMMAR** — theological framework for all work | 20 min |
+| 3 | `founders_vision/founders_vision.md` | **Thomas's worldview** — foundational principles and intuitions | 15 min |
+| 4 | Task-specific operating system | Workflow for your specific task (CFE, CHR, etc.) | 10 min |
+| 5 | Recent `founders_vision/YYMMDD_*.md` entries | Latest thinking from recent sessions | 5 min |
+
+After reading this file in full, you're ready to ask: "What would you like to work on today?"
+
+---
+
 ## Why read this file
 
 You are beginning a session on the Renaissance Ministries repository. This file gives you, in one place:
@@ -32,7 +59,23 @@ The core insight that drives all of it: **God is everything** — there is nothi
 
 ---
 
-## 2. How to access this repo
+## 2. File Locations (Single Source of Truth)
+
+| Document | Location | Purpose |
+|----------|----------|---------|
+| **Theological Grammar** | `templates/Christos_AI_Theological_Grammar_vX.md` | Core theological framework for all modules |
+| **Founders Vision Summary** | `founders_vision/founders_vision.md` | Thomas's worldview and foundational principles |
+| **Seed Archive** | `founders_vision/YYMMDD_topic_slug.md` | Dated entries capturing Thomas's principles from sessions |
+| **Content Catalog** | `RM_Content_Catalog.md` | Inventory of all essays and documents |
+| **Module Inventory** | `MODULES.md` | Master list of all Christos modules, statuses, and codes |
+| **CFE Operating System** | `CFE_christos_fellowship_essays/CFE_operating_system.md` | Workflow for fellowship essay production |
+| **CHR Operating System** | `CHR_christos_historical_review/CHR_operating_system.md` | Workflow for historical review projects |
+| **CCR Operating System** | `CCR_christos_conspiracy_review/CCR_operating_system.md` | Workflow for conspiracy review projects |
+| **Other OS Docs** | `{CODE}_operating_system.md` at sub-project roots | Workflows for each module |
+
+---
+
+## 3. How to access this repo
 
 The repo is public. No authentication needed.
 
@@ -90,7 +133,7 @@ This rule applies to fellowship essays (`CFE_*`) and to any other essay destined
 
 ---
 
-## 3. Repository structure
+## 4. Repository structure
 
 ```
 RM/
@@ -137,7 +180,7 @@ Each sub-project folder contains a `{CODE}_operating_system.md` at its root.
 
 ---
 
-## 4. Module inventory
+## 5. Module inventory
 
 **The authoritative inventory is `MODULES.md` at repo root.** Read that for the complete list, statuses, 3-letter codes, and categories. Summary:
 
@@ -150,7 +193,7 @@ For folder paths, operating system files, open questions, and naming conventions
 
 ---
 
-## 5. Key files to read first (by task)
+## 6. Key files to read first (by task)
 
 **Theological grounding — read before producing any content:**
 - `templates/Christos_AI_Theological_Grammar_v1.3.md` — the foundational framework.
@@ -173,7 +216,7 @@ For folder paths, operating system files, open questions, and naming conventions
 
 ---
 
-## 6. Session types and how to handle each
+## 7. Session types and how to handle each
 
 | Type                         | Goal                                                       | Procedure                                                                                   |
 |------------------------------|------------------------------------------------------------|---------------------------------------------------------------------------------------------|
@@ -187,7 +230,7 @@ For folder paths, operating system files, open questions, and naming conventions
 
 ---
 
-## 7. The seven foundational perspectives
+## 8. The seven foundational perspectives
 
 | # | Perspective                    | Core statement                                                         |
 |---|--------------------------------|------------------------------------------------------------------------|
@@ -201,7 +244,7 @@ For folder paths, operating system files, open questions, and naming conventions
 
 ---
 
-## 8. Key theological distinctions
+## 9. Key theological distinctions
 
 | Distinction                  | Meaning                                                                |
 |------------------------------|------------------------------------------------------------------------|
@@ -216,7 +259,7 @@ Full treatment lives in the Grammar (`templates/Christos_AI_Theological_Grammar_
 
 ---
 
-## 9. The AI team
+## 10. The AI team
 
 | AI               | Primary role                                           | How Thomas communicates        |
 |------------------|--------------------------------------------------------|--------------------------------|
@@ -227,7 +270,7 @@ Full treatment lives in the Grammar (`templates/Christos_AI_Theological_Grammar_
 
 ---
 
-## 10. The fellowship community
+## 11. The fellowship community
 
 **Core members:**
 - **Thomas Abshier** — Founder, naturopathic physician, theoretical physicist.
@@ -243,7 +286,7 @@ Full treatment lives in the Grammar (`templates/Christos_AI_Theological_Grammar_
 
 ---
 
-## 11. Conventions
+## 12. Conventions
 
 **Filenames:**
 - Fellowship essays: `Fellowship_Discussion_[Topic]_[Month][Year].md`.
@@ -260,7 +303,7 @@ Full treatment lives in the Grammar (`templates/Christos_AI_Theological_Grammar_
 
 ---
 
-## 12. What to update after every session
+## 13. What to update after every session
 
 | Document                                          | What to update                                       |
 |---------------------------------------------------|------------------------------------------------------|
@@ -273,7 +316,7 @@ Do not update orientation docs for transient session state. Session state lives 
 
 ---
 
-## 13. Key quotes for reference
+## 14. Key quotes for reference
 
 ### On the central axiom
 > There is nothing which exists that is not of God, from God, in God, made by God, sustained by God, and ultimately returning to God.
@@ -295,7 +338,7 @@ Do not update orientation docs for transient session state. Session state lives 
 
 ---
 
-## 14. Connection to CPP
+## 15. Connection to CPP
 
 Renaissance Ministries and the Conscious Point Physics (CPP) project are interconnected:
 
@@ -311,7 +354,7 @@ For CPP details, see the CPP repository and its own `bootup.md`.
 
 ---
 
-## 15. Quick-start checklist for a new session
+## 16. Quick-start checklist for a new session
 
 1. Read this file in full.
 2. Read the Grammar if you haven't this week: `templates/Christos_AI_Theological_Grammar_v1.3.md`.
