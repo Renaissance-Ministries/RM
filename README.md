@@ -43,16 +43,18 @@ The Christos family currently comprises **17 modules** (6 in this repo, 11 spec-
 
 | File                                         | Purpose                                                          |
 |----------------------------------------------|------------------------------------------------------------------|
-| `Christos_AI_Theological_Grammar_v1.3.md`    | Foundational theological framework — the grammar of the ecosystem. |
+| `Christos_AI_Theological_Grammar_v1.4.md`    | Foundational theological framework — the grammar of the ecosystem. |
 | `RM_Kingdom_Wisdom_Database_Vision.md`       | Architecture: how all content fits into a coherent worldview.    |
 | `RM_wisdom_database_operating_system.md`     | Generation, storage, and evolution of the Wisdom Database.       |
 | `CNL_newsletter_operating_system.md`         | Rules and template for the daily newsletter.                     |
+
+**Module-specific operating systems:** Each module sub-project folder (CFE, CHR, CCR, etc.) contains its own `{CODE}_operating_system.md` document specifying the workflow for that module's content production. See individual module folders for details.
 
 ---
 
 ## Founders Vision archive
 
-`founders_vision/` holds the founding vision of Renaissance Ministries in three complementary forms: `founders_vision.md` (the curated theological-intuitions summary), dated seed entries (the raw chronological record), and `founders_quotes/` (topical quote collections, stubbed). See `founders_vision/README.md` for the folder guide.
+`founders_vision/` holds the founding vision of Renaissance Ministries in three complementary forms: `founders_vision.md` (the curated theological-intuitions summary), dated seed entries (the raw chronological record), and `founders_quotes/` (topical quote collections, stubbed). See `founders_vision/founders_vision_README.md` for the folder guide.
 
 ---
 

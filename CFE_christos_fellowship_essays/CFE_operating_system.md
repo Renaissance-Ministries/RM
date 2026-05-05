@@ -297,6 +297,85 @@ Co-author: Claude (Anthropic) — drafting; Thomas Abshier — directional frami
 
 ---
 
+## 3.5. Comprehensive Post-Essay File Update Checklist
+
+**Purpose:** After every essay is published, certain files across the repository may need updating. This section lists ALL files that should be reviewed and updated as appropriate.
+
+### Files That ALWAYS Need Checking
+
+| File | Location | Action | Owner |
+|------|----------|--------|-------|
+| **Content Catalog** | `RM_Content_Catalog.md` | Add entry with title, date, modules, topics, scripture refs | Claude |
+| **Git commit** | (command line) | Commit with comprehensive message (template in Step 5) | Claude |
+
+### Files That SOMETIMES Need Updating
+
+| File | Location | Trigger | What to Update | Owner |
+|------|----------|---------|----------------|-------|
+| **Theological Grammar** | `templates/Christos_AI_Theological_Grammar_vX.md` | Essay surfaces new theological distinction/framework | Add section with citation to essay | Claude |
+| **Seed Archive Entry** | `founders_vision/YYMMDD_topic_slug.md` | Thomas articulates foundational principle | Create dated entry (template in § 2) | Claude |
+| **Topic Index Files** | `INDEX/[topic].md` | Essay introduces new topics OR adds to existing | Create/update index with links and summaries | Claude |
+| **Root README.md** | `README.md` at repo root | Grammar version bumped OR new OS docs | Update version references, link new files | Claude |
+| **Module Status** | `MODULES.md` | Essay affects module status/completion | Update status, version, description | Claude |
+| **Development Transcript** | `YYMMDD-slug.meta.md` | Substantive deliberation with framework insights | Create paired .meta.md with full record (template in § 2) | Claude |
+| **Founders Vision Summary** | `founders_vision/founders_vision.md` | Multiple essays show convergent insights | Update curated summary with new principles | Thomas/Claude |
+
+### Decision Tree: Which Files to Update
+
+**Start: Essay is complete and ready to commit**
+
+1. **Does the essay surface new theological distinctions or framework extensions?**
+   - YES → Update `templates/Christos_AI_Theological_Grammar_vX.md` (add section, cite essay)
+   - NO → Proceed to Step 2
+
+2. **Did Thomas articulate a foundational principle during deliberation?**
+   - YES → Create `founders_vision/YYMMDD_topic_slug.md` seed entry
+   - NO → Proceed to Step 3
+
+3. **Does the essay introduce new topic tags not previously in corpus?**
+   - YES → Create `INDEX/[topic].md` or update existing topic index
+   - NO → Proceed to Step 4
+
+4. **Does the essay affect any module's status or completion?**
+   - YES → Update `MODULES.md`
+   - NO → Proceed to Step 5
+
+5. **Was there substantive deliberation with framework insights?**
+   - YES → Create `YYMMDD-slug.meta.md` development transcript
+   - NO → Proceed to Step 6
+
+6. **Is this the first essay of a session OR are there significant framework updates?**
+   - YES → Update `README.md` (root) with version/reference updates
+   - NO → Proceed to Step 7
+
+7. **ALWAYS: Update Content Catalog and Commit**
+   - Add entry to `RM_Content_Catalog.md`
+   - Execute git commit with comprehensive message (Step 5 template)
+
+### Automation Candidates (Future)
+
+The following files could be automated when capacity permits:
+
+- **Content Catalog** — automated from YAML frontmatter + folder scan
+- **Topic Index files** — automated from topic tags across essays
+- **Module status version** — automated from git tags or commit metadata
+
+For now, all are manual. Follow the checklist above; automation will follow these same rules when implemented.
+
+### Naming Convention: README Files in Subfolders
+
+Following CPP convention, all README files use folder prefixes to prevent conflicts when downloaded:
+
+- `founders_vision/founders_vision_README.md` — not `README.md`
+- `founders_vision/founders_quotes_README.md` — not `README.md`
+- `INDEX/INDEX_README.md` — not `README.md`
+- `CFE_christos_fellowship_essays/book/christos_civitas_code/christos_civitas_code_README.md` — not `README.md`
+- Root: `README.md` (no prefix needed)
+
+This prevents "file already exists" conflicts when downloading multiple README files into the same folder.
+
+---
+
 ## 4. File Naming Conventions
 
 ### Essay Files

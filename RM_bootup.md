@@ -209,7 +209,7 @@ For folder paths, operating system files, open questions, and naming conventions
 
 **Source material — read for the founder's intuition:**
 - `founders_vision/founders_vision.md` — Thomas's curated theological intuitions (the WHY behind every essay).
-- `founders_vision/README.md` — folder guide explaining the three buckets (summary, seed archive, topical quotes).
+- `founders_vision/founders_vision_README.md` — folder guide explaining the three buckets (summary, seed archive, topical quotes).
 - `founders_vision/*.md` — dated seed entries (raw, chronological).
 
 **Code work — read `CLAUDE.md` instead of continuing here.**
