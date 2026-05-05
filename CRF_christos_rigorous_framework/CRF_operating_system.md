@@ -71,3 +71,53 @@ The most common failure mode will be overclaim: treating ethical derivations as 
 ---
 
 *Placeholder created April 23, 2026. To be drafted in a dedicated session.*
+
+---
+
+## Status update — May 5, 2026: derivation extraction workflow initiated
+
+A workflow for resolving the eight open design questions has been initiated.
+Rather than declaring axiom set v0.1 top-down, the corpus will now produce
+derivation extractions from published essays, and axioms will precipitate
+from the bottom up as recurring high-entailment-load premises across multiple
+extractions. This bottom-up axiomatization mirrors how mathematical fields
+have historically axiomatized themselves (Euclid extracted geometry's axioms
+from centuries of working theorems rather than declaring them in advance).
+
+**Workflow files:**
+- `templates/derivation_extraction_template.md` — format specification (v0.1)
+- `derivations/derivations-README.md` — folder orientation and ID conventions
+- `derivations/derivation-CFE-260503.md` — first worked example (from the
+  May 3 fellowship essay, Section IV; five candidate theorems; phronesis-
+  density MEDIUM)
+
+**Status of the eight open design questions:**
+- Question 1 (axiom set v0.1) — now resolved by workflow rather than design
+  session. Axioms will be declared after ~10 extractions when recurring
+  high-entailment-load premises become apparent.
+- Question 2 (theorem form) — provisionally resolved by the template's
+  candidate-theorem section format. Will be reviewed after first three
+  extractions.
+- Question 3 (defense document template) — pending; first axiom defense
+  will be drafted once the first axiom is declared from extracted premises.
+- Question 4 (phronesis annotation) — resolved: every derivation file
+  carries a mandatory "Phronesis notes" section per the template.
+- Question 5 (nomenclature) — partially resolved: derivations use
+  CRF-DERV-{NNNN} for derivation IDs; theorems use CRF-THEO-{NNNN}-{letter}
+  pending registry establishment. Adapts CPP nomenclature conservatively;
+  full nomenclature decision deferred to first registry-formalization session.
+- Question 6 (relation to Theological Grammar) — pending; expected to be
+  forced by extractions that touch Grammar positions directly.
+- Question 7 (review protocol) — pending; first extractions will move to
+  UNDER_REVIEW status when ready and the review modality (multi-AI,
+  fellowship, or both) will be settled at that point.
+- Question 8 (folder structure) — partially resolved: `templates/` and
+  `derivations/` subfolders established. `axiom-registry.md` and
+  `theorem-registry.md` will be added once the first axioms and theorems
+  are formalized.
+
+**Format-evolution policy.** The template is v0.1. The first three
+extractions are conducted with v0.1 as written, even where awkward — the
+awkwardness is data about what the template needs to become. After three
+extractions, a CHANGELOG is added to the template and v0.2 is drafted.
+

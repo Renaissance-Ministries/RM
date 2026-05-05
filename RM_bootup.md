@@ -56,6 +56,38 @@ The import script is responsible for: (1) sanity-checking that it is running fro
 
 **A Claude session producing repo-bound deliverables should always include such a script as the final piece of the deliverable set**, so that Thomas's local handoff stays a three-line operation regardless of how complex the underlying change is. The script and its sibling deliverables are then re-exported via `present_files` so they appear together in the chat as downloadable artifacts.
 
+### Dual-export rule for fellowship essays
+
+When a Claude session produces a fellowship essay (or any document destined for both the repo *and* the renaissance-ministries.com website), the session always exports **two files**:
+
+1. **The markdown source** — `YYMMDD-essay-slug.md` — destined for `CFE_christos_fellowship_essays/essays/` (or the appropriate module folder). This is the canonical version, with frontmatter, used for AI training corpus, future revision, and the dual-purpose archive.
+
+2. **The WordPress-paste HTML** — `YYMMDD-essay-slug.html` — sitting alongside the markdown in the same folder. This file:
+   - Contains no `<html>`, `<head>`, `<body>`, or `<!DOCTYPE>` wrapper
+   - Contains no inline CSS, no class names, no styling
+   - Contains no H1 (WordPress provides the post title field)
+   - Strips frontmatter
+   - Renders `## ...` as `<h2>...</h2>`, `### ...` as `<h3>...</h3>`
+   - Renders `**bold**` as `<strong>bold</strong>` and `*italic*` as `<em>italic</em>`
+   - Renders numbered lists as a single `<ol>` even when source items are separated by blank lines
+   - Preserves em dashes, curly quotes, and scripture italics as authored
+   - Is paste-ready into the WordPress block editor's HTML view
+
+The HTML file is regenerated mechanically from the markdown source — it is never edited directly. If the markdown changes, the HTML is regenerated. The canonical generator is `templates/md_to_wp_html.py` (a small Python script with no external dependencies):
+
+```bash
+python3 templates/md_to_wp_html.py \
+  CFE_christos_fellowship_essays/essays/YYMMDD-essay-slug.md \
+  CFE_christos_fellowship_essays/essays/YYMMDD-essay-slug.html
+```
+
+The import script lands both `.md` and `.html` files in the same commit. The commit message references both.
+
+**Why this rule.** The repo is the canonical source; WordPress is the distribution surface. Keeping both versioned in the repo means (a) the website can be rebuilt from the repo if WordPress is lost or migrated, (b) the HTML version is reviewable in pull requests rather than only in WordPress's editor, and (c) the dual-export discipline catches markdown that would render badly on the website *before* it is published, not after.
+
+This rule applies to fellowship essays (`CFE_*`) and to any other essay destined for WordPress publication. It does not apply to internal infrastructure documents (operating systems, READMEs, templates, registries) that live only in the repo.
+
+
 ---
 
 ## 3. Repository structure
