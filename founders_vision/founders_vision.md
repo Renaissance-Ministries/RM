@@ -251,6 +251,95 @@ This protects against both despair and triumphalism. We are not responsible for 
 
 ---
 
+## Part V: The Spiritual Diagnosis (NEW - April/May 2026)
+
+### 14. The Three-Level Stronghold Framework
+
+**The Intuition:**
+
+Demonic strongholds do not float free in a balanced cultural medium. They operate at three distinct levels simultaneously: spiritual (the principalities and powers), individual (the human beings captured), and institutional (the organizations that systematically activate and mobilize them). Diagnosis at all three levels is required for honest political theology.
+
+**Why This Matters:**
+
+- **Focusing only on the spiritual level** produces contempt for the captured person — we see demons but lose compassion.
+- **Focusing only on the individual level** produces moral confusion — we cannot account for systematic captivity or why both sides share the same strongholds in mirror form.
+- **Focusing only on the institutional level** produces false symmetry — we name institutional patterns but lose sight of the fact that the same spirits are at work across all institutions.
+
+The Three-Level Framework allows us to:
+
+1. **Name the spirits accurately** (spiritual level)
+2. **Love the captured with genuine rescue intention** (individual level)
+3. **Engage structural critique without hatred** (institutional level)
+
+See: `founders_vision/260430_three_level_stronghold_framework.md`
+
+### 15. The Gospel As Radical Spiritual Force
+
+**The Intuition:**
+
+The only force adequate to overcome demonic strongholds is the gospel itself — not argument, not political organizing, not institutional counter-capture, but spiritual transformation through Christ's finished work. The instrument has three parts (Revelation 12:11): the blood of the Lamb (objective power), the word of their testimony (subjective appropriation, spoken), and they loved not their lives unto death (credibility through costliness).
+
+**Why This Matters:**
+
+Strongholds are spiritual captivities, not bad opinions held by reasonable people. They cannot be argued out of existence. The bridging method — finding common ground, establishing rapport, building toward persuasion — is necessary at the interpersonal level but insufficient at the civilizational level. What is required is the demonstration of a power adequate to the stronghold, and that power is the gospel itself, received and lived.
+
+**The Real Deliverable:** Not problem-solving (pray and God will fix your circumstances) but *Presence* (the Companion through whatever circumstances arrive). This is realistic, it is the highest offering in the human catalog, and it is what actually transforms people.
+
+See: `founders_vision/260503_gospel_as_radical_force.md`
+
+### 16. The Integrity of Individual Transformation vs. Coercive Redistribution
+
+**The Intuition:**
+
+The difference between Acts 2 (voluntary sharing from transformed hearts) and Marxism (compulsory redistribution from unchanged hearts) is not economic but *moral*. Satan does not invent; he inverts. Marxism is a counterfeit of the Gospel, mimicking its economic surface while reversing its moral substrate.
+
+**Why This Matters:**
+
+Christian hearts are often seduced into Marxist methods by identifying with Marxism's stated concern for the poor. But the means corrupt the end. Only transformed hearts sustain genuine justice. Coerced equity produces only controlled injustice.
+
+This distinction shapes political theology:
+- We work toward voluntary sharing grounded in gospel transformation, not compulsory sharing grounded in state coercion.
+- We remain vigilant against the counterfeit — Christian language and structure without the Holy Spirit's transformation is Marxism in disguise.
+- We build institutions aligned with transformed hearts, not institutions that try to produce justice through external force.
+
+See: `founders_vision/260503_acts_vs_marxism.md`
+
+### 17. The Wheat and Tares as Spirits, Not Persons
+
+**The Intuition:**
+
+The parable of the wheat and the tares (Matthew 13:24-30) is often misread as the sorting of people into reachable and unreachable categories. But the tare is not the person; the tare is the spirit that has the person. The harvest is the lifting of spirits from people, not the elimination of people.
+
+**Why This Matters:**
+
+This reframes the evangelistic task. We are not trying to identify and eliminate certain people as irredeemable. We are trying to rescue actual human beings from the spirits that have captured them. The person under the strongest stronghold remains, in God's sight, an image-bearer purchased by Christ's blood.
+
+This is why contempt toward those captured by strongholds is itself a form of spiritual blindness. The person is wheat; the spirit is tares. Rescue means separating the two.
+
+### 18. The Lived Witness, Not the Argued Witness
+
+**The Intuition:**
+
+The proof of the gospel's power is not transferable as propositional argument. Until a person has run the experiment in their own life, they do not have the data, and no quantity of secondhand data will substitute. Therefore, holiness comes first, in private. Lived witness flows from holiness. Spoken testimony flows from visible transformation. Reversing the order produces lukewarm Christianity.
+
+**Why This Matters:**
+
+The contemporary church often tries to export argument before holiness is established. We tell people what we believe before we have demonstrated what we have become. The watching world correctly reads this as not actually different.
+
+The operative order is:
+1. **Private transformation** — the man in the mirror is changed
+2. **Visible witness** — family and friends observe the change
+3. **Spoken testimony** — the changed person tells the story
+4. **Invitation** — others are drawn to participate in the same transformation
+
+Skip this order, and the gospel remains a claim rather than a contagion.
+
+---
+
+**Last updated:** May 3, 2026 — Integrated insights from Eight Strongholds essay (April 30) and After the Diagnosis fellowship discussion (May 3).
+
+---
+
 ## Part V: Key Quotes (In Thomas's Voice)
 
 ### On the Central Axiom
