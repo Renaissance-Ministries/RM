@@ -1,0 +1,102 @@
+---
+title: "Loosening the Spell, Lifting the Yoke: On Stephen Grosz, the Inner Life, and the Cross"
+author: "Thomas Lee Abshier, ND"
+date: 2026-05-06
+module: CFE
+topics: [psychoanalysis, suffering, strongholds, inner-life, love, atonement, sanctification]
+status: DRAFT
+type: essay
+---
+
+# Loosening the Spell, Lifting the Yoke: On Stephen Grosz, the Inner Life, and the Cross
+
+Daphne Merkin has a long, careful profile of the psychoanalyst Stephen Grosz in the New York Times — occasioned by his new book, *Love's Labor*, and his earlier bestseller, *The Examined Life*. Merkin is one of the most thoughtful writers we have on the inner life; Grosz is one of its more humane practitioners. The piece is worth reading in full, and the books are worth the reader's time. I commend both before I take up the question that the profile pressed on me.
+
+The question is this. Grosz, an American who has practiced in London since 1987, says something near the end of the article that stopped me. He observes that in some families, suffering operates as a kind of *spell* — it dominates relationships, it becomes a child's identity, it becomes safe by being familiar, and the captured person stays in the suffering because that is what they know. He says, with admirable honesty, that the central clinical problem in psychoanalysis is helping someone who is unconsciously determined to undo their own improvement. And he says, more hopefully, that if the patient can be brought to look at the suffering the way he and Merkin were looking at it together in that conversation, the spell can begin to weaken.
+
+That is a true sentence. It is also an incomplete one. I want to say what is true in it, what psychoanalysis sees that most of the modern world has stopped seeing, and what is missing — what the Cross does that the analyst's chair, however well occupied, cannot.
+
+## What Grosz sees that the world has forgotten
+
+Begin with the steelman. We live in what Merkin rightly calls post-psychoanalytic times. The interior life, the kind that requires patient attention to oneself and another person across years rather than minutes, has been displaced by symptom-driven therapies promising relief in eight to twelve weeks, by pharmaceuticals promising relief in eight to twelve hours, and by the externalized confessional theatre of social media, where the secret is not examined but performed. Whatever else psychoanalysis is, it is a holdout against the idea that the self is shallow enough to be repaired in a season.
+
+Grosz's particular gift, evident in both books, is a refusal to play the wizard. He does not pretend to know more than he knows. His signature formulation — "two people not knowing together" — names the analytic relationship as a shared expedition into territory neither person yet sees clearly. That is not a small thing. The patient comes because she cannot find a way of telling her story; in the absence of that telling, Grosz observes, the story tells *her* — through dreams, through symptoms, through behavior she does not understand. The work is to bring the buried thing into language, in the company of someone who is paying attention.
+
+Anyone who has sat with another human being whose life is being run from below will recognize the diagnosis. The patient is not lying. She does not know. The story is telling her, and she cannot hear it.
+
+Grosz also sees something most of our current therapeutic vocabularies obscure: that the past is not undone by being understood. He says this plainly. The damage done in childhood is a historical fact; it cannot be erased. What can change is the patient's *relationship* to that damage — what was once lived in isolation can now be held in a relationship and thought about together, without the patient being overwhelmed. That is a smaller hope than the culture currently sells. It is also more honest. Freud's old definition of analytic success — converting hysterical misery into ordinary unhappiness — is the same hope, stated more grimly.
+
+This much is true, and Christians who dismiss the whole enterprise as godless self-absorption have not actually engaged it. Grosz is doing what a great many pastors used to do, before the office of pastor was hollowed out into program management. He is sitting still, listening with what one of Merkin's friends, picking up an old psychoanalytic phrase, calls the third ear, and refusing to let the patient be alone with the story she cannot yet tell.
+
+## The spell and the stronghold
+
+Now: the convergence. Grosz says suffering is sometimes a *spell*. Scripture says it is sometimes a *stronghold*. The territory described is the same territory.
+
+Paul writes to the Corinthians: *For though we walk in the flesh, we do not war after the flesh: (For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;) Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ* (2 Corinthians 10:3-5). The Greek word translated *strong holds* — *ochuroma* — names a fortified place, a fortress, a structure built up over time that holds something inside and keeps something outside. Paul is not speaking metaphorically about a mood. He is naming an architecture.
+
+The architecture Grosz sees from his chair is the same architecture Paul sees in the Corinthians. Patterns of suffering are built. They are inhabited. They are defended. They are *familiar* — and, as Grosz rightly says, what the captive knows best is what the captive returns to. Galatians puts it as a yoke: *Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage* (Galatians 5:1). Bondage is not always imposed from outside in chains. It is also chosen from inside, again and again, because the yoke fits the shoulder it has already shaped.
+
+Two vocabularies are looking at one phenomenon. The vocabularies are not interchangeable, but they overlap. Where they overlap, Grosz is genuinely seeing what is there. Where they do not — and they do not — is where the gospel begins.
+
+## What psychoanalysis cannot do
+
+The structural difference is this. Psychoanalysis loosens. The gospel lifts.
+
+A test for the distinction: ask what each system has available to it as resources. The analyst has the patient, his own training, the years of relationship, the slow accumulated work of language and attention. He has, finally, *being accompanied*. That is not nothing — the article is full of evidence that it is something. The boy named Thomas, in Grosz's earlier book, was so badly damaged in childhood that his life as an adult was permanently compromised; he calls Grosz several times a year, decades on, and asks whether Grosz remembers him; and Grosz says yes. That is real. It is also, by Grosz's own admission, intermittent. The damage is not undone. It is *held*.
+
+The Christian, at the bottom of the same dilemma, has more.
+
+The Christian has, first, an account of why the architecture is real and not merely habitual. If reality is what materialism says it is — atoms in the void, the self an emergent illusion — then strongholds are nothing more than ruts in a brain that will eventually decay. There is no ontological weight to them. They are inertia. But if reality is what the Bible describes and what the Conscious Point framework articulates in a contemporary register — if every point of the creation is sustained moment by moment by the consciousness of God, and if the moral landscape is a real feature of that creation rather than a projection onto it — then the captivity of the inner life is *real*. It is bondage to something with a structure. The spell has weight. And what has weight can be lifted.
+
+The Christian has, second, a deliverer. Paul's strongholds are pulled down, and the agent of the pulling is named: *the weapons of our warfare are not carnal, but mighty through God*. The Christian is not asked to free himself by his own examination of himself. He is told that another has come into the territory of his bondage and broken the architecture from inside. This is not a thing the analyst can offer. The analyst can sit with the patient in the dark; only Christ has been into the dark for the patient, and come back.
+
+Grosz writes, beautifully, that a journey to the underworld is a necessary part of every analysis — to see the light, you have to go down into the dark. The image is older than psychoanalysis; it runs through Dante and through the older mystics, and behind those, through the descent of Christ into hell that the creed names. But the Christian descent is not symmetrical with the analytic one. In the analytic version, the patient and the analyst go down together and bring back what they can. In the Christian version, *the descent has already been made*, by Someone who did not have to go and went anyway, and the patient is invited not to descend in his own strength but to receive what was won there. *He hath delivered us from the power of darkness, and hath translated us into the kingdom of his dear Son* (Colossians 1:13).
+
+This is the difference between loosening and lifting. The spell loosens when the captive is *seen*. The yoke lifts when the captive is *redeemed*.
+
+## The tempered hope and the better hope
+
+Merkin asked Grosz, at the end of the conversation, what he thinks makes for actual happiness. His answer is bittersweet and worth lingering on. Happiness, he said, is a kind of sweetness in desiring what one already has — held with full awareness of how fragile it is, how brief, how limited. Happiness is the capacity to hold reality without needing it to be otherwise.
+
+There is something deeply honest in that, and something deeply Christian-adjacent. Gratitude for what is given, sobriety about its passing, refusal of the demand that life be other than it is — these are old virtues, and they are real. They are most of what the Stoics had. They are roughly what a thoughtful pagan, given enough time and decency, can come to. They are not nothing.
+
+But they are bounded by exactly the limits Grosz names: fragility, brevity, limit. Happiness defined this way is the best one can do *if the things one has are the only things there are*. If the relationships will end in death, the body will fail, the mind will dim, the work will be forgotten — then the wise course is indeed to hold what one has lightly and cherish it while it lasts. That is the wisdom of the underworld. It is what one comes back from the dark with when no one else has been down there for you.
+
+The Christian hope is structurally different. It is not the absence of those losses; it is the conviction that the losses are not final. *For our light affliction, which is but for a moment, worketh for us a far more exceeding and eternal weight of glory; While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal* (2 Corinthians 4:17-18). Paul is not denying the losses — he names them. He is saying that they are not the whole picture, because the picture has a horizon Grosz's framework cannot include without ceasing to be Grosz's framework.
+
+The post-psychoanalytic age does not have less suffering than Freud's age. It has, if anything, more. What it has less of is the conviction that the suffering means anything beyond itself, or that anything stronger than human attention is available to address it. Grosz, to his credit, has resisted the cheapening of attention. He has not — and he could not, working within the discipline he has — offered the deeper resource. That belongs to the gospel.
+
+## What I have actually seen
+
+I have practiced naturopathic medicine for forty years. I have sat across from people whose patterns of pain were installed in childhood and have run their adult lives. I have watched what happens when those patterns are loosened — by attention, by being seen, by a counselor or a friend or a wife or a husband finally hearing what the person was trying to say without being able to. The loosening is real. Lives become survivable. People who had been alone in their suffering are alone in it less.
+
+I have also watched what happens when those patterns are *lifted* — when the same person comes to understand that the One who made them has come into the bondage personally, paid what they could not pay, and broken the yoke from the inside. That is a different event. It does not always abolish the residue of the damage; sometimes the limp remains, as it did for Jacob and as it does for Thomas in Grosz's book. But the captivity itself is finished. The self is no longer running from below. The patient is no longer the one telling himself the story; the Spirit is telling a new story, with the old one folded into it as testimony rather than as wound.
+
+Both events are real. Both are good. The first is what a faithful, attentive, patient analyst can offer, and what we should honor when it is offered well. The second is what only Christ does. Not "Christ plus psychoanalysis," and not "psychoanalysis as a substitute for Christ," but the recognition that one is a tool the other is the deliverance. We are not asked to choose between honoring Grosz's craft and confessing the gospel. We are asked to see clearly what each is, what each can do, and what each cannot.
+
+## The crescendo
+
+So I commend Stephen Grosz's book — both his books — to anyone who wants to take seriously the architecture of the inner life. I commend Daphne Merkin's profile, which is itself an act of careful attention to a careful man. And I commend, at a register beyond either of them, what was promised long before the analyst's office was invented:
+
+*For though we walk in the flesh, we do not war after the flesh: (For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;) Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ.*
+— 2 Corinthians 10:3-5
+
+The spell is real. The stronghold is real. The yoke is real. So is the One who has come into the dark for us, and broken the architecture from inside, and brought back the captives — not to a life merely loosened, but to a life made free.
+
+That is the bet I am making. That is what I have seen. That is the difference I want named clearly when we talk, in church and in clinic and in fellowship, about what is on offer for the inner life of a wounded human being.
+
+We are not asked to choose between attention and deliverance. We are asked to know which is which, and to receive both for what they are.
+
+---
+
+## Sources
+
+Daphne Merkin, profile of Stephen Grosz on the publication of *Love's Labor*, The New York Times, May 2026. (URL pending — supplied by Thomas at publication.)
+
+Stephen Grosz, *Love's Labor* (2026).
+
+Stephen Grosz, *The Examined Life: How We Lose and Find Ourselves* (2013).
+
+Renaissance Ministries internal reference: *Three-Level Stronghold Framework: Spiritual, Individual, Institutional* (April 30, 2026), `founders_vision/260430_three_level_stronghold_framework.md`.
+
+Scripture references in this essay are King James Version: 2 Corinthians 10:3-5; 2 Corinthians 4:17-18; Galatians 5:1; Colossians 1:13.
