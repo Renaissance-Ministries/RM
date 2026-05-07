@@ -30,6 +30,7 @@ Every module — including planned ones — is intended to serve the same aim: m
 | CEA  | Christos Economic Annex            | In repo        | Cultural engagement      | Economic analysis through a Kingdom lens.                                    | `CEA_christos_economic_annex/`         |
 | CHS  | Christos Home School               | In repo        | Whole-life formation     | Educational content and lecture processing.                                  | `CHS_christos_home_school/`            |
 | CRF  | Christos Rigorous Framework        | In repo        | Foundation               | Axiom-to-theorem / axiom-to-derivation-structure system; ethical derivations from theological axioms given CPP's conscious ground. Peer sub-project that others may cite for rigorous grounding. | `CRF_christos_rigorous_framework/`     |
+| IDM  | Ideomotion *(ministry-business)*   | In repo        | Health stewardship       | Mobility-device company; wholly-owned subsidiary of Renaissance Ministries (508(c)(1)(a)) per the v0.1 charter. Outlier on the naming convention (no "Christos" prefix) because Ideomotion is the existing company name; flagged in §Open questions below. | `IDM_ideomotion_ministry/` (charter v0.1; corporate structure provisional pending counsel) |
 | TBD  | Christos Seminar                   | Spec drafted   | Entry point              | Gateway module — 7 perspectives, video, AI engagement. Onboarding to the ecosystem. | —                               |
 | TBD  | Christos Cross-Check               | Spec drafted   | Foundation               | Bible study with AI assistance.                                              | —                                      |
 | TBD  | Christos Logos                     | Spec drafted   | Foundation               | Theological reasoning; physics-of-divine-consciousness bridge to CPP.        | —                                      |
@@ -42,7 +43,9 @@ Every module — including planned ones — is intended to serve the same aim: m
 | TBD  | Christos Life                      | Planned        | Whole-life formation     | Comprehensive life skills and personal formation.                            | —                                      |
 | TBD  | Christos Council                   | Planned        | Interfaith               | World religions examined through Christ; especially Islam.                   | —                                      |
 
-**Count:** 7 in repo (1 as deployed app, 5 as content folders, 1 as axiom-to-theorem framework) + 11 spec-drafted or planned = **18 modules total** in the current picture. Thomas has said "15 or more" and this count should be treated as provisional until he reviews.
+**Count:** 8 in repo (1 as deployed app, 5 as content folders, 1 as axiom-to-theorem framework, 1 as ministry-business subsidiary) + 11 spec-drafted or planned = **19 modules total** in the current picture. Thomas has said "15 or more" and this count should be treated as provisional until he reviews.
+
+**Note on MODULES.md drift (May 2026):** Several module folders exist in the repo (CAI, CAP, CCK, CCN, CDI, CFE, CGL, CLO, CMD, CMT, CSE, CWR) but are not yet listed in this inventory. This is known drift; reconciling it is a separate housekeeping task and is *not* attempted in the IDM-addition patch. The current row addition is scoped to IDM only.
 
 ---
 
@@ -83,6 +86,7 @@ These should be resolved in a subsequent pass, not fixed in this document:
 
 1. **Counselor / MyCounselor relationship.** Is Christos Counselor the same thing as MyCounselor.com, or are they distinct? If distinct, which one lives in this repo?
 2. **Ordering within this document.** Currently: in-repo first (by activity level), then spec-drafted (by category), then planned. Alternatives: alphabetical by code, alphabetical by name, or Seminar-ecosystem-map order. Thomas to decide.
+3. **IDM naming-convention outlier.** Ideomotion does not follow the "Christos [Name]" canonical naming convention because Ideomotion is the existing company name being adopted into RM as a wholly-owned subsidiary, not a content module. Either: (a) accept Ideomotion as a permanent outlier and amend the naming convention to allow ministry-business subsidiaries to retain their existing names; (b) rename it "Christos Ideomotion" or similar to conform; or (c) introduce a separate naming convention for ministry-business subsidiaries distinct from content modules. Thomas + Charlie to decide; current row treats option (a) as the working assumption.
 
 ---
 
