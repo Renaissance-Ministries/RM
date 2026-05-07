@@ -4,19 +4,21 @@ author: "Thomas Lee Abshier, ND"
 date: 2026-05-07
 module: IDM
 secondary_modules: [CMD, CMT, CFE]
-topics: [ideomotion, ministry-business, mobility, healing, integrated-auxiliary, ubit, corporate-structure, ethics, non-coercion]
+topics: [ideomotion, ministry-business, mobility, healing, integrated-auxiliary, ubit, corporate-structure, ethics, non-coercion, clinical-integrity, vulnerable-populations]
 status: DRAFT
 type: charter
-version: v0.2
+version: v0.3
 ---
 
 # Ideomotion Ministry Charter
 
 **CHANGELOG**
 
-- v0.2 (2026-05-07): substantive revision incorporating legal-positioning cautions raised in a parallel ChatGPT consultation that Thomas conducted on the v0.1 draft. Major changes: (1) replaced "captive audience" framing throughout with non-coercive "customer relationship and spiritual care" language; (2) reframed the v0.1 "unapologetic / in your face" working position as "Public Religious Identity" — sincere and unconcealed but neither rhetorically adversarial nor culturally combative; (3) softened categorical IRS-status claims (e.g. "makes Ideomotion a ministry in the IRS sense" → "is intended to align Ideomotion operationally and organizationally with Renaissance Ministries' exempt religious mission"); (4) added new §7 "Ethics, Dignity, and Non-Coercion"; (5) added new §12 "Questions for Legal and Tax Counsel" naming the specific items competent counsel needs to address (UBIT exposure, integrated-auxiliary applicability, private inurement, compensation reasonableness, single-member disregarded-entity treatment); (6) reframed the core mission language from "for-profit business with ministry mission attached" toward "ministry-operated rehabilitative mobility mission whose commercial activity exists to carry out a religious and charitable purpose."
+- v0.3 (2026-05-07): refinement pass on v0.2 incorporating a second round of legal-positioning counsel from a parallel ChatGPT consultation. Eight specific changes: (1) reduced "508(c)(1)(A)" terminology in the body of the document to mainstream language ("tax-exempt religious organization," "parent ministry," "religious organization"), with technical tax-code references reserved for the §13 counsel-question section where they are appropriate; (2) softened "Kingdom sign" terminology in the integration section (§11) to concrete operational language ("dimension of the church's healing and restorative ministry"), while preserving theological vocabulary in §3 where it belongs; (3) tightened §10 references to miraculous healing — Jan's recovery is now framed as understood within the fellowship rather than as a medically-attested miracle, to avoid creating implicit medical-claims exposure; (4) added new §8 "Clinical and engineering integrity," establishing professional standards as a co-equal commitment alongside ethics; (5) opened §7 with a vulnerable-populations recognition paragraph that grounds the ethical commitments in the heightened duty of care owed to disability-impacted populations; (6) removed the conscious-creation ontology clause from §6.5 — the broader CPP/ontology argument lives appropriately in essays, doctrinal materials, and the Theological Grammar, but it does not belong in a governance charter; (7) added a governance-authority sentence to §9 declaring that formal fiduciary authority resides in the governing body designated by Renaissance Ministries' organizing documents and applicable law; (8) renumbered §8–§14 → §9–§15 to accommodate the new §8, with all internal cross-references updated.
 
-- v0.1 (2026-05-06): initial draft. Source seeds: phone call between Thomas Abshier and Charlie Gutierrez, transcribed by Otter.ai (May 6, 2026), captured in `founders_vision/260506_ideomotion_as_ministry_vehicle.md`. The v0.1 content remains in the immutable seed-archive entry as an honest record of how the conversation actually went on May 6; this charter revises forward from that record without rewriting it.
+- v0.2 (2026-05-07): substantive revision incorporating legal-positioning cautions raised in a parallel ChatGPT consultation that Thomas conducted on the v0.1 draft. Major changes: replaced "captive audience" framing throughout with non-coercive "customer relationship and spiritual care" language; reframed the v0.1 "unapologetic / in your face" working position as "Public Religious Identity"; softened categorical IRS-status claims; added §7 "Ethics, Dignity, and Non-Coercion"; added §12 "Questions for Legal and Tax Counsel"; reframed core mission language toward "ministry-operated rehabilitative mobility mission whose commercial activity exists to carry out a religious and charitable purpose."
+
+- v0.1 (2026-05-06): initial draft. Source seeds: phone call between Thomas Abshier and Charlie Gutierrez, transcribed by Otter.ai (May 6, 2026), captured in `founders_vision/260506_ideomotion_as_ministry_vehicle.md`. The v0.1 content remains in the immutable seed-archive entry as an honest record of how the conversation actually went on May 6; this charter has revised forward from that record without rewriting it.
 
 ---
 
@@ -24,11 +26,11 @@ version: v0.2
 
 Ideomotion is a mobility-device company co-founded and co-owned by Charlie Gutierrez and Thomas Abshier. Charlie has thirty-seven years of industry experience; the company's products serve people whose physical mobility has been compromised by injury, illness, age, or congenital condition. The Traveler is the lead product currently approaching market.
 
-This charter sets out the case for Ideomotion's reconstitution as a ministry-aligned organization — operating under the authority and mission of Renaissance Ministries (a 508(c)(1)(A) faith organization) — and articulates the mission, purpose, methods, ethical commitments, organizational structure, and operating posture appropriate to that reconstitution.
+This charter sets out the case for Ideomotion's reconstitution as a ministry-aligned organization — operating under the authority and mission of Renaissance Ministries, a tax-exempt religious organization — and articulates the mission, purpose, methods, ethical commitments, professional-integrity commitments, organizational structure, and operating posture appropriate to that reconstitution.
 
-This is a working draft. It will be refined after Charlie's substantive engagement, after fellowship discernment of the open questions in §11, and — most importantly for the organizational and tax structure — after review by competent nonprofit/church legal counsel and tax counsel familiar with religious and charitable entity law. The questions counsel must address are listed in §12.
+This is a working draft. It will be refined after Charlie's substantive engagement, after fellowship discernment of the open questions in §12, and — most importantly for the organizational and tax structure — after review by competent nonprofit/church legal counsel and tax counsel familiar with religious and charitable entity law. The questions counsel must address are listed in §13.
 
-The charter has been deliberately written in language that is suitable both for internal ministry use and for external review by counsel, regulators, board members, and counterparties. Where v0.1 reached for rhetorical force, v0.2 reaches for operational maturity and legal precision. The substantive ministry conviction is unchanged.
+The charter has been deliberately written in language suitable both for internal ministry use and for external review by counsel, regulators, board members, and counterparties. The substantive ministry conviction running from v0.1 through v0.3 is unchanged; what has been refined across revisions is the precision and maturity of the language that carries it.
 
 ---
 
@@ -42,7 +44,7 @@ This is the framing on which everything that follows depends. Ideomotion is not 
 - the operational reality (what Ideomotion *does*, demonstrated in practice);
 - the governance structure (who Ideomotion is *accountable* to);
 - the use of revenue (where Ideomotion's resources actually *go*); and
-- the legal/tax positioning (what Ideomotion *claims* to be, examinable by competent counsel and, if necessary, the IRS).
+- the legal and tax positioning (what Ideomotion *claims* to be, examinable by competent counsel and, if necessary, the IRS).
 
 Each of those five layers must agree with the others. A beautifully written charter does not protect an organization whose operational reality contradicts it. The standard this charter sets is therefore not aspirational rhetoric but a description of how the organization is actually to be operated.
 
@@ -62,7 +64,7 @@ The lame walking is a sign of the Kingdom's arrival. It was the answer John need
 
 *Then Peter said, Silver and gold have I none; but such as I have give I thee: In the name of Jesus Christ of Nazareth rise up and walk. And he took him by the right hand, and lifted him up.* — Acts 3:6–7
 
-This is the theological slot Ideomotion fits into. Not as a substitute for what only God does, and not as a dressed-up commercial venture, but as a faithful, ordinary, well-engineered participation in a Kingdom sign. The work is ordinary: design, manufacture, fit, train, support, accompany. The frame is not.
+This is the theological slot Ideomotion fits into. Not as a substitute for what only God does, and not as a dressed-up commercial venture, but as a faithful, ordinary, well-engineered participation in the church's healing and restorative ministry. The work is ordinary: design, manufacture, fit, train, support, accompany. The frame is not.
 
 A second scriptural anchor matters here. In the parable of the great supper, when the invited guests refuse to come, the master commands the servant: *Go out quickly into the streets and lanes of the city, and bring in hither the poor, and the maimed, and the halt, and the blind* (Luke 14:21). The lame are not an afterthought to the Kingdom feast; they are among its first invited. An organization whose work is precisely with the halt and the lame should know whose company it is keeping in scripture.
 
@@ -79,7 +81,7 @@ The mission has four operational components, none of which is optional:
 - **Make spiritual care available**, through fellowship invitation, testimony, prayer-on-request, and pastoral conversation — offered freely, never required, never made a condition of service.
 - **Steward resources for the religious and charitable mission**, through a corporate structure under Renaissance Ministries that directs organizational benefit toward the mission rather than toward private enrichment.
 
-The first commitment without the others reduces the work to commerce. The second and third without the first betray the people Ideomotion exists to serve. The fourth ties the organizational identity to the parent ministry's exempt purposes; the structural integrity of that tie is then a matter for competent counsel (§12).
+The first commitment without the others reduces the work to commerce. The second and third without the first betray the people Ideomotion exists to serve. The fourth ties the organizational identity to the parent ministry's exempt purposes; the structural integrity of that tie is then a matter for competent counsel (§13).
 
 ---
 
@@ -103,7 +105,7 @@ These four "is not" clauses are not afterthoughts. They are the operational disc
 
 ### 6.1. Product excellence as the floor
 
-The first commandment of a ministry-aligned organization in this category is that the product must work. Charlie's rehabilitative practice with Jan — who was told by her doctor she would never walk and who is now walking, with her physician sufficiently persuaded by the recent recovery video to order home physical therapy — is the standard. Devices that fail, programs that don't deliver, and rehab that doesn't help are not redeemed by Christian branding. They are betrayals of the mission and a reproach to the name on the door.
+The first commandment of a ministry-aligned organization in this category is that the product must work. Charlie's rehabilitative practice with Jan — who was told by her physician she would never walk and who is now walking, with that physician sufficiently persuaded by the recent recovery video to order home physical therapy — is the standard. Devices that fail, programs that don't deliver, and rehab that doesn't help are not redeemed by Christian branding. They are betrayals of the mission and a reproach to the name on the door.
 
 Engineering, manufacturing, fitting, training, and ongoing support all sit under this commandment. Charlie's three-and-a-half decades of experience are the asset that makes the commandment achievable.
 
@@ -131,7 +133,7 @@ A pipeline for ongoing testimony production should be built into customer suppor
 
 - testimony participation is voluntary and revocable; consent is documented in writing;
 - claims about rehabilitative outcomes are reported as the participant experienced them, in the participant's own words where possible, and accompanied by clinical context where available;
-- spiritual claims (e.g., prayer in connection with recovery) are reported as testimony, not as guaranteed outcome of product purchase;
+- spiritual reflections (such as the role of prayer in the participant's experience of recovery) are reported as personal testimony rather than as outcomes promised by product purchase;
 - no testimony participant receives differential treatment based on willingness to share their story.
 
 ### 6.4. Fellowship as the destination
@@ -142,7 +144,7 @@ A fully-realized Ideomotion customer relationship where the customer does not ch
 
 ### 6.5. Public religious identity
 
-Ideomotion does not present itself as religiously neutral. Its work is consciously rooted in the Christian convictions of Renaissance Ministries — including the conviction that acts of healing, restoration, compassion, and service reflect the character and ministry of Jesus Christ, and including the broader conviction that reality itself is conscious creation and that human dignity is grounded in that ontology rather than in social convention.
+Ideomotion does not present itself as religiously neutral. Its work is consciously rooted in the Christian convictions of Renaissance Ministries — including the conviction that acts of healing, restoration, compassion, and service reflect the character and ministry of Jesus Christ.
 
 The organization does not conceal this identity for marketing purposes, and it does not require religious participation from those it serves. Ideomotion communicates its convictions honestly, respectfully, and without coercion, allowing the quality of its work, the integrity of its relationships, and the substance of its testimony to speak alongside its explicit religious commitments.
 
@@ -152,20 +154,38 @@ This posture replaces an earlier working-draft framing (v0.1) that described the
 
 ## 7. Ethics, dignity, and non-coercion
 
-Ideomotion affirms the dignity and freedom of conscience of every individual it serves. The following commitments are operational, not aspirational, and are to be reflected in policies, training, and accountability structures:
+Ideomotion recognizes that persons experiencing disability or mobility limitation may face heightened social isolation, financial stress, dependence, or vulnerability. The organization therefore commits itself to heightened standards of honesty, patience, transparency, accessibility, and respect in all customer interactions. The ethical framework that follows is not a generalized statement of Christian conduct; it is a specific response to the population Ideomotion exists to serve and to the particular duties of care that population imposes on any organization that engages it.
+
+The following commitments are operational, not aspirational, and are to be reflected in policies, training, and accountability structures:
 
 - **No conditioning of service on belief.** No person will be denied products or services based on religious belief, non-belief, or denominational affiliation. No person will receive different pricing, support, or care based on willingness to engage spiritually.
 - **No required spiritual participation.** Spiritual conversation, fellowship attendance, prayer, and testimony participation are entirely voluntary and may be declined at any time without consequence.
-- **Truthful claims.** Rehabilitative, medical, and spiritual claims are reported truthfully, with appropriate context. Outcomes are not exaggerated; expectations are not inflated. The miraculous, where it occurs, is testified to as testimony, not promised as a transaction.
+- **Truthful claims.** Rehabilitative, medical, and spiritual claims are reported truthfully, with appropriate context. Outcomes are not exaggerated; expectations are not inflated. Spiritual reflections, where they appear, are reported as testimony rather than as promised outcomes of product purchase.
 - **Informed consent for testimony.** No customer's story is shared publicly — in marketing, on websites, in fellowship contexts, or anywhere else — without explicit, documented, revocable written consent from that customer (or their authorized representative where applicable).
 - **No exploitation of vulnerability.** The organization recognizes that customers may be in physically, emotionally, financially, or socially vulnerable circumstances at the time they engage Ideomotion, and that this vulnerability creates a heightened ethical duty of care. Sales practices, ministry interactions, and clinical recommendations are conducted with this duty foremost.
 - **Honesty about identity.** Ideomotion does not present itself as religiously neutral when it is not, and does not present itself as a charity when its primary mode is commerce. The organization's ministry identity, corporate structure, and operational realities are accurately communicated to customers, partners, donors (if any), and counterparties.
 
-This section exists because the population Ideomotion serves — people experiencing mobility impairment — overlaps substantially with populations protected by federal disability law, by consumer protection law, and by long-standing ethical norms about ministry in the context of suffering. The commitments above are the standard against which the organization holds itself, and they are also part of the organizational record that competent counsel can review when assessing risk.
+This section exists because the population Ideomotion serves overlaps substantially with populations protected by federal disability law, by consumer protection law, and by long-standing ethical norms about ministry in the context of suffering. The commitments above are the standard against which the organization holds itself, and they are also part of the organizational record that competent counsel can review when assessing risk.
 
 ---
 
-## 8. Organizational structure
+## 8. Clinical and engineering integrity
+
+Ideomotion affirms that compassionate ministry and rigorous professional standards are complementary rather than opposed. A device that does not work harms the person who depends on it; rehabilitative recommendations that overreach harm the person who follows them; an engineering claim that cannot be substantiated harms the person who relied on it in choosing a product. Each of these failures is an ethical failure as much as a professional one.
+
+Accordingly:
+
+- **Rehabilitative recommendations are grounded in appropriate professional knowledge and experience.** Charlie's three-and-a-half decades of practice are the substantive ground for the rehab work Ideomotion offers; recommendations that exceed that ground (e.g., medical guidance that requires a licensed physician, therapeutic interventions that require a licensed PT/OT, etc.) are referred to appropriate professionals rather than offered in-house.
+- **Engineering claims are supportable and accurately represented.** Specifications, performance figures, and durability claims are documented and verifiable. Testimonial outcomes are reported as the participant's experience, distinct from product-performance specifications.
+- **Safety considerations take priority over marketing or testimonial value.** Where a customer's safety would be better served by referral to a different product, a different professional, or a different course of action, that referral is made, even where it conflicts with the organization's commercial interest.
+- **Relationships with physicians, therapists, caregivers, and rehabilitation professionals are conducted transparently and respectfully.** The Jan case is illustrative: Charlie's rehab work was conducted with the awareness of (and ultimately led to a positive response from) Jan's treating physician. That posture — collaborative rather than adversarial toward the broader medical and rehabilitation community — is the standard.
+- **Adverse outcomes are tracked and addressed.** When a device underperforms, when a rehabilitation course does not yield the hoped-for outcome, or when a customer experiences harm in connection with Ideomotion's work, the organization records, reviews, and learns from that case rather than discarding or under-reporting it.
+
+The organization recognizes that truthful representation and professional integrity are themselves expressions of Christian ethical responsibility. Truthfulness is not a separate constraint applied to Christian work from outside; it is intrinsic to it.
+
+---
+
+## 9. Organizational structure
 
 The proposed structure: **Ideomotion as a single-member limited liability company wholly owned by Renaissance Ministries**, with Renaissance Ministries serving as the parent religious organization and Ideomotion operating as its mission-aligned subsidiary.
 
@@ -176,35 +196,37 @@ The intended operational characteristics of this structure are:
 - **Operational and liability separation where appropriate.** The LLC form provides liability segregation, clear contractual identity, and operational distinctness from the parent ministry where useful, while keeping the parent–subsidiary relationship operationally and legally integrated.
 - **Mission-continuity over time.** The structure is intended to be durable: the ministry mission persists across changes in personnel, including the eventual succession of Charlie's and Thomas's roles, because the organization itself is ordered to that mission, not merely the current principals.
 
+**Formal fiduciary authority shall reside in the governing body designated by Renaissance Ministries' organizing documents and applicable law.** Documenting and where necessary formalizing that governance structure — confirming who exercises voting authority, who approves compensation arrangements, who has authority to bind the organization legally, who appoints and removes managers, and who approves budgets — is itself a prerequisite to operationalizing the structure described in this charter. That documentation work is named as Open Question Q9 in §12 and addressed in counsel question §13.10.
+
 The intent of the structure, in plain terms, is that Ideomotion's organizational and operational reality aligns with Renaissance Ministries' exempt religious purposes, such that the ministry character of Ideomotion is real rather than only declared.
 
-**Final organizational structure and tax treatment are subject to review and approval by qualified nonprofit/church legal counsel and qualified tax counsel.** The questions those reviewers must answer are listed in §12. Until that review is complete, the structure described here is the working proposal, not a settled determination.
+**Final organizational structure and tax treatment are subject to review and approval by qualified nonprofit/church legal counsel and qualified tax counsel.** The questions those reviewers must answer are listed in §13. Until that review is complete, the structure described here is the working proposal, not a settled determination.
 
-This section deliberately avoids categorical assertions about IRS classification — assertions of the form "this structure makes Ideomotion a ministry in the IRS sense" or "this corporate move ensures tax-exempt treatment." The IRS does not automatically confer integrated-auxiliary or disregarded-entity treatment on a subsidiary because its parent is religious. The treatment depends on facts and circumstances, on operational reality, and on application of the relevant IRS tests by competent counsel. The charter declares the organizational intent; counsel evaluates whether and how that intent is realized under the law as it actually stands.
+This section deliberately avoids categorical assertions about IRS classification — assertions of the form "this structure makes Ideomotion a ministry in the IRS sense" or "this corporate move ensures tax-exempt treatment." The IRS does not automatically confer integrated-auxiliary or disregarded-entity treatment on a subsidiary because the parent is religious. The treatment depends on facts and circumstances, on operational reality, and on application of the relevant tests by competent counsel. The charter declares the organizational intent; counsel evaluates whether and how that intent is realized under the law as it actually stands.
 
 ---
 
-## 9. The doubled commitment on prayer
+## 10. The doubled commitment on prayer
 
 Renaissance Ministries holds two convictions about prayer that are sometimes separated but that Ideomotion is committed to holding together:
 
 **The companion-God deliverable** (Susan's formulation, attributed in `founders_vision/260506_ideomotion_as_ministry_vehicle.md`): when the believer prays, what is most reliably given is the companion presence of God Himself. The relationship is the gift. This is the deliverable of prayer that Christians can claim without qualification, and it is the floor under everything else.
 
-**Openness to the miraculous**: the companion-God deliverable is the floor, not the ceiling. Genuine miraculous healing remains a live possibility, attested by Jan's recovery, attested by James Rutz's *Mega Shift* (a contemporary catalogue of testimonies from the persecuted church that Charlie introduced into the founding conversation and that Thomas will engage in essay form once the book arrives), and attested across the witness of the church through every century of its life.
+**Openness to God's providence in the ordinary and the unexpected**: the companion-God deliverable is the floor, not the ceiling. The fellowship has experienced and continues to expect that God works through both the ordinary disciplines of skilled rehabilitative practice and the occasional unexpected outcomes that surpass clinical expectation. Jan's recovery is understood within Charlie's practice and within the fellowship as evidence of God's providence and care, recognized alongside the rehabilitative work that accompanied it. James Rutz's *Mega Shift* (which Charlie introduced into the founding conversation and which Thomas will engage in essay form once the book arrives) catalogues a broader Christian witness to the same kind of unexpected providence in the persecuted church.
 
-Ideomotion holds both. The organization designs and manufactures mobility devices because the ordinary, faithful, well-engineered work is what is given to do — and it does the work as well as forty years of Charlie's experience can do it. The organization prays for the companion-God who walks with the suffering customer whether that customer's body is restored or not — because that companionship is what every soul most needs. The organization remains open to, and grateful for, cases where God does the impossible thing, while never promising the impossible as a transactional outcome of product purchase.
+Ideomotion holds both. The organization designs and manufactures mobility devices because the ordinary, faithful, well-engineered work is what is given to do — and it does the work as well as forty years of Charlie's experience can do it. The organization prays for the companion-God who walks with the suffering customer whether that customer's body is restored or not — because that companionship is what every soul most needs. And the organization remains open to, and grateful for, the cases where the outcomes exceed what clinical or engineering expectation alone would predict — without ever framing those outcomes as a transactional consequence of product purchase.
 
-A ministry-aligned organization that holds only the ordinary work loses its soul. A ministry-aligned organization that promises the miraculous as a transaction is a fraud and a danger to those it claims to serve. Ideomotion is structured to be neither.
+A ministry-aligned organization that holds only the ordinary work loses its soul. A ministry-aligned organization that promises extraordinary outcomes as a transaction is a fraud and a danger to those it claims to serve. Ideomotion is structured to be neither.
 
 ---
 
-## 10. How Ideomotion fits into Renaissance Ministries
+## 11. How Ideomotion fits into Renaissance Ministries
 
 Ideomotion is the first ministry-aligned operational subsidiary in the Renaissance Ministries ecosystem. Its relationship to the broader ministry has multiple dimensions:
 
-**Theological and mission alignment.** Ideomotion expresses one specific Kingdom sign — the lame walking — that the broader ministry preaches. It is the embodied complement to the proclamation work done in CFE (fellowship essays), CNL (newsletter), and CHR (historical review). The fellowship discusses, the newsletter explains, the historical review challenges culture; Ideomotion participates in restoring mobility to those whose mobility has failed.
+**Theological and mission alignment.** Ideomotion expresses one specific dimension of the church's healing and restorative ministry — care for persons experiencing limited mobility — that the broader Renaissance Ministries corpus discusses, articulates, and proclaims. It is the embodied complement to the proclamation work done in CFE (fellowship essays), CNL (newsletter), and CHR (historical review). The fellowship discusses; the newsletter explains; the historical review challenges culture; Ideomotion participates concretely in restoring mobility to those whose mobility has failed.
 
-**Organizational and governance structure.** Ideomotion as wholly-owned subsidiary places its governance, decision-making, and disposition of revenue under the parent ministry. This is a structural commitment subject to the legal review described in §8 and §12.
+**Organizational and governance structure.** Ideomotion as wholly-owned subsidiary places its governance, decision-making, and disposition of revenue under the parent ministry. This is a structural commitment subject to the legal review described in §9 and §13.
 
 **Customer-to-fellowship pathway.** Customers who choose to engage Ideomotion's spiritual-care offerings have an available pathway into Renaissance Ministries fellowship community on entirely voluntary terms. The pathway is documented, optional, and treats every choice with equal respect.
 
@@ -212,35 +234,37 @@ Ideomotion is the first ministry-aligned operational subsidiary in the Renaissan
 
 **Fellowship governance over ministry posture.** Substantive ministry-posture decisions for Ideomotion (branding language, pipeline design, testimony policies) are accountable to the fellowship in the same way that other RM modules' postures are. The organization is operationally led by Charlie and Thomas; the *ministry character* of the organization is held accountable to the broader fellowship.
 
-**Module placement.** Ideomotion has been registered as the **IDM** module in `MODULES.md` (added with patch 0002 of the May 7, 2026 batch). Because Ideomotion does not follow the canonical "Christos [Name]" naming convention (it retains its existing company name), the module is flagged as an outlier in MODULES.md §Open Questions; that question is for fellowship and counsel-driven discernment going forward.
+**Module placement.** Ideomotion has been registered as the **IDM** module in `MODULES.md`. Because Ideomotion does not follow the canonical "Christos [Name]" naming convention (it retains its existing company name), the module is flagged as an outlier in `MODULES.md` §Open Questions; that question is for fellowship and counsel-driven discernment going forward.
 
 ---
 
-## 11. Open questions for fellowship discernment
+## 12. Open questions for fellowship discernment
 
-These are the questions on which the v0.2 working positions should be tested before any of them is treated as settled. The v0.2 charter has substantially answered some of v0.1's open questions and surfaced new ones.
+These are the questions on which the v0.3 working positions should be tested before any of them is treated as settled. The v0.3 charter has substantially answered some of v0.1's and v0.2's open questions and surfaced new ones.
 
-**Q1 (substantially answered in v0.2).** *What is the right calibration of the public religious identity?* The v0.1 draft asked whether to default to "unapologetic and in-your-face" (Thomas's position from the May 6 call) or to "modest but adequate" (Charlie's position). The v0.2 draft adopts a third position — *sincere, unconcealed, service-oriented, and never coercive* — which is closer to Charlie's calibration in posture but preserves the integral (not decorative) ministry-identity conviction Thomas insisted on. Fellowship review can affirm, refine, or reverse this position.
+**Q1 (substantially answered in v0.2).** *What is the right calibration of the public religious identity?* The v0.1 draft asked whether to default to "unapologetic and in-your-face" (Thomas's position from the May 6 call) or to "modest but adequate" (Charlie's position). The v0.2 draft adopted a third position — *sincere, unconcealed, service-oriented, and never coercive* — which is closer to Charlie's calibration in posture but preserves the integral (not decorative) ministry-identity conviction Thomas insisted on. The v0.3 draft preserves this resolution. Fellowship review can affirm, refine, or reverse.
 
 **Q2 (open).** *What is the operational mechanism of customer-to-fellowship discipleship?* §6.2 lists candidate ministry expressions; the actual policies, scripts, training, and consent processes have not yet been designed in detail. This is operational work, not theological work, but it materially affects whether the ministry character of the organization is real rather than only declared (§2).
 
-**Q3 (deferred to counsel).** *Does the wholly-owned-subsidiary structure work as described under current 508(c)(1)(A) law, federal tax law, integrated-auxiliary regulations, the UBIT framework, and the chosen state's corporate law?* See §12.
+**Q3 (deferred to counsel).** *Does the wholly-owned-subsidiary structure work as described under federal tax law, integrated-auxiliary regulations, the UBIT framework, and the chosen state's corporate law?* See §13.
 
-**Q4 (open).** *Does the persecuted-church / American-church asymmetry on the miraculous (§9) imply that material comfort is itself an obstacle to the kind of faith that book-length testimony catalogues such as Rutz's report?* If so, what does that mean for a ministry-aligned organization whose stock-in-trade is increasing customers' physical comfort and capacity? This is a real question, not a refutation; the work must be ready to answer it.
+**Q4 (open).** *Does the persecuted-church / American-church asymmetry (§10) imply that material comfort is itself an obstacle to the kind of faith that book-length testimony catalogues such as Rutz's report?* If so, what does that mean for a ministry-aligned organization whose stock-in-trade is increasing customers' physical comfort and capacity? This is a real question, not a refutation; the work must be ready to answer it.
 
-**Q5 (open, urgent).** *What policies, training, and accountability structures will make the §7 ethics-and-non-coercion commitments operationally real?* A charter can declare these commitments; only operational implementation makes them true. Until §7 is implemented in policy and training, it is intent, not protection.
+**Q5 (open, urgent).** *What policies, training, and accountability structures will make the §7 ethics-and-non-coercion commitments and the §8 clinical-and-engineering-integrity commitments operationally real?* A charter can declare these commitments; only operational implementation makes them true. Until §7 and §8 are implemented in policy and training, they are intent, not protection.
 
 **Q6 (open).** *What is the right testimony-consent process?* §6.3 names the requirements; the actual consent forms, retention policies, and revocation procedures need to be designed.
 
-**Q7 (open).** *How will Ideomotion handle situations where customer mobility outcomes are disappointing or where adverse events occur during rehabilitation?* The doubled commitment on prayer (§9) addresses the case where outcomes are good; the ministry character of the organization is also tested by how it handles the case where outcomes are not.
+**Q7 (open).** *How will Ideomotion handle situations where customer mobility outcomes are disappointing or where adverse events occur during rehabilitation?* The doubled commitment on prayer (§10) addresses the case where outcomes are good; the ministry character of the organization is also tested by how it handles the case where outcomes are not. The §8 commitment to track, review, and learn from adverse outcomes is the operational anchor for this question.
 
-**Q8 (open).** *Does Ideomotion's existing product line, customer base, and business model already qualify operationally as ministry-aligned, or does the v0.2 charter describe a target state that requires substantive operational change to reach?* If the latter, what is the transition plan? The integrity of the ministry-identity claim depends on this distinction.
+**Q8 (open).** *Does Ideomotion's existing product line, customer base, and business model already qualify operationally as ministry-aligned, or does the v0.3 charter describe a target state that requires substantive operational change to reach?* If the latter, what is the transition plan? The integrity of the ministry-identity claim depends on this distinction.
+
+**Q9 (open, governance).** *What is Renaissance Ministries' actual governance structure — who exercises voting authority on ministry decisions, who has fiduciary authority, who approves compensation arrangements, who has authority to bind the organization legally, who appoints and removes managers?* The §9 governance-authority sentence asserts that formal fiduciary authority rests with the governing body designated by RM's organizing documents and applicable law; documenting (and where necessary formalizing) that body and its procedures is a prerequisite to operationalizing the structure.
 
 ---
 
-## 12. Questions for legal and tax counsel
+## 13. Questions for legal and tax counsel
 
-This charter's structural and tax positioning is **proposed**, not settled. The following are the specific questions that competent nonprofit/church legal counsel and qualified tax counsel must address before the structure described in §8 should be regarded as operative.
+This charter's structural and tax positioning is **proposed**, not settled. The following are the specific questions that competent nonprofit/church legal counsel and qualified tax counsel must address before the structure described in §9 should be regarded as operative.
 
 **On the parent ministry.**
 
@@ -266,35 +290,39 @@ This charter's structural and tax positioning is **proposed**, not settled. The 
 
 **On marketing, claims, and consumer-protection exposure.**
 
-8. Does Ideomotion's intended marketing, testimony, and ministry communication face exposure under the FTC's medical-claims rules, state-level consumer-protection statutes, the ADA's protections for the populations Ideomotion serves, or other regulatory regimes? What review processes for marketing and testimony content are appropriate?
+8. Does Ideomotion's intended marketing, testimony, and ministry communication face exposure under the FTC's medical-claims rules, state-level consumer-protection statutes, the ADA's protections for the populations Ideomotion serves, or other regulatory regimes? What review processes for marketing and testimony content are appropriate? How should the §10 "doubled commitment on prayer" language be communicated externally without creating implicit medical-claim or efficacy-claim exposure?
 
 **On the founder-acquired vendor relationship.**
 
 9. The May 6 conversation surfaced a vendor (referred to in correspondence as "Dan Peterson") offering 508(c)(1)(A) packages. Independent legal counsel should review any pre-existing or proposed agreements with that vendor and advise on whether continued reliance on vendor-provided structures and materials is appropriate, given that the area is documented as containing aggressive marketing and nonstandard interpretations.
 
+**On governance.**
+
+10. What is the current governance structure of Renaissance Ministries — voting authority, fiduciary roles, signing authority, appointment and removal procedures, budget approval, compensation approval? Where is that structure documented, and where (if anywhere) does it need to be formalized or strengthened to support a wholly-owned operating subsidiary? See Open Question Q9.
+
 The charter is not adopted as operative until counsel has answered the above questions in writing and the answers have been reviewed and accepted by Renaissance Ministries' governing body and by Ideomotion's principals.
 
 ---
 
-## 13. Next steps
+## 14. Next steps
 
-1. Charlie reads this v0.2 draft and notes substantive disagreement, especially on §5 (what Ideomotion is and is not), §6.5 (public religious identity), and §7 (ethics, dignity, and non-coercion).
+1. Charlie reads this v0.3 draft and notes substantive disagreement, especially on §5 (what Ideomotion is and is not), §6.5 (public religious identity), §7 (ethics, dignity, and non-coercion), and §8 (clinical and engineering integrity).
 
-2. Susan reads §9 and confirms or corrects Thomas's reporting of her formulation on the companion-God deliverable.
+2. Susan reads §10 and confirms or corrects Thomas's reporting of her formulation on the companion-God deliverable.
 
-3. Renaissance Ministries' governing body (or its functional equivalent — Thomas to confirm what that is in current practice) reviews and either approves the v0.2 charter as the working draft pending counsel review, requests revisions, or rejects the proposed direction.
+3. Renaissance Ministries' governing body (or its functional equivalent — Thomas to confirm what that is in current practice) reviews and either approves the v0.3 charter as the working draft pending counsel review, requests revisions, or rejects the proposed direction. The §13.10 governance question (what is RM's actual governance structure) materially affects the form this approval can take.
 
-4. Qualified nonprofit/church legal counsel and qualified tax counsel are engaged. The §12 questions are submitted in writing. Counsel's answers, in writing, become the basis for the v1.0 revision of this charter.
+4. Qualified nonprofit/church legal counsel and qualified tax counsel are engaged. The §13 questions are submitted in writing. Counsel's answers, in writing, become the basis for the v1.0 revision of this charter.
 
-5. Operational policies, training, consent processes, and accountability structures implementing §7 are drafted and adopted before any customer-facing ministry interactions occur under the Ideomotion banner.
+5. Operational policies, training, consent processes, and accountability structures implementing §7 (ethics) and §8 (clinical and engineering integrity) are drafted and adopted before any customer-facing ministry interactions occur under the Ideomotion banner.
 
-6. Open Questions §11 are brought before the fellowship for discernment, on a cadence to be set by Thomas, with priority on Q5 (operational implementation of §7) given its bearing on whether the charter's commitments are real.
+6. Open Questions §12 are brought before the fellowship for discernment, on a cadence to be set by Thomas, with priority on Q5 (operational implementation of §7 and §8) given its bearing on whether the charter's commitments are real, and on Q9 (RM governance documentation) given its bearing on whether the §9 structure can be operationalized at all.
 
 7. After counsel review, fellowship discernment, and operational policy adoption, this draft is revised to v1.0 in place at `IDM_ideomotion_ministry/IDM_charter.md`. Subsequent revisions are tracked via the CHANGELOG header rather than by filename suffixes, per the no-version-suffix convention in `RM_bootup.md` §12.
 
 ---
 
-## 14. Scriptures referenced
+## 15. Scriptures referenced
 
 - Isaiah 35:5–6 — the lame leaping as an hart
 - Matthew 11:4–5 — Jesus's answer to John the Baptist
