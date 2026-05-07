@@ -28,6 +28,7 @@ Then read the rest of this file.
 | 3 | `founders_vision/founders_vision.md` | **Thomas's worldview** — foundational principles and intuitions | 15 min |
 | 4 | Task-specific operating system | Workflow for your specific task (CFE, CHR, etc.) | 10 min |
 | 5 | Recent `founders_vision/YYMMDD_*.md` entries | Latest thinking from recent sessions | 5 min |
+| 5.5 | `templates/RM_patch_flow.md` | **Required reading if generating .patch files this session.** Canonical patch-based commit protocol; do NOT reconstruct from `conversation_search`. | 10 min |
 
 After reading this file in full, you're ready to ask: "What would you like to work on today?"
 
@@ -129,6 +130,51 @@ The import script lands both `.md` and `.html` files in the same commit. The com
 **Why this rule.** The repo is the canonical source; WordPress is the distribution surface. Keeping both versioned in the repo means (a) the website can be rebuilt from the repo if WordPress is lost or migrated, (b) the HTML version is reviewable in pull requests rather than only in WordPress's editor, and (c) the dual-export discipline catches markdown that would render badly on the website *before* it is published, not after.
 
 This rule applies to fellowship essays (`CFE_*`) and to any other essay destined for WordPress publication. It does not apply to internal infrastructure documents (operating systems, READMEs, templates, registries) that live only in the repo.
+
+
+---
+
+## 3.5 Patch Generation and Commit Flow
+
+**Effective May 7, 2026, RM uses git-mailbox-format patches as the default protocol for landing Claude-generated content in the repo.** This brings RM into alignment with the CPP repo's battle-tested workflow (CPP `bootup.md` §3, ~165+ patches landed). The legacy import-script pattern (§3 above) remains valid for the cases noted below.
+
+### Required reading
+
+If you are about to generate `.patch` files this session, read `templates/RM_patch_flow.md` in full before producing the apply macro. Do NOT reconstruct the macro from `conversation_search` or chat history — the canonical form is documented precisely so it does not have to be rediscovered every session.
+
+### How the protocol works in one paragraph
+
+Claude clones the RM repo into the in-container working directory, makes substantive changes there, commits each logical change as a separate commit (authored as `Opus <opus@rm.local>`), runs `git format-patch` to package the new commits as `.patch` files, renames them to match RM's sequential numbering, places them under `/mnt/user-data/outputs/patches/`, and surfaces them via `present_files`. Thomas downloads the patches to `~/Downloads/`, runs the chained-`&&` apply macro from his local clone (`~/Documents/GitHub/RM`), confirms a successful push, and Claude syncs the in-container clone before continuing work.
+
+### The canonical apply macro — chained-with-fail-fast
+
+For multi-patch sessions:
+
+```bash
+cd ~/Documents/GitHub/RM && git pull origin main && \
+  git am ~/Downloads/0NNN-first-patch.patch && \
+  git am ~/Downloads/0NNN-second-patch.patch && \
+  git am ~/Downloads/0NNN-third-patch.patch && \
+  git push origin main
+```
+
+The `&&` chain short-circuits on the first failure, so a failed `git am` aborts before pushing partial state. If any `git am` fails: `git am --abort` to revert the partial state, then report the failure for diagnosis. **Do not push partial state under any circumstance.**
+
+For a single-patch session, the chain shortens to one `git am` line.
+
+### Patch numbering
+
+Patches are numbered sequentially across all sessions; the numbering does not reset. New patches continue from the highest existing patch number in the repo's commit history. **As of the May 7, 2026 protocol formalization, the highest committed RM patch is 0004.**
+
+### When to fall back to the legacy import-script pattern
+
+The patch flow is the right default for nearly every Claude-generated repo change. The import-script pattern (§3 above) remains the better fit when the deliverable involves orchestrated multi-step processing that legitimately belongs in a script — e.g., complex regeneration logic, multi-file structural reorganizations that need to be atomic operations on Thomas's local clone, or operations that depend on the local environment.
+
+For the canonical fellowship-essay flow specifically: as of v1.0 of this protocol, Claude generates the `.md`, runs `templates/md_to_wp_html.py` in the container to produce the `.html`, commits both, and ships them in a single patch. The recipient does not need to regenerate; the patch carries both files in their final form. See `templates/RM_patch_flow.md` §9 for the full rule.
+
+### Full canonical reference
+
+`templates/RM_patch_flow.md` covers: where Thomas works locally, the protocol step-by-step, the chained and single-patch macro forms, sequential numbering, `git format-patch` invocation, the Opus author convention, when patches are NOT appropriate, post-push synchronization, failure modes and recovery, and cross-references. **Read it before generating patches.**
 
 
 ---
