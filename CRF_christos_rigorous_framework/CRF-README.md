@@ -26,6 +26,7 @@ Just created. The operating system is a placeholder pending proper drafting. No 
 ## Read first
 
 - `journal/summary/260419_01-CRF_establishment.md` — the April 19 proposal-and-convergence session that established CRF. Read this before contributing.
+- `CRF_development.md` — running journal of CRF theory-and-methodology discussions. Entry 1 (2026-05-18) records the initial methodology proposal for the CRF Candidates workflow.
 - `journal/transcript/` — raw conversation transcripts from the working sessions that produced the summaries. Optional context.
 - `CRF_operating_system.md` — placeholder listing the open design questions to be resolved in the drafting session.
 
@@ -58,6 +59,8 @@ CPP may be cited in CRF axioms and derivations at the ontological-ground layer (
 
 - `CRF-README.md` — this file.
 - `CRF_operating_system.md` — placeholder; to be drafted.
+- `CRF_initiation_ideas.md` — captures from the April 19 establishment session.
+- `CRF_development.md` — running journal of CRF theory-and-methodology discussions; entries accumulate chronologically. The proto-OS-type document that sits between the README and the operating system, recording the thinking-out-loud that shapes both.
 - `journal/` — CPP-style record of CRF sessions, in two streams:
   - `journal/summary/` — synthesized session summaries. Filename pattern: `YYMMDD_NN-Topic.md`.
   - `journal/transcript/` — raw conversation transcripts. Same filename pattern.
