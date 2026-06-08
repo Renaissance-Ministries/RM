@@ -419,6 +419,18 @@ After drafting, produce:
 - Body in clean, readable formatting
 - No inline styles (let WordPress handle typography)
 
+### Canonical Essay Footer (Tagline)
+
+Every fellowship essay closes with the same footer, placed after the final signature line (e.g., `— Thomas`) and a horizontal rule:
+
+```
+*Renaissance Ministries  |  Hyperphysics Institute*
+
+*Of one heart to make Christ King - 1 Chronicles 12:38*
+```
+
+The canonical tagline is **"Of one heart to make Christ King - 1 Chronicles 12:38"** (updated June 7, 2026; previously "One heart to make Christ King."). The scripture reference is part of the tagline and must always be included — 1 Chronicles 12:38 records the men who came to Hebron *of one heart to make David king*, the verse the tagline echoes. This subsection is the governing specification for the CFE essay tagline: both the markdown source and any HTML export must use it verbatim.
+
 ---
 
 ## 6. The Christos AI Training Implication
@@ -458,4 +470,4 @@ Expected pattern going forward: All substantive essays should have paired develo
 *This file is the operating system for fellowship essay production. It defines the workflow from source to archive, the conventions for naming and structuring, and the procedures for feeding new insights back into the theological grammar and founders vision.*
 
 **Renaissance Ministries | Christos Fellowship Essays**  
-*One heart to make Christ King.*
+*Of one heart to make Christ King - 1 Chronicles 12:38*
