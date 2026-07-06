@@ -12,6 +12,7 @@ topics: [atonement, substitutionary_sacrifice, spiritual_credit_and_debt, two_la
 pipeline_stage: "Stage 0 — Doctrine Spine. Stage 1: chapter architecture. Stage 2: narration scripts. Stage 3: shot lists (sentence-to-scene mapping in controlled parable-worlds)."
 changelog:
   - "2026-07-03 v0.1 FIRST_DRAFT. Spine extracted from v4c; redundancies merged; 12 flags registered for Thomas's decision. Object of round one of the recursive edit."
+  - "2026-07-06 v0.2 ROUND-ONE INTEGRATED. Thomas ratified the integrated reframes (FLAG-1..11, 13); FLAG-12 resolved as companion video (interference-cancellation seed concept); four round-one flags resolved and integrated: S10a + S37a (Holy Spirit — sent representative, indwelling worker of metanoia, personhood guard), S33a (historical witness anchor alongside the resonance requirement), S39a (love of neighbor via Matthew 25:40 with distinctions-restored guard), S40a/S40b (bodily resurrection and Thomas's economy-of-effort/adolescent-creation argument, Romans 8:19-23). Never-heard question logged as future FAQ vignette. Thomas's verbatim round-one contributions preserved in 260706-round-one-development-notes.md."
 ---
 
 # The End of the Story — Doctrine Spine v0.1
@@ -55,6 +56,8 @@ Nothing here is new theology. Every proposition is your own claim from v4c, comp
 **S9.** This two-layer architecture is the design solution, not an accident: it is what makes it possible for sinful men to live inside the body of a totally pure being without immediate destruction.
 
 **S10.** The Father beholds the Son, who is pure; the sin of man is held within the Son, so the Father's wrath is not executed against us while we remain under His covering. **[FLAG-11]**
+
+**S10a.** When the Son returned to the Father, He sent the Spirit — the Comforter, the personal representative and presence of the Father and the Son, who teaches, speaks, and can be grieved — extended into the innermost layer of the creation, so that God Himself can dwell *within* the man whom the covering has made clean, without destroying him. *(John 14:16–18, 23, 26; 16:7; Ephesians 4:30)* **[FLAG-14]**
 
 ### Group C — Human Nature, Freedom, and the Test
 *(candidate parable-world: the inheritance and the far country)*
@@ -114,6 +117,8 @@ Nothing here is new theology. Every proposition is your own claim from v4c, comp
 
 **S33.** Death could not hold Him: justice itself demanded His release, and the Father raised Him. *(Acts 2:24)* **[FLAG-4 governs the ordering of S28–S33; FLAG-7 governs whether the descent into Hell appears here]**
 
+**S33a.** And this happened in history, not in myth: the wrath that must land on a flesh man to be resonant landed on Jesus of Nazareth, crucified under Pontius Pilate — seen alive afterward by named witnesses, above five hundred at once, most still living when the record was published for checking. *(1 Corinthians 15:3–8)* **[FLAG-16]**
+
 ### Group G — The Credit
 *(candidate parable-world: the ledger and the account book — the centerpiece)*
 
@@ -125,6 +130,8 @@ Nothing here is new theology. Every proposition is your own claim from v4c, comp
 
 **S37.** The required change is metanoia — the transformation of heart, mind, and character out of the cocoon — for the gift cannot be received by a will still pledged to the flesh.
 
+**S37a.** The metanoia is not achieved by willpower: the indwelling Spirit works the transformation from within, taking away the heart of stone and writing the new character on a heart of flesh — the man consents and cooperates, but God performs. *(Ezekiel 36:26–27; Romans 8:9–11; Philippians 2:13)* **[FLAG-14]**
+
 **S38.** The spiritual debt is cancelled entirely; the physical consequences of sin in this life may still have to be paid. *(Galatians 6:7; 2 Samuel 12:13–14)*
 
 ### Group H — The End of the Story
@@ -132,7 +139,13 @@ Nothing here is new theology. Every proposition is your own claim from v4c, comp
 
 **S39.** Growth in righteousness after cleansing lays up treasure in heaven: authority in the Kingdom is granted commensurate with the character developed here. *(Luke 19:17)*
 
+**S39a.** The character that lays up treasure is love of God wearing a human face: since all that exists is of Him, what is done to the least of His creatures is done to Him, and the love we give the neighbor is love God Himself experiences — the second commandment is the lived form of the first. *(Matthew 22:37–40; 25:40; Romans 13:8–10)* **[FLAG-17]**
+
 **S40.** At death the cleansed man passes out of the cocoon and stands in the presence of the Father — pure, accepted, fully loved — with Christ as his advocate before the throne.
+
+**S40a.** And the end is not a disembodied heaven: the dead in Christ will be raised bodily, as He was raised — the firstfruits of them that slept — to live in a renewed physical creation where God dwells with men and every tear is wiped away. *(1 Corinthians 15:20–23, 42–44; Revelation 21:1–4)* **[FLAG-15]**
+
+**S40b.** This is the economy of the plan: the physical universe is the most complex and articulated work of God's mind — an organism still in its adolescence, groaning and travailing toward maturity — and God does not scrap His masterwork because its stewards' characters were immature; He matures the stewards, cleanses them, and returns them to it, so the story ends where it began, embodied man with God in a perfected creation, this time forever. *(Romans 8:19–23)* **[FLAG-15]**
 
 **S41.** And this is the end of the story that every man should know before he reaches it: the debt is real, the credit is real, and whose account you die on is your choice.
 
@@ -176,10 +189,26 @@ Beat 1 → S1–S4. Beat 2 → S5–S12 (the Shema, the two declarations, the on
 
 *(FLAG-8 and FLAG-9 from the working session were absorbed: the "to whom is payment made" ambiguity is resolved by FLAG-4's sequencing, and "physical consequences still paid" was kept as S38 without change.)*
 
+### Round-One Resolutions (2026-07-06, Thomas)
+
+**FLAG-1 through FLAG-11, FLAG-13:** RESOLVED — ratified as integrated ("I reviewed your document. It all looks good."). Group F stands in warrant-first order (FLAG-4 option a); the descent appears as a single credal line if wanted at Stage 2 (FLAG-7 option a remains open to narration drafting).
+
+**FLAG-12:** RESOLVED — option (b), companion video. Thomas's seed concept for the companion, preserved: the CPP-type physics metaphor justifying the subtractive/interference energy that zeroes sin by cancellation, restoring perfection and order — destructive interference nulling a disordered waveform as the physical picture of order-restoring wrath. This separates project, philosophy, theory, and theology into another realm. S-CPP leaves the main series' chapter architecture; the companion is a registered follow-on project.
+
+**FLAG-14:** RESOLVED — Thomas: the Spirit is the representative of Christ and the Father, sent when Christ returned to the Father (John 16:7). Integrated as S10a (architecture: the presence of God extended into the innermost layer, indwelling the cleansed man) and S37a (the work: the Spirit, not willpower, performs the metanoia — closing the works-righteousness reading of S37/S39). Guard retained in S10a: the Spirit is personal — teaches, speaks, can be grieved — against the impersonal-force misreading.
+
+**FLAG-15:** RESOLVED — bodily resurrection affirmed as essential to "the end of the story." Thomas's economy-of-effort argument integrated as S40b: the physical universe as God's most articulated work, an organism in its adolescent phase, not scrapped but restored with matured stewards. Textual anchor: Romans 8:19–23 (the creation groaning in travail toward the manifestation of the sons of God). S40a states the resurrection itself.
+
+**FLAG-16:** RESOLVED — Thomas's resonance requirement (wrath must land on a flesh man; the historic Jesus is that man) covers the structural necessity and stands in S23–S25; S33a adds the evidentiary anchor (Pilate; the five hundred witnesses of 1 Corinthians 15:6, published while checkable) to close the "beautiful myth" escape hatch.
+
+**FLAG-17:** RESOLVED — Thomas: the neighbor and the self are parts of God; love given the neighbor is experienced by God; the first commandment is the only law and the second is entailed — then "put the distinctions back on" and live it out. Integrated as S39a with Matthew 25:40 as the proof-text and the lived form (love neighbor as self) as the operative command. Guard: the distinctions-restored move is load-bearing against a pantheism/self-worship misreading; Stage 2 narration must never state the structural reduction without the restoration. Tradition note: Augustine's ordo amoris (loving the neighbor in God and for God) is the historic form of this insight; Thomas's reduction is stronger but compatible.
+
+**Scope note (logged):** the never-heard question (Romans 1–2; Luke 12:47–48) is reserved for a future FAQ vignette, not the spine.
+
 ---
 
 ## §4. Next Stage Preview
 
-Once you return this document with KEEP/REVISE/CUT marks and the twelve flag decisions, Stage 1 produces the chapter architecture: nine to twelve vignettes of two to four minutes, each owning one question, one group of spine propositions, and one parable-world; the candidate world noted under each group heading above is a first proposal, not a commitment. Stage 2 writes the narration for the ear. Stage 3 maps every narration sentence to a SAY / SHOW / HOLD shot within its chapter's world, sized to Runway's clip lengths and its preference for few recurring visual elements.
+Round one is complete (see Round-One Resolutions in §3). Stage 1 now produces the chapter architecture, with S-CPP excluded from the series (it moves to the registered companion-video project, seed concept recorded under FLAG-12). Stage 1 produces the chapter architecture: nine to twelve vignettes of two to four minutes, each owning one question, one group of spine propositions, and one parable-world; the candidate world noted under each group heading above is a first proposal, not a commitment. Stage 2 writes the narration for the ear. Stage 3 maps every narration sentence to a SAY / SHOW / HOLD shot within its chapter's world, sized to Runway's clip lengths and its preference for few recurring visual elements.
 
 — Prepared for round one of the recursive edit.
