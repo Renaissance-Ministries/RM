@@ -98,6 +98,24 @@ A **fellowship essay** is a written engagement of a source document (article, bo
 
 ---
 
+### Phase 4.5: Current-Events Essays — The Issachar Form (MANDATORY for news analysis)
+
+**Scope.** This protocol governs every CFE essay engaging news, current events, geopolitics, or public controversy. It does not apply to purely theological, exegetical, or apologetic essays.
+
+**Founding precedent.** Established 2026-07-07 by Thomas's directed revision of "The Alignment and the Watchman" (v1.0 → v2.0). Thomas's founding statement, preserved verbatim: *"The actual issues/policies/alternatives/morality-of-the-situation should be debated, rather than simply grading them as to whether they pass the test of information fidelity, which is important, but no one has ever toppled a dictatorial regime with a discussion about information fidelity."* The v1.0 failure mode this protocol prevents: an essay that triages the evidence, adjourns at understanding, and never deliberates or calls to action — stopping, as v2.0 put it, six verses short of the fellowship's own banner (1 Chronicles 12:32 stands six verses above the 12:38 tagline in the same muster roll: *men that had understanding of the times, to know what Israel ought to do*).
+
+**The three mandatory movements, in order:**
+
+**1. TRIAGE (the assertion discipline — one movement, not the spine).** Sort the source's claims into three tiers: public verifiable events; informed interpretation; single-chained or contested claims. Governing principles: the ninth commandment governs what the essay *asserts as fact* (Proverbs 18:17); source character and institutional track record are legitimate Bayesian weight (Proverbs 14:15) — but the discount attaches to *demonstrated track record, never to tribe*, and every measure applied to hostile sources must be survivable when applied to friendly ones (Matthew 7:2). Tier-three means "hold loosely and test," never "dismiss": single witnesses can be right (the Chambers/Hiss/Venona precedent — the disreputable lone witness vindicated by verification, the manufactured consensus and its Alinsky-ridicule enforcement exposed by the archive). Ridicule is not evidence; "everyone knows" is not evidence under conditions of industrial deception. Where a specific figure or claim is checkable, check it before printing (primary source or two independent outlets); precision frequently proves sharper than the inflated version. Proportionality rule: the triage is a paragraph or two of hygiene, not the essay's center of gravity.
+
+**2. DELIBERATION (the Issachar movement — the center of gravity).** State the moral and policy questions the events force, and argue them on the merits to *stated judgments*. Governing principles: Deuteronomy 19:15 is a conviction standard, not a vigilance standard — deliberation, investigation, and demands for inquiry carry lower evidentiary thresholds than assertion, and assertion lower than conviction (Ecclesiastes 11:4 condemns waiting for certainty as the sin of the watcher of winds). Contested facts are handled by conditional reasoning at full moral strength ("if X occurred, then...") — which violates no commandment and surrenders no force. Prefer deliberating on tier-one ground wherever the questions permit it. Unfalsifiable strategic defenses ("trust the plan") are judged by visible fruits (Matthew 7:16), with the burden on the strategy's defenders. All judgments are rendered *provisionally and stated anyway*, with revision promised if the evidence changes — provisional judgment firmly acted upon is how all statecraft and all faith operate (Hebrews 11:1).
+
+**3. ACTION (the levers).** Convert the judgments into the fellowship's concrete, honest levers: named and specific prayer (never atmospheric); speech where speech reaches power — specific congressional or civic asks routed through the CVN where applicable; formation of discernment within the fellowship; and the watcher's-soul guard (Luke 21:28 held together with 21:34 — a heart inflamed cannot sit on the council of Issachar). Be honest about scale (Zechariah 4:10) — small levers named truthfully outrank large levers imagined.
+
+**Compliance check before shipping:** Does the essay end at understanding? If yes, it is not finished. Every current-events essay must render at least one stated judgment and at least one concrete action.
+
+---
+
 ### Phase 5: Development Transcript (Optional but Recommended)
 
 **When to create:** When the deliberation between Thomas and Claude surfaces substantive new theological insights, framework clarifications, or voice/pastoral disciplines that future sessions need to understand.
