@@ -1,0 +1,900 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Action Tracker - Ike's Board</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--bg:#0d1117;--s1:#161b22;--s2:#1c2129;--bd:#30363d;--bd2:#484f58;--tx:#e6edf3;--mu:#8b949e;--ac:#58a6ff;--gn:#3fb950;--yl:#d29922;--rd:#f85149;--or:#db6d28;--pu:#bc8cff;--pk:#f778ba;--cy:#39d2c0}
+body{font-family:-apple-system,'SF Pro Text','Segoe UI',sans-serif;background:var(--bg);color:var(--tx);line-height:1.5}
+input,textarea,select,button{font-family:inherit}
+
+.app{display:grid;grid-template-columns:220px 1fr;min-height:100vh}
+@media(max-width:800px){.app{grid-template-columns:1fr}.side{display:none}}
+
+/* Sidebar */
+.side{background:var(--s1);border-right:1px solid var(--bd);padding:16px 0;position:sticky;top:0;height:100vh;overflow-y:auto}
+.side h1{font-size:15px;padding:0 16px 12px;font-weight:700;border-bottom:1px solid var(--bd);margin-bottom:8px}
+.sitem{padding:6px 16px;font-size:13px;cursor:pointer;display:flex;justify-content:space-between;align-items:center;color:var(--mu);border-left:2px solid transparent;transition:.1s}
+.sitem:hover{color:var(--tx);background:rgba(255,255,255,.02)}
+.sitem.on{color:var(--tx);border-left-color:var(--ac);background:rgba(88,166,255,.06)}
+.sitem .d{width:7px;height:7px;border-radius:50%;flex-shrink:0;margin-right:8px}
+.sitem .c{font-size:11px;background:var(--bg);border-radius:10px;padding:0 6px}
+.sdiv{height:1px;background:var(--bd);margin:8px 16px}
+.slbl{padding:6px 16px 2px;font-size:10px;text-transform:uppercase;letter-spacing:.5px;color:var(--mu);font-weight:600}
+
+/* Main */
+.main{padding:20px 28px;overflow-y:auto}
+
+/* Top bar */
+.topbar{display:flex;gap:10px;align-items:center;margin-bottom:20px;flex-wrap:wrap}
+.topbar input[type=text]{background:var(--s1);border:1px solid var(--bd);border-radius:6px;color:var(--tx);padding:6px 10px;font-size:13px;width:220px}
+.topbar input:focus{border-color:var(--ac);outline:none}
+.btn{border:none;border-radius:6px;padding:5px 12px;font-size:12px;cursor:pointer;font-weight:500;transition:.1s}
+.btn-a{background:var(--ac);color:#fff}.btn-a:hover{opacity:.85}
+.btn-o{background:transparent;border:1px solid var(--bd);color:var(--mu)}.btn-o:hover{border-color:var(--ac);color:var(--tx)}
+.btn-d{background:rgba(248,81,73,.15);color:var(--rd)}.btn-d:hover{background:rgba(248,81,73,.25)}
+.btn-s{padding:3px 8px;font-size:11px}
+
+/* Dashboard */
+.dash{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px;margin-bottom:24px}
+.dcard{background:var(--s1);border:1px solid var(--bd);border-radius:8px;padding:12px 14px;cursor:pointer;transition:.15s}
+.dcard:hover{border-color:var(--bd2)}
+.dcard.on{border-color:var(--ac)}
+.dcard h3{font-size:11px;text-transform:uppercase;letter-spacing:.3px;margin-bottom:6px;display:flex;align-items:center;gap:6px}
+.dcard .pct{font-size:24px;font-weight:700}
+.dcard .bar{height:5px;background:var(--bd);border-radius:3px;margin-top:6px;overflow:hidden}
+.dcard .bar span{display:block;height:100%;border-radius:3px;transition:width .3s}
+.dcard .sub{font-size:11px;color:var(--mu);margin-top:4px}
+
+/* Project sections */
+.proj{margin-bottom:28px}
+.proj-head{display:flex;align-items:center;gap:10px;margin-bottom:8px;cursor:pointer;user-select:none}
+.proj-head h2{font-size:15px;font-weight:600}
+.proj-head .line{flex:1;height:1px;background:var(--bd)}
+.proj-head .stats{font-size:12px;color:var(--mu);white-space:nowrap}
+.proj-bar{height:6px;background:var(--bd);border-radius:3px;overflow:hidden;margin-bottom:12px}
+.proj-bar span{display:block;height:100%;border-radius:3px;transition:width .3s}
+
+/* Task card */
+.task{background:var(--s1);border:1px solid var(--bd);border-radius:8px;margin-bottom:6px;overflow:hidden;transition:border-color .1s}
+.task:hover{border-color:var(--bd2)}
+.task-head{padding:10px 12px;display:flex;align-items:center;gap:8px;cursor:pointer}
+.task-head .arrow{color:var(--mu);font-size:10px;transition:transform .15s;width:14px;text-align:center;flex-shrink:0}
+.task-head .arrow.open{transform:rotate(90deg)}
+.task-name{flex:1;font-size:13px;font-weight:500}
+.task-badges{display:flex;gap:4px;flex-shrink:0}
+.badge{font-size:10px;padding:1px 7px;border-radius:10px;white-space:nowrap}
+.b-ike{background:rgba(88,166,255,.12);color:var(--ac)}
+.b-thomas{background:rgba(188,140,255,.12);color:var(--pu)}
+.b-both{background:rgba(63,185,80,.12);color:var(--gn)}
+.b-charlie{background:rgba(210,153,34,.12);color:var(--yl)}
+.b-ext{background:rgba(248,81,73,.12);color:var(--rd)}
+.b-date{background:var(--bg);border:1px solid var(--bd);color:var(--mu)}
+.task-pct{font-size:11px;color:var(--mu);min-width:30px;text-align:right}
+.task-minibar{width:60px;height:4px;background:var(--bd);border-radius:2px;overflow:hidden;flex-shrink:0}
+.task-minibar span{display:block;height:100%;border-radius:2px}
+
+/* Task body */
+.task-body{display:none;padding:0 12px 12px;border-top:1px solid var(--bd)}
+.task-body.open{display:block}
+.task-detail{font-size:12px;color:var(--mu);padding:8px 0;line-height:1.5}
+
+/* Steps */
+.steps{margin:6px 0}
+.step{display:flex;align-items:flex-start;gap:6px;padding:3px 0;font-size:12px}
+.step input[type=checkbox]{margin-top:3px;accent-color:var(--ac);cursor:pointer;flex-shrink:0}
+.step label{cursor:pointer;flex:1;transition:.1s}
+.step.done label{text-decoration:line-through;color:var(--mu)}
+.step .del-step{opacity:0;color:var(--rd);cursor:pointer;background:none;border:none;font-size:14px;padding:0 4px;transition:.1s;flex-shrink:0}
+.step:hover .del-step{opacity:.6}
+.step .del-step:hover{opacity:1}
+
+/* Add step input */
+.add-step{display:flex;gap:6px;margin-top:4px}
+.add-step input{flex:1;background:var(--bg);border:1px solid var(--bd);border-radius:5px;color:var(--tx);padding:4px 8px;font-size:12px}
+.add-step input:focus{border-color:var(--ac);outline:none}
+.add-step input::placeholder{color:var(--bd2)}
+
+/* Task note */
+.task-note{margin-top:8px}
+.task-note textarea{width:100%;background:var(--bg);border:1px solid var(--bd);border-radius:6px;color:var(--tx);font-size:12px;padding:6px 8px;resize:vertical;min-height:32px}
+.task-note textarea:focus{border-color:var(--ac);outline:none}
+
+.task-actions{display:flex;gap:6px;margin-top:8px;flex-wrap:wrap}
+
+/* Add task inline */
+.add-task-row{display:flex;gap:6px;margin-top:6px}
+.add-task-row input{flex:1;background:var(--s1);border:1px solid var(--bd);border-radius:6px;color:var(--tx);padding:6px 10px;font-size:13px}
+.add-task-row input:focus{border-color:var(--ac);outline:none}
+.add-task-row select{background:var(--s1);border:1px solid var(--bd);border-radius:6px;color:var(--tx);padding:6px;font-size:12px}
+
+/* Scratchpad */
+.scratch{margin-top:32px}
+.scratch h2{font-size:14px;color:var(--mu);margin-bottom:8px}
+#pad{width:100%;min-height:200px;background:var(--s1);border:1px solid var(--bd);border-radius:8px;color:var(--tx);font-family:'SF Mono',Menlo,monospace;font-size:13px;padding:12px;resize:vertical;line-height:1.6}
+#pad:focus{border-color:var(--ac);outline:none}
+.cbar{display:flex;gap:6px;margin:8px 0 4px;flex-wrap:wrap;align-items:center}
+.cbar button,.cbar input{background:var(--s1);border:1px solid var(--bd);color:var(--tx);padding:3px 8px;border-radius:6px;cursor:pointer;font-size:11px}
+.cbar button:hover{border-color:var(--ac)}
+.cbar button.on{border-color:var(--ac);background:rgba(88,166,255,.08)}
+#cvs{border:1px solid var(--bd);border-radius:8px;cursor:crosshair;display:block;background:var(--s1);width:100%}
+</style>
+</head>
+<body>
+<div class="app">
+<div class="side" id="side"></div>
+<div class="main" id="main"></div>
+</div>
+<script>
+// ============ DATA ============
+const P={
+  hyperphysics:{l:'Hyperphysics / CPP',c:'#58a6ff'},
+  ideomotion:{l:'Ideomotion',c:'#3fb950'},
+  president:{l:'President Site',c:'#bc8cff'},
+  renaissance:{l:'Renaissance Ministries',c:'#d29922'},
+  homeschool:{l:'Christos Homeschool',c:'#f778ba'},
+  video:{l:'Video Production',c:'#db6d28'},
+  general:{l:'General',c:'#8b949e'},
+  trading:{l:'Trading',c:'#f85149'},
+};
+
+const DEFAULT_TASKS=[
+  // ===== HYPERPHYSICS =====
+  {id:'z1',name:'The Big Wave — Zenodo Publication Pipeline',project:'hyperphysics',owner:'ike',date:'8/19',
+   detail:'Publish all 118 CPP papers on Zenodo simultaneously. Scripts built and tested on sandbox (zero failures). Pipeline: go-ahead → production switch → reserve DOIs → inject bib → recompile PDFs → upload & publish.',
+   steps:[
+     {t:'Build zenodo_deposit.py',d:true},{t:'Test SF-4 deposit on sandbox',d:true},
+     {t:'Reserve spin trio (SR-2, SPIN-1, SPIN-2) on sandbox',d:true},
+     {t:'Build bulk DOI reservation script (zenodo_reserve_all.py)',d:true},
+     {t:'Test bulk reservation — 118 DOIs on sandbox (zero failures)',d:true},
+     {t:'Build bibliography injection script (zenodo_update_bib.py)',d:true},
+     {t:'Write all DOIs into bibliography',d:true},
+     {t:'Email Thomas with Zenodo status (sent 8/24)',d:true},
+     {t:'Thomas reviews Zenodo email & gives go-ahead',d:true},
+     {t:'Switch .env to production Zenodo',d:true},
+     {t:'Reserve all 118 DOIs on production',d:true},
+     {t:'Inject production DOIs into bibliography',d:true},
+     {t:'Thomas confirms LaTeX build process',d:false},
+     {t:'Recompile all PDFs via LaTeX',d:false},
+     {t:'Upload updated PDFs to Zenodo drafts',d:false},
+     {t:'Final review of all drafts',d:false},
+     {t:'PUBLISH ALL (the big wave) — permanent, cannot undo',d:false},
+   ]},
+
+  {id:'z2',name:'Theory Harmonization Across All Papers',project:'hyperphysics',owner:'thomas',date:'8/24',
+   detail:'Thomas is pushing new depth from dark matter/dark energy work back into QM, SR, GR, DM, DE papers. Primary reason for publication hold. Says "on the upside of a hump" with DE/DM (8/26). GR, DE, DM on HOLD — check back 8/27.',
+   steps:[
+     {t:'QM papers harmonized',d:false},{t:'Special relativity papers harmonized',d:false},
+     {t:'General relativity papers harmonized',d:false},{t:'Dark matter papers harmonized',d:false},
+     {t:'Dark energy papers harmonized',d:false},{t:'Cross-references verified',d:false},
+   ]},
+
+  {id:'z2b',name:'Bibliography Consolidation',project:'hyperphysics',owner:'ike',date:'8/27',
+   detail:'Merged 5 satellite .bib files into single master bibliography. SR companions renamed c01-c06 → SR-c01–SR-c05. Naming convention: series ID as canonical BibTeX key. KEY_MAPPING.md + NAMING_CHANGELOG.md track everything.',
+   steps:[
+     {t:'Merge 5 satellite .bib files into single master',d:true},
+     {t:'Rename SR companions (c01-c06 → SR-c01–SR-c05)',d:true},
+     {t:'Establish naming convention (series ID = canonical BibTeX key)',d:true},
+     {t:'Create KEY_MAPPING.md',d:true},
+     {t:'Create NAMING_CHANGELOG.md',d:true},
+     {t:'Add series-ID keys for all papers',d:false},
+     {t:'Update Zenodo metadata to match new keys',d:false},
+     {t:'Update GR c-number aliases in .tex files',d:false},
+   ]},
+
+  {id:'z3',name:'GR-1 Derivation — General Relativity from CPP',project:'hyperphysics',owner:'thomas',date:'8/19',
+   detail:'Derive general relativity from conscious point physics first principles. Companion paper complete. ~75% per Claude estimate. May take weeks/months like DM work.',
+   steps:[
+     {t:'GR-1 companion paper',d:true},{t:'GR-1 series paper',d:false},
+     {t:'GR foundation flagship paper',d:false},{t:'CONV-028 review round (opens publication gate for ~109 papers)',d:false},
+   ]},
+
+  {id:'z4',name:'GR Independent Review Panel Findings',project:'hyperphysics',owner:'ike',date:'8/20',
+   detail:'3-model panel (o3, Grok 3, Opus) found GR claims overclaimed — scalar field, not tensor. Detailed email drafted in Gmail.',
+   steps:[
+     {t:'Run independent review panel',d:true},{t:'Draft email to Thomas',d:true},
+     {t:'Thomas reviews and approves sending',d:false},{t:'Send email',d:false},
+   ]},
+
+  {id:'z5',name:'Hyperphysics Site Rebuild',project:'hyperphysics',owner:'ike',date:'8/22',
+   detail:'Get the hyperphysics website viewable as a draft so Thomas can critique. Michelangelo analogy: "we need it there so we can do some carving."',
+   steps:[
+     {t:'Archive live hyperphysics.com via FTP (424MB, 8,794 files)',d:true},
+     {t:'Build learning path overview page (10 tracks)',d:true},
+     {t:'GR learning track plan document',d:true},
+     {t:'Get site viewable as live draft',d:false},
+     {t:'Expand paper_config.json (28 → 118 papers)',d:false},
+     {t:'Update paper template with Zenodo DOI links',d:false},
+     {t:'Regenerate all HTML pages (run generate.py)',d:false},
+     {t:'Fill learning path content — plain-language summaries per track',d:false},
+     {t:'Learning track animations & interactives (ZBW, cage geometry)',d:false},
+     {t:'Deploy to zebra.esosoft.net via FTP',d:false},
+   ]},
+
+  {id:'z6',name:'Paper Count & Manifest Reconciliation',project:'hyperphysics',owner:'thomas',date:'8/22',
+   detail:'Numbers don\'t match cleanly (117 vs 122 vs 118). 4 do-not-deposit papers. C-series retired. Thomas to clarify.',
+   steps:[
+     {t:'Update manifest (114 → 118 papers)',d:true},{t:'Verify all file paths',d:true},
+     {t:'Thomas clarifies final count',d:false},{t:'Reconcile discrepancies',d:false},
+   ]},
+
+  {id:'z7',name:'Infrastructure — Email & Accounts',project:'hyperphysics',owner:'ext',date:'8/20',
+   detail:'Steve (EsoSoft) to set up hyperphysics.com email. Needed for Zenodo institutional address. Using RM Gmail as workaround.',
+   steps:[
+     {t:'Email Steve requesting setup (sent 8/20)',d:true},
+     {t:'Steve delivers info@hyperphysics.com',d:false},
+     {t:'Steve delivers drthomas@hyperphysics.com',d:false},
+     {t:'Migrate Zenodo account to hyperphysics.com email',d:false},
+     {t:'Share credentials with Thomas & Steve as backup',d:false},
+   ]},
+
+  {id:'z8',name:'CPP Learning Sessions & Recording',project:'hyperphysics',owner:'ike',date:'8/20',
+   detail:'Have Claude teach GR1 through CPP lens. Record every Q&A verbatim tagged as "learning sequence." Creates training data for homeschool AI.',
+   steps:[
+     {t:'Set up verbatim recording system',d:false},
+     {t:'Tag learning vs development sessions',d:false},
+     {t:'First GR1 learning session with Claude',d:false},
+     {t:'Review and tag recordings',d:false},
+   ]},
+
+  // ===== IDEOMOTION =====
+  {id:'i1',name:'Shot List & Script for Photo/Video Day',project:'ideomotion',owner:'ike',date:'8/14',
+   detail:'OPEN SINCE AUG 14. Gates the entire photo/video studio day. Website mockup of needed photos and videos. Charlie\'s input needed.',
+   steps:[
+     {t:'List all product photos needed for website',d:false},
+     {t:'List all video segments needed (demo, training, safety)',d:false},
+     {t:'Get Charlie\'s input on angles and details',d:false},
+     {t:'Create website mockup showing photo/video placement',d:false},
+     {t:'Write A-roll script',d:false},
+     {t:'Storyboard with shot types marked',d:false},
+     {t:'Build detailed B-roll shot list',d:false},
+     {t:'Schedule studio day',d:false},
+   ]},
+
+  {id:'i2',name:'Cost of Goods (COGS) Reconstruction',project:'ideomotion',owner:'ike',date:'8/24',
+   detail:'Go to Charlie\'s and rebuild actual cost-of-goods list from receipts and emails.',
+   steps:[
+     {t:'Gather Victory Circle invoices',d:false},{t:'Motor costs',d:false},
+     {t:'Soft goods costs',d:false},{t:'Tube stock costs',d:false},
+     {t:'Power module costs',d:false},{t:'Assembly labor estimate',d:false},
+     {t:'Compile into final COGS spreadsheet',d:false},
+   ]},
+
+  {id:'i3',name:'Regulatory / ISO 10535 Consultant Calls',project:'ideomotion',owner:'ike',date:'8/24',
+   detail:'LA contacts available. Charlie says: conversation first, no shipping machines until consultant conversation done.',
+   steps:[
+     {t:'Research LA consultant contacts',d:false},{t:'Make initial phone calls',d:false},
+     {t:'Schedule Zoom with full group + live machine demo',d:false},
+     {t:'Get FDA / ISO 10535 classification guidance',d:false},
+     {t:'Report back to Thomas and Joelle',d:false},
+   ]},
+
+  {id:'i4',name:'Hex-Shaft Actuator Testing',project:'ideomotion',owner:'charlie',date:'8/24',
+   detail:'Charlie installs modified hex-shaft actuator in Jan\'s Lift Walker. First real load test. Brake untested.',
+   steps:[
+     {t:'Install modified actuator in Jan\'s walker',d:false},
+     {t:'Load test under real conditions',d:false},
+     {t:'Test brake mechanism',d:false},
+     {t:'Shoot video of test',d:false},
+     {t:'Get factory cost/lead time from Motion Systems (Mike Mulvany)',d:false},
+   ]},
+
+  {id:'i5',name:'Ideomotion Site & Media',project:'ideomotion',owner:'ike',date:'8/25',
+   detail:'Get IDM blog/site live as draft. Populate media repo. Part of "all sites live as drafts" directive.',
+   steps:[
+     {t:'Choose subdomain (blog.ideomotion.com or similar)',d:false},
+     {t:'Get draft site live',d:false},
+     {t:'Populate ideomotion-media repo with public content',d:false},
+     {t:'Confirm Thomas received IDEOMOTION-CAD repo invite',d:false},
+   ]},
+
+  {id:'i6',name:'Shipping & Hardware Decisions',project:'ideomotion',owner:'ike',date:'8/19',
+   detail:'Shipping quotes, seatbelt sourcing, tube roller research.',
+   steps:[
+     {t:'Pack Traveler in existing box',d:false},
+     {t:'Get UPS quote',d:false},{t:'Get FedEx quote',d:false},{t:'Get Oak Charter Freight quote',d:false},
+     {t:'Decide on seatbelt buckle (leaning 90-degree AmSafe ~$35)',d:false},
+     {t:'Research industrial tube roller pricing',d:false},
+     {t:'Research camera options for product photography — send Thomas pricing',d:false},
+   ]},
+
+  {id:'i7',name:'Sales Pipeline & Partners',project:'ideomotion',owner:'ike',date:'8/24',
+   detail:'Schedule working session with Joelle (was sick all week). Cal Poly student project outreach. Deafblind watch evaluation.',
+   steps:[
+     {t:'Joelle recovers from illness',d:false},
+     {t:'Schedule sales-pipeline day with Joelle',d:false},
+     {t:'Reply to Joelle with tiebreaker proposal',d:true},
+     {t:'Charlie: send Cal Poly email to professors',d:false},
+     {t:'Charlie: present balance device at Cal Poly',d:false},
+     {t:'Thomas: review competing deafblind haptic watch',d:false},
+     {t:'Charlie: finish assembling photo-ready Lift Walker unit',d:false},
+   ]},
+
+  {id:'i8b',name:'Pricing Sheet — Board Review',project:'ideomotion',owner:'ike',date:'8/28',
+   detail:'Pricing sheet with labor-marked-up accessory prices (~2.45x for Susan\'s sewing). All accessories included with every walker. Replacement prices cover parts + labor ($20/hr × 5hrs/day × 2 weeks = $1,000 labor per full set). Google Doc quote built and shared with Charlie for review.',
+   steps:[
+     {t:'Draft pricing sheet',d:true},
+     {t:'Pull accessory prices from newliftwalker.com',d:true},
+     {t:'Calculate labor markup (~2.45x, $1,000 labor per set)',d:true},
+     {t:'Build Google Doc quote with marked-up prices',d:true},
+     {t:'Share with Charlie for review',d:true},
+     {t:'Send to board for review',d:true},
+     {t:'Charlie confirms pricing',d:false},
+     {t:'Implement official pricing',d:false},
+   ]},
+
+  {id:'i9',name:'Sales Outreach — SciFit Petaluma',project:'ideomotion',owner:'ike',date:'8/28',
+   detail:'Jessica (referred by Charlie) interested in walker for new location, timeline ~6 months. Called 8/28 — presented Traveler at $12k and refurbished at $6-7k. Quote built as Google Doc. Email drafts ready for Charlie (review) and Jessica (delivery). Need Jessica\'s actual email address.',
+   steps:[
+     {t:'Call Jessica at SciFit — introduce Traveler',d:true},
+     {t:'Internal call with Charlie + Susan on pricing/accessories/production',d:true},
+     {t:'Build quote (Google Doc) with all models + accessory replacement prices',d:true},
+     {t:'Share quote with Charlie for review',d:true},
+     {t:'Draft email to Charlie',d:true},
+     {t:'Draft email to Jessica',d:true},
+     {t:'Get Jessica\'s actual email address',d:false},
+     {t:'Charlie reviews and approves quote',d:false},
+     {t:'Send quote to Jessica',d:false},
+     {t:'Follow up with Jessica',d:false},
+   ]},
+
+  {id:'i13',name:'Accessory Sewing Production — Susan',project:'ideomotion',owner:'charlie',date:'8/28',
+   detail:'Susan to sew accessory sets. ~2 weeks per full set at 5 hrs/day. Batch cutting first (biggest time save), then assembly-line sewing. Accessories same across Traveler and LiftWalker models. Needs dedicated home workspace (currently uses dining table). Logging hours going forward.',
+   steps:[
+     {t:'Susan sews one complete set as time trial',d:false},
+     {t:'Susan looks up per-item sewing times from paper records',d:false},
+     {t:'Susan logs all sewing time going forward',d:false},
+     {t:'Isak helps set up dedicated home workspace',d:false},
+     {t:'First full set complete',d:false},
+     {t:'Build stock — target 5 sets',d:false},
+   ]},
+
+  {id:'i10',name:'Local PT Organization Research',project:'ideomotion',owner:'ike',date:'8/28',
+   detail:'Charlie\'s directive: find the local physical therapy organization. When do they meet? Do they have a newsletter? This is our original marketplace — use it for startup research. Who\'s our customer? What will they pay? Channels of payment, information, demo opportunities.',
+   steps:[
+     {t:'Identify local PT professional organization(s)',d:false},
+     {t:'Find meeting schedule / newsletter / events',d:false},
+     {t:'Research "Around the Clock" and similar traveling PT companies',d:false},
+     {t:'Identify demo opportunities (meetings, conferences, newsletters)',d:false},
+     {t:'Report findings to Charlie and Joelle',d:false},
+   ]},
+
+  {id:'i11',name:'Traveler Stress / Destruction Test',project:'ideomotion',owner:'charlie',date:'8/28',
+   detail:'Formal stress test on a Traveler frame to potentially re-rate weight capacity from 250 lbs to 300-350 lbs. Charlie\'s rule: if you test to destruction, commit to destroying it fully — never sell a stress-tested unit. Anecdotal: 360 lb man tested fine; broke under lightweight priest after prior stress (lost the sale).',
+   steps:[
+     {t:'Select a frame for destruction testing',d:false},
+     {t:'Incrementally load-test beyond 250 lbs',d:false},
+     {t:'Test to actual failure point',d:false},
+     {t:'Document results and failure mode',d:false},
+     {t:'Determine new official weight rating (target: 300-350)',d:false},
+   ]},
+
+  {id:'i12',name:'Prepare Refurbished Traveler (~$6k)',project:'ideomotion',owner:'charlie',date:'8/28',
+   detail:'Charlie to prepare a refurbished Traveler unit as a lower-cost option. Used frame + all new parts. Target price ~$6,000 (half of new). "Like buying a \'55 Chevy — old frame, all new parts."',
+   steps:[
+     {t:'Select used frame from existing inventory',d:false},
+     {t:'Source all new components (prompts, motor, soft goods)',d:false},
+     {t:'Assemble refurbished unit',d:false},
+     {t:'Quality check and test',d:false},
+     {t:'Ready for sale',d:false},
+   ]},
+
+  {id:'i15',name:'Email Outreach Platform & List Strategy',project:'ideomotion',owner:'ike',date:'8/31',
+   detail:'Research legal/ethical email outreach options. Major platforms (Mailchimp, etc.) require opt-in consent. Options: (1) use Amazon SES + custom CRM backend (long-term, significant build), (2) test a small segment on a platform and accept opt-out risk, (3) cold calls to clinics/doctors. Start locally with California PTs/OTs. 1,927 NPI providers already have emails (ca_providers.csv). CAN-SPAM requires opt-out button; platforms go further requiring opt-in.',
+   steps:[
+     {t:'Research email platform options (Mailchimp vs Amazon SES vs custom)',d:false},
+     {t:'Evaluate CAN-SPAM compliance requirements vs platform TOS',d:false},
+     {t:'Segment CA providers by specialty (PT, OT, PM&R)',d:false},
+     {t:'Test small batch with 1,927 NPI emails that already exist',d:false},
+     {t:'Build custom CRM/email backend with Amazon SES (long-term)',d:false},
+     {t:'Research Hunter.io / Apollo.io for matching clinic names to emails',d:false},
+     {t:'Evaluate cold-call approach as alternative/supplement',d:false},
+     {t:'Report results to Jewel and team',d:false},
+   ]},
+
+  {id:'i16',name:'Victory Circle Manufacturing Capacity & Lead Times',project:'ideomotion',owner:'ike',date:'8/31',
+   detail:'Call Victory Circle to determine: turnaround for another 10 units, max capacity at same turnaround, and what scaling up looks like. Critical for sales planning — cannot take 1,000 orders if lead time is unknown. Ike/Thomas to call.',
+   steps:[
+     {t:'Call Victory Circle — ask turnaround time for 10 units',d:false},
+     {t:'Ask max units at same turnaround time',d:false},
+     {t:'Ask what scaling up would look like for them (hiring, second shop)',d:false},
+     {t:'Document lead times for sales planning',d:false},
+     {t:'Report back to team',d:false},
+   ]},
+
+  {id:'i17',name:'Demo & Returns Policy',project:'ideomotion',owner:'ike',date:'8/31',
+   detail:'Open questions from call with Jewel: What happens if a customer wants a demo? What does a refund/return look like if it doesn\'t work for them? Shipping vs local delivery logistics. Starting locally (California) makes demos more feasible.',
+   steps:[
+     {t:'Draft demo request process (local vs shipped)',d:false},
+     {t:'Draft refund/return policy',d:false},
+     {t:'Determine shipping vs local delivery logistics for CA',d:false},
+     {t:'Get Charlie and Joelle input on policy',d:false},
+   ]},
+
+  {id:'i14',name:'Quote Template — Insurance & DME Dealer Language',project:'ideomotion',owner:'ike',date:'8/31',
+   detail:'Add insurance reimbursement language to the quote template. When an individual or family asks about insurance coverage, the quote should direct them to an enrolled DME supplier. Draft language: "If you intend to seek reimbursement through Medicaid, Medicare, or private insurance, we recommend purchasing through an enrolled durable medical equipment supplier who can handle prior authorization and claims on your behalf. We can refer you to an authorized dealer in your area." Also research: which dealers to list as referrals, how to word it for clinic vs individual quotes, and whether to include it on every quote or only individual/family quotes. See operations/reimbursement-and-distribution-summary.md for full context.',
+   steps:[
+     {t:'Draft insurance/DME referral language for quote template',d:false},
+     {t:'Decide: include on all quotes or only individual/family quotes',d:false},
+     {t:'Identify 2-3 dealers to name as referral partners',d:false},
+     {t:'Get Joelle review on the language',d:false},
+     {t:'Add to quote template HTML',d:false},
+   ]},
+
+  {id:'i18',name:'Emergency Lowering Documentation',project:'ideomotion',owner:'ike',date:'9/3',
+   detail:'Create a formal document covering the Traveler emergency lowering mechanism. This is a precondition that gates insurance, ISO 10535 conformity, institutional sales, and production. Charlie\'s hex-shaft hand-crank solution is tested and working (video 8/31). Document should cover: the problem (user stuck in raised position, July incident), the solution (hex stub on actuator shaft, wrench or drill operated), testing status, load test requirements, and regulatory implications. This feeds into the FDA classification brief, the insurance application, and the intended use statement.',
+   steps:[
+     {t:'Document the July incident and complaint file entry 001',d:false},
+     {t:'Describe the hex-shaft emergency lowering mechanism',d:false},
+     {t:'Document test results from 8/31 video (hand wrench + drill)',d:false},
+     {t:'Identify remaining test: load test under user weight',d:false},
+     {t:'Draft warning label / dismount procedure for user manual',d:false},
+     {t:'Write interim justification memo (no shipping until this is complete)',d:false},
+     {t:'Get Charlie sign-off on the document',d:false},
+     {t:'Send to regulatory consultant when engaged',d:false},
+   ]},
+
+  // ===== PRESIDENT SITE =====
+  {id:'p1',name:'President Website Build',project:'president',owner:'ike',date:'8/25',
+   detail:'Place to funnel presidential daily briefs, essays, transcripts, discussions. Thomas: "I want a place to funnel all of this stuff." Same framework as hyperphysics.',
+   steps:[
+     {t:'Choose domain/subdomain',d:false},
+     {t:'Set up GitHub repo',d:false},
+     {t:'Build initial site structure (Isaac format)',d:true},
+     {t:'Create essay/brief template page',d:false},
+     {t:'Add first content (daily brief or essay)',d:false},
+     {t:'Contact Steve re: blog.drthomasforpresident.com',d:false},
+     {t:'Source photos/imagery (American flags, banners, patriotic visuals)',d:false},
+     {t:'Import ~62 WordPress categories as content filters',d:false},
+     {t:'Build updated version with brighter colors and imagery',d:false},
+     {t:'Deploy as live draft',d:false},
+   ]},
+
+  {id:'p2',name:'Video Production Setup',project:'president',owner:'ike',date:'8/25',
+   detail:'Teleprompter, seal graphic, camera setup for presidential recordings.',
+   steps:[
+     {t:'Research teleprompter options (beam-splitter style)',d:false},
+     {t:'Get pricing and send to Thomas',d:false},
+     {t:'Modify Leonard\'s candidate seal graphic ("Unity in Christ")',d:false},
+     {t:'Process Leonard\'s presidential seal — remove green bg, make transparent',d:false},
+     {t:'Create green-screen backdrop (seal one side, American flag other)',d:false},
+     {t:'Test green screen + EOS Rebel tight shot',d:false},
+     {t:'Thomas: write daily briefing content plan',d:false},
+     {t:'Record first test video',d:false},
+   ]},
+
+  // ===== RENAISSANCE MINISTRIES =====
+  {id:'r1',name:'Renaissance Ministries Blog Site',project:'renaissance',owner:'ike',date:'8/25',
+   detail:'Put blog.renaissanceministries.com live. Local files exist.',
+   steps:[
+     {t:'Transfer local files to GitHub',d:false},
+     {t:'Deploy to blog.renaissanceministries.com',d:false},
+     {t:'Thomas reviews and critiques',d:false},
+   ]},
+
+  {id:'r2',name:'Sunday Fellowship Essays',project:'renaissance',owner:'thomas',date:'8/25',
+   detail:'Convert recent conversations into essays for Sunday fellowship and the body of work / AI training corpus.',
+   steps:[
+     {t:'Rewrite 8/24 conversation into essay (secret societies, Bible, Mormonism)',d:false},
+     {t:'Convert 8/25 conversation into essay (group entities, archetypes, will)',d:false},
+     {t:'Start weekly listing of all topics discussed',d:false},
+     {t:'Write up "why we call the Bible reliable" (standing question)',d:false},
+   ]},
+
+  {id:'r3',name:'Canon & Research Capture',project:'renaissance',owner:'ike',date:'8/24',
+   detail:'Capture research from calls into the RM corpus. Currently only exists as chat output read aloud.',
+   steps:[
+     {t:'Capture canon-formation research',d:false},
+     {t:'Capture mystery-religion / Freemasonry research',d:false},
+     {t:'Capture Mormonism / LDS analysis',d:false},
+     {t:'Read deuterocanonical books (both want to)',d:false},
+   ]},
+
+  // ===== CHRISTOS HOMESCHOOL =====
+  {id:'c1',name:'Christos Homeschool Foundation',project:'homeschool',owner:'ike',date:'8/19',
+   detail:'Set up infrastructure for the AI-augmented Christian homeschool curriculum. OpenStax as free backbone. Claude 18+ restriction is critical blocker.',
+   steps:[
+     {t:'OpenStax curriculum research (~40+ college, ~7 K-12)',d:true},
+     {t:'Anthropic API billing model research',d:true},
+     {t:'Create CHS GitHub repo',d:false},
+     {t:'Research local/private AI for under-18 use (CRITICAL BLOCKER)',d:false},
+     {t:'Design API proxy architecture (auth, credits, Stripe)',d:false},
+     {t:'Determine per-token pricing and credit conversion rate',d:false},
+     {t:'Clarify legal entity structure (sub-LLC under RM?)',d:false},
+     {t:'Onboard Marilyn on Claude + GitHub basics (biology course)',d:false},
+   ]},
+
+  // ===== VIDEO PRODUCTION =====
+  {id:'v1',name:'Ideomotion Video Production Pipeline',project:'video',owner:'ike',date:'8/24',
+   detail:'Full pipeline from script to final edit for Traveler product demo/training videos.',
+   steps:[
+     {t:'Write video script (demo, training, safety)',d:false},
+     {t:'Storyboard with shot types and angles',d:false},
+     {t:'Build detailed B-roll shot list',d:false},
+     {t:'Shoot A-roll (one camera, following script)',d:false},
+     {t:'Shoot B-roll (supplemental cameras)',d:false},
+     {t:'Edit and assemble',d:false},
+     {t:'Review with Thomas and Charlie',d:false},
+   ]},
+
+  // ===== GENERAL =====
+  {id:'x1',name:'Ideomotion Operating Agreement',project:'general',owner:'ike',date:'8/25',
+   detail:'Operating agreement for Ideomotion LLC. Thomas reviewed 8/26 and called it "remarkable." Reply "I agree" = legal signature under CA law. 50/50 split, 2 owners (Thomas/Charlie), 2 co-managers (Ike/Joelle). $2k spending limit for managers.',
+   steps:[
+     {t:'Draft operating agreement',d:true},
+     {t:'Send to Thomas',d:true},
+     {t:'Thomas reviews & approves (8/26 — "looks really good")',d:true},
+     {t:'Add California EIN to agreement',d:false},
+     {t:'Finish banking resolution section (Valley Strong)',d:false},
+     {t:'Send updated version to Thomas & Charlie',d:false},
+     {t:'Forward to Joelle for co-manager signature',d:false},
+     {t:'Charlie reviews & accepts (reply "I agree")',d:false},
+     {t:'Joelle reviews & accepts',d:false},
+     {t:'Thomas replies "I agree"',d:false},
+     {t:'All parties signed — finalize',d:false},
+   ]},
+
+  {id:'x1b',name:'Call Charlie',project:'general',owner:'ike',date:'8/25',
+   detail:'Re: Cal Poly, contract, COGS. Charlie was traveling (St. Louis / Cal Poly). DONE 8/28 — discussed pricing, weight rating, product line, target market.',
+   steps:[
+     {t:'Call Charlie re: Cal Poly / contract / COGS',d:true},
+   ]},
+
+  {id:'x4',name:'Focusrite Scarlett Mic Setup',project:'general',owner:'thomas',date:'8/27',
+   detail:'Thomas tried switching to Focusrite Scarlett amplifier during 8/26 call. Previously caused echo on fellowship meetings. Couldn\'t get it working — will try again later.',
+   steps:[
+     {t:'Test Focusrite Scarlett without echo',d:false},
+     {t:'Configure as default mic for Zoom calls',d:false},
+   ]},
+
+  {id:'x2',name:'Succession Planning & Continuity',project:'general',owner:'both',date:'8/20',
+   detail:'Ensure all work can continue if Thomas is unavailable. Lawyer, credentials, methodology.',
+   steps:[
+     {t:'Save Connor Walker contact info (Thomas\'s lawyer)',d:false},
+     {t:'Thomas introduces Ike to Connor Walker',d:false},
+     {t:'Document CPP research methodology',d:false},
+     {t:'Swarm analysis proofs training (Thomas teaches Ike)',d:false},
+     {t:'GitHub access documentation for board (Armand, Charlie, Margo)',d:false},
+   ]},
+
+  {id:'x3',name:'Pollen Man Website (Good Deed)',project:'general',owner:'ike',date:'8/25',
+   detail:'Free informational website for Thomas\'s friend — royal jelly burn treatment anecdotes. No business partnership or liability.',
+   steps:[
+     {t:'Get photos from Pollen Man',d:false},
+     {t:'Build simple informational page',d:false},
+     {t:'Deploy',d:false},
+   ]},
+
+  // ===== TRADING =====
+  {id:'t1',name:'Trading System Refinement',project:'trading',owner:'both',date:'8/24',
+   detail:'Resolve ambiguities in the Eagle Financial 0DTE options system.',
+   steps:[
+     {t:'Ask Thomas: -6% stop or -18% drawdown? (incompatible rules)',d:false},
+     {t:'Document Ike\'s winning strategy from 8/25',d:false},
+     {t:'Log 8/26 trade — $85 profit, 5 put contracts, bought $5.58',d:false},
+     {t:'Update position sizing rules based on clarification',d:false},
+   ]},
+];
+
+// ============ STATE ============
+const SK='at3';
+function load(){try{return JSON.parse(localStorage.getItem(SK)||'{}')}catch{return{}}}
+function save(){localStorage.setItem(SK,JSON.stringify(S))}
+let S=load();
+
+// Hydrate tasks
+let tasks=JSON.parse(JSON.stringify(DEFAULT_TASKS));
+// Merge saved step states
+if(S.steps){
+  tasks.forEach(t=>{
+    if(S.steps[t.id]){
+      // Merge steps: keep new defaults but apply saved done states and additions
+      const saved=S.steps[t.id];
+      // Apply saved done states to matching steps
+      t.steps.forEach((s,i)=>{if(saved[i]!==undefined)s.d=saved[i]});
+      // Append user-added steps
+      if(S.added?.[t.id]){S.added[t.id].forEach(a=>t.steps.push({t:a.t,d:a.d}))}
+    }
+  });
+}
+// User-added tasks
+if(S.userTasks){S.userTasks.forEach(ut=>{
+  if(S.added?.[ut.id])S.added[ut.id].forEach(a=>ut.steps.push({t:a.t,d:a.d}));
+  tasks.push(ut);
+})}
+// Notes
+if(S.notes){tasks.forEach(t=>{if(S.notes[t.id])t.note=S.notes[t.id]})}
+// Expanded
+if(!S.expanded)S.expanded={};
+
+function persistSteps(){
+  S.steps={};
+  tasks.forEach(t=>{
+    // Save done states for default steps only
+    const def=DEFAULT_TASKS.find(d=>d.id===t.id);
+    const defLen=def?def.steps.length:0;
+    const states={};
+    t.steps.forEach((s,i)=>{if(i<defLen)states[i]=s.d});
+    if(Object.keys(states).length)S.steps[t.id]=states;
+  });
+  save();
+}
+function persistAdded(){
+  S.added={};
+  tasks.forEach(t=>{
+    const def=DEFAULT_TASKS.find(d=>d.id===t.id);
+    const defLen=def?def.steps.length:(S.userTasks?.find(u=>u.id===t.id)?0:0);
+    const extra=t.steps.slice(defLen).map(s=>({t:s.t,d:s.d}));
+    if(extra.length)S.added[t.id]=extra;
+  });
+  save();
+}
+function persistNotes(){
+  S.notes={};
+  tasks.forEach(t=>{if(t.note)S.notes[t.id]=t.note});
+  save();
+}
+function persistAll(){persistSteps();persistAdded();persistNotes();save()}
+
+// ============ CALC ============
+function taskPct(t){
+  if(!t.steps||!t.steps.length)return 0;
+  return Math.round(t.steps.filter(s=>s.d).length/t.steps.length*100);
+}
+function projPct(pk){
+  const pt=tasks.filter(t=>t.project===pk);
+  if(!pt.length)return 0;
+  return Math.round(pt.reduce((s,t)=>s+taskPct(t),0)/pt.length);
+}
+function projStats(pk){
+  const pt=tasks.filter(t=>t.project===pk);
+  const done=pt.filter(t=>taskPct(t)>=100).length;
+  return{total:pt.length,done,pct:projPct(pk)};
+}
+function pColor(p){return p>=100?'var(--gn)':p>=50?'var(--ac)':p>0?'var(--yl)':'var(--bd)'}
+
+// ============ NAV ============
+let nav='all';
+let search='';
+
+function setNav(n){nav=n;render()}
+
+// ============ RENDER ============
+function render(){
+  renderSide();renderMain();
+}
+
+function renderSide(){
+  const el=document.getElementById('side');
+  let h=`<h1>Ike's Board</h1>`;
+  h+=`<div class="slbl">Views</div>`;
+  h+=si('all','All Projects',tasks.length,'var(--ac)');
+  h+=`<div class="sdiv"></div><div class="slbl">Projects</div>`;
+  for(const[k,p]of Object.entries(P)){
+    const c=tasks.filter(t=>t.project===k).length;
+    if(c)h+=si(k,p.l,c,p.c);
+  }
+  h+=`<div class="sdiv"></div>`;
+  h+=si('scratch','Scratchpad & Draw','','var(--mu)');
+  el.innerHTML=h;
+}
+
+function si(id,label,cnt,color){
+  return`<div class="sitem ${nav===id?'on':''}" onclick="setNav('${id}')"><span style="display:flex;align-items:center"><span class="d" style="background:${color}"></span>${label}</span>${cnt?`<span class="c">${cnt}</span>`:''}</div>`;
+}
+
+function renderMain(){
+  const el=document.getElementById('main');
+  if(nav==='scratch'){el.innerHTML=renderScratch();setTimeout(initCvs,80);return}
+
+  let h='';
+  // Top bar
+  h+=`<div class="topbar"><input type="text" placeholder="Search tasks..." value="${search}" oninput="search=this.value;render()"><button class="btn btn-a" onclick="addTask()">+ Add Task</button><button class="btn btn-o" onclick="exportJSON()">Export</button></div>`;
+
+  // Dashboard
+  h+=renderDash();
+
+  // Projects
+  const show=nav==='all'?Object.keys(P):[nav];
+  for(const pk of show){
+    const pt=tasks.filter(t=>t.project===pk);
+    if(!pt.length)continue;
+    if(search){const q=search.toLowerCase();const f=pt.filter(t=>(t.name+' '+(t.detail||'')+' '+t.steps.map(s=>s.t).join(' ')).toLowerCase().includes(q));if(!f.length)continue;}
+    h+=renderProject(pk,pt);
+  }
+
+  // Scratchpad on all view
+  if(nav==='all')h+=renderScratch();
+
+  el.innerHTML=h;
+  if(nav==='all')setTimeout(initCvs,80);
+}
+
+function renderDash(){
+  let h=`<div class="dash">`;
+  // Overall
+  const allPct=tasks.length?Math.round(tasks.reduce((s,t)=>s+taskPct(t),0)/tasks.length):0;
+  const allDone=tasks.filter(t=>taskPct(t)>=100).length;
+  h+=`<div class="dcard ${nav==='all'?'on':''}" onclick="setNav('all')"><h3 style="color:var(--ac)">Overall</h3><div class="pct" style="color:var(--ac)">${allPct}%</div><div class="bar"><span style="width:${allPct}%;background:var(--ac)"></span></div><div class="sub">${allDone}/${tasks.length} tasks complete</div></div>`;
+
+  const show=nav==='all'?Object.keys(P):[nav];
+  for(const pk of show){
+    const s=projStats(pk);if(!s.total)continue;
+    const p=P[pk];
+    h+=`<div class="dcard ${nav===pk?'on':''}" onclick="setNav('${pk}')"><h3 style="color:${p.c}">${p.l}</h3><div class="pct" style="color:${p.c}">${s.pct}%</div><div class="bar"><span style="width:${s.pct}%;background:${p.c}"></span></div><div class="sub">${s.done}/${s.total} tasks</div></div>`;
+  }
+  h+=`</div>`;
+  return h;
+}
+
+function renderProject(pk,pt){
+  const p=P[pk];const s=projStats(pk);
+  let filt=pt;
+  if(search){const q=search.toLowerCase();filt=pt.filter(t=>(t.name+' '+(t.detail||'')+' '+t.steps.map(s=>s.t).join(' ')).toLowerCase().includes(q))}
+
+  let h=`<div class="proj">`;
+  h+=`<div class="proj-head"><h2 style="color:${p.c}">${p.l}</h2><span class="line"></span><span class="stats">${s.done}/${s.total} done &middot; ${s.pct}%</span></div>`;
+  h+=`<div class="proj-bar"><span style="width:${s.pct}%;background:${p.c}"></span></div>`;
+
+  filt.forEach(t=>h+=renderTask(t,p.c));
+
+  // Add task inline
+  h+=`<div class="add-task-row"><input type="text" id="newTask-${pk}" placeholder="+ Add a task to ${p.l}..." onkeydown="if(event.key==='Enter')addTaskInline('${pk}')"><button class="btn btn-o" onclick="addTaskInline('${pk}')">Add</button></div>`;
+
+  h+=`</div>`;
+  return h;
+}
+
+function ownerBadge(o){
+  const m={ike:['Ike','b-ike'],thomas:['Thomas','b-thomas'],both:['Both','b-both'],charlie:['Charlie','b-charlie'],ext:['Ext.','b-ext']};
+  const x=m[o]||['?','b-ext'];return`<span class="badge ${x[1]}">${x[0]}</span>`;
+}
+
+function renderTask(t,projColor){
+  const pct=taskPct(t);
+  const exp=S.expanded[t.id];
+  let h=`<div class="task ${pct>=100?'done':''}">`;
+
+  // Head
+  h+=`<div class="task-head" onclick="togExp('${t.id}')">`;
+  h+=`<span class="arrow ${exp?'open':''}">&#9654;</span>`;
+  h+=`<span class="task-name">${t.name}</span>`;
+  h+=`<div class="task-badges">${ownerBadge(t.owner)}<span class="badge b-date">${t.date}</span></div>`;
+  h+=`<div class="task-minibar"><span style="width:${pct}%;background:${pColor(pct)}"></span></div>`;
+  h+=`<span class="task-pct">${pct}%</span>`;
+  h+=`</div>`;
+
+  // Body
+  h+=`<div class="task-body ${exp?'open':''}">`;
+  if(t.detail)h+=`<div class="task-detail">${t.detail}</div>`;
+
+  // Steps
+  h+=`<div class="steps">`;
+  t.steps.forEach((s,i)=>{
+    h+=`<div class="step ${s.d?'done':''}">
+      <input type="checkbox" ${s.d?'checked':''} onchange="togStep('${t.id}',${i})">
+      <label onclick="togStep('${t.id}',${i})">${s.t}</label>
+      <button class="del-step" onclick="delStep('${t.id}',${i})" title="Remove">&times;</button>
+    </div>`;
+  });
+  h+=`</div>`;
+
+  // Add step
+  h+=`<div class="add-step"><input type="text" id="addStep-${t.id}" placeholder="+ Add a step..." onkeydown="if(event.key==='Enter')addStep('${t.id}')"><button class="btn btn-o btn-s" onclick="addStep('${t.id}')">Add</button></div>`;
+
+  // Note
+  h+=`<div class="task-note"><textarea placeholder="Notes..." oninput="saveNote('${t.id}',this.value)">${t.note||''}</textarea></div>`;
+
+  // Actions
+  h+=`<div class="task-actions"><button class="btn btn-o btn-s" onclick="checkAll('${t.id}')">Check All</button><button class="btn btn-o btn-s" onclick="uncheckAll('${t.id}')">Uncheck All</button><button class="btn btn-d btn-s" onclick="delTask('${t.id}')" style="margin-left:auto">Delete Task</button></div>`;
+
+  h+=`</div></div>`;
+  return h;
+}
+
+// ============ INTERACTIONS ============
+function togExp(id){S.expanded[id]=!S.expanded[id];save();render()}
+
+function togStep(id,i){
+  const t=tasks.find(x=>x.id===id);if(!t)return;
+  t.steps[i].d=!t.steps[i].d;
+  persistAll();render();
+}
+
+function addStep(id){
+  const inp=document.getElementById('addStep-'+id);
+  const val=inp?.value.trim();if(!val)return;
+  const t=tasks.find(x=>x.id===id);if(!t)return;
+  t.steps.push({t:val,d:false});
+  persistAll();render();
+  // Re-expand and focus
+  S.expanded[id]=true;save();render();
+  setTimeout(()=>{const el=document.getElementById('addStep-'+id);if(el)el.focus()},50);
+}
+
+function delStep(id,i){
+  const t=tasks.find(x=>x.id===id);if(!t)return;
+  t.steps.splice(i,1);
+  persistAll();render();
+}
+
+function checkAll(id){
+  const t=tasks.find(x=>x.id===id);if(!t)return;
+  t.steps.forEach(s=>s.d=true);persistAll();render();
+}
+function uncheckAll(id){
+  const t=tasks.find(x=>x.id===id);if(!t)return;
+  t.steps.forEach(s=>s.d=false);persistAll();render();
+}
+
+function saveNote(id,val){
+  const t=tasks.find(x=>x.id===id);if(!t)return;
+  t.note=val;persistNotes();
+}
+
+function delTask(id){
+  if(!confirm('Delete this task?'))return;
+  tasks=tasks.filter(t=>t.id!==id);
+  if(S.userTasks)S.userTasks=S.userTasks.filter(t=>t.id!==id);
+  persistAll();render();
+}
+
+function addTaskInline(pk){
+  const inp=document.getElementById('newTask-'+pk);
+  const val=inp?.value.trim();if(!val)return;
+  const t={id:'u'+Date.now(),name:val,project:pk,owner:'ike',date:'8/27',detail:'',steps:[],note:''};
+  tasks.push(t);
+  if(!S.userTasks)S.userTasks=[];
+  S.userTasks.push(t);
+  S.expanded[t.id]=true;
+  persistAll();render();
+  setTimeout(()=>{const el=document.getElementById('addStep-'+t.id);if(el)el.focus()},50);
+}
+
+function addTask(){
+  const name=prompt('Task name:');if(!name)return;
+  const pk=nav!=='all'&&nav!=='scratch'?nav:'general';
+  const t={id:'u'+Date.now(),name,project:pk,owner:'ike',date:'8/27',detail:'',steps:[],note:''};
+  tasks.push(t);
+  if(!S.userTasks)S.userTasks=[];
+  S.userTasks.push(t);
+  S.expanded[t.id]=true;
+  persistAll();render();
+}
+
+function exportJSON(){
+  const blob=new Blob([JSON.stringify({tasks,state:S},null,2)],{type:'application/json'});
+  const a=document.createElement('a');a.href=URL.createObjectURL(blob);
+  a.download='tracker-'+new Date().toISOString().slice(0,10)+'.json';a.click();
+}
+
+// ============ SCRATCHPAD & CANVAS ============
+function renderScratch(){
+  return`<div class="scratch"><h2>Scratchpad</h2><textarea id="pad" oninput="S._pad=this.value;save()" placeholder="Freeform notes, ideas, to-do lists...">${S._pad||''}</textarea></div>
+  <div class="scratch" style="margin-top:16px"><h2>Draw</h2>
+  <div class="cbar"><button class="on" onclick="cT='pen';document.querySelectorAll('.cbar button').forEach(b=>b.classList.remove('on'));this.classList.add('on')">Pen</button><button onclick="cT='eraser';document.querySelectorAll('.cbar button').forEach(b=>b.classList.remove('on'));this.classList.add('on')">Eraser</button><input type="color" value="#58a6ff" onchange="cC=this.value" title="Color"><input type="range" min="1" max="24" value="3" oninput="cW=+this.value" style="width:80px"><button onclick="clrCvs()">Clear</button></div>
+  <canvas id="cvs" width="1100" height="500"></canvas></div>`;
+}
+
+let cT='pen',cC='#58a6ff',cW=3,dr=false;
+function clrCvs(){const c=document.getElementById('cvs');if(!c)return;c.getContext('2d').clearRect(0,0,c.width,c.height);delete S._cvs;save()}
+
+function initCvs(){
+  const c=document.getElementById('cvs');if(!c||c._ok)return;c._ok=true;
+  const ctx=c.getContext('2d');
+  if(S._cvs){const im=new Image();im.onload=()=>ctx.drawImage(im,0,0);im.src=S._cvs}
+  function pos(e){const r=c.getBoundingClientRect();const sx=c.width/r.width,sy=c.height/r.height;const cx=e.touches?e.touches[0].clientX:e.clientX,cy=e.touches?e.touches[0].clientY:e.clientY;return{x:(cx-r.left)*sx,y:(cy-r.top)*sy}}
+  function dn(e){e.preventDefault();dr=true;const p=pos(e);ctx.beginPath();ctx.moveTo(p.x,p.y)}
+  function mv(e){if(!dr)return;e.preventDefault();const p=pos(e);ctx.lineWidth=cW;ctx.lineCap='round';ctx.strokeStyle=cT==='eraser'?'#161b22':cC;ctx.globalCompositeOperation=cT==='eraser'?'destination-out':'source-over';ctx.lineTo(p.x,p.y);ctx.stroke()}
+  function up(){if(dr){dr=false;S._cvs=c.toDataURL();save()}}
+  c.onmousedown=dn;c.onmousemove=mv;c.onmouseup=up;c.onmouseleave=up;
+  c.ontouchstart=dn;c.ontouchmove=mv;c.ontouchend=up;
+}
+
+// ============ INIT ============
+render();
+</script>
+</body>
+</html>
