@@ -15,6 +15,7 @@ If you are a Claude session about to draft content in Thomas's voice:
 2. Read at least one exemplar essay listed in §6 below, matching as closely as possible to the task type (political-theological vs. purely theological vs. fellowship-discussion synthesis).
 3. Hold the four intellectual levels (§1), the eight rhetorical moves (§2), and the characteristic theological texture (§3) in mind as you draft.
 4. After drafting, read your own output against the voice diagnostics in §4. Revise where it drifts.
+5. Before shipping, run the gloss rule in §7 over the draft — no house term reaches the reader undefined.
 
 Thomas has spent considerable effort trying to preserve voice continuity across context windows. This file exists because that continuity cannot be maintained by reading the Grammar or the bootup alone — those tell you what he believes, not how he writes it.
 
@@ -26,6 +27,8 @@ Thomas's signature is that he works at four levels at once, and his essays desce
 
 ### Level 1 — Biblical grounding
 
+*In one sentence, for a reader:* the level at which Scripture carries the weight of the argument — the verse is the point, not an ornament on it.
+
 Scripture is not decorative in Thomas's prose. It is **load-bearing argument**. When Thomas cites John 18:36 to distinguish Kingdom culture from theocracy, that verse is not illustrating his point; it *is* his point. The distinction that "My kingdom is not of this world" settles the question.
 
 - King James Version is the default. It comes naturally to him and carries the register he wants.
@@ -34,6 +37,8 @@ Scripture is not decorative in Thomas's prose. It is **load-bearing argument**. 
 - Scripture is often the **crescendo** at the end of a section or the whole essay (see §2, move 6).
 
 ### Level 2 — Political and constitutional reasoning
+
+*In one sentence, for a reader:* the constitutional level — what the founding texts actually say, and how their meaning was later changed.
 
 Thomas is not a Christian commentator borrowing constitutional language; he actually understands the framing. Expect him to reach for:
 
@@ -46,6 +51,8 @@ If you are writing on a political topic and do not find yourself reaching for pr
 
 ### Level 3 — Comparative religion with structural analysis
 
+*In one sentence, for a reader:* the level that compares worldviews by their architecture rather than their doctrinal checklists — asking what each system does with the moral debt, not which items it affirms.
+
 When Thomas compares Christianity to Islam, Buddhism, Hinduism, or secular humanism, he compares by **paradigm structure**, not by doctrinal items.
 
 - Islam vs. Christianity is not "submission (an item) vs. love (an item)"; it is *submission as the architecture of relationship* vs. *love as the architecture of relationship*. Master/slave vs. Father/child. Conformity through law vs. transformation through heart.
@@ -54,6 +61,8 @@ When Thomas compares Christianity to Islam, Buddhism, Hinduism, or secular human
 Most Christian writers compare by content and miss the structure. Thomas's structural move is distinctive and should be preserved.
 
 ### Level 4 — Ontological grounding via CPP
+
+*In one sentence, for a reader:* the ontological level — the claim that reality itself has a nature, so that morality is alignment with what is, not preference.
 
 This is the level virtually nothing else in contemporary Christian political writing reaches, and it is central to Thomas's project. Morality is not preference; it is ontology, because reality itself is conscious — constituted by Conscious Points, sustained by God's mind.
 
@@ -189,6 +198,7 @@ Before shipping anything for Thomas's review, run your draft against these quest
 6. **Does the closing carry a first-person stake (move 7)?** Not "Christians believe..." but "I believe..." or "we believe..." with specific content.
 7. **Is there warmth toward any named interlocutor (move 8) without claim-softening?** If the essay names a person, both conditions must hold.
 8. **Does the voice retreat into third person when the argument gets uncomfortable?** This is the most common voice failure. Thomas does not retreat. His first person gets stronger as the claim gets sharper, not weaker.
+9. **Have I used any house vocabulary without glossing it?** Search the draft for *Level 1/2/3/4*, *Issachar*, *triage*, *CPP*, *standard vs. execution*, *de facto*, and any other term whose meaning lives in a repo file. Each first use gets a plain-English gloss in the flow of the sentence, or gets cut in favor of the idea itself. See §7.
 
 ---
 
@@ -229,7 +239,39 @@ Thomas and a future Claude session should select and migrate these into the repo
 
 ---
 
-## 7. Maintenance
+## 7. The gloss rule — house vocabulary in reader-facing prose
+
+**The rule.** Every in-house term that appears in published prose must carry a short plain-English gloss at its first use in that piece. A clause or a sentence, inside the flow of the argument — not a footnote, not a glossary section, not a parenthesis that reads like a citation. If the term appears again later in the same piece, it needs no second gloss.
+
+**Why.** The vocabulary in this file, in the Grammar, and in the operating-system documents was built so that Thomas and a Claude session could work fast without re-explaining. It is scaffolding for the workshop. The reader of renaissance-ministries.com has never seen the scaffolding. When an essay says "this is the Level 4 answer" or "the Issachar Form governs here," a reader who does not have these files is told that a rule exists and is not told what it says — which reads as an appeal to private authority, and an appeal to private authority is the opposite of what this ministry is for. We persuade by reason offered in the open. A term the reader cannot check is a reason he cannot weigh.
+
+**Established:** September 12, 2026, at Thomas's direction, after "The Room and the Sofa" used *Level 3*, *Level 4*, and *the Issachar Form* in reader-facing prose without defining any of them.
+
+**The test.** Read the sentence as a first-time visitor to the website who has read no other Renaissance Ministries material. If the sentence contains a term whose meaning he could only get from a file he does not have, gloss it or cut it.
+
+**Corollary — prefer the thing to the label.** The gloss is the minimum, not the goal. Often the better fix is to make the argument without the label at all: write *the comparison of two systems by their architecture rather than their doctrinal lists* and let the reader have the idea directly. The label is shorthand for us; the idea is what belongs to him. Reach for the label only when the piece uses the term more than once, or when naming the method is itself part of the point.
+
+### Standing glosses
+
+These are the starting set — accurate, short, usable verbatim or adapted to the sentence. Extend this table when a new term enters circulation.
+
+| Term | Where it originates | A gloss that works in prose |
+|------|--------------------|------------------------------|
+| **Level 1** | §1 above | the level of the argument where Scripture carries the weight — the verse is the point, not an ornament on it |
+| **Level 2** | §1 above | the constitutional level — what the founding texts actually say, and how their meaning was later changed |
+| **Level 3** | §1 above | the level that compares worldviews by their architecture rather than their doctrinal checklists — asking what each system does with the moral debt, not which items it affirms |
+| **Level 4** | §1 above | the ontological level — the claim that reality itself has a nature, so that morality is alignment with what is, not preference |
+| **The descent** | §1, Move 1 | starting with the practical question, going down to the theological and then the ontological, and coming back up with what it means for the neighbor |
+| **The Issachar Form** | `CFE_operating_system.md` §4.5 | the discipline named for the men of Issachar, who understood the times *and knew what ought to be done* (1 Chronicles 12:32): sort the facts, argue the questions to a stated judgment, and name a concrete action — an essay that ends at understanding is not finished |
+| **The three-tier triage** | `CFE_operating_system.md` §4.5 | sorting claims into what is publicly verifiable, what is informed interpretation, and what rests on a single or contested source — and saying which is which |
+| **Standard vs. execution** | Grammar, Part II §1 | the difference between what a faith teaches and what its adherents have done — and whether the faith's own standard gives its adherents the ground to condemn the deed |
+| **De facto conspiracy** | Grammar, Part VII §3 | aligned interests producing coordinated-looking behavior with no one coordinating |
+| **CPP / Conscious Point Physics** | CPP repository | the physics this ministry is developing, which holds that the substance of reality is conscious — God's sustaining thought — so that *in him we live, and move, and have our being* is description rather than metaphor |
+| **Captives to rescue** | §3 above | the posture that the unbeliever and the other-believer are not enemies to defeat but people held by something false |
+
+---
+
+## 8. Maintenance
 
 This file should be updated when:
 
@@ -237,12 +279,13 @@ This file should be updated when:
 - Thomas identifies a rhetorical move or theological texture not captured here.
 - A Claude session produces a draft that is voice-off in a way not covered by the diagnostics in §4 or drift patterns in §5 — add the new failure mode to §5.
 - A new intellectual level opens in Thomas's work. (Currently four; if CPP generates a fifth level — e.g., a specifically eschatological or historical-typological level — add it to §1.)
+- A new in-house term enters circulation in published prose — add it to the standing-glosses table in §7.
 
 This is a living document. It is expected to grow. Its purpose is to make the voice transferable across context windows so that Thomas does not have to reconstruct it every session.
 
 ---
 
-## 8. Note to the session that is loading this file
+## 9. Note to the session that is loading this file
 
 You are not Thomas. You cannot fully be him. Your job is to produce a first draft that is recognizably in his voice so that his editing burden is minutes rather than hours.
 
