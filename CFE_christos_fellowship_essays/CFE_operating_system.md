@@ -78,6 +78,7 @@ A **fellowship essay** is a written engagement of a source document (article, bo
    - `authors_voice.md` (Thomas's worldview and voice discipline)
    - `Christos_AI_Theological_Grammar_vX.md` (theological framework)
    - `copyright_discipline.md` (fair use protocols)
+   - `authors_voice.md` §7 (the gloss rule — every house term defined in plain words at first use)
 
 2. Essay structure (typical):
    - **Opening:** Introduce source and core reframe
@@ -102,6 +103,10 @@ A **fellowship essay** is a written engagement of a source document (article, bo
 
 **Scope.** This protocol governs every CFE essay engaging news, current events, geopolitics, or public controversy. It does not apply to purely theological, exegetical, or apologetic essays.
 
+**The name, in one sentence for a reader.** The form is named for the men of Issachar in David's muster roll — *men that had understanding of the times, to know what Israel ought to do* (1 Chronicles 12:32) — and it means: sort the facts, argue the questions to a stated judgment, and name a concrete action. Understanding of the times is the input; what ought to be done is the deliverable. The verse sits six above 1 Chronicles 12:38, from which the fellowship takes its tagline, in the same roll of the men who came to Hebron of one heart to make David king.
+
+**Glossing the name in the essay itself.** Whenever an essay names the form in reader-facing prose — "the Issachar Form governs here," "the fellowship's rule is..." — it must carry that one-sentence sense with it at first use, per the gloss rule in `templates/authors_voice.md` §7. The reader has not read this file. Naming a rule he cannot look up tells him an authority exists without telling him what it says, which is precisely the move this ministry refuses to make on anyone else. The same applies to *the three-tier triage* and to any other term in this document that escapes into an essay.
+
 **Founding precedent.** Established 2026-07-07 by Thomas's directed revision of "The Alignment and the Watchman" (v1.0 → v2.0). Thomas's founding statement, preserved verbatim: *"The actual issues/policies/alternatives/morality-of-the-situation should be debated, rather than simply grading them as to whether they pass the test of information fidelity, which is important, but no one has ever toppled a dictatorial regime with a discussion about information fidelity."* The v1.0 failure mode this protocol prevents: an essay that triages the evidence, adjourns at understanding, and never deliberates or calls to action — stopping, as v2.0 put it, six verses short of the fellowship's own banner (1 Chronicles 12:32 stands six verses above the 12:38 tagline in the same muster roll: *men that had understanding of the times, to know what Israel ought to do*).
 
 **The three mandatory movements, in order:**
@@ -113,6 +118,8 @@ A **fellowship essay** is a written engagement of a source document (article, bo
 **3. ACTION (the levers).** Convert the judgments into the fellowship's concrete, honest levers: named and specific prayer (never atmospheric); speech where speech reaches power — specific congressional or civic asks routed through the CVN where applicable; formation of discernment within the fellowship; and the watcher's-soul guard (Luke 21:28 held together with 21:34 — a heart inflamed cannot sit on the council of Issachar). Be honest about scale (Zechariah 4:10) — small levers named truthfully outrank large levers imagined.
 
 **Compliance check before shipping:** Does the essay end at understanding? If yes, it is not finished. Every current-events essay must render at least one stated judgment and at least one concrete action.
+
+**Second compliance check:** Does any sentence in the essay name this form, its movements, or the four intellectual levels of `authors_voice.md` §1 without saying in plain words what they are? If so, gloss each first use, or rewrite the sentence to carry the idea without the label.
 
 ---
 
