@@ -1,3 +1,13 @@
+---
+title: "Christos Economics Annex — Operating System"
+author: "Thomas Lee Abshier, ND"
+date: 2026-04-18
+module: CEA
+topics: [operating-system, economics, stewardship, political-economy]
+status: ESTABLISHED
+type: operating-system
+---
+
 # Christos Economics Annex
 ## Operating System Document | Version 1.0
 

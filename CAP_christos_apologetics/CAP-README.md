@@ -1,3 +1,13 @@
+---
+title: "Christos Apologetics — README"
+author: "Thomas Lee Abshier, ND"
+date: 2026-04-30
+module: CAP
+topics: [readme, apologetics, module-overview]
+status: PROVISIONAL
+type: readme
+---
+
 # Christos Apologetics (CAP)
 
 **Status:** PROVISIONAL — module created during website import (April 2026).

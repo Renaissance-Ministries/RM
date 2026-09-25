@@ -1,3 +1,13 @@
+---
+title: "Christos Home School — Operating System"
+author: "Thomas Lee Abshier, ND"
+date: 2026-04-18
+module: CHS
+topics: [operating-system, homeschool, education, lecture-processing]
+status: ESTABLISHED
+type: operating-system
+---
+
 # Christos Home School (CHS)
 ## Lecture Processing Template | Version 1.0
 

@@ -1,3 +1,13 @@
+---
+title: "The End of the Story — V4 Script (Faithful Version)"
+author: "Thomas Lee Abshier, ND"
+date: 2026-07-03
+module: CAP
+topics: [video-script, atonement, gospel, justice, salvation]
+status: ESTABLISHED
+type: video-source
+---
+
 # THE END OF THE STORY
 ### V4 - the faithful version, built on Thomas's actual logic
 *Runtime: ~3.5 minutes | Narrated voiceover over AI-rendered visuals*

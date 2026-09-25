@@ -1,3 +1,14 @@
+---
+title: "The 25th Amendment: Can a President Be Removed for Bad Judgment?"
+author: "Steven Yates, PhD"
+date: 2026-04-10
+module: CNL
+topics: [25th-amendment, constitutional-law, presidential-power, current-events]
+status: ESTABLISHED
+type: newsletter
+source_url: "https://renaissance-ministries.com/2026/04/16/25th-amendment-yates/"
+---
+
 # Christos Voting Network — Daily Newsletter
 
 ## Issue #1 | April 10, 2026

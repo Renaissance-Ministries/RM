@@ -1,3 +1,13 @@
+---
+title: "Christos Historical Review — Operating System"
+author: "Thomas Lee Abshier, ND"
+date: 2026-04-16
+module: CHR
+topics: [operating-system, historical-review, christian-history, methodology]
+status: ESTABLISHED
+type: operating-system
+---
+
 # Christos Historical Review
 ## Operating System Document | Version 1.0
 

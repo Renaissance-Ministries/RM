@@ -1,3 +1,13 @@
+---
+title: "Christos Homeschool — Founding Conversation"
+author: "Thomas Lee Abshier, ND"
+date: 2026-07-31
+module: CHS
+topics: [homeschool, founding-conversation, scoping, education, ministry]
+status: ESTABLISHED
+type: transcript
+---
+
 # Christos Homeschool — Founding Conversation (Tier 4, verbatim)
 
 **Tier 4 capture. Founder and worker turns reproduced verbatim, unedited.**

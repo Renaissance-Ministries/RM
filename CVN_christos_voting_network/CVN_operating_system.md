@@ -1,3 +1,13 @@
+---
+title: "Christos Voting Network — Operating System"
+author: "Thomas Lee Abshier, ND"
+date: 2026-04-23
+module: CVN
+topics: [operating-system, voting-network, worldview-analysis, civic-engagement]
+status: PROVISIONAL
+type: operating-system
+---
+
 # CVN — Christos Voting Network: Operating System
 
 **Status:** Provisional. This file restores the original `README.md` content from commit `3adaa73` (pre-smoothing, April 19, 2026) so the Voting Network sub-project has a peer-equivalent operating system document alongside CCR, CEA, CHR, CHS, and CNL. The content below is currently developer-setup documentation for the live Voting Network application rather than a full operating-system specification in the style of the other sub-projects' OS docs.

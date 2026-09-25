@@ -1,3 +1,13 @@
+---
+title: "Christos Fellowship Essays — Operating System"
+author: "Thomas Lee Abshier, ND"
+date: 2026-05-05
+module: CFE
+topics: [operating-system, fellowship, essays, workflow, conventions]
+status: ESTABLISHED
+type: operating-system
+---
+
 # Christos Fellowship Essays Operating System
 
 **Location:** `CFE_christos_fellowship_essays/CFE_operating_system.md`  

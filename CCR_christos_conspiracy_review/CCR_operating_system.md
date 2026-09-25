@@ -1,3 +1,13 @@
+---
+title: "Christos Conspiracy Review — Operating System"
+author: "Thomas Lee Abshier, ND"
+date: 2026-04-14
+module: CCR
+topics: [operating-system, conspiracy-review, discernment, epistemology]
+status: ESTABLISHED
+type: operating-system
+---
+
 # Christos Conspiracy Review
 ## Operating System Document | Version 1.0
 

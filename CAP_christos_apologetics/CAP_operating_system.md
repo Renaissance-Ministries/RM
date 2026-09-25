@@ -1,3 +1,13 @@
+---
+title: "Christos Apologetics — Operating System"
+author: "Thomas Lee Abshier, ND"
+date: 2026-04-30
+module: CAP
+topics: [operating-system, apologetics, biblical-commentary]
+status: PROVISIONAL
+type: operating-system
+---
+
 # Christos Apologetics — Operating System (Placeholder)
 
 **Status:** PROVISIONAL — placeholder created during website import.
