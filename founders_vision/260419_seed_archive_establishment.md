@@ -1,3 +1,13 @@
+---
+title: "Establishing the Seed Archive: Kingdom-of-Heaven Culture as the Aim"
+author: "Thomas Lee Abshier, ND"
+date: 2026-04-19
+module: CFE
+topics: [seed_archive, kingdom_culture, founders_vision, utopia, preservation]
+status: ESTABLISHED
+type: essay
+---
+
 # Establishing the Seed Archive: Kingdom-of-Heaven Culture as the Aim
 
 **Date captured:** April 19, 2026

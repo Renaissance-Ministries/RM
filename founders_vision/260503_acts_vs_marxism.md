@@ -1,3 +1,14 @@
+---
+title: "Acts 2 vs. Marxism: Voluntary Transformation vs. Compulsory Coercion"
+author: "Thomas Lee Abshier, ND"
+date: 2026-05-03
+module: CFE
+secondary_modules: [CEA, CCR]
+topics: [acts_2, marxism, communism, voluntary_transformation, coercion, applied_theology]
+status: PROVISIONAL
+type: essay
+---
+
 # Acts 2 vs. Marxism: Voluntary Transformation vs. Compulsory Coercion
 
 **Date:** May 3, 2026  

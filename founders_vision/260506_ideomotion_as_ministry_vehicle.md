@@ -1,3 +1,14 @@
+---
+title: "Ideomotion as a Ministry Vehicle: Captive Audience, the Lame Walking, and the Companion-God Deliverable of Prayer"
+author: "Thomas Lee Abshier, ND"
+date: 2026-05-06
+module: IDM
+secondary_modules: [CFE]
+topics: [ideomotion, ministry_business, prayer, healing, captive_audience, mobility]
+status: PROVISIONAL
+type: essay
+---
+
 # Ideomotion as a Ministry Vehicle: Captive Audience, the Lame Walking, and the Companion-God Deliverable of Prayer
 
 **Date:** May 6, 2026

@@ -1,3 +1,13 @@
+---
+title: "The Kingdom Wisdom Database: A Decision-Making Standard for Every Domain of Life"
+author: "Thomas Lee Abshier, ND"
+date: 2026-04-01
+module: CFE
+topics: [wisdom_database, decision_making, kingdom_culture, founders_vision]
+status: ESTABLISHED
+type: template
+---
+
 # The Kingdom Wisdom Database
 ## A Decision-Making Standard for Every Domain of Life
 

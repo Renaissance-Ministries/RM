@@ -1,3 +1,14 @@
+---
+title: "Christos Wisdom Database — Operating System"
+author: "Thomas Lee Abshier, ND"
+date: 2026-04-10
+module: CFE
+topics: [wisdom_database, founders_vision, curation, corpus_management]
+status: ESTABLISHED
+type: operating_system
+version: "1.0"
+---
+
 # Christos Wisdom Database — Operating System
 
 ## The Founders Vision Corpus: Generation, Storage, Curation, and Evolution

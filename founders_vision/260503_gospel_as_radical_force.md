@@ -1,3 +1,13 @@
+---
+title: "The Gospel As Radical Force: The Three-Part Weapon (Revelation 12:11)"
+author: "Thomas Lee Abshier, ND"
+date: 2026-05-03
+module: CFE
+topics: [revelation_12_11, evangelism, transformation, testimony, blood_of_the_lamb]
+status: PROVISIONAL
+type: essay
+---
+
 # The Gospel As Radical Force: The Three-Part Weapon (Revelation 12:11)
 
 **Date:** May 3, 2026  

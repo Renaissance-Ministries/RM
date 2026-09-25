@@ -1,3 +1,13 @@
+---
+title: "Christos Newsletter — Operating System"
+author: "Thomas Lee Abshier, ND"
+date: 2026-04-10
+module: CNL
+status: ESTABLISHED
+type: operating_system
+version: "1.0"
+---
+
 # Christos Voting Network — Newsletter Operating System
 
 ## Content Creation Engine: Summarize, Comment, Refer

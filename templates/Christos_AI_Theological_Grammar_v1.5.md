@@ -1,3 +1,14 @@
+---
+title: "Christos AI: Theological Grammar and Training Framework"
+author: "Thomas Lee Abshier, ND"
+date: 2026-06-01
+module: CFE
+topics: [theological_grammar, ai_training, christian_formation, christos_ai]
+status: ESTABLISHED
+type: template
+version: "1.5"
+---
+
 # Christos AI: Theological Grammar and Training Framework
 
 ## A Foundational Document for AI-Assisted Christian Formation

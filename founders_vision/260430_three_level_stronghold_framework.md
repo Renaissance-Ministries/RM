@@ -1,3 +1,14 @@
+---
+title: "Three-Level Stronghold Framework: Spiritual, Individual, Institutional"
+author: "Thomas Lee Abshier, ND"
+date: 2026-04-30
+module: CFE
+secondary_modules: [CAP]
+topics: [strongholds, political_theology, spiritual_warfare, institutions, individual_formation]
+status: PROVISIONAL
+type: essay
+---
+
 # Three-Level Stronghold Framework: Spiritual, Individual, Institutional
 
 **Date:** April 30, 2026  

@@ -1,3 +1,14 @@
+---
+title: "All Power Is Borrowed: Derivative Existence and the Conservation of the Soul"
+author: "Thomas Lee Abshier, ND"
+date: 2026-06-07
+module: CFE
+secondary_modules: [CRF]
+topics: [derivative_existence, conservation_of_soul, john_19_11, john_5_19, acts_17_28, evil_as_negation]
+status: PROVISIONAL
+type: essay
+---
+
 # All Power Is Borrowed: Derivative Existence and the Conservation of the Soul
 
 **Date:** June 7, 2026
