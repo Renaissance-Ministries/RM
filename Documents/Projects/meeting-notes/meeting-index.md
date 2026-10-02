@@ -1,7 +1,7 @@
 # Meeting Index — Master Log
 
 **Purpose:** Single place to find every meeting, every topic, every document.
-**Updated:** 2026-09-17
+**Updated:** 2026-10-02
 **Convention:** Raw transcripts stay in `meeting-notes/YYYY-MM-DD/raw/`. Edited topic chapters go to their project folder. Thomas's docs are labeled `thomas-*`.
 
 ---
@@ -19,6 +19,34 @@
 | GEN | General / cross-project | `meeting-notes/` |
 
 ---
+
+## 2026-10-02
+**Participants:** Isak, unnamed rep (Quality Team Home Care)
+- IDM: [Quality Team Home Care — DME Inquiry Call](2026-10-02/quality-team-home-care-call.md) — DME sales channel exploration; rep estimates insurance reimbursement maxes ~$1,000–$1,400 vs. $12K price; billing codes (SADMERC) required before further discussion; door open for follow-up
+
+---
+
+## 2026-10-01
+**Participants:** Thomas, Isak
+- TRD: [Trading Morning Recap](2026-10-01/2026-10-01-trading-morning-recap.md) — +$162 SPY puts, PMI miss, trend vs. reversal discussion
+- IDM: [Break-Even Analysis](2026-10-01/2026-10-01-ideomotion-break-even-analysis.md) — 30 units/yr target at $12K, $4K/wk burn confirmed ($212K fixed), ramp-up model
+- IDM: [Stainless Steel Material Decision](2026-10-01/2026-10-01-stainless-steel-material-decision.md) — Leonard feedback (heavy/expensive), Thomas wants it as distinction feature, hybrid option discussed
+- IDM: [Assembly Bottleneck & Shop Visit](2026-10-01/2026-10-01-assembly-bottleneck-and-shop-visit.md) — 3-4 wks/unit unworkable, cable fastener issue, Isak to visit shop and document process
+- IDM: [Potential Assembly Hire](2026-10-01/2026-10-01-potential-assembly-hire.md) — piecework model preferred, process must be documented first, friend-from-church candidate
+- GEN: [Meeting Summary](2026-10-01/2026-10-01-meeting-summary.md) — full summary with action items
+
+---
+
+## 2026-09-30
+**Participants:** Thomas, Isak
+- CHS: [Curriculum Vision & OpenStax Integration](2026-09-30/2026-09-30-chs-curriculum-vision-openstax.md) — OpenStax as scaffold, Princess Novena reading list, multi-format content
+- CHS: [CPP as Integrated Knowledge Teaching](2026-09-30/2026-09-30-cpp-integrated-knowledge-teaching.md) — physics-as-metaphor for counseling, enzyme analogy for wisdom, history as backbone
+- CHS: [Learning Theory — Humor, Intelligence, Genius](2026-09-30/2026-09-30-learning-theory-humor-intelligence-genius.md) — learning ≈ humor (surprise/novelty), pattern recognition, memory → intelligence → genius
+- CHS: [Curriculum Development Plan — College-Level First](2026-09-30/2026-09-30-curriculum-development-plan.md) — start at college (calculus), simplify downward; version-tracking via CPP paper refs; Halliday & Resnick equivalent
+- CHS: [Adult Learner Program & Fellowship Groups](2026-09-30/2026-09-30-adult-learner-program-fellowship.md) — $150 API-credit entry product, fellowship cohorts, Peterson Academy, teach-back model
+- GEN: [Thomas's Counseling Background](2026-09-30/2026-09-30-thomas-counseling-background.md) — Scientology/NLP/EST → Christian counseling; exposure therapy; anchoring; CHS assessment cycle design
+- CPP: [Publication Status & Alpha Constant](2026-09-30/2026-09-30-cpp-publication-status-alpha.md) — 9 blockers for Zenodo; α=1/137 derived from first principles; DI-bit shell must be solid; dark matter 10^31 discrepancy; ~70 papers modified
+- IDM: [Business Updates — Insurance, Manufacturing, Sewing](2026-09-30/2026-09-30-ideomotion-business-updates.md) — insurance is critical path; Leonard sent drawings to Metal Fab + China Group; LiftWalker detailing; Susan sewing progress; green screen images needed
 
 ## 2026-09-17
 **Participants:** Thomas, Charlie (separate call), Isak
