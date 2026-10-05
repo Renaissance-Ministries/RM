@@ -1,7 +1,7 @@
 # Meeting Index — Master Log
 
 **Purpose:** Single place to find every meeting, every topic, every document.
-**Updated:** 2026-10-02
+**Updated:** 2026-10-05
 **Convention:** Raw transcripts stay in `meeting-notes/YYYY-MM-DD/raw/`. Edited topic chapters go to their project folder. Thomas's docs are labeled `thomas-*`.
 
 ---
@@ -17,6 +17,17 @@
 | CHS | Christos Homeschool | `meeting-notes/chs/` |
 | TRD | Trading | `meeting-notes/trading/` |
 | GEN | General / cross-project | `meeting-notes/` |
+
+---
+
+## 2026-10-05
+**Participants:** Thomas, Isak, Joelle (joined late)
+- CEA: [Capitalism, Socialism, Charity, and Character](2026-10-05/2026-10-05-capitalism-socialism-charity-and-character.md) — forced vs voluntary charity, character formation, 10% biblical model, administrative state critique, capitalism works with spirit of giving
+- CEA: [Presidential Campaign as Revival — "No King but King Jesus"](2026-10-05/2026-10-05-presidential-campaign-revival-and-slogan.md) — breakthrough session; campaign = revival movement; slogan chosen; need OBS for HD recording; systematize platform
+- CFE: [YAML Frontmatter Improvements](2026-10-05/2026-10-05-yaml-frontmatter-improvements.md) — Thomas reviewed frontmatter, found gaps; need multi-level keyword hierarchy; purpose: presidential-advisor AI database
+- IDM: [Joelle Check-In — Operating Agreement, Insurance, Suppliers](2026-10-05/2026-10-05-joelle-checkin-and-operating-agreement.md) — 25% ownership confirmed; insurance submitted not yet back; Joelle needs supplier list from Charlie
+- GEN: [Property Repairs and Tool Organization](2026-10-05/2026-10-05-property-repairs-and-tool-organization.md) — Dave visit; tub drain leak; lean-to reorganization; tool shelving project
+- GEN: [Meeting Summary](2026-10-05/2026-10-05-meeting-summary.md) — full summary with action items
 
 ---
 
