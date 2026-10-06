@@ -3,8 +3,12 @@ title: "On Civil Disobedience and Obedience to God"
 author: "Thomas Lee Abshier, ND"
 date: 2026-05-15
 module: CFE
-secondary_modules: [CEA]
-topics: [paul, protestantism, abortion, worship, governance, marriage_family, culture_war, discipleship, morality_ethics, eschatology, education, prayer]
+secondary_modules: [CEA, CAP, CHR]
+domains: [biblical_studies, theology, culture]
+topics: [paul, roman_empire, marriage_family, daniel, protestantism, abortion, worship, reformation_history, governance, new_testament, judaism, old_testament, discipleship, acts, morality_ethics]
+scripture: ["Genesis 1:27", "Exodus 1", "Daniel 6", "Daniel 3", "Daniel 3:18", "Amos 5:25", "Matthew 22:17", "Matthew 22:21", "Luke 17:21", "Acts 5:29", "Acts 5", "Acts 16:22", "Acts 16:37", "Acts 25:11", "Romans 13", "Romans 13:1", "Corinthians 15:23", "Titus 3:1", "1 Corinthians 15:23"]
+mentions: ["Jesus", "Christ", "God the Father", "Hitler", "Thomas Aquinas", "Augustine", "John Calvin", "Charlie", "Susan"]
+thesis: "Render Unto Caesar, Render Unto God: On Civil Obedience, Conscientious Disobedience, and the Christian Underground Fellowship Discussion Essay | May 13, 2026 Reference: Should We Obey the Laws of Our Government? by John Reid Background: Sovereign..."
 status: ESTABLISHED
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/05/15/260513-on-civil-disobedience-and-obedience-to-god/"
@@ -13,7 +17,471 @@ wp_slug: "260513-on-civil-disobedience-and-obedience-to-god"
 wp_categories: ["Sermon/Meeting/Discussion Transcripts"]
 ---
 
-# On Civil Disobedience and Obedience to God
+# 260513 - On Civil Disobedience and Obedience to God
 
-*This document is sourced from [renaissance-ministries.com](https://renaissance-ministries.com/2026/05/15/260513-on-civil-disobedience-and-obedience-to-god/).*
-*Content lives on the website; this stub provides searchable metadata for the RM corpus.*
+# Render Unto Caesar, Render Unto God: On Civil Obedience, Conscientious Disobedience, and the Christian Underground
+
+
+**Fellowship Discussion Essay | May 13, 2026**
+
+
+**Reference:** [Should We Obey the Laws of Our Government?](https://www.cgg.org/index.cfm/library/article/id/472/should-we-obey-laws-of-our-government.htm) by John Reid
+
+**Background:** [Sovereign Citizen Critique](https://renaissance-ministries.com/2026/05/19/260519-sovereign-citizen-critique/), by Thomas Lee Abshier, ND
+
+
+**Occasion:** The Berean daily email this morning carried a thirty-year-old John O. Reid essay from the Church of the Great God’s *Forerunner* archive, “Should We Obey the Laws of Our Government?” (May 1996). Reid was a serious teacher who died in 2016. The piece argues — vigorously and at length — that Romans 13 commands Christian submission to civil authority, that Jesus’ “render unto Caesar” saying is straightforward, that Daniel and the three Hebrew children honored the king of Babylon as well as God, and that the modern “[sovereign citizen](https://renaissance-ministries.com/2026/05/19/260519-sovereign-citizen-critique/)” movement is a rebellion which directly disobeys explicit biblical command. The essay sits at the opposite pole from where Sunday’s fellowship landed — the Christian Underground synthesis, the live moral-cooperation question concerning taxation that funds evil, Susan’s ambassador and testamentary-trust framings, my own eschatology essay yesterday on enduring (rather than escaping) the trial. The disagreement is sharp enough that the fellowship deserves a careful working-through of where Reid is right, where he is wrong, and what the Christian Underground project actually claims for itself.
+
+
+This is the third fellowship essay this week engaging the Church of the Great God’s *Forerunner* archive. Charles Whitaker on proselytism (260508), John Ritenbaugh on Amos 5:25 and the relation of grace to law (260508), and now John O. Reid on Romans 13. CGG is a serious Sabbatarian tradition descended from Herbert W. Armstrong’s Worldwide Church of God, and its writers do real biblical work that the fellowship benefits from engaging. They also operate inside a particular set of theological commitments — heavily futurist eschatology with no historic-Reformation lesser-magistrate framework, a tendency to draw very tight lines around what counts as legitimate Christian resistance to civil authority — that produce conclusions the Christos framework will end up qualifying. That qualification work is part of what this fellowship has been doing for months. This is the next piece of it.
+
+
+## I. The Question and Why It Cuts Close
+
+
+The question of civil obedience is not a Reformation-era curiosity. It cuts close to where the fellowship is actually living. We are not discussing it as a theoretical exercise; we are discussing it because every project on the fellowship’s table is, in some way, a question about how Christians should relate to civil authority under conditions where the civil authority is increasingly hostile to the Christian witness.
+
+
+The Ideomotion charter §7 commits the company to refuse coercive imposition of unethical interventions on patients. If the FDA or a state medical board were to require Ideomotion to deliver an intervention the Ideomotion conscience judged unethical, §7 commits the company to refuse, accept the regulatory consequences, and continue serving patients by whatever lawful means remain. That is a conscientious objection. Reid’s essay, taken straight, would call it rebellion.
+
+
+The question of taxes that fund moral evils — through Medicaid funding of abortion, Title X family-planning grants, foreign aid programs that include morally objectionable activities, certain research funding, the prosecution of wars judged unjust, and the various other channels through which general federal revenue reaches morally objectionable ends — is one several members of the fellowship have raised in different forms. The amount of any individual taxpayer’s contribution that flows to any particular morally objectionable end is small and fungible, but the question is real: what does the Christian conscience require when one’s general civic obligations include contributions to evils one cannot endorse? Reid’s essay, taken straight, treats this as a non-question — pay your taxes, full stop. The historic Christian moral tradition treats it as a question that requires careful moral analysis. Section XI of this essay develops that analysis; for now, it suffices to flag that the question is on the fellowship’s table and that Reid’s framework leaves no room for it.
+
+
+Susan’s ambassador and testamentary-trust framings from the May 10 fellowship — which I noted at the time needed careful legal review — were her attempt to work out a theological-legal basis for the Christian standing under a different jurisdiction than the American civil order. Some of her specific legal mechanisms have features in common with sovereign-citizen legal theory (a contested category of literature surrounding the meaning of *all-capital-letters-name* in court filings, the *strawman* doctrine, the redemption-movement theory of accounts at the Federal Reserve, and so on). Susan does not subscribe to those mechanisms in their full sovereign-citizen form, but the family resemblance is real. Reid’s essay would lump everything in this family into rebellion, full stop.
+
+
+My eschatology essay yesterday argued that the Christian Underground assumes the historic eschatology — that the saints will be present for the trial — and that this requires endurance, preparation, and the building of alternative institutions. Reid’s tradition, while not pre-tribulational in the dispensational sense, lands close enough to the same practical conclusion: do not develop a stance of resistance to civil authority; submit, witness, accept punishment when conflicts arise, but otherwise live as ordinary law-abiding citizens. The Underground synthesis is more activist than that.
+
+
+So Reid’s essay is not a peripheral question. The fellowship is doing things, building things, drafting documents that commit us to positions Reid would call rebellion. The honest move is to put Reid in front of us, hear his strongest argument, and answer it carefully. I am going to do that here in roughly the order: what Reid sees rightly, what his argument misses, what the Christian Underground actually claims, and where the fellowship’s practical defaults should land.
+
+
+## II. What Reid Sees Rightly
+
+
+I want to begin by saying clearly that Reid is not a fool, his essay is not a tract, and his concerns are serious. The fellowship should hear the strong form of his argument before any qualifications.
+
+
+**The default disposition of the Christian is submission, not rebellion.** This is correct. The New Testament repeatedly commands believers to be subject to civil authority (Rom 13:1-7; 1 Pet 2:13-17; Titus 3:1; 1 Tim 2:1-2). It commands them to pray for kings and all in authority. It commands them to pay taxes. It commands them to honor magistrates. The disposition the New Testament forms in the believer is not a posture of suspicion-toward-government as the default attitude. It is a posture of orderly submission, with the exceptions specified rather than the rule. The Christian who walks around with a chip on his shoulder toward the civil authorities is not, in the first instance, walking around with a biblical disposition. Reid is right about this, and the fellowship needs to take it seriously, because some of our recent discussions have edged toward a generalized suspicion of civil authority that the New Testament does not authorize.
+
+
+**Rebellion as a spiritual condition is sin.** This is also correct. The rebellion that Scripture condemns — the rebellion of Korah, the rebellion of Saul (1 Sam 15:23), the rebellion of those who say in their hearts that they will be like the Most High (Isa 14) — is a spiritual disposition of self-rule, of refusing legitimate authority because one wishes to be one’s own authority. This is the original sin of the Garden in a particular mode, and Scripture treats it with the gravity it deserves. Reid is right that the spirit of the age — Hollywood’s heroes of breaking-all-the-laws, the cultural celebration of the rule-breaker as the authentic self, the deep American mythology of the rebel-against-the-government as the moral protagonist — is a spirit Christians should be wary of. Whatever the fellowship’s eventual position on civil obedience, the Christian heart should not be in love with rebellion for rebellion’s sake.
+
+
+**The sovereign-citizen movement is theologically and spiritually problematic.** Also correct. The movement, as it has developed in the United States since the 1970s, is a strange amalgam: legal theories with no support in any actual American legal authority, theological claims with no support in any orthodox Christian tradition, conspiratorial historiography about the Federal Reserve and the Uniform Commercial Code, and a generalized stance of self-sovereignty that runs against the basic shape of New Testament discipleship. Many of its adherents are bitter; many are sued repeatedly; many lose everything trying to assert positions that no court will recognize; some end up in violent confrontations with law enforcement. The movement’s spiritual fruit is not the fruit of the Spirit. Reid is right to warn against it, and the fellowship should not be tempted to adopt its legal theories.
+
+
+**Daniel, Shadrach, Meshach, and Abed-Nego are the right model.** Reid cites these correctly. Daniel did not refuse to serve Nebuchadnezzar. He served as a high officer in the Babylonian administration through three reigns, executing his duties faithfully and honorably. The three Hebrew children likewise served the king. *When the king’s law required them to commit idolatry, they refused. When the king’s law required them to administer the kingdom, they obeyed. The principle is selective conscientious objection within a framework of general civil submission.* Reid extracts this principle correctly, and it is precisely the principle the Christian Underground project is operating under — though Reid and I will disagree about what counts as a conscience-violating command of the modern civil authority.
+
+
+**The character of submission matters for the Kingdom.** This is Reid’s deepest point, and it deserves the most serious engagement. He cites 1 Corinthians 15:23-28 — that even Christ will submit himself to the Father when all things are put under him — and Herbert Armstrong’s pithy maxim:* God will not allow into his Kingdom anyone he cannot rule.* The forming of a submitted heart, a heart that can yield to authority without resentment, is part of what the Christian life is for. *The Christian who cannot submit to a human authority will struggle to submit to the divine authority.* Reid is right that the experience of *being-under-authority in a human ordering is a training-ground for the deeper submission to God*. The fellowship needs to take this seriously: whatever resistance the Underground project asks for, it must not produce a posture of generalized unwillingness-to-submit that would mark a heart unsuited for the Kingdom.
+
+
+So Reid is right about the default disposition, the spiritual danger of rebellion-as-disposition, the trouble with the sovereign-citizen movement, the right model in Daniel and the three Hebrews, and the character-forming function of submission. These are not small points, and the essay before you takes them seriously. The honest question is whether Reid’s specific applications follow from these correct premises, and that is where I want to push back.
+
+
+## III. The Internal Conditions of Romans 13 Itself
+
+
+Reid’s central argument rests on Romans 13:1-7, and he reads it as an unconditional command of submission with only the narrowest exceptions (direct idol-worship). I want to read Romans 13 again carefully and ask whether the text itself bears that reading.
+
+
+Here is Paul’s argument, in his own structure:
+
+
+*Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God. Whosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation.* (Rom 13:1-2)
+
+
+So far, Paul has stated the principle: civil authority is ordained by God; resistance to it is resistance to God’s ordinance. Reid stops here, in effect, and treats the rest of the passage as commentary on the same principle. But Paul does not stop here. He immediately gives the reason civil authority is ordained by God, and the reason is conditional:
+
+
+*For rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same: for he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the sword in vain: for he is the minister of God, a revenger to execute wrath upon him that doeth evil.* (Rom 13:3-4)
+
+
+Look carefully at the logical structure. Paul does not say *rulers are always praising good works and punishing evil ones, no matter what they happen to do*. He says *rulers are not a terror to good works, but to evil*. This is a description of what civil authority is** *for* **— its God-ordained function. Paul’s argument is that civil authority, *insofar as it fulfills its God-ordained function of restraining evil and rewarding good*, is to be submitted to. Paul does not address — because he does not have to, for his immediate purposes — the case in which civil authority *inverts* its function and becomes a terror to good works rather than to evil.
+
+
+But that case is the case Christians have repeatedly faced. Within a few years of Paul writing Romans, Nero would burn Christians as torches in his gardens for refusing to participate in Roman civic religion. Nero was being a terror to good works, not to evil. Within sixty years, Pliny the Younger would be writing to Trajan asking how to handle Christians who refused to offer incense to the imperial genius. Trajan’s response — that they should be executed if they persisted in refusing — was the civil authority being a terror to good works, not to evil. The early Church under Decius (AD 250) and Diocletian (AD 303-311) faced systematic state persecution. The civil authority was being a terror to good works, not to evil. In every one of these cases, the Christian Church did not say: *Well, Paul taught us in Romans 13 that civil authority is the minister of God, so we must submit to whatever Nero or Decius or Diocletian demands*. They said: *Paul taught us in Romans 13 that civil authority is supposed to be the minister of God; this authority has betrayed its function; therefore, the obedience-claim of Romans 13 no longer holds with the force it would have under a rightly-functioning authority*. They refused the incense. They went to the lions. They became the cloud of witnesses.
+
+
+This is not a marginal reading. It is the way Christian theologians have read Romans 13 for most of Christian history when the rubber meets the road. Augustine reads it this way. Aquinas reads it this way in his treatment of just law in the *Summa* (I-II.96.4): an unjust law is *no law at all* in the proper sense and does not bind the conscience the way a just law does. Calvin reads it this way in *Institutes* IV.20: civil magistrates are to be honored as ministers of God when they perform their function, but when they require what God forbids, *we ought rather to obey God than men* (Acts 5:29), and the lesser magistrates have a positive duty to resist the tyranny of the higher. The Reformation’s whole theology of resistance — which I will develop more fully below — grows out of a careful reading of Romans 13 in its full structure rather than a flat reading of its opening verses in isolation.
+
+
+Reid does not engage this reading. His essay treats Romans 13:1-7 as if the conditional structure in verses 3-4 were merely descriptive of how rulers typically behave, not as a description of the function-of-civil-authority that grounds the submission-claim. On Reid’s reading, the Christian owes submission to a civil authority *regardless of whether* it fulfills its God-ordained function. That reading flattens Paul’s argument and produces a doctrine of unconditional civil obedience that Paul’s own text does not support.
+
+
+The fellowship should hold the conditional structure carefully. The Christian’s default submission to civil authority is grounded in the authority’s God-ordained function of restraining evil and rewarding good. When the authority performs that function, even imperfectly — as all human authorities do imperfectly — submission is owed. When the authority *inverts* that function — becoming a terror to good works and a reward to evil — the ground of submission begins to weaken, and the question of what obedience is owed becomes a serious one. Reid’s framework does not include a category for this case, but the Church’s actual history does.
+
+
+## IV. Acts 5:29, Read Fully
+
+
+Reid’s essay cites Acts 5:29 once, in passing, as the principle that authorizes Daniel and the three Hebrews to refuse idol-worship. The verse is: *We ought to obey God rather than men*. Reid’s use of it is narrow — it applies to direct conflicts where civil law commands what God forbids, and in Reid’s reading, those conflicts are essentially limited to idol-worship and direct violation of the Ten Commandments.
+
+
+But notice what is actually happening in the passage Acts 5:29 is taken from. Peter and the apostles have been arrested by the Sanhedrin — the highest religious-civil authority in Jerusalem, combining what we would call legislative, judicial, and religious functions, and operating under Roman imperial sanction within its sphere. The Sanhedrin had ordered the apostles to stop preaching the gospel in the name of Jesus. The apostles refused. Acts 5:29 is Peter’s explanation of why:
+
+
+*Then Peter and the other apostles answered and said, We ought to obey God rather than men.* (Acts 5:29)
+
+
+Notice what the apostles are *not* refusing. They are not refusing to bow to a statue. They are not refusing to commit idolatry. They are not facing a Daniel-3 lions’-den scenario. The Sanhedrin’s command was a command to stop public preaching. The apostles’ refusal was a refusal to stop preaching. The Acts 5:29 principle, as the apostles applied it, is wider than direct idol-worship. It extends to any case in which a legitimate authority forbids the Christian to do what God has commanded, or commands the Christian to do what God has forbidden.
+
+
+This matters because it opens up a category Reid’s framework does not allow: the case in which civil authority commands the Christian to *participate in evil* by act, financing, or association. The midwives of Exodus 1 faced precisely this case. Pharaoh ordered them to kill the male Hebrew infants at birth. They refused. The text is striking: *But the midwives feared God, and did not as the king of Egypt commanded them, but saved the men children alive* (Exod 1:17). And God’s response to their disobedience: *Therefore God dealt well with the midwives… And it came to pass, because the midwives feared God, that he made them houses* (Exod 1:20-21). The midwives are commended for disobeying a direct order of the legitimate civil authority. The command was not to commit idolatry; the command was to participate in killing innocent children.
+
+
+The midwives are not a marginal case in the Old Testament. They are the foundational paradigm of conscientious objection in the biblical canon. The same paradigm runs through Daniel 6 (where Daniel refuses the command not to pray — a command about *worship-pattern*, not about *idol-worship* in the Daniel-3 sense), through the apostles’ refusal to stop preaching, through every faithful refusal in the long history of the Church.
+
+
+Reid’s reading of Acts 5:29 narrows the principle to direct idol-worship. The biblical canon’s reading of Acts 5:29 — through the midwives, Daniel, the apostles, and the historical line of conscientious-objection from the early Church through the Reformers through Bonhoeffer and ten Boom — is wider. The principle is: when civil authority commands the Christian to participate in evil (by direct act, by abstaining from commanded good, by financing, by association, or by any other mode of moral cooperation), the Christian must refuse, accept the punishment that follows, and trust God. This is not rebellion; it is the conscientious-objection tradition. It is older than Romans 13 itself.
+
+
+## V. Daniel, Shadrach, and the Midwives — Reid’s Own Examples Open the Wider Principle
+
+
+Reid cites Daniel and the three Hebrew children as the right model of selective civil disobedience within a framework of general civil submission. He is right to cite them. But he reads them more narrowly than the text allows.
+
+
+The Daniel 3 case — the three Hebrew children refusing to bow to Nebuchadnezzar’s image — is the case Reid foregrounds. It is a direct command to commit idolatry, and the three refuse. They are willing to be executed for the refusal. God delivers them, but they make clear in advance that even if God does not deliver them, they will still not bow: *But if not, be it known unto thee, O king, that we will not serve thy gods, nor worship the golden image which thou hast set up* (Daniel 3:18). This is the classic conscientious-objection scene, and Reid’s use of it is correct as far as it goes.
+
+
+But Daniel 6 — the lions’ den — is a different case, and Reid’s framework does not handle it well. The command in Daniel 6 is not a command to commit idolatry. It is a command to *not pray to any God or man except the king for thirty days*. Daniel’s defiance is not the refusal to bow to an idol; it is the continuation of his ordinary daily prayer practice, three times a day, with his window open toward Jerusalem, exactly as he had been doing before the decree. His act of civil disobedience is *continuing to do what God commanded in a context where civil authority has* forbidden it.
+
+
+This is precisely the apostles’ situation in Acts 5. The Sanhedrin had not commanded them to bow to an idol; the Sanhedrin had commanded them to stop preaching. The apostles’ civil disobedience was *continuing to do what Christ had commanded*, in a context where the religious-civil authority had forbidden it.
+
+
+And it is precisely the midwives’ situation, only in reverse. Pharaoh had commanded them to commit an evil act (kill the infants); they refused, *continuing to do what their calling as midwives required* — saving life rather than taking it.
+
+
+The principle that emerges from these three cases — Daniel 3, Daniel 6, the midwives of Exodus 1, and the apostles in Acts 5 — is broader than Reid’s framework allows. The principle is: the Christian (or the Old Testament saint) owes obedience to civil authority when its commands are compatible with God’s commands. When the civil authority commands the believer to *do evil*, to *omit good*, to *participate in another’s evil*, or to *cease the practices God has commanded* — the believer must refuse, accept the consequences, and trust God for whatever follows.
+
+
+This wider principle is the historic Christian conscientious-objection tradition. It does not, however, settle every case automatically. The principle applies cleanly when civil authority commands a direct act of evil (the midwives commanded to kill the infants, the doctor commanded to perform an abortion), when civil authority forbids a direct commanded good (the apostles commanded to stop preaching, Daniel commanded to stop praying), or when participation moves to the level of formal cooperation (intent to advance the evil) or immediate material cooperation (direct hand in the evil act itself). The principle does *not* automatically settle the moral status of *every* form of cooperation with civil authority — particularly the indirect, fungible, attenuated forms of cooperation that arise from the ordinary citizen’s participation in shared civic structures (general taxation, commerce, employment in mixed-purpose institutions). For those forms, the historic moral tradition provides a more careful analytic apparatus — the formal/material, immediate/mediate, proximate/remote distinctions — and Section XI works through that apparatus in detail.
+
+
+Reid’s framework lacks both the wider Acts 5:29 principle (which covers more than direct idol-worship) and the moral-cooperation apparatus (which distinguishes cases of direct participation from cases of remote fungible contribution). The result is a flattened reading in which everything that resembles civic resistance gets collapsed into rebellion. The fellowship needs both tools — the wider principle to handle cases of direct participation in evil, and the moral-cooperation apparatus to handle cases of indirect contribution where refusal would be theologically misplaced and practically futile. Together, they provide a framework that is more careful than Reid’s, more theologically grounded, and more useful for actual decision-making under the conditions the fellowship faces.
+
+
+## VI. The “Render Unto Caesar” Passage, Read Fully
+
+
+Reid uses Matthew 22:17-21 — the *render unto Caesar* saying — as straightforward authorization to pay all taxes. He notes that Jesus paid the head tax and the temple tax. His reading is the standard popular reading: Jesus said to pay your taxes; so pay your taxes; the matter is closed.
+
+
+The standard popular reading is not wrong on its first level, but it is shallow. Jesus’ answer to the Pharisees is more sophisticated than Reid uses it. Let me work through it carefully.
+
+
+The Pharisees and Herodians come to Jesus with a trap. The Pharisees are nationalists who resent the Roman tribute; the Herodians are collaborators who support it. The question — *is it lawful to give tribute to Caesar, or not?* — is a trap because either answer alienates one camp and arms the other. If Jesus says no, the Herodians can denounce him to Pilate as a Zealot. If Jesus says yes, the Pharisees can denounce him to the people as a collaborator. The question is designed to have no safe answer.
+
+
+Jesus asks for the coin. He does not have one himself — already a tell. He asks whose image and inscription are on it. They answer: Caesar’s. And here Jesus gives the famous saying:
+
+
+*Render therefore unto Caesar the things which are Caesar’s; and unto God the things that are God’s.* (Matt 22:21)
+
+
+The popular reading takes this as: pay the tax. And at its first level, that is what Jesus is saying — the coin already bears Caesar’s image; it is, in some sense, already his; return it to him. But Jesus’ saying has a second half that the popular reading typically swallows whole without examining: *render unto God the things that are God’s*. What are the things that are God’s? What bears God’s image?
+
+
+The answer is in Genesis 1:27: *So God created man in his own image, in the image of God created he him; male and female created he them.* The human being bears God’s image. Caesar’s coin bears Caesar’s image and is owed to Caesar; the human being bears God’s image and is owed to God. The two clauses of Jesus’ saying are perfectly parallel, and the saying as a whole is not merely an authorization of tax-payment but a profound assertion of where the believer’s *primary loyalty* lies.
+
+
+*Caesar gets the coin. God gets the person.* The believer renders to Caesar what bears Caesar’s image — money, civic duties, ordinary obedience to the laws that govern the public square — and renders to God what bears God’s image — his life, his loyalty, his worship, his conscience, his obedience in the things that pertain to the soul. When the two render-claims do not conflict, the believer happily performs both. When they conflict, the second has priority by the logic of Jesus’ own saying, because what bears God’s image is owed to God *first*, and Caesar’s claim to the coin must yield where it threatens to extend to the person.
+
+
+This is the reading that the early Church Fathers gave the passage. Tertullian, writing under Roman persecution, treats *render unto God what is God’s* as the basis for the Christian refusal to offer incense to the emperor — *the coin is Caesar’s, but I am God’s*. Augustine reads it similarly. The reading has been continuous through the Christian tradition.
+
+
+Reid’s use of the passage stops at the first half. He uses *render unto Caesar* as authorization to pay all taxes. He does not develop *render unto God* as the corresponding limitation on Caesar’s claim. The result is a flattened reading that supports Reid’s overall thesis but loses the depth of what Jesus actually said. The fellowship should hold the saying whole. The coin to Caesar; the person to God. The tax to Caesar; the conscience to God. The ordinary civic duty to Caesar; the worship and witness to God. When Caesar reaches for what bears God’s image — for the conscience, for the worship, for the witness, for participation in the killing of God’s image-bearers — Jesus’ own saying is the ground for refusal.
+
+
+## VII. The Pauline Life Itself
+
+
+Reid’s argument that Paul taught unconditional submission to Roman civil authority must be tested against the way Paul actually lived. Paul wrote Romans 13. He also lived a life that does not fit Reid’s reading of Romans 13.
+
+
+Consider: Paul was repeatedly arrested by civil authorities. He was beaten with rods at Philippi for preaching the gospel (Acts 16:22-23) — and *did not refuse the beating*, did not invoke his Roman citizenship until *after* the beating, in order to maximize the witness. He was imprisoned in Jerusalem, in Caesarea, in Rome, and finally beheaded under Nero. In every case, his arrest was triggered by his preaching of the gospel in the face of civil-religious demands that he cease.
+
+
+When the Sanhedrin and the Asian Jews repeatedly tried to silence him through legitimate-seeming legal processes, Paul did not cease preaching. He used Roman law strategically when it served the gospel — invoking his citizenship at Philippi after the beating (Acts 16:37), appealing to Caesar from Festus (Acts 25:11) — but he did not abandon the preaching to comply with Sanhedrin or Asian-Jewish demands that he stop. The same Paul who wrote *let every soul be subject to the higher powers* was repeatedly imprisoned and beaten and finally killed for refusing to submit to specific civil-authority demands that he stop preaching the gospel.
+
+
+The Pauline life, therefore, demonstrates how Paul himself understood Romans 13. The default disposition is submission; the obedience-claim of civil authority is real; the believer pays taxes, respects officials, and lives within the law. But when civil authority commands what God forbids — for Paul, the command to stop preaching — the believer must refuse, accept the consequences, use whatever legal protections remain to maximize the witness, and trust God for the outcome. Paul lived Acts 5:29 even as he wrote Romans 13. The two are not in tension; they are two sides of a single consistent teaching. Reid’s reading of Romans 13 produces a Paul who would not have ended up beheaded under Nero. The actual Paul did end up being beheaded under Nero, because he never stopped preaching.
+
+
+This is the part of Romans 13 that the unconditional-submission reading cannot account for. The author of Romans 13 was himself a serial civil-disobedient who was finally executed for his refusal to comply with the very civil authority he had told the Roman believers to be subject to. Either Paul was a hypocrite, or the doctrine of Romans 13 is not the doctrine of unconditional submission that Reid reads into it. Paul was not a hypocrite. The reading must accommodate Paul’s life. The reading that does so is the historic reading: default submission, with Acts-5:29-style refusal when civil authority commands what God forbids.
+
+
+## VIII. The Reformation Doctrine of the Lesser Magistrate
+
+
+There is a third element of the historic Christian reading of Romans 13 that Reid’s framework does not include, and that the fellowship should know exists: the Reformation doctrine of the lesser magistrate.
+
+
+The doctrine, developed by John Calvin in the *Institutes* IV.20.30-31, by John Knox in his *Appellation to the Nobility and Estates of Scotland* (1558), by Theodore Beza in *Du Droit des Magistrats* (1574), and most fully by Samuel Rutherford in *Lex, Rex* (1644), holds that the civil authority is itself ordered hierarchically, and that when a higher magistrate commits tyranny against the people or against the law of God, the lesser magistrates (subordinate authorities — provincial governors, lesser nobles, mayors, sheriffs, in our terms perhaps state attorneys-general, county sheriffs, school boards) have not merely the right but the positive *duty* to resist the tyranny of the higher.
+
+
+This is not the sovereign-citizen movement’s claim that the individual is above the law. It is the precise opposite: it is the claim that civil authority is hierarchically ordered under God’s law, and that the lesser magistrate is bound by his oath to God’s law in a way that takes precedence over his subordinate relationship to the higher magistrate. When the higher magistrate commands the lesser to do what God forbids, the lesser must refuse — and may, in serious enough cases of tyranny, organize the people to resist the higher.
+
+
+The lesser-magistrate doctrine was not academic. It was the working theology behind:
+
+
+- The Scottish Reformation’s resistance to Mary Tudor and later to Mary Queen of Scots.
+
+- The Dutch revolt against Philip II of Spain.
+
+- The Huguenot resistance to the French Crown after the St. Bartholomew’s Day Massacre (1572).
+
+- The Puritan resistance to Charles I that became the English Civil War.
+
+- The American colonial resistance to the British Crown — explicitly framed by John Witherspoon, Samuel Adams, and the Continental Congress in lesser-magistrate categories, with the colonial legislatures as the lesser magistrates standing against the tyranny of Parliament and King.
+
+- The Confessing Church’s resistance to the Nazi state — Bonhoeffer’s *Ethics* and his participation in the conspiracy against Hitler were explicitly framed in this tradition.
+
+
+Reid’s framework has no place for this doctrine. His CGG tradition descends from Herbert Armstrong’s Worldwide Church of God, which was largely shaped by Anglo-Israelism, Adventist eschatology, and a very specific 20th-century American Pentecostal-adjacent reading of Romans 13. The Reformation lesser-magistrate doctrine was not part of Armstrong’s inheritance; it does not appear in CGG’s working theology; and Reid does not draw on it.
+
+
+The fellowship does. The Christos framework, especially as it has developed through the Christos Voting Network’s emphasis on local political engagement and the Christian Underground’s emphasis on building alternative institutions, sits comfortably in the lesser-magistrate tradition. The CVN’s emphasis on county-level political engagement is, in effect, a lesser-magistrate strategy: cultivate the lesser magistrates who are closer to the people and more accountable, so that when higher magistrates tyrannize, the lesser have the moral and political standing to refuse compliance. This is not sovereign-citizen rebellion; it is Reformation political theology.
+
+
+The fellowship would benefit from a fuller engagement with the lesser-magistrate tradition than I can give here. Rutherford’s *Lex Rex* is a primary text; Matthew Trewhella’s *The Doctrine of the Lesser Magistrates* (2013) is a contemporary popular treatment that may be too aggressive in tone but is accurate in substance; Calvin’s *Institutes* IV.20 is the foundational chapter. Reading any of these makes clear that the historic Reformed-Christian tradition has had a robust theology of resistance to tyranny for five hundred years, and that the dichotomy Reid implies — *either submit unconditionally, or be a sovereign-citizen rebel* — is a false dichotomy that the Reformation already resolved.
+
+
+## IX. The Sovereign-Citizen Movement — Reid is Right
+
+
+I want to be very clear, after the above pushback, that Reid is right specifically about the sovereign-citizen movement. The Christian Underground project is not sovereign-citizenship, and the fellowship should not become sovereign-citizens.
+
+
+The sovereign-citizen movement is bad theology, bad law, and bad fruit. Its theology is a stew of King James-only literalism, redemption-movement conspiracy theory about the Federal Reserve, and an inflated reading of the individual believer’s standing-before-God that displaces the legitimate role of civil authority. Its law is fictional — the legal theories the movement teaches (the strawman doctrine, the all-caps-name claim, the UCC redemption theory, the gold-fringed-flag argument, the admiralty-jurisdiction claim) have been rejected by every American court in every jurisdiction, and people who litigate them lose, often catastrophically. Its fruit, as Reid notes, tends toward bitterness, isolation, paranoia, broken families, and in extreme cases violence. The Freemen of Montana, the Bundy standoff at Malheur, the Ruby Ridge tragedy, the Branch Davidians — these are the visible end-states of the movement, and they are not what the fellowship wants.
+
+
+The fellowship has had encounters with the edges of this movement. Susan’s testamentary-trust framing has structural similarities to redemption-movement legal theories, though Susan herself has not adopted the conspiratorial frame. The fellowship needs to be careful when we discuss resistance to civil authority, not to drift into adopting sovereign-citizen legal theories as if they were Christian theology. They are not.
+
+
+The honest move is to clearly separate the two. The Christian Underground project is grounded in (a) the conditional reading of Romans 13 developed above; (b) Acts 5:29 as applied through the midwives, Daniel, the apostles, and the historic conscientious-objection tradition; (c) the deep reading of *render unto God what bears God’s image*; (d) the Reformation lesser-magistrate doctrine; (e) the eschatological frame that the saints are present for the trial and must endure (the historic eschatology defended in yesterday’s essay). The sovereign-citizen movement is grounded in (a) bad legal theory; (b) conspiratorial historiography; (c) an inflated sense of individual sovereignty that displaces the legitimate role of civil authority; (d) an effective rejection of the New Testament’s submission-as-default disposition. These are different theological frameworks, with different fruits.
+
+
+When the fellowship’s resistance is grounded in the Christian framework, it produces what Bonhoeffer’s resistance produced, what Daniel’s resistance produced, what the midwives’ resistance produced: a faithful witness under pressure, with full acceptance of legal consequences, and an undamaged spiritual life. When the resistance is grounded in the sovereign-citizen framework, it produces what Bundy’s resistance produced: legal disasters, broken families, sometimes violence, and a damaged spiritual life. The fellowship needs to know which framework it is operating in, and the answer should be the first.
+
+
+## X. The Christian Underground — Invisible Conversion of the World, Not Sovereign Citizenship
+
+
+Given Reid’s strong claim that resistance to civil authority is rebellion-and-therefore-sin, the fellowship should be able to state clearly what the Christian Underground project actually is and is not. Earlier framings of this argument treated the Underground primarily in defensive terms — as alternative institutions to protect the Christian witness from hostile regulation, household- and church-level economic resilience, and infrastructure to outlast cultural pressure. That framing is not wrong, but it is secondary. The primary thing the Underground is is something more positive and more ambitious: an alternate moral system that operates invisibly through the lives of its participants and, by its slow, patient work, converts the entire world into the likeness of Christ.
+
+
+This is not the conversion of bodies or borders; it is the conversion of souls. It does not advance by lawn signs, campaign advertisements, mailers, or mass media. It advances by witness, by love, by good works, and by the logical defense of Christ as creator, God, redeemer, and lawgiver. The Christos Physics Project/Conscious Point Physics (CPP) is part of this project, supplying the rational and philosophical ground that thoughtful skeptics require before they can take the biblical claims seriously — God demonstrated from the structure of matter itself, consciousness recognized as fundamental rather than emergent, the universe’s order traced to a personal Author rather than to brute necessity or accident. The family of Christos projects: CFE (Christos Fellowship) essays, the fellowship discussions, the daily discipleship of new believers — these are part of this project. The Ideomotion company’s commitment to ethical practice, the Christos Home School’s formation of children in the biblical pattern, the Christos Voting Network’s invitation to political-ethical discussion and registration of opinion, the Christos Rigorous Framework’s derivation of doctrine from biblical axiom — these are part of this project. None of these activities is the Underground in isolation; together, they are the multiple visible expressions of one invisible work.
+
+
+The goal of the Christian Underground is to prepare ourselves, individually and together, for Christ’s return by winning the culture for His Kingdom one soul at a time. This is an underground project, not because it is secret or conspiratorial, but because it is unseen — no lawn signs, no campaign advertisements, no mailers. It spreads by word of mouth, by the witness of changed lives, by the patient work of discipleship. Its first goal is personal sanctification. Its primary outreach is sharing the gospel — the good news of salvation in Christ. Its daily discipline is the formation of new believers into the maturity of the biblical pattern, and the equipping of those believers to share what they have received.
+
+
+In the Underground, each person strives to walk in the purity of Christ’s way — not because that purity earns God’s favor, but because it is the fruit and evidence of a faith that has already received His favor. We are reconciled to God through Christ’s atoning death, accepted by faith alone. We are then progressively conformed to His likeness as the work of the Spirit in those who have been adopted as His children. The transformed life is the mark of adoption, not its price.
+
+
+This is a service to God because God delights to live through His people. Living righteously and enrolling others in righteous living serve humanity — people flourish in communities where God’s way is honored, and they suffer in communities where it is not. God’s joy is increased by every person who walks in His way; His family expands by every person He adopts; His desire is that the whole world should know Him.
+
+
+We obey the Great Commission as we share the gospel. We bear witness to the power and goodness of God as we walk in obedience to Him, and by that obedience, our character is transformed, and our lives become evidence. The work creates, over time, a community of transformed souls who naturally align on political, social, and cultural questions because they have all been shaped by the same Word. Sufficient sanctification, lived out and witnessed, may yield political effect — a nation’s spirit is sanctified by the purification of its people. But political effect is the byproduct, not the goal. The goal is the transformation of souls and their inclusion in Christ’s Kingdom. In that hope is the pleasure of our daily experience of life, and the joy of God’s experience of life through us.
+
+
+The integration of witness and apologetic is essential to the Underground’s work. Love and good works open hearts; logical argument and philosophical defense answer minds. The two are not in tension; they are complementary instruments of the one invisible work. A person can be drawn toward Christ by the example of a transformed neighbor, and held in Christ by the rational confidence that Christianity is, in fact, true. Both arms of the work are needed because human beings come to faith through multiple channels — the affective channel of witness and love, the cognitive channel of reasoned argument, the volitional channel of repentance and surrender. The Underground project, taken as a whole, addresses all three. This is why CPP belongs squarely in the Underground — it is the rational-philosophical arm of the same invisible work, supplying seekers in the analytical-Anglophone tradition with the kind of intellectual foundation that opens the door to the gospel in a way that pure exhortation cannot.
+
+
+**What the Christian Underground is not.** It is not [sovereign-citizen](https://www.cgg.org/index.cfm/library/article/id/472/should-we-obey-laws-of-our-government.htm) rebellion. It is not the assertion of individual sovereignty against legitimate civil authority. It is not the refusal to pay general taxes, obey ordinary laws, file required paperwork, or otherwise function inside the civic order. It is not a withdrawal from public life or a rejection of the legitimate functions of civil government. It is not a paramilitary movement. It is not a separatist enclave. It is not a parallel economy designed to avoid the broader market. It is not the development of alternative legal theories with no recognition in any actual court. It is not the cultivation of bitterness, paranoia, or contempt toward neighbors who do not share the diagnosis. *The Underground does not see itself as withdrawing from the world; it sees itself as quietly, patiently, lovingly converting the world.*
+
+
+**The distinction in practical terms.** A Christian Underground member files his taxes, obeys traffic laws, pays for his business permits, sends his children to school (or homeschools legally), votes in elections, serves on juries, and lives a generally law-abiding life. His witness is in the quality of his work, the patience of his relationships, the love he shows his neighbor, the integrity of his commercial dealings, the formation he gives his children, the conversations he has with co-workers and friends about Christ. His good works are not performed for the praise of men, but they are visible enough that men, seeing them, give glory to his Father in heaven (Matt 5:16). His apologetic is in the answer he is ready to give for the hope that is in him (1 Pet 3:15), spoken with gentleness and respect. When his conscience requires it, he declines to participate in specific evils that civil authority commands, accepting the legal consequences rather than asserting exemption from the legal system as a whole. He builds, through his church, his household, and his professional life, the kinds of relationships and habits that will be needed when conscience conflicts intensify. He does this in advance of a crisis, so that the infrastructure of fidelity is already there when a crisis comes.
+
+
+A sovereign-citizen, by contrast, treats every encounter with civil authority as an occasion for legal-theoretical confrontation. He refuses to file taxes, refuses to get a driver’s license, refuses to acknowledge court jurisdiction, asserts that he is not the all-caps-name on the documents, demands the gold-fringed flag be removed from the courtroom, and so on. His resistance is general rather than specific; it is theatrical rather than conscientious; it produces legal disasters rather than faithful witness; and it does not build the kind of community and discipleship infrastructure that the Underground project aims at. His witness, such as it is, is a witness against the system rather than toward Christ; and the watching world, when it watches him, sees the rebellion rather than the Redeemer.
+
+
+These are different projects. The fellowship is doing the first, and should not drift into the second. Reid’s essay correctly diagnoses the second as rebellion; the fellowship needs to take that diagnosis seriously and ensure that we do not, by careless adoption of sovereign-citizen tropes or legal theories, slip into a project that is genuinely under Reid’s condemnation.
+
+
+The Christian Underground, in summary, is the church doing what the church has always done at its best — bearing witness, loving the neighbor, doing the good works prepared in advance for it, articulating the reasoned defense of the faith, and trusting the Lord of the harvest to bring His Kingdom in His own way and time. Christ said the Kingdom is among us already (Luke 17:21) and that it grows like a mustard seed, like leaven hidden in three measures of meal (Matt 13:31-33). The Underground is the work of being that seed and that leaven in our own moment, with the resources our own moment has given us — including the rational and scientific framework CPP provides for those whose entry-point to faith requires the rational floor.
+
+
+What this leaves open, and what Section XI now turns to, is the more careful question of where the Christian conscience actually does require refusal — the moral-cooperation question that has long occupied serious Christian moral theology, and that the fellowship needs to handle with more precision than either Reid’s flat-submission position or a generalized objection to every flow of money toward funded evils.
+
+
+## XI. The Moral-Cooperation Question — Formal, Material, Proximate, Remote
+
+
+Behind the question of how the Christian relates to civil authority sits a sharper, narrower question: when civil authority commands or permits an evil and the Christian’s daily life is woven into the structures the authority operates — through taxes, employment, commerce, professional licensure, banking — what does the Christian’s conscience actually require? The fellowship has been circling this question from several directions: tax-funding of abortion through Medicaid and Title X; tax-funding of wars judged unjust or social programs judged harmful; employment in industries whose ultimate ownership funds hostile causes; commercial transactions with companies whose corporate stances are anti-Christian; investment in funds that hold morally compromised assets. The question is real, and the answer the historic Christian moral tradition gives is more refined than either “pay everything without examination” (Reid’s effective position) or “refuse the calculated immoral portion” (a position the fellowship has heard articulated and that needs careful examination).
+
+
+The framework the moral tradition uses — developed in the Catholic moral theology of the High Middle Ages, refined by the casuists of the post-Reformation period, and broadly accepted across orthodox Protestant moral theology under different terminology — distinguishes several categories of cooperation in the evil acts of others.
+
+
+**Formal cooperation** is sharing the intent of the evil act. The accomplice who drives the getaway car, intending the robbery, formally cooperates in the robbery. The executive who approves abortion-funding *because* he wants more abortions to occur formally cooperates in the abortions. Formal cooperation in evil is always forbidden, full stop. The intent itself is the moral evil; sharing the intent is sharing the evil.
+
+
+**Material cooperation** is providing the matter — the act, the money, the support — without sharing the intent. The taxi driver who happens to drive a robber to the scene of the crime, not knowing what the passenger intends, materially cooperates without formally cooperating. The accountant who prepares tax filings for a corporation that does many things, some good and some evil, materially cooperates in whatever the corporation does. Material cooperation in evil is a more complex moral question, and the tradition further distinguishes its modes.
+
+
+**Immediate material cooperation** is direct participation in the evil act itself. The doctor performing the abortion is in immediate material cooperation. The pharmacist filling an abortifacient prescription is in immediate material cooperation. The medical-billing clerk processing the abortion claim, knowing what the procedure was, is in immediate material cooperation. The executive deciding to fund abortion services from the company’s treasury is in immediate material cooperation. Immediate material cooperation in evil is forbidden because cooperation itself is evil, even if the cooperator’s interior intent is something else (a paycheck, professional obligation, fear of losing the job).
+
+
+**Mediate material cooperation** provides something — money, labor, infrastructure — that the principal evildoer uses for the evil act, but the cooperator’s own act is not the act of the evil. The mediate cooperator supplies a means; the principal makes the evil use of the means. Mediate material cooperation is further classified by *proximity* in the causal chain.
+
+
+**Proximate mediate material cooperation** is close in the chain. Supplying the specific instruments to be used in the abortion is proximate. Manufacturing the abortifacient drug is proximate. Operating the building where the abortions are performed, knowing this is what occurs there, is proximate. Proximate mediate material cooperation is generally forbidden absent grave proportionate reason — the cooperator is so close to the evil act that ordinary refusal is required.
+
+
+**Remote mediate material cooperation** is distant in the chain. Paying federal taxes that flow into a general fund, of which a fractional percentage is appropriated to abortion-funding mechanisms, is remote. Working for a company that has a charitable-giving program that includes, among many recipients, an organization that lobbies for abortion access is remote. Buying gasoline from a chain whose corporate parent has a stated position that one’s conscience rejects is remote. The cooperator’s contribution is fungible, attenuated, and would be replaced if refused without affecting the principal’s evil act in any measurable way.
+
+
+The historic tradition’s judgment is this: **remote mediate material cooperation is morally permitted** when four conditions are met. First, the cooperator does not intend the evil — his intent is some legitimate end (paying lawful taxes, earning a livelihood, making necessary purchases). Second, there is a proportionate reason for the cooperation — the legitimate end is serious enough to justify the cooperation, weighed against the gravity of the evil and the degree of cooperation. Third, the cooperation is fungible — the cooperator’s contribution is so small and so easily replaced that his refusal would not actually prevent or reduce the evil. Fourth, there is no reasonable alternative — refusing the cooperation would require the cooperator to become a fugitive, abandon necessary employment, or sacrifice the grave goods of his own life and family.
+
+
+Applied to the paradigm case — paying general federal taxes that include a microscopic abortion-funded portion, or that fund wars or programs the taxpayer judges evil — all four conditions are met for the ordinary citizen. He does not intend abortion-funding or war-funding; his intent is to fulfill a lawful civic obligation. There is proportionate reason — civil order, lawful livelihood, family provision, neighbor-love through participation in shared civic burdens. The contribution is fungible to the point of vanishing — one citizen’s refusal does not reduce the federal abortion-funding stream or war-funding stream by one cent, because the federal government does not allocate individual tax dollars to specific spending categories; the money goes into a general fund and is spent regardless of any individual’s refusal. There is no reasonable alternative — refusing to pay any taxes that include morally objectionable spending would require the citizen to abandon the cash economy, which is, in effect, to become a fugitive. The historic moral tradition holds that the ordinary citizen paying general taxes is not morally cooperating with the evils funded in a way that violates conscience. Jesus paid the temple tax that funded the Roman occupation. Paul instructed believers to pay taxes to a pagan empire whose treasury financed emperor-worship, gladiatorial spectacle, and the persecution of Christians. The early Church, through the worst of the persecutions, paid taxes without conscience-objection on this point. None of them treated remote material cooperation in the evils of the state as a sin requiring refusal.
+
+
+This does not mean civil-tax obligation is unlimited. It means the conscience-objection question kicks in at a different point than the calculated-immoral-portion. It kicks in when the cooperation moves from remote to proximate, or from mediate to immediate, or when formal intent appears. The doctor commanded to perform abortions cannot pay his way through this with an offsetting donation; he is in immediate material cooperation and must refuse. The pharmacist commanded to fill an abortifacient prescription is in immediate material cooperation and must refuse to do so. The hospital chaplain commanded to comfort a patient *into* her abortion rather than minister to her conscience is being asked to formally cooperate and must refuse. The Christian medical-device executive whose product is being newly approved for use in a chemical-abortion protocol faces a proximate-mediate question and must work through the four conditions carefully. The Ideomotion charter §7 commits the company to refuse, at the corporate-decision level, the application of its products to ethically compromised uses — that is, the company’s anticipatory exercise of conscience at exactly the point where the moral-cooperation framework actually calls for refusal.
+
+
+This is the more sustainable and more accurate theological position. It also matches the actual practice of the historic Church across many centuries and under many forms of government — paying taxes broadly, refusing direct participation in evil specifically, and accepting the consequences of that refusal without claiming exemption from the general civic obligation. The Christian’s task is not to maintain perfect moral purity in a world structured by evil; that is impossible without becoming a fugitive, and the saints did not attempt it. The Christian’s task is to refuse direct participation in evil where his hand, his act, his decision, or his intent is implicated, while rendering to Caesar in the fungible flows of civic life what is properly Caesar’s.
+
+
+A note on the practical reality of resistance, since the fellowship has discussed this from several directions. Effective conscientious resistance — resistance that actually produces moral or political change — has historically taken two forms. The first is **individual witness in cases of direct participation**, where one person’s refusal stands or falls on its own terms because the cost is borne by the individual and the witness is unambiguous: Daniel praying with the windows open, the apostles refusing to stop preaching, the midwives sparing the infants, the modern conscientious objector accepting the prison sentence rather than the conscription. This kind of witness does not depend on numbers; one Bonhoeffer at Tegel is a witness even if no one else stands beside him.
+
+
+The second is **organized mass movement** with cultural-political leadership, identifiable demands, and measurable pressure: the abolitionist movement, the British anti-slavery campaign, the American civil-rights movement, the pro-life movement’s slow legal and cultural work, the more recent consumer boycotts that have actually moved corporate behavior (the Bud Light case is the cleanest recent example — a clear public objection, organized cultural-political leadership, a measurable revenue impact, a corporate retreat that has held for several years now). This kind of resistance requires scale and structure to work; without scale and structure, lone consumer-boycott or lone tax-resistance against general-fund spending is functionally invisible. The dollar is not paid; the spending continues unchanged; the resister bears the entire cost; the witness is heard by no one. The lone resister against fungible general-fund spending puts himself in the cross-hairs to be picked off in isolation, without the protective and amplifying effect that organized resistance provides.
+
+
+The fellowship should be honest about which of these our resistance can take. We are, at present, a small group. We do not have the mass to make a consumer boycott of any large institution measurably costly. We do not have the political organization to make tax-resistance against general-fund spending visible to anyone but the IRS auditor assigned to the case. What we *can* do — what the Christian Underground project is for, taken as a whole — is the patient missional work described in Section X: witness, love, good works, the reasoned defense of Christ, building, soul by soul, the community whose eventual scale will matter. In the meantime, we focus our individual witness on cases of direct participation in which one person’s refusal stands on its own moral terms (the doctor, the pharmacist, the chaplain, the Ideomotion-charter cases, the school employee asked to teach what conscience forbids, and so on).
+
+
+This is a more limited, more carefully aimed conscience-discipline than a generalized objection to every fungible flow of money toward funded evils, and it is also far more theologically defensible and pastorally sustainable. It honors the moral tradition. It honors the actual practice of the historic Church. It does not require every fellowship member to organize his finances around symbolic tax-resistance. It locates the real Acts 5:29 cases where they actually live: at the point of direct participation, where the believer’s own hand, act, or decision is the matter. And it preserves the believer’s energy and witness for the offensive work of the Underground — the patient soul-by-soul conversion of the world through changed lives and the reasoned defense of Christ — rather than spending the witness on symbolic gestures that do not actually move the spending.
+
+
+## XII. The Practical Defaults
+
+
+What does all this mean for how the fellowship should actually live, day to day?
+
+
+I want to land carefully here, because both Reid’s caution and the Christian Underground’s resistance have legitimate claims, and the fellowship’s practice should reflect both.
+
+
+**Default disposition: ordinary law-abiding civic obedience.** The fellowship’s members file their taxes, pay their fees, obey traffic laws, get the licenses required for their professions, follow zoning ordinances, vote in elections, sit on juries, file the required paperwork for their businesses, and live generally law-abiding lives. We do not adopt sovereign-citizen legal theories. We do not seek opportunities to flout authority. We do not develop generalized disrespect for police officers, judges, or other public servants. We pray for our leaders. We respect the legitimate functions of civil government.
+
+
+**Selective conscientious objection where conscience requires.** When civil authority commands the believer to participate in a specific evil — to perform an abortion, to officiate at a non-Christian marriage as a Christian minister, to administer a medical intervention the believer judges harmful, to violate the confessional seal, to teach what the believer judges false to children, to surrender records that would betray fellow believers under persecution — the believer refuses. The refusal is targeted, specific, and accompanied by acceptance of legal consequences. The believer does not flee the system; he stands in it, witnesses by his refusal, pays the cost, and trusts God.
+
+
+**Avoidance of moral cooperation where alternatives exist.** Where the believer has reasonable alternatives that avoid material cooperation with serious evil, he takes them. He chooses suppliers, employers, banks, insurers, and professional associations that do not require ethical compromises when alternatives exist. He builds his household and business structures so that the cost of conscientious refusal, when it comes, is one he can bear. This is the *preparation* the Underground is for.
+
+
+**Cultivation of communal infrastructure.** The fellowship invests in the relationships, the doctrinal formation, the educational alternatives, the local political engagement, the ethical business practices, the household economies, and the church-level mutual support that will be needed if and when the conscience-conflicts intensify. We do this work in ordinary time precisely so that, in crisis, the infrastructure exists to support faithful witness.
+
+
+**Engagement of lesser magistrates.** Where lesser civil authorities — local officials, state representatives, county sheriffs, judges — are sympathetic to the Christian witness and willing to exercise their legitimate authority to constrain tyrannical higher actions, the fellowship supports them, votes for them, engages them, and, where appropriate, runs members of the fellowship for such offices. This is the Reformation lesser-magistrate strategy applied to contemporary American federalism. It is consistent with the Christos Voting Network’s emphasis on county-level political engagement.
+
+
+**Refusal of generalized rebellion-disposition.** The fellowship deliberately resists the cultural pull toward generalized contempt for civil authority. We do not adopt the language of *the regime*, *the deep state*, or *the cabal* in our internal discourse. We may discuss particular failures of particular authorities with appropriate factual precision, but we do not develop a generalized disposition of suspicion-toward-government that would mark a heart out of step with the New Testament’s submission-as-default teaching. Reid is right that this disposition is spiritually corrosive; the fellowship should be vigilant against it in ourselves.
+
+
+**Pastoral patience with brothers and sisters who disagree.** Some members of the fellowship are temperamentally more inclined toward submission, others more inclined toward resistance. Both dispositions, held within the framework of biblical fidelity, have legitimate places. The fellowship’s discussions on civil obedience should be patient, charitable, and aimed at the formation of careful judgment rather than at the winning of arguments. The fellowship’s actual practice will likely include members across a spectrum from Reid-style maximum-submission to more activist forms of conscientious witness, and the fellowship should be a place where each member’s faithful working-out of conscience can be honored.
+
+
+These are the practical defaults. They are more nuanced than Reid’s framework would yield, and far more constrained than the sovereign-citizen movement would. They are, I believe, what the historic Christian tradition has actually taught, what the New Testament actually requires, and what the Christian Underground project actually involves.
+
+
+## XIII. Crescendo
+
+
+The pairing the fellowship should hold in front of it is not Romans 13:1 alone, and it is not Acts 5:29 alone. It is both verses, held together, with the deeper reading of Matthew 22:21 underneath them as the integrating frame.
+
+
+*Render therefore unto Caesar the things which are Caesar’s; and unto God the things that are God’s.* (Matt 22:21)
+
+
+Caesar gets the coin. God gets the person. Caesar gets the ordinary civic obedience of the believer in matters that pertain to the public square’s ordinary functioning. God gets the believer’s life, loyalty, worship, conscience, witness, and obedience in the things that pertain to what bears God’s image. When the two render-claims do not conflict — which is most of ordinary life — the believer performs both joyfully, paying his taxes and praying for his leaders and obeying his speed limits and submitting to the ordinary structures of the order God has ordained.
+
+
+When the two render-claims do conflict — when Caesar reaches for what bears God’s image, for the conscience, for the worship, for the witness, for participation in killing the innocent — the believer remembers Peter and the apostles before the Sanhedrin:
+
+
+*We ought to obey God rather than men.* (Acts 5:29)
+
+
+And remembers the midwives:
+
+
+*But the midwives feared God, and did not as the king of Egypt commanded them.* (Exod 1:17)
+
+
+And remembers Daniel:
+
+
+*Now when Daniel knew that the writing was signed, he went into his house; and his windows being open in his chamber toward Jerusalem, he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime.* (Dan 6:10)
+
+
+And remembers the three Hebrew children:
+
+
+*Be it known unto thee, O king, that we will not serve thy gods, nor worship the golden image which thou hast set up.* (Dan 3:18)
+
+
+And remembers Paul, who wrote Romans 13 and was beheaded for refusing to stop preaching. And remembers the early Church, which heard Romans 13 and went to the lions rather than offer incense. And remembers the Reformers, who developed the lesser-magistrate doctrine out of a careful reading of Paul. And remembers Bonhoeffer, and ten Boom, and the long line of saints who have refused Caesar’s reach toward what bears God’s image, while still rendering to Caesar what is properly Caesar’s.
+
+
+The Christian Underground project we have been building is not rebellion. It is the considered cultivation, in ordinary time, of the relationships, institutions, and practices that will be needed when the render-claims conflict. It is the historic Christian conscientious-objection tradition applied to the conditions of present American Christian life. It honors the default submission that Romans 13 commands; it refuses the unconditional submission that Reid’s reading of Romans 13 implies; it stands in the historic line of Daniel and the apostles and Paul and the Reformers; it distinguishes itself sharply from the sovereign-citizen movement; and it orients itself, finally, toward the kingdom whose coming we await.
+
+
+Render unto Caesar the coin that bears Caesar’s image. Render unto God the life that bears God’s image. When the two cannot both be rendered, render to God first. That is the principle the fellowship is operating under, and I believe it is the principle the New Testament actually teaches.
+
+
+## XIV. What Remains Open
+
+
+Several threads in this essay deserve fuller treatment than I have given them.
+
+
+First, the moral-cooperation framework opened in Section XI deserves fuller development across the specific decision-domains the fellowship’s members face. The taxation case is a paradigm; the framework also applies to employment in industries that contribute to evil, to consumer purchases from companies that fund hostile causes, to investment in funds that hold morally compromised assets, to professional-association membership where the association takes positions one’s conscience rejects, and to many other concrete decisions. A future essay should develop the case-by-case applications, and the formal framework (formal/material, immediate/mediate, proximate/remote, the four conditions for permitted remote cooperation) should be registered in the CRF as foundational moral-theological apparatus once that workflow is operational. *Filed for CRF derivation work and for case-by-case essay development.*
+
+
+Second, the lesser-magistrate doctrine in its full Reformation form — Calvin, Knox, Beza, Rutherford, Witherspoon — deserves its own essay. The fellowship’s actual political theology, as it has developed through the CVN’s local-engagement strategy and the broader Christos Voting Network framing, is implicitly of the lesser-magistrate form. Making it explicit and connecting it to its Reformation sources would strengthen the framework. *Filed for CCC work.*
+
+
+Third, the specific legal-jurisdictional frameworks Susan has been working on — ambassador, testamentary trust, and related theories — require separate review by qualified counsel before any are adopted in fellowship practice. My judgment, after reading the kinds of materials Susan has been drawing on, is that some of these frameworks have family resemblance to sovereign-citizen legal theories that have not held up in actual courts. Susan’s underlying theological intuition — that the Christian belongs to a different sovereign than the American civil order — is sound; the specific legal mechanisms she has been exploring may not be. The fellowship needs a careful pastoral conversation with Susan about this, conducted with love and respect for her real theological work, and a competent legal review of the specific mechanisms before any of them are recommended or adopted. *Filed for direct pastoral conversation and for IDM-related legal counsel engagement.*
+
+
+Fourth, the relationship between selective conscientious objection and the broader missional-cultural project of the Christian Underground deserves articulation. They are related but distinguishable. Conscientious objection is the believer’s response to specific demands that he participate in evil at the point of direct material cooperation. The Underground is the broader work of witness, love, good works, and reasoned apologetic that aims at the gradual conversion of the world to Christ, one soul at a time. The two work together — the moral witness of conscientious refusal anchors the credibility of the missional witness; the missional witness builds the community within which conscientious refusal can be costly and yet sustainable. A future essay should clearly map the relationship, including the CPP project’s role as the rational-philosophical arm of the Underground’s apologetic work. *Filed for the CCC’s Kingdom Culture articulation and CPP-CRF integration work.*
+
+
+Fifth, the question of *just war* and the related question of *just revolution* — at what point does the lesser-magistrate doctrine’s authorization of resistance extend to armed resistance, and under what conditions — is a real theological question with a long Christian history (Augustine, Aquinas, Vitoria, Suárez, Grotius, the Westminster divines, the American Founders). The fellowship is not currently facing the just-revolution question, and I am not raising it here as a live question, but a complete political theology has to address it eventually. *Filed for distant-future CRF work.*
+
+
+Sixth, the pastoral question of how to engage with members of the fellowship or the broader CGG-tradition community who hold Reid’s strict-submission view in good faith, without rupturing fellowship, is real. Reid is not the enemy; CGG is a serious Christian tradition; brothers and sisters who hold the strict-submission view are brothers and sisters. The fellowship’s framework on civil obedience should be held with appropriate humility, presented with care, and not used as a weapon against believers who land elsewhere on the spectrum. *A live pastoral question for our ongoing engagement with brothers and sisters across the broader American Christian landscape.*
+
+
+## Closing Reflection
+
+
+This essay is long because the question is not a small one, and Reid is not a small interlocutor. The Berean email that prompted it landed in my inbox this morning, alongside several thousand other inboxes in the broader Sabbatarian world. Many of those readers will have closed the email feeling that the case for unconditional civil submission is settled and that any Christian who refuses is in rebellion. I do not want the fellowship to close the question that way.
+
+
+Reid is right that the default disposition of the Christian is submission, that the spirit of rebellion is a spiritual danger, that the sovereign-citizen movement is theologically and spiritually problematic, and that Daniel and the three Hebrew children are the right model. Reid is *wrong* that Romans 13 commands unconditional submission, that Acts 5:29 applies only to direct idol-worship, that the *render unto Caesar* saying authorizes all taxes without the corresponding *render unto God* limitation, that Paul’s own life is consistent with Reid’s reading, that the Reformation lesser-magistrate doctrine is not part of the legitimate Christian tradition, and that all selective conscientious objection collapses into sovereign-citizen rebellion. Where Reid is right, the fellowship should accept correction. Where Reid is wrong, the fellowship should hold the historic Christian tradition that has been working out these questions for two thousand years and that has produced a more careful framework than Reid’s essay represents.
+
+
+The Christian Underground that Charlie named for us on Sunday is not a movement against legitimate civil authority. It is the patient, prayerful, soul-by-soul work of conversion that the church has done at its best in every age — witness, love, good works, the reasoned defense of Christ as creator and redeemer and Lord. It is what the early Church was for the first three centuries: not a sect plotting against Rome but a leaven hidden in the loaves of the empire, transforming hearts one at a time until the visible institutional order eventually had to bend. It is what the Reformation churches were under hostile crowns — not insurgents but witnesses, preaching, printing, praying, and dying when required. It is what the Confessing Church was under Hitler. It is what the underground churches are today in China, Iran, North Korea, and Saudi Arabia — the same patient invisible work, the same trust that God’s Kingdom comes through soul-by-soul transformation rather than through political conquest. It is the historic Christian conscientious-and-missional witness, brought to the conditions we are in.
+
+
+We will pay our taxes. We will obey the laws. We will pray for our leaders. We will honor the magistrate as the minister of God where the magistrate fulfills his ordained function. And when the magistrate reaches for what bears God’s image — for our consciences, for our worship, for our witness, for the lives of God’s image-bearers — we will, with the apostles, with Daniel, with the midwives, with the long line of saints, *obey God rather than men*. Not in rebellion; in faithfulness. Not in self-sovereignty; in submission to the King whose Kingdom we await.
+
+
+*Render unto Caesar the things that are Caesar’s, and unto God the things that are God’s.* The principle is older than Reid, older than the Reformation, older than the early Church Fathers. It is the principle of the Lord Jesus Christ himself. The fellowship will hold it whole — both halves, in their proper order — and walk in it together as we go forward into whatever the coming years require.
+
+
+— Thomas

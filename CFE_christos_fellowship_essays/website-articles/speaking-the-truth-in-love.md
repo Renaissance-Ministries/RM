@@ -3,7 +3,8 @@ title: "Speaking the Truth in Love"
 author: "Thomas Lee Abshier, ND"
 date: 2026-02-01
 module: CFE
-topics: [general]
+domains: []
+topics: []
 status: ESTABLISHED
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/02/01/speaking-the-truth-in-love/"
@@ -14,5 +15,10 @@ wp_categories: ["Sermon/Meeting/Discussion Transcripts"]
 
 # Speaking the Truth in Love
 
-*This document is sourced from [renaissance-ministries.com](https://renaissance-ministries.com/2026/02/01/speaking-the-truth-in-love/).*
-*Content lives on the website; this stub provides searchable metadata for the RM corpus.*
+## Fellowship Meeting 2/1/2026
+
+
+**Reference Document:**  [https://renaissance-ministries.com/wp-content/uploads/2026/02/Speaking_the_Truth_in_Love_Civil_Conversation.docx](https://renaissance-ministries.com/wp-content/uploads/2026/02/Speaking_the_Truth_in_Love_Civil_Conversation.docx)
+
+
+**Meeting Summary:** [https://renaissance-ministries.com/wp-content/uploads/2026/02/The_Axle_and_the_Spokes.docx](https://renaissance-ministries.com/wp-content/uploads/2026/02/The_Axle_and_the_Spokes.docx)
