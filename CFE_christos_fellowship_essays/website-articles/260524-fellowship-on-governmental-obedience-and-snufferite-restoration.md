@@ -9,7 +9,7 @@ topics: [mormonism, genesis, roman_empire, heaven_hell, covenant, protestantism,
 scripture: ["Genesis 22", "Proverbs 8", "Isaiah 49:15", "Isaiah 66:13", "Hosea 11:3", "Matthew 22:21", "Matthew 5:48", "Matthew 23:37", "Acts 5:29", "Romans 13", "Corinthians 1:24", "Peter 1:4", "1 Corinthians 1:24", "2 Peter 1:4"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Abraham", "Solomon", "Isaiah", "Donald Trump", "Barack Obama", "Denver Snuffer", "Joseph Smith", "Brigham Young", "Charlie", "Susan", "Michael"]
 thesis: "Two Conversations: Render Unto Caesar, and the Covenant Christian Restoration Fellowship Discussion Summary | May 24, 2026 Occasion."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/05/25/260524-fellowship-on-governmental-obedience-and-snufferite-restoration/"
 wp_id: 3976

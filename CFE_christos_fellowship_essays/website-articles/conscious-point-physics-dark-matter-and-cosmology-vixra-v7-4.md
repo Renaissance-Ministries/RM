@@ -5,7 +5,7 @@ date: 2025-11-26
 module: CPP
 secondary_modules: [CEA]
 domains: [physics, politics]
-topics: [conscious_point_physics, cosmology, dark_matter, immigration, wave_theory, grid_point_lattice, dark_energy, thermodynamics, particle_physics, gravity]
+topics: [conscious_point_physics, cosmology, dark_matter, wave_theory, grid_point_lattice, dark_energy, thermodynamics, particle_physics, gravity]
 mentions: ["Max Planck"]
 thesis: "body { font-family: Times New Roman, serif; max-width: 920px; margin: 2em auto; line-height: 1.7; } h1, h2, h3 { color: #0b1c4d; } .abstract { background: #f8f9ff; padding: 1.8em; border-left: 6px solid #0b1c4d; margin: 2em 0; } .highlight {..."
 status: ESTABLISHED

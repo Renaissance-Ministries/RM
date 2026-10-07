@@ -9,7 +9,7 @@ topics: [repentance, discipleship, genesis, exodus, gravity, prayer, catholicism
 scripture: ["Exodus 32:11", "Exodus 32:14", "Matthew 11:15", "John 13:35", "Acts 17:21", "Timothy 3:7", "2 Timothy 3:7"]
 mentions: ["Jesus", "Christ", "God the Father", "Moses", "Abraham", "Einstein", "Newton", "Joseph Smith", "Charlie", "Susan", "Michael"]
 thesis: "The Inquirer and the Believer A Fellowship Discussion on Truth, Faith, and the Search for God Renaissance Ministries | March 23, 2026 Featuring a dialogue with Michael Sherman By this shall all men know that ye are my disciples, if ye have love one to another."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/03/23/renaissance-fellowship-discussion-260322-seeking-truth/"
 wp_id: 3632

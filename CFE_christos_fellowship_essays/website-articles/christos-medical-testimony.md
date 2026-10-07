@@ -5,7 +5,7 @@ date: 2026-02-26
 module: CPP
 secondary_modules: [CEA, CHR]
 domains: [politics, culture, theology]
-topics: [healthcare, immigration, presidential_platform, governance, new_age, suffering, tithing, administrative_state, surveillance_state, revolutionary_war, electoral_system, marriage_family, environmentalism, miracles, gender_sexuality]
+topics: [healthcare, presidential_platform, governance, new_age, suffering, tithing, administrative_state, surveillance_state, revolutionary_war, electoral_system, marriage_family, environmentalism, miracles, gender_sexuality]
 scripture: ["John 1:2", "Corinthians 6:19", "1 Corinthians 6:19", "3 John 1:2"]
 mentions: ["RFK Jr"]
 status: ESTABLISHED

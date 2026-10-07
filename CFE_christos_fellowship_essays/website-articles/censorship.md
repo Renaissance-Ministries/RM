@@ -5,11 +5,11 @@ date: 2026-02-20
 module: CFE
 secondary_modules: [CEA]
 domains: [culture, theology, biblical_studies]
-topics: [immigration, gender_sexuality, repentance, paul, marriage_family, prophecy, minor_prophets, technology, art_beauty, presidential_platform]
+topics: [gender_sexuality, repentance, paul, marriage_family, prophecy, minor_prophets, technology, art_beauty, presidential_platform]
 scripture: ["Jonah 3:4", "Ephesians 4:15"]
 mentions: ["Jesus", "Christ", "God the Father"]
 thesis: ":root { --primary-color: #2c3e50; --accent-color: #8b4513; --text-color: #333; --background-color: #faf8f5; --quote-background: #f0ebe3; --border-color: #d4c4b0; --thomas-accent: #2e5a35; --claude-accent: #5d4777; --internal-color: #c62828; } * {..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/02/20/censorship/"
 wp_id: 3472

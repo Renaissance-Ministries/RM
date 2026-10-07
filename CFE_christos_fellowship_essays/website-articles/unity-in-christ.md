@@ -9,7 +9,7 @@ topics: [islam, hinduism, buddhism, judaism, marriage_family, salvation, art_bea
 scripture: ["Psalm 19:1", "Matthew 5:17", "Matthew 11:28", "Matthew 23:27", "Luke 22:42", "John 1:4", "John 10:16", "John 14:9", "John 1:1", "John 1:9", "John 17:21", "John 12:32", "John 1", "Romans 1:20", "Romans 2:15", "Timothy 2:5", "Titus 2:11", "1 Timothy 2:5"]
 mentions: ["Jesus", "Christ", "God the Father"]
 thesis: "The Christlike Remainder Finding Unity Through What Is Godly in Every Religion Renaissance Ministries | March 31, 2026 A Fellowship Discussion Essay For there is one God, and one mediator between God and men, the man Christ Jesus."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/04/04/unity-in-christ/"
 wp_id: 3678

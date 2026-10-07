@@ -9,7 +9,7 @@ topics: [islam, marriage_family, governance, pneumatology, war_peace, historical
 scripture: ["John 4:1", "John 4:2", "John 3:16", "John 14:16", "John 14:23", "John 8:32", "1 John 4:1", "1 John 4:2"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Moses", "Denver Snuffer", "Joseph Smith", "Michael"]
 thesis: "Islam — Reading List and Source Citations A Reference Document for Understanding Islam and Fellowship Engagement Thomas Lee Abshier, ND | May 13, 2026 Purpose: This document gathers the primary-source citations, classical-jurisprudence references,..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/05/15/260513-islam-reading-list/"
 wp_id: 3919

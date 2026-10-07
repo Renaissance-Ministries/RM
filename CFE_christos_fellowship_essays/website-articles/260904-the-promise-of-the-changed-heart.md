@@ -9,7 +9,7 @@ topics: [heaven_hell, spiritual_warfare, salvation, repentance, paul, mormonism,
 scripture: ["1 Chronicles 12:38", "Psalm 23:3", "Psalm 23", "Matthew 11:29", "Luke 19:10", "Luke 7:36", "Luke 17:21", "John 3:3", "John 4:19", "John 13:35", "John 17:3", "John 1:3", "John 1:9", "Romans 7:19", "Romans 7", "Romans 7:17", "Romans 6", "Romans 10:9", "Romans 8:28", "Corinthians 5:17"]
 mentions: ["Jesus", "Christ", "God the Father", "Joseph Smith", "Charlie", "Susan", "Michael"]
 thesis: "Dear Fellowship: This week we have a treat. Susan wrote an essay for the Fellowship Meeting. (See below.) Susans story is compelling because she testifies of a changed heart after submitting her life to the Lordship of Jesus Christ."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/09/06/260904-the-promise-of-the-changed-heart/"
 wp_id: 4495

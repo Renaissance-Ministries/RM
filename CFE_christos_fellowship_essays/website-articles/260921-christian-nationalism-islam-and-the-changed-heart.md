@@ -9,7 +9,7 @@ topics: [islam, dei_equity, morality_ethics, marriage_family, character_formatio
 scripture: ["Jeremiah 1:5", "Matthew 25", "John 14", "John 14:27"]
 mentions: ["Jesus", "Christ", "Moses", "Abraham", "Isaiah"]
 thesis: "The Sharper Stick and the Liberty in Christ A conversation between Thomas and Isak on Islam, Christian nationalism, and why the changed heart is the only answer that holds A wide-ranging discussion | 21 September 2026 The question that opened the..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/09/22/260921-christian-nationalism-islam-and-the-changed-heart/"
 wp_id: 4565

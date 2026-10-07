@@ -5,11 +5,11 @@ date: 2026-03-18
 module: CFE
 secondary_modules: [CPP, CEA]
 domains: [theology, philosophy, physics]
-topics: [consciousness, conscious_point_physics, marriage_family, immigration, electromagnetism, environmentalism, creation, election_predestination, prayer, metaphysics]
+topics: [consciousness, conscious_point_physics, marriage_family, electromagnetism, environmentalism, creation, election_predestination, prayer, metaphysics]
 scripture: ["Acts 17:28", "Colossians 1:16"]
 mentions: ["Max Planck"]
 thesis: "@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap'); *, *::before, *::after { box-sizing: border-box; margin: 0;..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/03/18/consciousness-at-the-center-of-creation/"
 wp_id: 3608

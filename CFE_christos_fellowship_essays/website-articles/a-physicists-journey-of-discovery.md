@@ -7,7 +7,7 @@ domains: [physics, philosophy, theology]
 topics: [genesis, particle_physics, quantum_mechanics, consciousness, miracles, nuclear_physics, standard_model, conscious_point_physics, metaphysics, quark_confinement, electromagnetism, film_review]
 mentions: ["Jesus", "Christ", "God the Father", "Einstein", "Max Planck", "Bohr", "Feynman", "Dirac", "Charlie"]
 thesis: "Lessons of Pursuit: A Physicists Journey of Discovery by Thomas Lee Abshier, ND, Charlie Gutierrez, and Claude 3.7 Sonnet 6/17/2025 Claude-3.7-Sonnet The Lessons of Pursuit: A Physicists Journey God says to us, Figure it out, guys."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2025/06/18/a-physicists-journey-of-discovery/"
 wp_id: 1567

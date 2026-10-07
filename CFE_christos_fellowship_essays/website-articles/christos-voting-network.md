@@ -5,7 +5,7 @@ date: 2026-02-26
 module: CPP
 secondary_modules: [CEA, CAP, CHR]
 domains: [politics, culture, world_religions]
-topics: [presidential_platform, immigration, electoral_system, governance, historical_analysis, marriage_family, surveillance_state, islam, spiritual_warfare, constitutional_law, economics, media, judaism]
+topics: [presidential_platform, electoral_system, governance, historical_analysis, marriage_family, surveillance_state, islam, spiritual_warfare, constitutional_law, economics, media, judaism]
 scripture: ["2 Chronicles 7:14", "Proverbs 23:23"]
 mentions: ["Christ"]
 status: ESTABLISHED

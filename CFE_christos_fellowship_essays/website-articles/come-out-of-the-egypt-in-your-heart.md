@@ -9,7 +9,7 @@ topics: [governance, world_war_2, drug_policy, prayer, covenant, repentance, gen
 scripture: ["2 Samuel 5:7", "Isaiah 59:2", "Matthew 5:8", "Mark 16", "Romans 13"]
 mentions: ["Jesus", "Christ", "Abraham", "Isaiah", "Martin Luther", "Charlie", "Susan"]
 thesis: "Planting Roots in the Cold Separation, Zion, and the Power That Follows Obedience Renaissance Ministries | March 29, 2026 A Fellowship Discussion Essay But your iniquities have separated between you and your God, and your sins have hid his face from you, that he will not hear."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/03/30/come-out-of-the-egypt-in-your-heart/"
 wp_id: 3673

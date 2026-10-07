@@ -8,7 +8,7 @@ domains: [physics, theology, philosophy]
 topics: [particle_physics, consciousness, conscious_point_physics, dark_matter, electromagnetism, standard_model, icosahedral_symmetry, gravity, dipole_sea, creation, inflation, nuclear_physics, grid_point_lattice, election_predestination, metaphysics]
 mentions: ["Jesus", "Max Planck", "Margo"]
 thesis: "What Dark Matter Actually Is An Introduction to Conscious Point Physics by Thomas Lee Abshier, ND 6/11/2026 Joelle, this is the conversation we had, written down so you can read it at your own pace, go back over the parts that didnt land the first..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/06/12/260611-cpp-and-dark-matter-primer/"
 wp_id: 4089

@@ -8,7 +8,7 @@ domains: [theology, philosophy, world_religions]
 topics: [mormonism, baptism, missionary_work, epistemology, salvation, pneumatology, protestantism, atonement, creation, heaven_hell, paul, apologetics, morality_ethics, justification, prophecy]
 scripture: ["1 Chronicles 12:38", "Isaiah 29:10", "Matthew 13:11", "Matthew 15:14", "Matthew 28:18", "Matthew 28:19", "Luke 3:16", "Luke 9:62", "John 14:6", "John 3:2", "John 3:30", "Romans 1:21", "Corinthians 2:14", "Corinthians 4:3", "Timothy 2:5", "Revelation 22:18", "1 Corinthians 2:14", "2 Corinthians 4:3", "1 Timothy 2:5", "1 John 3:2"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Isaiah", "Barack Obama", "John Calvin", "Joseph Smith", "Charlie", "Michael"]
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/07/28/260728-the-great-commission/"
 wp_id: 4319

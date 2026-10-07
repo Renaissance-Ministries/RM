@@ -9,7 +9,7 @@ topics: [repentance, suffering, healthcare, judgment, presidential_platform, eco
 scripture: ["Proverbs 29:25", "Isaiah 1:17", "Micah 6:8", "Matthew 19:30", "Matthew 7:12", "Matthew 16:26", "Matthew 5:10", "Timothy 6:10", "1 Timothy 6:10"]
 mentions: ["Jesus", "Isaiah", "Hitler"]
 thesis: "The Scourge of Ungodly Character COVID, Lebensraum, and the Pattern of the Strong Exploiting the Weak Renaissance Ministries | April 4, 2026 A Fellowship Discussion Essay The strong take what they will, the weak endure what they must, and Justice is spoken of only between equals."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/04/04/the-price-of-national-arrogance/"
 wp_id: 3695

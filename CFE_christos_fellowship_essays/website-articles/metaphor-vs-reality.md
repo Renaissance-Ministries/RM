@@ -5,11 +5,11 @@ date: 2026-02-12
 module: CFE
 secondary_modules: [CPP, CEA, CAP, CHR]
 domains: [biblical_studies, physics, theology]
-topics: [new_testament, immigration, conscious_point_physics, consciousness, resurrection, morality_ethics, historical_analysis, civil_war_us, heaven_hell, relativity, paul, old_testament, islam, quantum_mechanics]
+topics: [new_testament, conscious_point_physics, consciousness, resurrection, morality_ethics, historical_analysis, civil_war_us, heaven_hell, relativity, paul, old_testament, islam, quantum_mechanics]
 scripture: ["Numbers 21", "John 3:14", "John 1:1", "Corinthians 15:14", "1 Corinthians 15:14"]
 mentions: ["Jesus", "Christ", "God the Father", "Moses", "C.S. Lewis", "Jordan Peterson"]
 thesis: "Jordan Peterson vs. Richard Dawkins Debate by Thomas Lee Abshier, ND 2/12/2026 At this link, you can watch Jordan Peterson and Richard Dawkins debate the reality of the Biblical story, characters, and its metaphors."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/02/12/metaphor-vs-reality/"
 wp_id: 3410

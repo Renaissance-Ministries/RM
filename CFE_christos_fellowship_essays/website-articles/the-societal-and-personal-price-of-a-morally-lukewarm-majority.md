@@ -9,7 +9,7 @@ topics: [governance, world_war_2, paul, judaism, spiritual_warfare, old_testamen
 scripture: ["Judges 6", "2 Kings 25", "2 Chronicles 7:14", "Psalm 9:17", "Jeremiah 29:13", "Acts 5:29", "Romans 13", "Romans 13:1", "Romans 13:3"]
 mentions: ["Jesus", "James Madison", "Charlie", "Susan"]
 thesis: "When God Gives Nations What They Deserve Romans 13, Righteous Rebellion, and the Holocaust Question Renaissance Ministries | March 25, 2026 A Fellowship Discussion Essay from a Conversation Between Thomas Abshier and Charlie Gutierrez Let every soul be subject unto the higher powers."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/03/25/the-societal-and-personal-price-of-a-morally-lukewarm-majority/"
 wp_id: 3656

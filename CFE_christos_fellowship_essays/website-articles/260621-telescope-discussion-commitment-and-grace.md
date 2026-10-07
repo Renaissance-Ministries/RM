@@ -8,7 +8,7 @@ topics: [grace, salvation, character_formation, paul, suffering, prayer, lordshi
 scripture: ["1 Chronicles 12:38", "Jeremiah 29:13", "Ezekiel 36:26", "Matthew 5:10", "Matthew 22:37", "John 14:23", "John 17:3", "John 3:2", "Romans 1:20", "Romans 8:2", "Corinthians 5:17", "Corinthians 10:4", "Ephesians 2:8", "Hebrews 11:6", "James 1:8", "James 2:18", "Revelation 3:20", "2 Corinthians 5:17", "2 Corinthians 10:4", "1 John 3:2"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Plato", "Newton", "Schrodinger", "Charlie", "Susan", "Michael"]
 thesis: "After All We Can Do: Commitment, Grace, and the Changed Heart Fellowship Discussion Essay | 21 June 2026 Occasion."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/06/25/260621-telescope-discussion-commitment-and-grace/"
 wp_id: 4137

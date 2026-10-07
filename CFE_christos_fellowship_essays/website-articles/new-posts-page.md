@@ -6,7 +6,7 @@ module: CFE
 domains: [philosophy]
 topics: [stoicism]
 thesis: "Articles on topics for Renaissance Ministries Fellowship Discussion: Speaking the Truth in Love Metaphor vs."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/03/14/new-posts-page/"
 wp_id: 3600

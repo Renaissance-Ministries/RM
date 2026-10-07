@@ -9,7 +9,7 @@ topics: [paul, consciousness, art_beauty, marriage_family, new_testament, episte
 scripture: ["Genesis 1:4", "Genesis 1", "Exodus 3:14", "Exodus 3", "Numbers 23:19", "Deuteronomy 29:29", "Deuteronomy 19:15", "1 Samuel 15:22", "1 Kings 8:27", "1 Chronicles 12:38", "Job 33:14", "Job 33", "Psalm 14:1", "Psalm 51:16", "Psalm 51:4", "Psalm 94:9", "Psalm 34:8", "Psalm 19:1", "Psalm 96:9", "Proverbs 3:5"]
 mentions: ["Jesus", "Christ", "God the Father", "Moses", "Abraham", "Isaiah", "John Calvin", "Plato", "Jordan Peterson", "Susan"]
 thesis: "The God Who Lives Us: A Theological Examination of a Dialogue Fellowship Essay |19 August 2026 Evaluation of a conversation between Thomas Abshier and John Faith at the Boundary of Method (see below) Introduction This essay is based on a conversation between John and me last Tuesday."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/08/22/260819-triangulating-truth/"
 wp_id: 4424

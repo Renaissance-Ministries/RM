@@ -9,7 +9,7 @@ topics: [paul, mormonism, genesis, new_testament, historical_analysis, protestan
 scripture: ["Genesis 6", "Genesis 6:5", "Genesis 5:24", "Genesis 10:21", "Exodus 23:19", "Leviticus 27:30", "Deuteronomy 33:2", "Deuteronomy 13:1", "Deuteronomy 14:22", "1 Kings 19:18", "1 Chronicles 1:17", "1 Chronicles 12:38", "Psalm 110:4", "Proverbs 3:9", "Isaiah 52:7", "Zechariah 14:5", "Matthew 24:37", "Matthew 24", "Matthew 24:38", "Matthew 24:11"]
 mentions: ["Jesus", "Christ", "God the Father", "Moses", "Elijah", "Isaiah", "Denver Snuffer", "Joseph Smith"]
 thesis: "An Academic Assessment of Denver Snuffers 500th-Anniversary Lecture 1 Historical Accuracy and Biblical Consistency Fellowship Discussion Essay | August 10, 2026 Source: Denver Snuffer Jr., first lecture of the eight-lecture series delivered on the..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/08/15/260810-denver-snuffer-lecture-1/"
 wp_id: 4375

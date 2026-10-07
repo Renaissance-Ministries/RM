@@ -9,7 +9,7 @@ topics: [heaven_hell, creation, paul, suffering, salvation, spiritual_warfare, o
 scripture: ["Genesis 6", "Deuteronomy 32:8", "Deuteronomy 29:29", "1 Chronicles 12:38", "Psalm 19:1", "Psalm 8:3", "Ecclesiastes 3:11", "John 4:1", "John 1:3", "Acts 17:28", "Acts 17:11", "Romans 1:25", "Corinthians 11:14", "Ephesians 6:12", "Colossians 1:16", "Colossians 1:20", "2 Corinthians 11:14", "1 John 4:1"]
 mentions: ["Christ", "Thomas Aquinas", "Augustine", "Fr. Ripperger"]
 thesis: "Looking Up for a Savior: Extraterrestrials, the Substitute Mythology, and the Higher Mind Who Already Came Down Fellowship Discussion Essay | June 10, 2026 Many Ruminations on Extraterrestrials as Related to Religion Occasion."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/06/10/260610-extraterrestrials-as-false-gods/"
 wp_id: 4081

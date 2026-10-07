@@ -9,7 +9,7 @@ topics: [rapture_tribulation, eschatology, paul, protestantism, revelation_book,
 scripture: ["Matthew 24:40", "Matthew 24:37", "Matthew 24", "Matthew 24:39", "Matthew 24:9", "Mark 13", "Luke 17:34", "Luke 17", "Romans 11", "Corinthians 15", "Thessalonians 4", "Thessalonians 4:16", "Thessalonians 2", "Thessalonians 2:1", "Thessalonians 1", "Thessalonians 4:17", "Revelation 6", "Revelation 12:11", "Revelation 13", "Revelation 13:10"]
 mentions: ["Jesus", "Christ", "Holy Spirit", "Donald Trump", "Hitler", "Augustine", "John Calvin", "Charlie", "Susan"]
 thesis: "Endurance, Not Escape: On the 19th-Century Origin of the Pre-Tribulation Rapture, the Historic Christian Eschatology, and What the Christian Underground Presupposes Fellowship Discussion Essay | May 12, 2026 Occasion: Sundays fellowship landed on a..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/05/13/260512-pre-trib-rapture-critique/"
 wp_id: 3911

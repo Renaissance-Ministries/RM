@@ -2,8 +2,8 @@
 title: "Conscious Point Physics – Physics Journal Article – Version 7.2"
 author: "Thomas Lee Abshier, ND"
 date: 2025-10-27
-module: CAP
-secondary_modules: [CPP]
+module: CPP
+secondary_modules: [CAP]
 domains: [physics, philosophy]
 topics: [conscious_point_physics, consciousness, particle_physics, standard_model, quantum_mechanics, electromagnetism, grid_point_lattice, relativity, cosmology, wave_theory, dark_energy, dipole_sea, dark_matter, gravity, nuclear_physics]
 scripture: ["James 1890"]

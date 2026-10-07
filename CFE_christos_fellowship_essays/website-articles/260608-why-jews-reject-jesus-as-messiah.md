@@ -9,7 +9,7 @@ topics: [judaism, old_testament, isaiah, paul, genesis, atonement, historical_an
 scripture: ["Genesis 2:24", "Genesis 1:26", "Genesis 18", "Genesis 16", "Genesis 12:3", "Genesis 24:43", "Exodus 24:3", "Exodus 3", "Exodus 32:31", "Exodus 2:8", "Leviticus 17:11", "Numbers 23:19", "Deuteronomy 6:4", "Deuteronomy 13", "Deuteronomy 24:16", "Judges 6", "Judges 13", "1 Chronicles 12:38", "Psalm 68:25", "Proverbs 8"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Moses", "Abraham", "Solomon", "Isaiah", "Thomas Aquinas", "Augustine", "Michael"]
 thesis: "Why Jews Dont Accept Jesus as Messiah: A Ten-Point Reel and the Deeper Question Fellowship Discussion Essay | June 8, 2026 10 Key Reasons Christians Believe Jesus Is The Messiah While Jews Disagree (Note: this is not the reel, but a listicle that contains many of the same points) Occasion."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/06/07/260608-why-jews-reject-jesus-as-messiah/"
 wp_id: 4046

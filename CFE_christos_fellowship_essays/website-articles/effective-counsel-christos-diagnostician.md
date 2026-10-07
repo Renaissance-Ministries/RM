@@ -5,7 +5,7 @@ date: 2026-02-26
 module: CPP
 secondary_modules: [CEA]
 domains: [physics, culture, theology]
-topics: [new_age, education, immigration, conscious_point_physics, consciousness, marriage_family, electoral_system, presidential_platform, quantum_mechanics, nuclear_physics, judgment, wave_theory, art_beauty, sanctification]
+topics: [new_age, education, conscious_point_physics, consciousness, marriage_family, electoral_system, presidential_platform, quantum_mechanics, nuclear_physics, judgment, wave_theory, art_beauty, sanctification]
 scripture: ["Romans 1:20", "Hebrews 4:12"]
 mentions: ["Charlie"]
 thesis: "Counseling as a Gift and Skill by Thomas Lee Abshier, ND 2/25/2026 Thomas: The attached conversation between Charlie and me introduced the concept of a school associated with the Christos system that taught the skill of counseling diagnosis."

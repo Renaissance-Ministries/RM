@@ -9,7 +9,7 @@ topics: [judgment, ezekiel, old_testament, prophecy, epistemology, rapture_tribu
 scripture: ["Genesis 12:3", "Deuteronomy 19:15", "1 Chronicles 12:38", "1 Chronicles 12:32", "Psalm 2:1", "Psalm 122:6", "Proverbs 18:17", "Proverbs 14:15", "Proverbs 21:1", "Ecclesiastes 11:4", "Isaiah 5:20", "Isaiah 46:10", "Isaiah 40:8", "Ezekiel 38", "Ezekiel 17", "Daniel 2:21", "Zechariah 4:10", "Matthew 7:2", "Matthew 7:16", "Mark 13:32"]
 mentions: ["Christ", "Isaiah", "Hitler", "Charlie", "Susan", "Michael"]
 thesis: "The Watchman: Amir Tsarfatis Israel News, Prophecy, and the Sons of Issachar Standard Fellowship Discussion Essay | 3 July 2026, revised 7 July 2026 Source Material: Podcast Episodes Behold Israel episode 399 Occasion."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/07/03/260703-the-ezekiel-horizon-prophecy/"
 wp_id: 4194

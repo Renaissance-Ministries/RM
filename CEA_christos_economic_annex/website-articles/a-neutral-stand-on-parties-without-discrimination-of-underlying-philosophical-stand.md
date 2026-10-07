@@ -5,7 +5,7 @@ date: 2026-02-26
 module: CEA
 secondary_modules: [CHR]
 domains: [theology, politics, biblical_studies]
-topics: [immigration, governance, prophecy, repentance, old_testament, electoral_system, presidential_platform, spiritual_warfare, dei_equity, judgment, constitutional_law, discipleship, minor_prophets, administrative_state, revolutionary_war]
+topics: [governance, prophecy, repentance, old_testament, electoral_system, presidential_platform, spiritual_warfare, dei_equity, judgment, constitutional_law, discipleship, minor_prophets, administrative_state, revolutionary_war]
 scripture: ["Leviticus 19:15", "Deuteronomy 17:18", "1 Samuel 16:7", "2 Chronicles 7:14", "Psalm 146:3", "Jeremiah 17:5", "Jeremiah 17:9", "Ezekiel 22:27", "Amos 1", "Micah 6:8", "Matthew 7:3", "Matthew 5:44", "Romans 13:1", "Peter 4:17", "1 Peter 4:17"]
 mentions: ["Jesus", "Christ", "David", "Elijah", "Donald Trump", "Joe Biden", "Barack Obama", "Charlie", "Susan", "Margo"]
 thesis: "Stand for a Righteous Platform Criticize Allies Who Violate Their Stand by: Thomas Lee Abshier, ND 2/25/2025 Claude: :root { --primary-color: #2c3e50; --accent-color: #8b4513; --text-color: #333; --background-color: #faf8f5; --border-color: #d4c4b0;..."

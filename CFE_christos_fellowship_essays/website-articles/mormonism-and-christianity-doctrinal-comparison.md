@@ -9,7 +9,7 @@ topics: [mormonism, paul, consciousness, heaven_hell, salvation, baptism, marria
 scripture: ["Genesis 3:5", "Genesis 6:6", "Leviticus 26:30", "Numbers 11:1", "Psalm 34:16", "Proverbs 27:6", "Isaiah 45:5", "Isaiah 44:6", "Isaiah 42:8", "Isaiah 53:10", "Jeremiah 1:5", "Habakkuk 1:13", "Matthew 28:19", "Matthew 16:18", "Matthew 26:39", "Matthew 27:46", "Luke 23:43", "John 1:1", "John 1", "John 19:30"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Isaiah", "Thomas Aquinas", "Augustine", "Joseph Smith", "Brigham Young", "Michael"]
 thesis: "What Do Mormons Believe? A Fellowship Response to the PragerU Interview with LDS Stake President Michael Stanley Fellowship Discussion Essay | April 25, 2026 Source: PragerU interview — What Do Mormons Believe? To the Fellowship — PragerU has just..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/04/25/mormonism-and-christianity-doctrinal-comparison/"
 wp_id: 3811

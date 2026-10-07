@@ -9,7 +9,7 @@ topics: [paul, mormonism, new_testament, protestantism, old_testament, genesis, 
 scripture: ["Genesis 1:1", "Exodus 34:1", "Leviticus 27:30", "Deuteronomy 13:1", "Deuteronomy 6:4", "Deuteronomy 14:22", "Deuteronomy 4:19", "Deuteronomy 10:2", "Joshua 24:2", "1 Samuel 16:7", "2 Samuel 5:7", "1 Kings 19:18", "2 Kings 22:8", "1 Chronicles 12:38", "Nehemiah 8", "Psalm 2:7", "Psalm 22", "Psalm 103:13", "Psalm 76:2", "Psalms 16"]
 mentions: ["Jesus", "Christ", "God the Father", "Moses", "Abraham", "Elijah", "Isaiah", "Kierkegaard", "Denver Snuffer", "Joseph Smith", "Brigham Young"]
 thesis: "Denver Snuffers Criticisms of Christianity: A Consolidated Catalogue with Validity Assessments Drawn from the eight-lecture Addresses to the Christians series (2017–2019) and the eight academic assessments published at Renaissance Ministries, August..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/08/29/260828-denver-snuffers-critique-of-christianity/"
 wp_id: 4477

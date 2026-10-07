@@ -9,7 +9,7 @@ topics: [paul, new_testament, old_testament, heaven_hell, salvation, psalms, rep
 scripture: ["1 Samuel 8:4", "1 Samuel 10:17", "1 Chronicles 28:1", "2 Chronicles 12:2", "Ezra 7:23", "Nehemiah 9:27", "Psalm 125:3", "Psalm 1:1", "Psalm 129:4", "Psalm 94:20", "Psalm 98:2", "Psalm 32:7", "Psalm 91:1", "Psalm 31:20", "Psalm 47:7", "Psalm 39:12", "Psalm 119:19", "Psalm 123:2", "Psalm 24:1", "Psalm 110:1"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Moses", "Abraham", "Isaiah", "Donald Trump", "Susan"]
 thesis: "ARE THE RIGHTEOUS NOT TO BE RULED BY THE WICKED? by Susan Guitierrez 3/20/2026 For the rod of the wicked will not rest upon the lot of the righteous; lest the righteous put forth their hands unto iniquity."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/03/21/the-righteous-and-the-wicked/"
 wp_id: 3621

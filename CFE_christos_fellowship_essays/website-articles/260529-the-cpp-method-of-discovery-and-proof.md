@@ -8,7 +8,7 @@ domains: [physics, theology, culture]
 topics: [kingdom_of_god, conscious_point_physics, kingdom_culture, creation, paul, morality_ethics, particle_physics, icosahedral_symmetry, healthcare, standard_model, nuclear_physics, dei_equity, protestantism]
 mentions: ["Augustine", "John Calvin"]
 thesis: "How a Worldview Stays Honest: Method as Christian Discipline Thomas Lee Abshier, ND | 29 April 2026 Why method matters There is a question that any worldview must eventually answer: How do you know what you know — and how do you know when youve..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/05/29/260529-the-cpp-method-of-discovery-and-proof/"
 wp_id: 3998

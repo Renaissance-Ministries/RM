@@ -8,7 +8,7 @@ topics: [atonement, forgiveness, lordship, covenant, judgment, heaven_hell, paul
 scripture: ["1 Chronicles 12:38", "Mark 9:49", "John 1:1", "John 1:9", "Romans 2:14", "Romans 1:20"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Charlie", "Susan", "Michael"]
 thesis: "The Surrender of the Will What I Accept Jesus as Lord Actually Means Christos Fellowship Essay | 12 July 2026 This weeks reference essay: Why Did Jesus Have to Die for My Sins Occasion."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/07/13/260712-meeting-surrender-of-the-will-key-to-lordship/"
 wp_id: 4255

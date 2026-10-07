@@ -9,7 +9,7 @@ topics: [paul, protestantism, mormonism, baptism, new_testament, historical_anal
 scripture: ["Genesis 1:1", "Genesis 1:26", "Genesis 3:19", "Deuteronomy 25:4", "Deuteronomy 6:4", "Deuteronomy 13:1", "Deuteronomy 4:2", "Deuteronomy 18:22", "1 Chronicles 12:38", "Job 38:7", "Job 1:6", "Psalm 139:1", "Psalm 2:7", "Proverbs 30:6", "Ecclesiastes 12:7", "Isaiah 43:10", "Isaiah 44:8", "Isaiah 46:9", "Isaiah 43", "Jeremiah 1:5"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Moses", "Abraham", "Isaiah", "Augustine", "Denver Snuffer", "Joseph Smith"]
 thesis: "An Academic Assessment of Denver Snuffers 500th-Anniversary Lecture 2 Historical Accuracy and Biblical Consistency Fellowship Discussion Essay | August 10, 2026 Source: Denver Snuffer Jr., second lecture of the eight-lecture series delivered on the..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/08/20/260810-denver-snuffer-lecture-2/"
 wp_id: 4377

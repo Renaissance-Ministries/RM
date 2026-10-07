@@ -8,7 +8,7 @@ domains: [theology, biblical_studies, world_religions]
 topics: [mormonism, genesis, acts, marriage_family, historical_analysis, prophecy, protestantism, paul, new_testament, salvation, grace, baptism, repentance, resurrection, atonement]
 scripture: ["Deuteronomy 13:1", "Deuteronomy 18:21", "John 1:18", "John 4:12", "John 14:9", "John 14", "John 14:13", "John 16:23", "Acts 2", "Acts 2:38", "Romans 8", "Romans 3:28", "Corinthians 15:40", "Galatians 2:16", "Galatians 1:8", "Ephesians 2:8", "Hebrews 1:1", "James 2", "Jude 3", "1 Corinthians 15:40"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Moses", "Solomon", "Denver Snuffer", "Joseph Smith", "Brigham Young", "Charlie"]
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/05/23/260523-lds-and-snufferite-restoration/"
 wp_id: 3968

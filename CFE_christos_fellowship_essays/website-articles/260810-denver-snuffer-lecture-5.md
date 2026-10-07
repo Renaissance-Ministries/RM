@@ -9,7 +9,7 @@ topics: [mormonism, paul, isaiah, new_testament, old_testament, exodus, prophecy
 scripture: ["Genesis 4:4", "Genesis 8:20", "Exodus 34:1", "Joshua 10:13", "2 Samuel 5:7", "2 Kings 22", "1 Chronicles 29:29", "1 Chronicles 12:38", "2 Chronicles 9:29", "Psalm 76:2", "Isaiah 5", "Isaiah 11:12", "Isaiah 8:20", "Isaiah 2:3", "Isaiah 53", "Isaiah 5:26", "Ezekiel 20:7", "Daniel 2:35", "Micah 5:2", "Micah 4:2"]
 mentions: ["Jesus", "Christ", "Moses", "Abraham", "Isaiah", "Denver Snuffer"]
 thesis: "An Academic Assessment of Denver Snuffers 500th-Anniversary Lecture 5 Historical Accuracy and Biblical Consistency Fellowship Discussion Essay | August 10, 2026 Source: Denver Snuffer Jr., fifth lecture of the eight-lecture series delivered on the..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/08/12/260810-denver-snuffer-lecture-5/"
 wp_id: 4387

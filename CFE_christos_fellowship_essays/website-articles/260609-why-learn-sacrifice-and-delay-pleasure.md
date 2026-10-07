@@ -9,7 +9,7 @@ topics: [education, paul, teleology, economics, film_review, spiritual_warfare, 
 scripture: ["1 Chronicles 12:38", "Matthew 6:19", "Mark 8:36", "Acts 17:28", "Corinthians 15:32", "Corinthians 4:18", "Corinthians 4:17", "1 Corinthians 15:32", "2 Corinthians 4:18", "2 Corinthians 4:17"]
 mentions: ["Christ"]
 thesis: "The Perfect Teacher and the Missing Why: AI Education and the Sea Change in Meaning Fellowship Discussion Essay | June 9, 2026 Occasion."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/06/09/260609-why-learn-sacrifice-and-delay-pleasure/"
 wp_id: 4072

@@ -8,7 +8,7 @@ topics: [paul, suffering, spiritual_warfare, creation, war_peace, healthcare, ma
 scripture: ["Corinthians 10:3", "Corinthians 4:17", "Galatians 5:1", "Colossians 1:13", "2 Corinthians 10:3", "2 Corinthians 4:17"]
 mentions: ["Christ"]
 thesis: "Loosening the Spell, Lifting the Yoke: On Stephen Grosz, the Inner Life, and the Cross Fellowship Essay 5/6/2026 A Psychoanalyst Lets Us Eavesdrop -Stephen Grosz’s books show a new generation the inner workings of psychoanalysis."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/05/06/260506-psychoanalysis-versus-faith-and-works/"
 wp_id: 3876

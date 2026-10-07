@@ -9,7 +9,7 @@ topics: [new_testament, acts, paul, mormonism, protestantism, catholicism, heave
 scripture: ["Matthew 16:18", "Matthew 16", "Matthew 16:13", "Matthew 16:15", "Matthew 16:16", "Matthew 16:17", "Romans 8:29", "Corinthians 3:11", "Corinthians 3", "Corinthians 12", "Corinthians 3:16", "Corinthians 3:9", "Ephesians 2:20", "Ephesians 2", "Ephesians 5:27", "Ephesians 1:22", "Ephesians 2:21", "Hebrews 13:8", "Hebrews 2:11", "Hebrews 11:10"]
 mentions: ["Jesus", "Christ", "God the Father", "Elijah", "Isaiah", "Augustine", "John Calvin", "Denver Snuffer", "Joseph Smith"]
 thesis: "Upon This Rock What Christ Was Building, and Why It Has Not Fallen Standalone Theological Essay | April 28, 2026 Context: This essay is the natural companion to The Restoration That Was Not Needed (April 27, 2026)."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/04/28/christ-the-son-of-the-living-god/"
 wp_id: 3830

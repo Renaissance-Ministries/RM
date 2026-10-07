@@ -9,7 +9,7 @@ topics: [governance, presidential_platform, gender_sexuality, immigration, educa
 scripture: ["Genesis 1:27", "Leviticus 20:1", "Leviticus 18:22", "2 Samuel 12:7", "2 Chronicles 7:14", "Psalm 139:13", "Psalm 146:3", "Proverbs 29:2", "Proverbs 27:6", "Jeremiah 1:5", "Jeremiah 17:9", "Micah 6:8", "Matthew 7:16", "Matthew 19:4", "Matthew 5:44", "Matthew 5:12", "Matthew 7:1", "Matthew 18:15", "John 7:24", "John 4:1"]
 mentions: ["Jesus", "Christ", "Holy Spirit", "David", "Elijah", "George Washington", "Charlie", "Susan", "Margo"]
 thesis: "The Culture War By Thomas Lee Abshier, ND 2/25/2026: Thomas: I asked Claude to review an article by Robert Malone."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/02/25/judge-not-except-you-must/"
 wp_id: 3500

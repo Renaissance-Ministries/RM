@@ -9,7 +9,7 @@ topics: [angels_demons, paul, salvation, christology, trinity, heaven_hell, crea
 scripture: ["Genesis 1:27", "Genesis 3", "Exodus 3:14", "Psalm 83:18", "Daniel 10:13", "Daniel 4", "John 17:3", "John 14:6", "John 1:1", "John 8:58", "John 1", "Acts 4:12", "Romans 8", "Romans 8:22", "Corinthians 8:6", "Philippians 2:6", "Colossians 1:16", "Colossians 1", "Colossians 1:15", "Thessalonians 4:16"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Abraham", "Michael"]
 thesis: "Jehovahs Witness Analysis of Doctrine Fellowship Essay 29 July 2026 Question: Would this be true about Jehovahs Witnesses beliefs? Jehovah in the Bible is God the Father."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/07/29/260729-jehovahs-witness-origin-and-doctrine-vs-historic-christianity/"
 wp_id: 4330

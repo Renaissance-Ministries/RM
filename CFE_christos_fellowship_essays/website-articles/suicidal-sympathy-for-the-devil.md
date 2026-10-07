@@ -9,7 +9,7 @@ topics: [islam, paul, truth, education, parables, protestantism, reformation_his
 scripture: ["Psalm 51:10", "Corinthians 10:3", "Timothy 1:7", "2 Corinthians 10:3", "2 Timothy 1:7"]
 mentions: ["Christ", "Holy Spirit", "Aristotle"]
 thesis: "The Parasitic Mind and the Wood Cricket Church A Fellowship Discussion Essay on Gad Saads Tel Aviv Lecture Renaissance Ministries | March 14, 2026 For God has not given us a spirit of fear, but of power and of love and of a sound mind."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/03/14/suicidal-sympathy-for-the-devil/"
 wp_id: 3594

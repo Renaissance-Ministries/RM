@@ -9,7 +9,7 @@ topics: [paul, protestantism, new_testament, genesis, historical_analysis, heave
 scripture: ["Genesis 3:20", "Genesis 2:4", "Genesis 1:14", "Genesis 50:20", "Genesis 6", "Exodus 33:17", "Deuteronomy 21:23", "Deuteronomy 13:1", "Deuteronomy 4:19", "Deuteronomy 18:22", "1 Samuel 16:7", "2 Samuel 5:7", "1 Chronicles 12:38", "Psalm 22", "Psalm 90:4", "Psalm 76:2", "Psalm 103:13", "Isaiah 53:4", "Isaiah 53:11", "Isaiah 63:3"]
 mentions: ["Jesus", "Christ", "God the Father", "Moses", "Isaiah", "C.S. Lewis", "Augustine", "Martin Luther", "Kierkegaard", "Denver Snuffer", "Joseph Smith", "Michael"]
 thesis: "An Academic Assessment of Denver Snuffers 500th-Anniversary Lecture 3 Historical Accuracy and Biblical Consistency Fellowship Discussion Essay | August 10, 2026 Source: Denver Snuffer Jr., third lecture of the eight-lecture series delivered on the..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/08/20/260810-denver-snuffer-lecture-3/"
 wp_id: 4379

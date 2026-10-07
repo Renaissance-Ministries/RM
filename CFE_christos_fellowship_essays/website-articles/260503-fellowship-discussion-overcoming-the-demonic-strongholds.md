@@ -9,7 +9,7 @@ topics: [spiritual_warfare, sanctification, communism, rapture_tribulation, pray
 scripture: ["Psalm 127:1", "Luke 19:13", "John 15:5", "Acts 2", "Ephesians 6", "Hebrews 13:5", "Hebrews 10:25", "Revelation 12:11"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Donald Trump", "Charlie", "Susan", "Michael", "Margo"]
 thesis: "After the Diagnosis: The Fellowship on Evangelisms Real Deliverable Fellowship Discussion Essay | May 3, 2026 Occasion: Three days earlier, I circulated Eight Strongholds: A Christos Civitas Reading of the Ingredients that Joan Swirsky Inventoried."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/05/04/260503-fellowship-discussion-overcoming-the-demonic-strongholds/"
 wp_id: 3861

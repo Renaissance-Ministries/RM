@@ -9,7 +9,7 @@ topics: [mormonism, islam, genesis, prophecy, acts, historical_analysis, salvati
 scripture: ["Genesis 3:15", "Genesis 12:3", "Genesis 49:10", "Genesis 1:12", "Genesis 1:31", "Numbers 24:17", "Deuteronomy 13:1", "Deuteronomy 18:21", "2 Samuel 7:12", "1 Kings 19:12", "Psalm 22", "Psalm 22:1", "Psalm 22:16", "Proverbs 18:21", "Isaiah 7:14", "Isaiah 9:6", "Isaiah 11:1", "Isaiah 53", "Isaiah 45:7", "Daniel 7:13"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Moses", "Solomon", "Elijah", "Isaiah", "Martin Luther", "Denver Snuffer", "Joseph Smith", "Charlie", "Susan", "Michael"]
 thesis: "The Pharisee Question and the Visit of the Sheikh: When the Spirit-Behind-Religion Test Came to the Living Room By: Thomas Lee Abshier, ND Date: May 17, 2026 Fellowship Discussion Summary | May 17, 2026 Occasion: This was the Sunday following the..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/05/18/260517-fellowship-meeting-the-pharisee-and-the-sheikh/"
 wp_id: 3941

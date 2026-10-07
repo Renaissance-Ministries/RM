@@ -9,7 +9,7 @@ topics: [paul, judgment, creation, epistemology, buddhism, salvation, resurrecti
 scripture: ["Leviticus 19", "Leviticus 18", "1 Chronicles 12:38", "Proverbs 25:16", "Ecclesiastes 3:1", "Isaiah 45:23", "Matthew 12:30", "Mark 9:40", "Luke 12:47", "John 8:11", "John 3:16", "John 8:32", "Romans 5:3", "Romans 3:23", "Romans 1", "Romans 1:20", "Romans 2", "Romans 2:14", "Romans 5", "Corinthians 13:11"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Isaiah", "Michael"]
 thesis: "On the Planted Telescope: the Seeker, the Finder, and the Path to Commitment Fellowship Discussion Essay | 19 June 2026 Occasion."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/06/20/260619-seeking-and-committing-to-a-path/"
 wp_id: 4122

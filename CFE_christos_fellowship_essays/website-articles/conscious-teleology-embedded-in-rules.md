@@ -8,7 +8,7 @@ domains: [philosophy, physics, theology]
 topics: [consciousness, conscious_point_physics, miracles, free_will, thermodynamics, environmentalism, tithing, natural_law, teleology, electromagnetism]
 mentions: ["Jesus", "Charlie"]
 thesis: "The Implication of Rules in Conscious Points by Thomas Lee Abshier, ND 11/1/2025 Introduction: Beyond Material Mechanism In a recent dialogue exploring the implications of Conscious Point Theory, Thomas Abshier and Charlie Gutierrez venture into..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2025/11/02/conscious-teleology-embedded-in-rules/"
 wp_id: 3080

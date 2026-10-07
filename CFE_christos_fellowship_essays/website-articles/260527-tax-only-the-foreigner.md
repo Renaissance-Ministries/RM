@@ -9,7 +9,7 @@ topics: [new_testament, roman_empire, taxation, conspiracy, angels_demons, danie
 scripture: ["Matthew 17:24", "Matthew 17", "Matthew 17:27", "Mark 12:12", "Mark 12", "Acts 5"]
 mentions: ["Jesus", "Christ", "Thomas Aquinas", "Charlie"]
 thesis: "Correspondence: re: Render unto Caesar what is Caesars From: Peter To: Thomas 5/26/2026 Typical. Jumps off the diving board into a pool of theology while missing entirely what Christ said right before he said to give unto Caesar what is Caesars."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/05/29/260527-tax-only-the-foreigner/"
 wp_id: 4008

@@ -9,7 +9,7 @@ topics: [constitutional_law, electoral_system, immigration, kingdom_of_god, judg
 scripture: ["Leviticus 19:34", "Proverbs 29:2", "Proverbs 14:34", "Acts 5:29", "Acts 17:26", "Romans 13"]
 mentions: ["Jesus", "James Madison", "Donald Trump", "Margo"]
 thesis: "The Duty to Judge the Law Birthright Citizenship, Citizen Responsibility, and the Voting Network Renaissance Ministries | April 4, 2026 A Fellowship Discussion Essay We ought to obey God rather than men."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/04/04/the-kingdom-citizen/"
 wp_id: 3681

@@ -8,7 +8,7 @@ domains: [world_religions, theology, culture]
 topics: [hinduism, conscious_point_physics, buddhism, creation, marriage_family, consciousness, art_beauty, judaism, new_age, baptism]
 mentions: ["Nietzsche", "Kant", "Hegel"]
 thesis: "The Life Seminar Concept, content, format, and the open questions Source: conversation with Isak Gutierrez, 3 September 2026 1."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/09/04/260903-the-christos-life-seminar/"
 wp_id: 4491

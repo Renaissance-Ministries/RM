@@ -9,7 +9,7 @@ topics: [islam, kingdom_of_god, civil_war_us, kingdom_culture, repentance, prote
 scripture: ["Joshua 24:15", "Matthew 6:10", "John 7:24", "John 13:35", "Romans 3:23", "Galatians 3:28", "Philippians 3:12", "Timothy 2:24", "2 Timothy 2:24"]
 mentions: ["Jesus", "Christ", "Holy Spirit", "Charlie", "Susan", "Michael"]
 thesis: "The Aspiration and the Execution Toward a Christos Historical Review Renaissance Ministries | April 13, 2026 A Fellowship Discussion Essay For all have sinned, and come short of the glory of God."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/04/13/a-critique-of-christian-utopianism/"
 wp_id: 3753

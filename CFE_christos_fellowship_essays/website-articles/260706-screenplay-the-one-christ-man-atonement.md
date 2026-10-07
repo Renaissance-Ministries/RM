@@ -9,7 +9,7 @@ topics: [paul, spiritual_warfare, conscious_point_physics, parables, presidentia
 scripture: ["Exodus 34:14", "Deuteronomy 6:4", "Deuteronomy 29:29", "2 Samuel 12:13", "Job 1", "Psalm 85:10", "Psalm 82:6", "Isaiah 45:15", "Ezekiel 36:26", "Ezekiel 33:11", "Zechariah 3:1", "Matthew 22:37", "Matthew 27:46", "Matthew 25:40", "Luke 19:17", "Luke 12:47", "John 4:8", "John 1:3", "John 14:16", "John 14:23"]
 mentions: ["Jesus", "Christ", "God the Father", "Isaiah", "Augustine"]
 thesis: "The End of the Story — Doctrine Spine v0.2 Working Document | Stage 0 of the Video Pipeline | 3 July 2026 §1."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/07/20/260706-screenplay-the-one-christ-man-atonement/"
 wp_id: 4206

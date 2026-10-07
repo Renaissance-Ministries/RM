@@ -8,7 +8,7 @@ domains: [theology, history, biblical_studies]
 topics: [mormonism, historical_analysis, epistemology, miracles, discipleship, genesis, conspiracy]
 mentions: ["Jesus", "Christ", "Holy Spirit", "Denver Snuffer", "Charlie", "Susan"]
 thesis: "The Determination of Truth: Navigating Spiritual Authority in an Age of Competing Claims Renaissance Ministries Meeting #27 reveals the fundamental challenge facing any authentic spiritual community: How does one determine what is true in a world..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2025/10/25/renaissance-27-determining-spiritual-truth/"
 wp_id: 3010

@@ -9,7 +9,7 @@ topics: [islam, constitutional_law, genesis, first_amendment, covenant, paul, mo
 scripture: ["Genesis 1:28", "Genesis 17:20", "Genesis 21:17", "Matthew 6:14", "Matthew 25", "Matthew 26:52", "Luke 6:12", "John 15:1", "John 1:9", "John 18:36", "Acts 17:28", "Romans 11:17", "Romans 9:20", "Corinthians 15:24", "Corinthians 10:4", "James 1:5", "James 4:8", "1 Corinthians 15:24", "2 Corinthians 10:4"]
 mentions: ["Jesus", "Christ", "God the Father", "Moses", "Elijah", "Thomas Jefferson", "Hitler", "Aristotle", "Charlie", "Susan", "Michael"]
 thesis: "Islam, the West, and the Purpose of Life Fellowship Discussion Essay | 20 September 20, 2026 The meeting took up Thomass essay on the interview between Danny Bermawi, a former Muslim who became a Christian, and Jeremy Boreing, published by PragerU."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/09/23/260920-recap-evaluating-islam-honestly/"
 wp_id: 4577

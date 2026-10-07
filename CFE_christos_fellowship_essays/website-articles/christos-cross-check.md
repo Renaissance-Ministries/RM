@@ -5,7 +5,7 @@ date: 2026-02-26
 module: CPP
 secondary_modules: [CEA, CAP, CHR]
 domains: [theology, world_religions, biblical_studies]
-topics: [immigration, historical_analysis, new_age, electoral_system, protestantism, healthcare, wisdom_database, proverbs_wisdom, pneumatology, prophecy, orthodox, sanctification, presidential_platform, tithing, psalms]
+topics: [historical_analysis, new_age, electoral_system, protestantism, healthcare, wisdom_database, proverbs_wisdom, pneumatology, prophecy, orthodox, sanctification, presidential_platform, tithing, psalms]
 scripture: ["Psalm 119:105", "Matthew 24:35", "John 16:13", "Corinthians 6:19", "Timothy 3:16", "1 Corinthians 6:19", "2 Timothy 3:16"]
 mentions: ["Jesus", "Christ", "Holy Spirit", "John Calvin"]
 status: ESTABLISHED

@@ -9,7 +9,7 @@ topics: [mormonism, missionary_work, paul, presidential_platform, genesis, salva
 scripture: ["Genesis 4:7", "Exodus 14:15", "Exodus 14:13", "Numbers 4:15", "2 Samuel 6:6", "1 Chronicles 12:38", "Psalm 27:14", "Psalms 127:1", "Proverbs 22:3", "Isaiah 5:20", "Isaiah 43:5", "Isaiah 40:31", "Ezekiel 34:11", "Matthew 28", "Matthew 24:23", "Matthew 28:18", "Matthew 9:37", "Matthew 25:24", "Matthew 7:20", "Matthew 23:37"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Moses", "Isaiah", "Denver Snuffer", "Joseph Smith", "Charlie"]
 thesis: "Quietism Is Not More Light Initiative, Presumption, and the Standing Order of the Great Commission Christos Fellowship — Renaissance Ministries Fellowship Essay · 3 August 2026 Woe unto them that call evil good, and good evil; that put darkness for..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/08/04/260803-the-great-commission-part-2/"
 wp_id: 4357

@@ -8,7 +8,7 @@ topics: [prayer, marriage_family, suffering, spiritual_warfare, miracles, free_w
 scripture: ["Romans 13", "Ephesians 6:12"]
 mentions: ["Moses", "Isaiah", "Brigham Young", "Charlie"]
 thesis: "This is a transcript of a Bible study group conversation about dealing with stress, spiritual trials, and faith-based responses to overwhelming circumstances."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2025/09/28/renaissance-24-faith-under-fire/"
 wp_id: 2813

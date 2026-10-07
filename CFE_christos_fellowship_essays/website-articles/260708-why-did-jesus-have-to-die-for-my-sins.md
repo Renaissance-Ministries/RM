@@ -9,7 +9,7 @@ topics: [paul, creation, salvation, heaven_hell, judgment, forgiveness, lordship
 scripture: ["Genesis 18:25", "Genesis 1:2", "Genesis 1:3", "Exodus 3:14", "Deuteronomy 6:4", "Deuteronomy 29:29", "1 Chronicles 12:38", "Proverbs 25:2", "Isaiah 45:15", "Ezekiel 36:26", "Matthew 26:39", "Matthew 27:46", "Matthew 27:51", "Matthew 20", "Matthew 28:19", "Matthew 7:22", "Mark 9:24", "Luke 16:11", "Luke 19:17", "Luke 19"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Isaiah", "Margo"]
 thesis: "Why Was Jesus Death Necessary for the Forgiveness of Sin? A QA Synthesis on the Necessity and Mechanism of the Atonement Fellowship Essay | 8 July 2026 It is the glory of God to conceal a thing: but the honour of kings is to search out a matter."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/07/08/260708-why-did-jesus-have-to-die-for-my-sins/"
 wp_id: 4214

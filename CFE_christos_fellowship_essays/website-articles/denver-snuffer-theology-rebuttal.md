@@ -9,7 +9,7 @@ topics: [mormonism, protestantism, paul, genesis, acts, new_testament, historica
 scripture: ["Psalm 119:89", "Isaiah 8:20", "Isaiah 45:5", "Isaiah 42:8", "Matthew 16:18", "Matthew 28:20", "Matthew 24:35", "Matthew 26:39", "Matthew 13:24", "Matthew 13:47", "Mark 13:31", "Luke 22:44", "John 4:1", "John 1", "John 19:30", "John 1:7", "John 2:19", "John 10:27", "Acts 20:29", "Romans 1:17"]
 mentions: ["Jesus", "Christ", "God the Father", "Solomon", "Isaiah", "Paul", "Augustine", "John Calvin", "Denver Snuffer", "Joseph Smith", "Brigham Young", "Susan", "Michael"]
 thesis: "The Restoration That Was Not Needed A Christian Response to Denver Snuffers Testimony of Jesus and the Restoration Claim Fellowship Discussion Essay | April 27, 2026 Source: Denver Snuffer lecture transcript, Testimony of Jesus, posted on the front page of learnofchrist.org."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/04/28/denver-snuffer-theology-rebuttal/"
 wp_id: 3827

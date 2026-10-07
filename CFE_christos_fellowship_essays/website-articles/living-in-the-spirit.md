@@ -8,7 +8,7 @@ domains: [theology, culture, biblical_studies]
 topics: [psalms, resurrection, technology, grace, pneumatology, marriage_family, art_beauty, judaism, christos_framework, prayer]
 scripture: ["John 14:21"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Charlie", "Susan"]
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/03/01/living-in-the-spirit/"
 wp_id: 3555

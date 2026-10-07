@@ -9,7 +9,7 @@ topics: [mormonism, acts, genesis, paul, prophecy, new_age, discipleship, pneuma
 scripture: ["Proverbs 25:2", "Matthew 13:24", "Luke 8:10", "John 17:3", "John 19:30", "John 14:6", "John 4:1", "Acts 15", "Corinthians 5:21", "Corinthians 1:12", "Corinthians 3:4", "Corinthians 11:4", "Corinthians 13:12", "Galatians 1:8", "Thessalonians 2", "Thessalonians 2:1", "Hebrews 10:10", "James 1:5", "1 Corinthians 1:12", "1 Corinthians 3:4"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Moses", "Paul", "John Calvin", "Denver Snuffer", "Joseph Smith", "Brigham Young", "Charlie"]
 thesis: "The Latter-Day Revelation versus the Apostolic Deposit: A Conversation with Leonard on Joseph Smith, Denver Snuffer, and the Restoration Question Fellowship Discussion Essay | May 9, 2026 Occasion: A long Zoom conversation with Leonard Hofheins, a..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/05/09/260509-the-veracity-of-joseph-smiths-revelation/"
 wp_id: 3889

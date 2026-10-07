@@ -9,7 +9,7 @@ topics: [mormonism, new_testament, genesis, prophecy, acts, covenant, paul, hist
 scripture: ["Isaiah 2:4", "Micah 4:3", "Matthew 24:34", "Matthew 20:25", "Matthew 16:18", "Matthew 24:42", "Matthew 24:36", "Matthew 24", "Matthew 24:35", "John 10:16", "John 13:34", "Acts 4:32", "Acts 4:34", "Romans 11", "Romans 8:9", "Corinthians 6:19", "Corinthians 3:16", "Corinthians 12:11", "Galatians 1:8", "Ephesians 2:21"]
 mentions: ["Jesus", "Christ", "Holy Spirit", "Moses", "Isaiah", "Denver Snuffer", "Joseph Smith", "Brigham Young"]
 thesis: "The Theology That Begins After the Step Not Taken A Christian Engagement with Denver Snuffers Christian Restoration Continues (Series 3/4 lectures 1-7) Fellowship Discussion Essay | April 28, 2026 Source: Denver Snuffer, Christian Restoration..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/04/28/280428-denver-snuffer-series-3-4-restoration-continued/"
 wp_id: 3838

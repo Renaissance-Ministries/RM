@@ -8,7 +8,7 @@ domains: [theology, culture, biblical_studies]
 topics: [healthcare, miracles, suffering, electromagnetism, environmentalism, prayer, tithing, creation, pneumatology, new_testament]
 scripture: ["Proverbs 3:5", "Luke 5:31", "John 11:25", "John 1:2", "Corinthians 6:19", "Colossians 4:14", "James 5:14", "Revelation 21:5", "1 Corinthians 6:19", "3 John 1:2"]
 mentions: ["Jesus", "Christ", "Holy Spirit"]
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/02/05/the-cell-danger-response/"
 wp_id: 3378

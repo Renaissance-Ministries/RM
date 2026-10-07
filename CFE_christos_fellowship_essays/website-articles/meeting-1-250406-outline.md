@@ -8,7 +8,7 @@ domains: [physics, philosophy, theology]
 topics: [consciousness, conscious_point_physics, creation, natural_law, quantum_mechanics, grid_point_lattice, electromagnetism]
 mentions: ["Christ", "Charlie"]
 thesis: "[et_pb_section admin_label=section] [et_pb_row admin_label=row] [et_pb_column type=4_4][et_pb_text admin_label=Text]Renaissance Ministries Meeting #1 by Thomas Lee Abshier, ND In attendance: Charlie Gutierrez, Lucie Gutierrez, Isak Gutierrez, Armond..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2025/04/06/meeting-1-250406-outline/"
 wp_id: 576

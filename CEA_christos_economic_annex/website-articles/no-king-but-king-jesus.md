@@ -2,14 +2,14 @@
 title: "No King but King Jesus"
 author: "Thomas Lee Abshier, ND"
 date: 2026-03-30
-module: CPP
+module: CEA
 secondary_modules: [CEA]
 domains: [biblical_studies, politics, culture]
-topics: [old_testament, governance, spiritual_warfare, presidential_platform, paul, isaiah, immigration, marriage_family, education, nuclear_physics]
+topics: [old_testament, governance, spiritual_warfare, presidential_platform, paul, isaiah, marriage_family, education, nuclear_physics]
 scripture: ["Isaiah 5:20", "Matthew 10:16", "Matthew 6:24", "Romans 13", "Ephesians 6:12"]
 mentions: ["Jesus", "Isaiah", "Napoleon", "Hitler", "Lenin"]
 thesis: "The Kings You Cannot See Manufactured Outrage, Invisible Power, and the Christian Discernment We Need Renaissance Ministries | March 30, 2026 A Fellowship Discussion Essay Woe unto them that call evil good, and good evil; that put darkness for..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/03/30/no-king-but-king-jesus/"
 wp_id: 3669

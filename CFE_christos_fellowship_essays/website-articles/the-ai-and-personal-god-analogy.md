@@ -9,7 +9,7 @@ topics: [consciousness, conscious_point_physics, grid_point_lattice, wave_theory
 scripture: ["Psalm 19:1", "Matthew 10:30", "Acts 17:28", "Colossians 1:16", "Peter 3:9", "2 Peter 3:9"]
 mentions: ["Jesus", "Augustine", "Max Planck"]
 thesis: "The Mind That Sustains the Lattice Conscious Point Physics and the Personal God Renaissance Ministries | March 29, 2026 A Fellowship Discussion Essay In him we live, and move, and have our being."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/03/29/the-ai-and-personal-god-analogy/"
 wp_id: 3663

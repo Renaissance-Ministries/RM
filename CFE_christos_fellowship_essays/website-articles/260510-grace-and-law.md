@@ -8,7 +8,7 @@ domains: [theology, biblical_studies, world_religions]
 topics: [paul, grace, exodus, minor_prophets, protestantism, justification, sanctification, atonement, new_testament, catholicism, salvation, angels_demons, acts]
 scripture: ["Exodus 12", "Exodus 14", "Exodus 19", "Leviticus 11", "Amos 5:25", "John 2:3", "John 2", "Romans 5:1", "Romans 3:25", "Romans 3:31", "Romans 6:1", "Romans 6:6", "Romans 8:3", "Romans 8", "Romans 7:12", "Hebrews 9:4", "Hebrews 9:5", "1 John 2:3", "1 John 2"]
 mentions: ["Jesus", "Christ", "Thomas Aquinas"]
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/05/10/260510-grace-and-law/"
 wp_id: 3900

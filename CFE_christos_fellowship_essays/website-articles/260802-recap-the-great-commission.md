@@ -9,7 +9,7 @@ topics: [baptism, missionary_work, covenant, mormonism, sanctification, isaiah, 
 scripture: ["Genesis 1", "Numbers 11:29", "2 Samuel 6:6", "1 Kings 12", "1 Chronicles 12:38", "Proverbs 2:4", "Matthew 28:19", "Matthew 7:3", "Matthew 7:20", "Matthew 13", "Matthew 3:11", "Mark 16:15", "John 3:30", "Acts 8:4", "Acts 8:1", "Corinthians 5:18", "Corinthians 5", "Ephesians 6:12", "Hebrews 4:16", "James 1:22"]
 mentions: ["Jesus", "Christ", "God the Father", "Moses", "Isaiah", "Joseph Smith", "Charlie", "Susan", "Michael"]
 thesis: "Five Models of Witness: A Problem-Solving Synthesis of the Fellowships Evangelism Discussion Fellowship Discussion Essay | 2 August 2026 And he said unto them, Go ye into all the world, and preach the gospel to every creature."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/08/03/260802-recap-the-great-commission/"
 wp_id: 4353

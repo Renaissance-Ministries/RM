@@ -9,7 +9,7 @@ topics: [mormonism, new_testament, psalms, paul, isaiah, genesis, protestantism,
 scripture: ["1 Chronicles 12:38", "Psalm 16", "Psalm 110", "Psalm 2:7", "Psalm 19:1", "Proverbs 7", "Isaiah 53", "Isaiah 29", "Malachi 3", "Matthew 3:17", "Matthew 2:1", "Matthew 2:16", "Matthew 27:1", "Matthew 28:20", "Luke 24:13", "Luke 24:27", "Luke 1:1", "Luke 3:22", "Luke 1:5", "John 4:1"]
 mentions: ["Jesus", "Christ", "God the Father", "Moses", "Isaiah", "Denver Snuffer", "Joseph Smith"]
 thesis: "An Academic Assessment of Denver Snuffers 500th-Anniversary Lecture 6 Historical Accuracy and Biblical Consistency Fellowship Discussion Essay | August 10, 2026 Source: Denver Snuffer Jr., sixth lecture of the eight-lecture series delivered on the..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/08/20/260810-denver-snuffer-lecture-6/"
 wp_id: 4390

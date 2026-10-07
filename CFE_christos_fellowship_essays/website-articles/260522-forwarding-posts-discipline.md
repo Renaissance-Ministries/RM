@@ -9,7 +9,7 @@ topics: [proverbs_wisdom, prayer, marriage_family, constitutional_law, christian
 scripture: ["Exodus 20:16", "Exodus 23:1", "Proverbs 18:13", "Proverbs 18:17", "Proverbs 19:5", "Proverbs 25:18", "Proverbs 16:11", "Proverbs 10:19", "Zechariah 8:16", "Matthew 5:22", "Matthew 5:44", "Matthew 5:37", "Matthew 12:36", "Mark 1:15", "Luke 10:25", "John 1:1", "John 4:1", "Acts 17:28", "Thessalonians 5:21", "1 Thessalonians 5:21"]
 mentions: ["Christ", "Ronald Reagan", "Donald Trump", "Joe Biden", "Barack Obama", "FDR", "Susan"]
 thesis: "The Thirty-Eight Firsts: On Forwarded Outrage, the Ninth Commandment, and the Christian Discipline of the Share Button By: Thomas Lee Abshier, ND Date: May 22, 2026 Fellowship Discussion Essay | May 22, 2026 Occasion."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/05/22/260522-forwarding-posts-discipline/"
 wp_id: 3964

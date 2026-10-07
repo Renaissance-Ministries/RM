@@ -4,7 +4,7 @@ author: "Thomas Lee Abshier, ND"
 date: 2025-06-12
 module: CFE
 topics: [general]
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/sunday-sermons-meetings/"
 wp_id: 1446

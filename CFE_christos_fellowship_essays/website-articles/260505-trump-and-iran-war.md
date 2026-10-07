@@ -9,7 +9,7 @@ topics: [spiritual_warfare, war_peace, tithing, kingdom_of_god, marriage_family,
 scripture: ["Matthew 13:24"]
 mentions: ["Jesus", "Christ", "Holy Spirit", "Donald Trump"]
 thesis: "Cards at the Wrong Table: A Christos Civitas Reading of Friedman on Trump, Iran, and the A.I. Threshold Fellowship Essay | May 5, 2026 Source: Thomas L."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/05/05/260505-trump-and-iran-war/"
 wp_id: 3872

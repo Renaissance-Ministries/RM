@@ -8,7 +8,7 @@ domains: [theology, biblical_studies, philosophy]
 topics: [consciousness, conscious_point_physics, creation, revelation_book, christos_framework, environmentalism, kingdom_of_god, heaven_hell, angels_demons, morality_ethics, spiritual_warfare, ezekiel, electromagnetism, presidential_platform, repentance]
 scripture: ["Genesis 2:7", "Psalm 8:4", "Corinthians 13:12", "Ephesians 2:10", "Colossians 1:17", "1 Corinthians 13:12"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Charlie"]
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/04/10/ai-consciousness-and-the-spirit-of-man/"
 wp_id: 3729

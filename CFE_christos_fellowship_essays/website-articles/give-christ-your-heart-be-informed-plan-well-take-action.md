@@ -5,11 +5,11 @@ date: 2026-04-05
 module: CFE
 secondary_modules: [CPP, CEA, CAP]
 domains: [theology, biblical_studies, politics]
-topics: [miracles, old_testament, discipleship, character_formation, psalms, governance, resurrection, covenant, marriage_family, conscious_point_physics, immigration, catholicism, protestantism]
+topics: [miracles, old_testament, discipleship, character_formation, psalms, governance, resurrection, covenant, marriage_family, conscious_point_physics, catholicism, protestantism]
 scripture: ["1 Samuel 12:14", "1 Chronicles 12:38", "Proverbs 29:2", "Luke 20:9", "John 13:35"]
 mentions: ["Jesus", "Christ", "Joseph Smith", "Charlie", "Susan", "Michael"]
 thesis: "One Heart to Make Christ King Political Action, Separation, and the Path to Kingdom Influence Renaissance Ministries | April 5, 2026 (Easter Sunday) A Fellowship Discussion Essay Meeting Summary: All these men of war that could keep rank came with a..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/04/05/give-christ-your-heart-be-informed-plan-well-take-action/"
 wp_id: 3697

@@ -9,7 +9,7 @@ topics: [islam, marriage_family, governance, pneumatology, spiritual_warfare, sa
 scripture: ["John 4:1", "John 4:2", "John 3:16", "John 14:16", "John 14:23", "John 8:32", "1 John 4:1", "1 John 4:2"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Moses", "Denver Snuffer", "Joseph Smith", "Michael"]
 thesis: "To the Fellowship and Our Muslim Friends Addressed to the fellowship, to our Muslim friends, and to the spirit yearning to be free in every human heart Thomas Lee Abshier, ND | 15 May 2026 The reading list in our previous essay is diagnostic."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/05/16/260515-christ-islam-and-witnessing/"
 wp_id: 3930

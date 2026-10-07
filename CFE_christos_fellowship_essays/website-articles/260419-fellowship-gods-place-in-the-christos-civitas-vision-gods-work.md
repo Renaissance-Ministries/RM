@@ -9,7 +9,7 @@ topics: [mormonism, prophecy, paul, repentance, covenant, acts, old_testament, p
 scripture: ["Exodus 20:19", "1 Samuel 8:5", "2 Samuel 6", "1 Kings 19:12", "Psalm 37:5", "Matthew 27:51", "John 10:27", "John 13:35", "John 16:13", "Acts 17:11", "Romans 8:9", "Galatians 5:6", "Philippians 3:20", "Hebrews 10:19", "Hebrews 4:16", "Hebrews 10:25", "James 1:5", "Peter 2:9", "1 Peter 2:9"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Moses", "Joseph Smith", "Charlie", "Susan", "Michael"]
 thesis: "Where Is God in This? A Fellowship Meeting Analysis: The Question of Gods Voice in the Christos Civitas Vision Fellowship Discussion Essay | April 19, 2026 Source: Sunday Zoom fellowship, April 19, 2026."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/04/28/260419-fellowship-gods-place-in-the-christos-civitas-vision-gods-work/"
 wp_id: 3825

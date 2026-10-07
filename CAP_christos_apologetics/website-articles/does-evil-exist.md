@@ -5,7 +5,7 @@ date: 2025-05-09
 module: CAP
 secondary_modules: [CPP]
 domains: [biblical_studies, theology, physics]
-topics: [creation, psalms, exodus, new_testament, wave_theory]
+topics: [theodicy, morality_ethics, free_will, creation, consciousness]
 scripture: ["Exodus 33:19", "Psalm 34:8", "Psalm 100:5", "Psalm 145:9", "Nahum 1:7", "Mark 10:18", "John 1:5", "Romans 8:28", "James 1:17", "1 John 1:5"]
 mentions: ["Jesus", "God the Father", "Moses"]
 status: ESTABLISHED

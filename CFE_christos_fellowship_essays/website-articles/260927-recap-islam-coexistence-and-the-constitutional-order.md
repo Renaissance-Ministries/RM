@@ -9,7 +9,7 @@ topics: [islam, constitutional_law, governance, catholicism, protestantism, hist
 scripture: ["Deuteronomy 7", "John 18:36", "Romans 12", "Corinthians 10:4", "2 Corinthians 10:4"]
 mentions: ["Jesus", "Christ", "God the Father", "George Washington", "Thomas Jefferson", "Abraham Lincoln", "Alexander Hamilton", "James Madison", "Joe Biden", "Plato", "Aristotle", "Charlie", "Susan", "Michael"]
 thesis: "Islam, Coexistence, and the Constitutional Order PART ONE — The Conversation, Point by Point 1. Michaels Opening: The Mirror Between Extremes Michael opened by saying he had a list of points written down in response to Thomass essay of the previous..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/09/27/260927-recap-islam-coexistence-and-the-constitutional-order/"
 wp_id: 4602

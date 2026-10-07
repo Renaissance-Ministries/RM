@@ -9,7 +9,7 @@ topics: [mormonism, baptism, acts, paul, new_testament, protestantism, atonement
 scripture: ["Deuteronomy 6:4", "Daniel 2", "Daniel 2:44", "Matthew 5", "Matthew 28:19", "Matthew 16:18", "John 4:3", "John 1:7", "John 1:1", "John 10:30", "Acts 2", "Acts 4", "Romans 3:24", "Romans 8:9", "Corinthians 15:3", "Corinthians 1:18", "Corinthians 3:11", "Galatians 2", "Galatians 1:8", "Ephesians 1:7"]
 mentions: ["Jesus", "Christ", "God the Father", "Moses", "C.S. Lewis", "Augustine", "Denver Snuffer", "Joseph Smith"]
 thesis: "The Front Porch That Becomes the Closed Door A Christian Engagement with Denver Snuffers Addresses to All Christians (2017–2025, Nine Addresses) Fellowship Discussion Essay | April 28, 2026 Source: Denver Snuffer, Addresses to All Christians..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/04/28/260428-denver-snuffer-series-4-4-evangelization-of-christians/"
 wp_id: 3841

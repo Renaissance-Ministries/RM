@@ -9,7 +9,7 @@ topics: [paul, psalms, marriage_family, jeremiah, healthcare, pneumatology, miss
 scripture: ["Psalm 139:1", "Psalm 34:18", "Jeremiah 17:9", "Jeremiah 1:5", "Matthew 10:30", "Corinthians 13:12", "Corinthians 5:17", "Corinthians 13", "1 Corinthians 13:12", "1 Corinthians 13", "2 Corinthians 5:17"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Charlie"]
 thesis: "Liked, But Not Known: On Justin Brown and the Witness That Comes First Fellowship Essay | by Thomas Lee Abshier, ND 8 May, 2026 Veg Out: Loneliness Essay, by Justin Brown Charlie forwarded me an article this week from VegOut by Justin Brown, a..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/05/09/260509-on-being-alone/"
 wp_id: 3884

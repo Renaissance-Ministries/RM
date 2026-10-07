@@ -8,7 +8,7 @@ domains: [theology, world_religions, biblical_studies]
 topics: [discipleship, judaism, judgment, mormonism, conscious_point_physics, orthodox, resurrection, protestantism, old_testament, ontology, heaven_hell, new_testament, consciousness, wave_theory, christology]
 scripture: ["Deuteronomy 6:13", "1 Chronicles 12:38", "Mark 10:18", "John 5:19", "John 5:1", "John 14:28", "John 3:30", "Acts 17:28", "Galatians 2:20", "Hebrews 1:4"]
 mentions: ["Jesus", "Christ", "God the Father", "Denver Snuffer", "Joseph Smith", "Charlie"]
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/06/01/260601-the-son-can-do-nothing-of-himself/"
 wp_id: 4032

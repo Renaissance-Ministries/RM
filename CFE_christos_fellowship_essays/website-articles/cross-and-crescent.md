@@ -9,7 +9,7 @@ topics: [islam, historical_analysis, war_peace, judaism, genesis, christos_frame
 scripture: ["Genesis 17:20", "Genesis 21:17", "Matthew 5:44", "John 3:16"]
 mentions: ["Jesus", "Christ", "God the Father", "Abraham"]
 thesis: "The Crescent and the Cross: Understanding Islams History and Challenge A Fellowship Discussion Essay on Brigitte Gabriels Teaching Renaissance Ministries | March 2026 Brigitte Gabriel, a Lebanese-American activist and founder of ACT for America, has..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/03/13/cross-and-crescent/"
 wp_id: 3588

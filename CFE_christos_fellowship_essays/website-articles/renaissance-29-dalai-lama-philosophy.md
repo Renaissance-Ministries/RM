@@ -8,7 +8,7 @@ domains: [theology, philosophy, physics]
 topics: [morality_ethics, buddhism, judgment, art_beauty, nuclear_physics]
 mentions: ["Christ", "Holy Spirit", "Dalai Lama"]
 thesis: "The Search for Moral Authority: Examining Universal Ethics and Divine Standards Introduction In our increasingly pluralistic world, the question of moral authority has become both more pressing and more contentious."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2025/11/03/renaissance-29-dalai-lama-philosophy/"
 wp_id: 3101

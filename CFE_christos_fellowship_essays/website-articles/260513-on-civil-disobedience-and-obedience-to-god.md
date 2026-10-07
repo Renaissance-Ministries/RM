@@ -9,7 +9,7 @@ topics: [paul, roman_empire, marriage_family, daniel, protestantism, abortion, w
 scripture: ["Genesis 1:27", "Exodus 1", "Daniel 6", "Daniel 3", "Daniel 3:18", "Amos 5:25", "Matthew 22:17", "Matthew 22:21", "Luke 17:21", "Acts 5:29", "Acts 5", "Acts 16:22", "Acts 16:37", "Acts 25:11", "Romans 13", "Romans 13:1", "Corinthians 15:23", "Titus 3:1", "1 Corinthians 15:23"]
 mentions: ["Jesus", "Christ", "God the Father", "Hitler", "Thomas Aquinas", "Augustine", "John Calvin", "Charlie", "Susan"]
 thesis: "Render Unto Caesar, Render Unto God: On Civil Obedience, Conscientious Disobedience, and the Christian Underground Fellowship Discussion Essay | May 13, 2026 Reference: Should We Obey the Laws of Our Government? by John Reid Background: Sovereign..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/05/15/260513-on-civil-disobedience-and-obedience-to-god/"
 wp_id: 3917

@@ -9,7 +9,7 @@ topics: [mormonism, islam, environmentalism, economics, missionary_work, educati
 scripture: ["1 Chronicles 12:38", "Matthew 7:20", "Matthew 10:16", "John 8:31", "Corinthians 2:14", "Philippians 4:8", "Timothy 2:15", "1 Corinthians 2:14", "2 Timothy 2:15"]
 mentions: ["Jesus", "Christ", "Donald Trump", "Thomas Aquinas", "Augustine", "Aristotle", "Denver Snuffer", "Joseph Smith", "Charlie"]
 thesis: "Each Head Is a World: On Truth-Seeking, Worldview Lock-In, and the Witness Problem Fellowship Discussion Essay | May 28, 2026 Occasion."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/05/30/260530-worldview-lock-in-and-witnessing/"
 wp_id: 4020

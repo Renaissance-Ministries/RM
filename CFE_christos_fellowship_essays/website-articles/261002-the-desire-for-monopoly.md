@@ -8,7 +8,7 @@ domains: [economics, politics]
 topics: [communism, capitalism, constitutional_law]
 mentions: ["Charlie"]
 thesis: "The Market and the Monopoly A chapter addition for Transforming America: From a conversation between Thomas Abshier and Isak Gutierrez, 2 October 2026 Claude edited the dialogue below for clarity."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/10/03/261002-the-desire-for-monopoly/"
 wp_id: 4951

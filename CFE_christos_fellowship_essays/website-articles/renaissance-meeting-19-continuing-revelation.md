@@ -9,7 +9,7 @@ topics: [mormonism, consciousness, metaphysics, conscious_point_physics, sanctif
 scripture: ["Psalm 82:6", "John 10:34"]
 mentions: ["Jesus", "Christ", "Holy Spirit", "Denver Snuffer", "Charlie", "Susan"]
 thesis: "Renaissance Ministries Meeting #19 Navigating Truth: A Sunday Morning Exploration of Faith, Revelation, and Divine Understanding The intersection of faith and reason, revelation and scripture, personal experience and universal truth formed the heart..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2025/09/11/renaissance-meeting-19-continuing-revelation/"
 wp_id: 2581

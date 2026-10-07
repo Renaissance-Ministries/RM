@@ -9,7 +9,7 @@ topics: [war_peace, constitutional_law, foreign_policy, historical_analysis, jud
 scripture: ["Proverbs 23:23", "Isaiah 5:20", "John 7:24", "Acts 17:11"]
 mentions: ["Christ", "Isaiah", "George Washington", "Donald Trump", "Barack Obama"]
 thesis: "The Fog of Commentary: Discerning Truth Amid Political Narrative A Fellowship Discussion Essay, 3/8/26 Responding to Washington Post Commentary on Iran The Commentary Under Examination The Washington Post recently published commentary reflecting..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/03/03/iranian-war-commentary-evaluation/"
 wp_id: 3560

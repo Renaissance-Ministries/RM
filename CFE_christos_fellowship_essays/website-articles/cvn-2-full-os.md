@@ -5,7 +5,7 @@ date: 2026-04-09
 module: CFE
 secondary_modules: [CEA, CHR]
 topics: [constitutional_law, founders_vision, governance, economics, education, sanctification, historical_analysis, technology, prayer, healthcare, heaven_hell, multi_tradition]
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/04/09/cvn-2-full-os/"
 wp_id: 3723

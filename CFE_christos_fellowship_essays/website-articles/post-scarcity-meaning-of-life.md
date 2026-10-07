@@ -5,11 +5,11 @@ date: 2026-02-21
 module: CFE
 secondary_modules: [CEA]
 domains: [theology, culture, economics]
-topics: [immigration, marriage_family, heaven_hell, technology, economics, miracles, creation, social_security, drug_policy, paul, meaning_of_life, prayer, christos_framework, presidential_platform, forgiveness]
+topics: [marriage_family, heaven_hell, technology, economics, miracles, creation, social_security, drug_policy, paul, meaning_of_life, prayer, christos_framework, presidential_platform, forgiveness]
 scripture: ["Genesis 1:27", "Genesis 2:15", "Job 3", "Psalm 139:13", "Psalm 13", "Psalm 88", "Psalm 103:12", "Proverbs 11:14", "Jeremiah 29:11", "Ezekiel 36:26", "Ezekiel 18:20", "Matthew 6:34", "Matthew 18:3", "Matthew 6:25", "Matthew 6", "Matthew 22:37", "Matthew 7:24", "Mark 10:15", "Romans 8:28", "Romans 8:1"]
 mentions: ["Jesus", "Christ", "Holy Spirit", "C.S. Lewis", "Augustine", "Jordan Peterson", "Elon Musk", "Michael"]
 thesis: ":root { --primary-color: #2c3e50; --accent-color: #8b4513; --text-color: #333; --background-color: #faf8f5; --quote-background: #f0ebe3; --border-color: #d4c4b0; --thomas-accent: #2e5a35; --claude-accent: #5d4777; --john-accent: #6b4c3b;..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/02/21/post-scarcity-meaning-of-life/"
 wp_id: 3476

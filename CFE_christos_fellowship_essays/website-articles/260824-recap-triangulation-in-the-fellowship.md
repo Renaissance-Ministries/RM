@@ -8,7 +8,7 @@ domains: [biblical_studies, theology, philosophy]
 topics: [paul, consciousness, old_testament, conscious_point_physics, prayer, mormonism, epistemology, creation, marriage_family, genesis, psalms, isaiah, heaven_hell, materialism, missionary_work]
 scripture: ["Genesis 2:17", "Deuteronomy 4:2", "1 Chronicles 12:38", "2 Chronicles 12:8", "Psalm 103:12", "Psalm 23:3", "Psalm 139:13", "Proverbs 11:8", "Isaiah 9:12", "Matthew 13", "Matthew 7:16", "Matthew 27:46", "Matthew 5:11", "John 14:6", "John 6:53", "John 4:8", "John 1:1", "John 16:33", "John 6:44", "Acts 17:11"]
 mentions: ["Jesus", "Christ", "God the Father", "Isaiah", "C.S. Lewis", "Einstein", "Newton", "Denver Snuffer", "Joseph Smith", "Charlie", "Susan", "Michael"]
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/08/25/260824-recap-triangulation-in-the-fellowship/"
 wp_id: 4460

@@ -9,7 +9,7 @@ topics: [creation, new_testament, consciousness, heaven_hell, christology, genes
 scripture: ["Deuteronomy 32:8", "Deuteronomy 32", "Psalm 82", "Proverbs 18:21", "Matthew 8:29", "Matthew 12:40", "Matthew 15:11", "Mark 5:10", "Mark 12:28", "Luke 22:42", "John 5:19", "John 19:11", "John 14:9", "John 1:14", "John 5:26", "John 5:28", "Acts 20:28", "Acts 2:24", "Acts 17:28", "Corinthians 6:2"]
 mentions: ["Jesus", "Christ", "God the Father", "Abraham", "C.S. Lewis"]
 thesis: "The Creator Takes a Test Drive: On Divine Permission, the Incarnation, and the Conservation of the Soul Fellowship Discussion Essay | June 7, 2026 Occasion."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/06/07/260607-christ-as-the-incarnation-of-god/"
 wp_id: 4058

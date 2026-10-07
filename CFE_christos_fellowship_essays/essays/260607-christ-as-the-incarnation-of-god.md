@@ -5,9 +5,9 @@ date: 2026-06-07
 module: CFE
 secondary_modules: [CAP]
 type: essay
-status: PUBLISHED
+status: ESTABLISHED
 wordpress_title: "260607 – Christ as the Incarnation of God"
-canonical_url: "https://renaissance-ministries.com/2026/06/07/260607-christ-as-the-incarnation-of-god/"
+source_url: "https://renaissance-ministries.com/2026/06/07/260607-christ-as-the-incarnation-of-god/"
 engages: "A Sunday email from Peter responding to the John 5:19 fellowship essay (260601 / 260530, addressed to Leonard). Peter develops six interlocking moves: (1) the derivative nature of all power, including evil's, from John 19:11 and a Deuteronomy 32 divine-council reading of Babel; (2) a 'test drive' Christology — YHWH driving the body he built; (3) the puzzle of how God incarnate can die; (4) a 'Law of Spiritual Conservation of Energy' grounding the indestructibility of the soul; (5) hell as self-imposed segregation rather than active torture; and (6) a closing footnote on the creative power of the spoken word and prayer-as-decree."
 prior_fellowship_essays_this_week:
   - "260530-why-jews-dont-accept-jesus-as-messiah-fellowship-engagement-with-a-ten-point-reel.md"

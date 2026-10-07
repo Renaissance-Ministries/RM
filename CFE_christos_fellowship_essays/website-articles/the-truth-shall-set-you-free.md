@@ -9,7 +9,7 @@ topics: [epistemology, judgment, media, pneumatology, ecclesiology, prayer, mira
 scripture: ["Proverbs 23:23", "Proverbs 12:19", "Matthew 7:20", "John 18:38", "John 8:32", "John 3:20", "John 14:6", "John 3:21", "John 7:17", "John 16:13"]
 mentions: ["Jesus", "Christ", "Holy Spirit", "Donald Trump", "Michael"]
 thesis: "What Is Truth? Knowing Reality in an Age of Manufactured Narrative Renaissance Ministries | March 30, 2026 A Fellowship Discussion Essay Pilate saith unto him, What is truth? — John 18:38 And ye shall know the truth, and the truth shall make you free."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/03/30/the-truth-shall-set-you-free/"
 wp_id: 3671

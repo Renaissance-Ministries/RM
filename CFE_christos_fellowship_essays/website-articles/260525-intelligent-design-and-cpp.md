@@ -5,7 +5,7 @@ date: 2026-05-25
 module: CFE
 secondary_modules: [CPP]
 topics: [conscious_point_physics, consciousness, particle_physics, cosmology, electromagnetism, multi_tradition, standard_model, creation, relativity, metaphysics, film_review, miracles]
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/05/25/260525-intelligent-design-and-cpp/"
 wp_id: 3982

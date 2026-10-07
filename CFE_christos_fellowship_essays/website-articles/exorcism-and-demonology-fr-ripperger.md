@@ -9,7 +9,7 @@ topics: [spiritual_warfare, prayer, communism, new_age, miracles, consciousness,
 scripture: ["Mark 16:17", "Mark 9:29", "Ephesians 6:12", "Ephesians 6", "James 4:7", "Peter 5:8", "Revelation 12:11", "1 Peter 5:8"]
 mentions: ["Jesus", "Christ", "Holy Spirit", "Thomas Aquinas", "Fr. Ripperger"]
 thesis: "The Regulated Enemy What an Exorcist Reveals About Spiritual Warfare Renaissance Ministries | April 4, 2026 A Fellowship Discussion Essay Demonology Series, Part 1 of 4 For we wrestle not against flesh and blood, but against principalities, against..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/04/04/exorcism-and-demonology-fr-ripperger/"
 wp_id: 3684

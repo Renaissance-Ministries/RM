@@ -9,7 +9,7 @@ topics: [paul, mormonism, protestantism, catholicism, historical_analysis, new_t
 scripture: ["Genesis 49", "Genesis 49:17", "Exodus 34:1", "1 Samuel 16:7", "1 Chronicles 12:38", "Isaiah 2:3", "Daniel 2:44", "Matthew 15:38", "Matthew 15:34", "Matthew 5:21", "Matthew 5:48", "Matthew 25:1", "Matthew 22:1", "Matthew 15:11", "Mark 8:9", "Luke 10:7", "Luke 6:17", "Luke 14:16", "Luke 10:25", "John 13:34"]
 mentions: ["Jesus", "Christ", "Moses", "Isaiah", "John Calvin", "Denver Snuffer", "Joseph Smith", "Brigham Young", "Michael"]
 thesis: "An Academic Assessment of Denver Snuffers 500th-Anniversary Lecture 8 Historical Accuracy and Biblical Consistency Fellowship Discussion Essay | August 10, 2026 Source: Denver Snuffer Jr., eighth and final lecture of the series delivered to..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/08/12/260810-denver-snuffer-lecture-8/"
 wp_id: 4398

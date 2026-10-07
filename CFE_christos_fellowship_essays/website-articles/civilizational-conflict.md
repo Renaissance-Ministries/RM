@@ -8,7 +8,7 @@ domains: [theology, culture, history]
 topics: [islam, salvation, war_peace, grace, revival_movement, prayer, education, great_awakening, christos_framework, pneumatology, marriage_family, paul, historical_analysis]
 scripture: ["Matthew 10:28", "Mark 8:36", "John 8:36", "Ephesians 6:12", "Timothy 1:12", "Revelation 12:11", "2 Timothy 1:12"]
 mentions: ["Jesus", "Christ", "Holy Spirit", "Winston Churchill"]
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/03/18/civilizational-conflict/"
 wp_id: 3606

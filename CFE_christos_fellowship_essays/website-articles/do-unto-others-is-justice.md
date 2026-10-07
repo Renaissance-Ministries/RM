@@ -9,7 +9,7 @@ topics: [morality_ethics, poverty, suffering, conscious_point_physics, conscious
 scripture: ["Psalm 73", "Psalm 73:5", "Proverbs 31:9", "Micah 6:8", "Matthew 7:12", "Matthew 19:30", "Matthew 25:40", "Luke 16:10", "Luke 16:19", "Luke 16:25", "Luke 16", "Acts 17:28", "Romans 13"]
 mentions: ["Jesus", "Abraham", "Fr. Ripperger"]
 thesis: "Justice Between Unequals How the Golden Rule Dissolves the Power Asymmetry Renaissance Ministries | April 4, 2026 A Fellowship Discussion Essay The strong take what they will, the weak endure what they must, and Justice is spoken of only between equals."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/04/04/do-unto-others-is-justice/"
 wp_id: 3687

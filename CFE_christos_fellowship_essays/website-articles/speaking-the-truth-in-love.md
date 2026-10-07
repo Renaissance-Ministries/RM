@@ -5,7 +5,7 @@ date: 2026-02-01
 module: CFE
 domains: []
 topics: []
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/02/01/speaking-the-truth-in-love/"
 wp_id: 3376

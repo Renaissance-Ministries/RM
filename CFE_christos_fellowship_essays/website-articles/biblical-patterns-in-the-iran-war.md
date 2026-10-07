@@ -9,7 +9,7 @@ topics: [prophecy, old_testament, judaism, spiritual_warfare, exodus, christos_f
 scripture: ["Genesis 12:3", "Exodus 17", "Exodus 17:16", "1 Samuel 15", "Esther 3:1", "Esther 8:15", "Psalm 121:4", "Proverbs 24:17", "John 3:14", "Acts 17:28", "Acts 17:11", "Romans 12:19", "Corinthians 5:7", "2 Corinthians 5:7"]
 mentions: ["Christ", "Moses", "Donald Trump"]
 thesis: "The Hand Behind the Headlines: Purim, Persia, and Providence A Fellowship Discussion Essay on Jonathan Cahns Iran/Purim Teaching Renaissance Ministries | March 2026 Jonathan Cahn, author of The Harbinger and The Dragons Prophecy, has released a..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/03/13/biblical-patterns-in-the-iran-war/"
 wp_id: 3586

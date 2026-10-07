@@ -8,7 +8,7 @@ topics: [paul, creation, register_system, atonement, minor_prophets, salvation, 
 scripture: ["Genesis 3:22", "Exodus 3:14", "1 Chronicles 12:38", "Isaiah 59:2", "Isaiah 53:6", "Ezekiel 14:7", "Habakkuk 1:13", "Matthew 25:41", "Luke 6:46", "John 1:5", "John 4:8", "John 1:3", "John 14:6", "Acts 17:28", "Romans 3:25", "Romans 11:22", "Romans 10:9", "Romans 5:10", "Corinthians 5:21", "Corinthians 3:13"]
 mentions: ["Jesus", "Christ", "God the Father", "Isaiah"]
 thesis: "The Necessity of the Son A Deductive Argument from the Holiness of God to the Cross Christos Fellowship — Renaissance Ministries Fellowship Essay 25 July 2026 premise_chain_handout Preface: What This Essay Claims and What It Does Not The rule..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/07/25/260725-reconciliation-of-man-with-the-father/"
 wp_id: 4303

@@ -9,7 +9,7 @@ topics: [mormonism, islam, paul, historical_analysis, creation, truth, hinduism,
 scripture: ["Timothy 3:16", "2 Timothy 3:16"]
 mentions: ["Christ", "Denver Snuffer", "Charlie"]
 thesis: "Establishing Biblical Authority: The Foundation of Truth in Renaissance Ministries The conversation between Dr."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2025/10/25/justification-of-biblical-authority-as-the-foundation-of-truth/"
 wp_id: 3012

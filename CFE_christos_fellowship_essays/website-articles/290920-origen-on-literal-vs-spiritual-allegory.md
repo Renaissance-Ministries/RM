@@ -1,4 +1,4 @@
---- title: "Origen on Literal vs Spiritual Allegory" author: "Thomas Lee Abshier, ND" date: 2026-09-20 module: CFE secondary_modules: [CHR] topics: [paul, historical_analysis, eschatology, protestantism, repentance, marriage_family, grace, creation] status: ESTABLISHED type: transcript source_url: "https://renaissance-ministries.com/2026/09/20/290920-origen-on-literal-vs-spiritual-allegory/" wp_id: 4559 wp_slug: "290920-origen-on-literal-vs-spiritual-allegory" wp_categories: ["Sermon/Meeting/Discussion Transcripts"] ---
+--- title: "Origen on Literal vs Spiritual Allegory" author: "Thomas Lee Abshier, ND" date: 2026-09-20 module: CFE secondary_modules: [CHR] topics: [paul, historical_analysis, eschatology, protestantism, repentance, marriage_family, grace, creation] status: PROVISIONAL type: transcript source_url: "https://renaissance-ministries.com/2026/09/20/290920-origen-on-literal-vs-spiritual-allegory/" wp_id: 4559 wp_slug: "290920-origen-on-literal-vs-spiritual-allegory" wp_categories: ["Sermon/Meeting/Discussion Transcripts"] ---
 
 # 290920 - Origen on Literal vs Spiritual Allegory
 

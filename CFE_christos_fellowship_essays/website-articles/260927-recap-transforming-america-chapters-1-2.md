@@ -9,7 +9,7 @@ topics: [islam, constitutional_law, art_beauty, capitalism, economics, mormonism
 scripture: ["Exodus 20:15", "Exodus 22:25", "Leviticus 19:35", "Leviticus 25:23", "Leviticus 25:35", "Deuteronomy 25:13", "Deuteronomy 7:1", "Deuteronomy 23:19", "1 Kings 21", "Psalm 24:1", "Proverbs 20:10", "Isaiah 40:3", "Ezekiel 33:6", "Matthew 24:24", "Matthew 3:3", "Matthew 3:2", "Matthew 4:17", "Matthew 25:14", "Matthew 7:14", "Matthew 28:19"]
 mentions: ["Jesus", "Christ", "Isaiah", "James Madison", "Donald Trump", "Joe Biden", "Barack Obama", "C.S. Lewis", "Thomas Aquinas", "Augustine", "Max Planck", "Joseph Smith", "Brigham Young", "Charlie", "Susan"]
 thesis: "Stewards, Markets, and a Common Standard PART ONE — The Conversation, Point by Point 1. Turning to the Book Thomas asked whether anyone had read the essay — his attempt at starting a book."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/09/27/260927-recap-transforming-america-chapters-1-2/"
 wp_id: 4606

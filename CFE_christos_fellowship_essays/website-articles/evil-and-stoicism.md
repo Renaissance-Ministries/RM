@@ -8,7 +8,7 @@ topics: [stoicism, paul, theodicy, christos_framework, proverbs_wisdom, creation
 scripture: ["Proverbs 16:32", "Proverbs 3:5", "John 14:6", "John 8:36", "John 8:32", "Acts 17:28", "Romans 12:2", "Corinthians 10:5", "Corinthians 3:18", "Corinthians 3:17", "Galatians 6:7", "Galatians 5:23", "Philippians 4:13", "Colossians 1:27", "Revelation 21:4", "2 Corinthians 10:5", "2 Corinthians 3:18", "2 Corinthians 3:17"]
 mentions: ["Jesus", "Christ", "God the Father"]
 thesis: "The Matrix, the Stoics, and the Missing Center A Fellowship Discussion Essay Responding to Steven Yates Renaissance Ministries | March 2026 Steven Yates, a philosopher writing for NewsWithViews, has offered a thoughtful piece on developing a core..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/03/13/evil-and-stoicism/"
 wp_id: 3582

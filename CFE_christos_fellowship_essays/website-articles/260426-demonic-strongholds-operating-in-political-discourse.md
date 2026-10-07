@@ -9,7 +9,7 @@ topics: [spiritual_warfare, paul, repentance, governance, orthodox, marriage_fam
 scripture: ["Exodus 16:3", "Psalm 37:8", "Psalm 97:10", "Psalm 119:104", "Psalm 137:1", "Proverbs 16:18", "Matthew 5:44", "Luke 12:49", "John 16:33", "John 3:1", "Romans 12:9", "Romans 8:37", "Romans 8:31", "Romans 12:15", "Romans 12:16", "Romans 12:14", "Romans 12:17", "Romans 12:21", "Corinthians 10:10", "Corinthians 13:11"]
 mentions: ["Jesus", "Christ", "God the Father"]
 thesis: "Eight Strongholds: A Christos Civitas Reading of the Ingredients Joan Swirsky Inventoried Fellowship Discussion Essay | April 30, 2026 | Revised May 1, 2026 Ingredients That Make Up Our Body Politic – News With Views Occasion: A column by Joan..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/05/01/260426-demonic-strongholds-operating-in-political-discourse/"
 wp_id: 3853

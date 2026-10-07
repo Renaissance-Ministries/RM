@@ -9,7 +9,7 @@ topics: [economics, inflation, media, old_testament, epistemology, suffering, sa
 scripture: ["Exodus 16:18", "Deuteronomy 18:22", "1 Chronicles 12:32", "Proverbs 27:17", "Matthew 5:22"]
 mentions: ["Donald Trump", "Charlie", "Michael"]
 thesis: "Who Do You Trust? Venezuela, Rival Epistemologies, and the Kingdom Test Christos Fellowship Essay — Meeting of July 5, 2026 Present: Leonard Hofheins, Michael Sherman, Isak Gutierrez (moderating), Charlie Gutierrez (timekeeping)."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/07/08/260705-venzuela-economy-and-governance-debate/"
 wp_id: 4226

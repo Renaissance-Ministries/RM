@@ -8,7 +8,7 @@ domains: [biblical_studies, theology, world_religions]
 topics: [mormonism, paul, prophecy, tithing, genesis, old_testament, protestantism, marriage_family, isaiah, resurrection, exodus, new_testament, historical_analysis, reformation_history, covenant]
 scripture: ["Leviticus 27:30", "Numbers 11:29", "Deuteronomy 14:22", "1 Chronicles 12:38", "Matthew 3:17", "John 4:1", "Acts 17:11", "Acts 9:3", "Acts 9:10", "Galatians 1", "Galatians 1:1", "Galatians 2:2", "1 John 4:1"]
 mentions: ["Jesus", "Christ", "Moses", "Abraham", "Isaiah", "Denver Snuffer", "Joseph Smith", "Brigham Young", "Michael"]
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/08/20/260816-competing-claims-of-revelation/"
 wp_id: 4419

@@ -8,7 +8,7 @@ domains: [biblical_studies, world_religions, theology]
 topics: [mormonism, historical_analysis, conspiracy, genesis, paul, old_testament, protestantism, spiritual_warfare, new_age, judaism, prophecy, discipleship, exodus, acts, new_testament]
 scripture: ["Deuteronomy 4:2", "Deuteronomy 18:10", "1 Chronicles 12:38", "Psalm 33:12", "Psalm 119:105", "Isaiah 28:10", "Matthew 13:25", "Acts 17:11", "Corinthians 11:14", "Philippians 4:8", "Thessalonians 5:21", "Timothy 6:10", "Revelation 22:18", "2 Corinthians 11:14", "1 Thessalonians 5:21", "1 Timothy 6:10"]
 mentions: ["Jesus", "Christ", "God the Father", "Moses", "Abraham", "Solomon", "Isaiah", "Thomas Jefferson", "Augustine", "Joseph Smith", "Charlie", "Susan"]
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/08/25/260824-biblical-testimony-reliability/"
 wp_id: 4462

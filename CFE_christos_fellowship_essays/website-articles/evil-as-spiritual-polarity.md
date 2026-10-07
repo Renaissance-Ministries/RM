@@ -5,11 +5,11 @@ date: 2026-02-24
 module: CFE
 secondary_modules: [CEA]
 domains: [theology, biblical_studies, philosophy]
-topics: [immigration, miracles, spiritual_warfare, paul, old_testament, salvation, repentance, suffering, forgiveness, original_sin, christos_framework]
+topics: [miracles, spiritual_warfare, paul, old_testament, salvation, repentance, suffering, forgiveness, original_sin, christos_framework]
 scripture: ["Numbers 14:18", "1 Samuel 8", "John 5:19", "John 8:44", "John 4:1", "Romans 7:14", "Romans 1:20", "Ephesians 6:12", "Ephesians 2:1", "Colossians 2:14", "Revelation 21:5", "1 John 5:19", "1 John 4:1"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit"]
 thesis: ":root { --primary-color: #2c3e50; --accent-color: #8b4513; --text-color: #333; --background-color: #faf8f5; --quote-background: #f0ebe3; --border-color: #d4c4b0; --eisenstein-accent: #5d4e37; --biblical-accent: #2e5a35; --insight-accent: #6a1b9a; }..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/02/24/evil-as-spiritual-polarity/"
 wp_id: 3497

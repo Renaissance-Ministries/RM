@@ -8,7 +8,7 @@ domains: [theology, biblical_studies, philosophy]
 topics: [mormonism, heaven_hell, suffering, new_testament, epistemology, repentance, paul, judgment, miracles, spiritual_warfare, marriage_family, genesis, historical_analysis, atonement, covenant]
 scripture: ["1 Chronicles 12:38", "Daniel 12:2", "Matthew 7:16", "Matthew 5:17", "Luke 17:21", "John 4:1", "John 1:1", "John 10:16", "John 14:6", "Corinthians 14:29", "Galatians 5:22", "Timothy 4:7", "Hebrews 4", "James 1:5", "1 Corinthians 14:29", "2 Timothy 4:7", "1 John 4:1", "1 John 1:1"]
 mentions: ["Jesus", "Christ", "God the Father", "Donald Trump", "Hitler", "Denver Snuffer", "Joseph Smith", "Charlie", "Susan", "Michael"]
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/09/06/260906-evidence-of-truth/"
 wp_id: 4504

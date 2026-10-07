@@ -9,7 +9,7 @@ topics: [conscious_point_physics, paul, register_system, heaven_hell, atonement,
 scripture: ["Exodus 3:14", "1 Chronicles 12:38", "Psalm 103:12", "Isaiah 53:6", "John 2:2", "Romans 3:26", "Corinthians 13:12", "Corinthians 5:21", "Galatians 6:5", "Hebrews 9:26", "Revelation 10:7", "1 Corinthians 13:12", "2 Corinthians 5:21", "1 John 2:2"]
 mentions: ["Jesus", "Christ", "God the Father", "Isaiah", "Margo"]
 thesis: "Atonement Essay — Resolution Inserts Q6b, Q17b, Q19b — companion to Why Did Jesus Have to Die for My Sins? (260708) Register 3 — speculative mechanism."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/07/10/260710-atonement-question-resolutions/"
 wp_id: 4240

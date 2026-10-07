@@ -9,7 +9,7 @@ topics: [judaism, repentance, atonement, old_testament, minor_prophets, ezekiel,
 scripture: ["Leviticus 17:11", "Deuteronomy 30", "Deuteronomy 30:2", "1 Samuel 15:22", "1 Chronicles 12:38", "Psalm 51:16", "Psalm 85:10", "Isaiah 1:11", "Isaiah 1", "Jeremiah 3:12", "Lamentations 3:40", "Lamentations 5:21", "Ezekiel 18:21", "Ezekiel 18:23", "Ezekiel 33:11", "Ezekiel 18:4", "Hosea 14:1", "Hosea 6:6", "Joel 2:12", "Micah 6:6"]
 mentions: ["Jesus", "Christ", "God the Father", "Moses", "Isaiah"]
 thesis: "Teshuvah: The Turning Toward Home Fellowship Discussion Essay | June 11, 2026 Occasion. In the June 8 essay on why Jews do not accept Jesus as Messiah, the atonement section had to move quickly, and it named teshuvah in a single clause — one item in..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/06/11/260611-teshuvah-returning-home/"
 wp_id: 4086

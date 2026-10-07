@@ -9,7 +9,7 @@ topics: [conscious_point_physics, consciousness, creation, paul, atonement, epis
 scripture: ["Exodus 3:14", "1 Chronicles 12:38", "Psalm 139:13", "Psalm 103:12", "Psalm 53:1", "Proverbs 26:14", "Proverbs 19:24", "Isaiah 53:6", "Jeremiah 1:5", "Matthew 7:23", "Matthew 28:19", "Matthew 20", "Mark 9:24", "Luke 19", "John 1:9", "John 7:17", "John 1:3", "John 3:2", "John 1:1", "John 3:3"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Moses", "Abraham", "Isaiah", "Augustine", "Kant", "Susan"]
 thesis: "The Architecture of Mercy The Hard Questions About Why Jesus Had to Die — and How Far Reason May Walk Toward the Answer Christos Fellowship Essay | prepared for Sunday, 19 July 2026 Summary of Essay: The Atonement A Cause-Effect Argument The essay..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/07/10/260710-the-atonement-cpp-theology-and-philosophy/"
 wp_id: 4244

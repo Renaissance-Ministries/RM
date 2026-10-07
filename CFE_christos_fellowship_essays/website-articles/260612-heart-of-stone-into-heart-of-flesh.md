@@ -9,7 +9,7 @@ topics: [revelation_book, miracles, race_relations, daniel, heaven_hell, sufferi
 scripture: ["1 Chronicles 12:38", "Psalm 49:20", "Psalm 32:9", "Proverbs 30:15", "Ecclesiastes 1:8", "Ezekiel 36:26", "Daniel 4", "Daniel 4:33", "Daniel 4:16", "Daniel 4:34", "Hosea 4:6", "Matthew 4:4", "John 8:34", "Romans 12:2", "Romans 13:14", "Galatians 5:17", "Galatians 5:22", "Peter 2:12", "Peter 2:19", "Jude 10"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Augustine"]
 thesis: "The Beasts Heart Fellowship Discussion Essay | June 11, 2026 Occasion. I heard an old song on the radio this week — Billy Idols Rebel Yell, from 1983."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/06/13/260612-heart-of-stone-into-heart-of-flesh/"
 wp_id: 4098

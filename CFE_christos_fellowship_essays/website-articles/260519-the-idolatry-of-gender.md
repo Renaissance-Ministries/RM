@@ -8,7 +8,7 @@ domains: [culture, biblical_studies, world_religions]
 topics: [gender_sexuality, education, marriage_family, metaphysics, creation, historical_analysis, paul, protestantism, genesis, new_testament, art_beauty, healthcare, orthodox]
 scripture: ["Genesis 1:27", "Genesis 1:26", "Mark 2:27", "John 1:1", "Romans 16", "Titus 2:1"]
 mentions: ["Jesus", "Christ", "God the Father", "Abraham Lincoln", "Thomas Aquinas", "Augustine", "John Calvin"]
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/05/19/260519-the-idolatry-of-gender/"
 wp_id: 3953

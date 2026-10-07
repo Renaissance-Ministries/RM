@@ -9,7 +9,7 @@ topics: [mormonism, genesis, baptism, acts, historical_analysis, heaven_hell, pr
 scripture: ["Daniel 2:44", "Matthew 16:18", "Matthew 28:20", "John 3:5", "Romans 8:9", "Corinthians 3:11", "1 Corinthians 3:11"]
 mentions: ["Jesus", "Christ", "God the Father", "Abraham", "George Washington", "Thomas Jefferson", "John Calvin", "Denver Snuffer", "Joseph Smith", "Brigham Young", "Michael"]
 thesis: "The Altar Call at bornofwater.org A Christian Engagement with Denver Snuffers Christian Restoration Series (Series 2/4, Lectures 1-7) Fellowship Discussion Essay | April 28, 2026 Source: Denver Snuffer, Christian Restoration lecture series (Parts..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/04/28/260428-denver-snuffer-series-2-4-the-restoration/"
 wp_id: 3836

@@ -8,7 +8,7 @@ domains: [theology, physics, philosophy]
 topics: [consciousness, conscious_point_physics, miracles, paul, wave_theory, creation, suffering, thermodynamics, dipole_sea, presidential_platform, baptism, education, mormonism, atonement, heaven_hell]
 scripture: ["Genesis 2:19", "1 Chronicles 12:38", "Job 11:7", "Psalm 36:9", "Psalm 37:4", "Psalm 119:11", "Ezekiel 36:26", "Matthew 12:13", "Matthew 6:10", "Matthew 25:40", "John 3:2", "Romans 11:36", "Romans 6:11", "Corinthians 15:29", "Corinthians 13:12", "Corinthians 2:9", "Corinthians 5:17", "Philippians 2:13", "James 1:14", "Revelation 12:11"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Donald Trump", "Michael"]
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/08/29/260825-seeing-gods-light-in-the-creation/"
 wp_id: 4469

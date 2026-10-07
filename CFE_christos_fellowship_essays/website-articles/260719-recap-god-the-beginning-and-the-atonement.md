@@ -9,7 +9,7 @@ topics: [creation, atonement, paul, heaven_hell, suffering, salvation, conscious
 scripture: ["Genesis 1:1", "Genesis 1:27", "1 Chronicles 12:38", "Psalm 92:12", "Ecclesiastes 12:7", "Isaiah 28:10", "Ezekiel 18:4", "Zechariah 13:9", "Matthew 16:23", "Matthew 12:31", "Matthew 10:28", "Matthew 26:41", "Luke 6:46", "John 1:3", "John 1:14", "John 1:1", "John 1:9", "John 14:6", "John 1:4", "John 9"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Isaiah"]
 thesis: "Evolution from Nothing, the Veil, and the Eternal Relationship An Inquiry into Atonement, Freedom, and the Purpose of Creation Christos Fellowship — Renaissance Ministries Fellowship Essay · July 19, 2026 I."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/07/21/260719-recap-god-the-beginning-and-the-atonement/"
 wp_id: 4284

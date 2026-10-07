@@ -9,7 +9,7 @@ topics: [paul, protestantism, roman_empire, catholicism, new_testament, historic
 scripture: ["Genesis 17:1", "1 Chronicles 12:38", "Job 1:1", "Psalm 116:15", "Proverbs 16:18", "Proverbs 9:10", "Ecclesiastes 12:13", "Matthew 18:3", "Matthew 5:48", "Matthew 10:28", "Mark 10:15", "Luke 18:17", "Luke 12:47", "John 4:18", "John 2:16", "John 1:3", "John 14:6", "John 14:21", "John 20:29", "John 5:10"]
 mentions: ["Jesus", "Christ", "George Washington", "John Calvin", "Denver Snuffer", "Joseph Smith"]
 thesis: "An Academic Assessment of Denver Snuffers 500th-Anniversary Lecture 7 Historical Accuracy and Biblical Consistency Fellowship Discussion Essay | August 10, 2026 Source: Denver Snuffer Jr., seventh lecture of the eight-lecture series delivered on the..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/08/20/260810-denver-snuffer-lecture-7/"
 wp_id: 4395

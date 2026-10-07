@@ -9,7 +9,7 @@ topics: [eschatology, paul, missionary_work, old_testament, heaven_hell, prophec
 scripture: ["Deuteronomy 4:5", "Isaiah 58:1", "Ezekiel 3:17", "Jonah 1:2", "Matthew 23:15", "Matthew 5:16", "Matthew 28:19", "Acts 1:8", "Acts 9:15", "Corinthians 6:2", "Thessalonians 1:7", "Thessalonians 1", "2 Corinthians 6:2", "1 Thessalonians 1:7", "1 Thessalonians 1"]
 mentions: ["Christ", "God the Father", "Moses", "Isaiah", "Charlie"]
 thesis: "The Buick Salesman and the Great Commission: On Proselytism by Example and Word, and the Eschatology Underneath Fellowship Essay | By Thomas Lee Abshier, ND — May 8, 2026 A two-part essay landed in my inbox yesterday from Church of the Great Gods..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/05/08/260508-proselytization-a-proper-posture/"
 wp_id: 3880

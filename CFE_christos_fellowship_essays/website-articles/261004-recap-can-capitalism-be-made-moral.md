@@ -9,7 +9,7 @@ topics: [capitalism, communism, governance, economics, morality_ethics, poverty,
 scripture: ["Genesis 21:25", "Genesis 13:8", "Genesis 4:17", "Genesis 14:18", "Genesis 5:24", "Deuteronomy 15:4", "1 Samuel 8", "1 Samuel 10", "1 Samuel 16", "Malachi 4:6", "Matthew 5:3", "Matthew 20:16", "John 1:12", "Acts 4:34", "Acts 5:4", "Hebrews 11:5", "Hebrews 7:2", "Jude 14"]
 mentions: ["Jesus", "Christ", "God the Father", "Moses", "Abraham", "Donald Trump", "Hitler", "Lenin", "Martin Luther", "Einstein", "Charlie", "Susan", "Michael"]
 thesis: "Can Capitalism Be Made Moral? Oct 4, 2026 · @Thomas Abshier Christos Fellowship discussion, Sunday, 4 October 2026 The Fellowship met to discuss Chapters 3 and 4 of Transforming America and the companion chapter addition, The Desire for Monopoly."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/10/04/261004-recap-can-capitalism-be-made-moral/"
 wp_id: 4962

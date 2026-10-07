@@ -5,7 +5,7 @@ date: 2026-02-26
 module: CPP
 secondary_modules: [CEA, CCR]
 domains: [theology, politics, culture]
-topics: [immigration, presidential_platform, healthcare, new_age, electoral_system, tithing, technology, christos_framework, epistemology, conspiracy, marriage_family, governance, suffering, forgiveness, prophecy]
+topics: [presidential_platform, healthcare, new_age, electoral_system, tithing, technology, christos_framework, epistemology, conspiracy, marriage_family, governance, suffering, forgiveness, prophecy]
 scripture: ["Matthew 16:18", "Corinthians 10:31", "Corinthians 11:14", "Colossians 4:5", "Thessalonians 5:21", "1 Corinthians 10:31", "2 Corinthians 11:14", "1 Thessalonians 5:21"]
 mentions: ["Jesus", "Christ"]
 status: ESTABLISHED

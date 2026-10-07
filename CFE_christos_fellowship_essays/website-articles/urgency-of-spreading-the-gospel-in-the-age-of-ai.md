@@ -5,10 +5,10 @@ date: 2026-02-10
 module: CFE
 secondary_modules: [CPP, CEA, CAP]
 domains: [theology, philosophy, culture]
-topics: [immigration, technology, morality_ethics, consciousness, conscious_point_physics, sanctification, pneumatology, marriage_family, economics, suffering, discipleship, missionary_work, presidential_platform, covenant, free_will]
+topics: [technology, morality_ethics, consciousness, conscious_point_physics, sanctification, pneumatology, marriage_family, economics, suffering, discipleship, missionary_work, presidential_platform, covenant, free_will]
 scripture: ["Genesis 2:7", "Genesis 1:28", "Genesis 2:15", "Proverbs 22:6", "Proverbs 21:1", "Jeremiah 31:31", "Jeremiah 31", "Jeremiah 31:33", "Ezekiel 36:26", "John 8:32", "John 18:36", "Ephesians 5:15", "Ephesians 2:10", "Colossians 1:17", "Timothy 3:16", "Hebrews 10:24", "2 Timothy 3:16"]
 mentions: ["Jesus", "Christ", "Holy Spirit", "Marx", "Jordan Peterson", "Charlie", "Susan", "Michael"]
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/02/10/urgency-of-spreading-the-gospel-in-the-age-of-ai/"
 wp_id: 3396

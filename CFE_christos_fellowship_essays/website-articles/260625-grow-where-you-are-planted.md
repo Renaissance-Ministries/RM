@@ -9,7 +9,7 @@ topics: [marriage_family, mormonism, paul, governance, judaism, missionary_work,
 scripture: ["1 Chronicles 12:38", "Proverbs 18:13", "Ecclesiastes 4:12", "Ezekiel 37", "Ezekiel 37:17", "Matthew 18:20", "Matthew 28:19", "Matthew 5:13", "Luke 4:16", "John 17:15", "Acts 17:11", "Romans 8:29", "Corinthians 7:20", "Galatians 5:1", "Ephesians 4:13", "Ephesians 4:15", "Thessalonians 5:21", "Hebrews 12:6", "1 Corinthians 7:20", "1 Thessalonians 5:21"]
 mentions: ["Jesus", "Christ", "Charlie"]
 thesis: "Stay and Let Your Light Shine: On Witnessing from Within Rather Than Leaving Fellowship Discussion Essay | 25 June 2026 Occasion."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/06/27/260625-grow-where-you-are-planted/"
 wp_id: 4148

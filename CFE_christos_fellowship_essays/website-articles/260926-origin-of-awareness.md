@@ -8,7 +8,7 @@ domains: [culture, biblical_studies, physics]
 topics: [technology, consciousness, wave_theory, environmentalism, creation, old_testament, conscious_point_physics, education, new_testament, art_beauty]
 scripture: ["Genesis 1:26", "John 17:24", "Acts 17:25"]
 mentions: ["Jesus", "Schrodinger", "Michael"]
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/09/30/260926-origin-of-awareness/"
 wp_id: 4616

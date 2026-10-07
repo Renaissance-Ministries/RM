@@ -5,7 +5,7 @@ date: 2026-02-27
 module: CFE
 secondary_modules: [CPP, CEA]
 domains: [physics, philosophy, theology]
-topics: [consciousness, conscious_point_physics, immigration, relativity, creation, quantum_mechanics, standard_model, electromagnetism, new_age, trinity, metaphysics, nuclear_physics, gravity, cosmology, free_will]
+topics: [consciousness, conscious_point_physics, relativity, creation, quantum_mechanics, standard_model, electromagnetism, new_age, trinity, metaphysics, nuclear_physics, gravity, cosmology, free_will]
 scripture: ["Genesis 1:27", "Genesis 1", "Exodus 3:14", "Exodus 3", "Psalm 19:1", "John 1:1", "John 1", "Colossians 1"]
 mentions: ["Jesus", "Christ", "God the Father", "Moses", "Heisenberg"]
 status: ESTABLISHED

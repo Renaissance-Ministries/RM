@@ -9,7 +9,7 @@ topics: [baptism, mormonism, paul, presidential_platform, genesis, thermodynamic
 scripture: ["1 Chronicles 12:38", "Psalm 111:10", "Proverbs 22:6", "Matthew 7:20", "Matthew 7:14", "Matthew 13:3", "Luke 23:43", "John 4:1", "John 10:5", "John 6:26", "John 7:17", "John 1:12", "Acts 17:17", "Acts 8:4", "Acts 8", "Romans 13", "Corinthians 3:6", "Corinthians 4:3", "Corinthians 9:16", "Galatians 1:8"]
 mentions: ["Jesus", "Christ", "Thomas Jefferson", "FDR", "Winston Churchill", "Denver Snuffer", "Joseph Smith", "Charlie", "Susan", "Michael"]
 thesis: "Dueling Gurus and the Doctrine of Christ Zion, Agency, and the Question Behind Every Question: How Do We Know the True Voice? Christos Fellowship — Renaissance Ministries Fellowship Essay · 9 August 2026 · A follow-up to Quietism Is Not More Light..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/08/20/260809-recap-determining-the-truth/"
 wp_id: 4373

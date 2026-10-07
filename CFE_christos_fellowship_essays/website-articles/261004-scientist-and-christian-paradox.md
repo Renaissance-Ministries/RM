@@ -9,7 +9,7 @@ topics: [quantum_mechanics, trinity, genesis, paul, electromagnetism, christolog
 scripture: ["Genesis 1", "Genesis 2", "Genesis 2:4", "Genesis 3:9", "Deuteronomy 6:4", "Isaiah 1:18", "Matthew 16:25", "Matthew 3:16", "John 1:1", "John 20:28", "Acts 17:27", "Corinthians 14:33", "Colossians 1:16", "Hebrews 1:3", "1 Corinthians 14:33"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Isaiah", "Einstein", "Newton", "Feynman", "Schrodinger"]
 thesis: "Paradox Is Not Contradiction: What Quantum Physics Can and Cannot Tell Us About Christ A physicist has written a short and moving testimony that is making its way around the internet this week under the title I was an atheist."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/10/04/261004-scientist-and-christian-paradox/"
 wp_id: 4958

@@ -8,7 +8,7 @@ domains: [theology, biblical_studies, philosophy]
 topics: [world_war_2, suffering, theodicy, psalms, genesis, creation, judaism, paul, morality_ethics, repentance, covenant, free_will, worship, proverbs_wisdom, marriage_family]
 scripture: ["Genesis 3", "Genesis 50:20", "Job 13:15", "Job 1:1", "Job 2:3", "Job 42:7", "Job 38:4", "Job 42:5", "Job 42", "Psalm 27:13", "Proverbs 3:5", "Isaiah 45:7", "Habakkuk 1", "Romans 8:28", "Romans 5:3", "Corinthians 1:3", "Corinthians 4:16", "Peter 2:21", "Revelation 21:4", "2 Corinthians 1:3"]
 mentions: ["Jesus", "Christ", "Abraham", "Isaiah", "Hitler", "Charlie", "Susan"]
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/03/21/theodicy-rationalizing-the-holocaust/"
 wp_id: 3617

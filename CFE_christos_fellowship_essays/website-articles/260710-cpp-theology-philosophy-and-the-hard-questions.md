@@ -9,7 +9,7 @@ topics: [conscious_point_physics, heaven_hell, grid_point_lattice, free_will, su
 scripture: ["Genesis 1:2", "1 Chronicles 12:38", "Matthew 20", "Matthew 4:17", "Matthew 7:23", "Mark 9:24", "Luke 19", "Luke 17:21", "Luke 19:9", "John 14:6", "John 7:17", "Acts 17", "Acts 16:31", "Romans 8", "Romans 3:25", "Romans 2", "Romans 10:9", "Hebrews 7:25", "Hebrews 11:8"]
 mentions: ["Jesus", "Christ", "God the Father", "Moses", "Abraham", "Thomas Aquinas", "Augustine", "John Calvin", "Kant", "Hegel"]
 thesis: "Philosophical Exploration — CPP, Theology, and the Hard Questions Isak Gutierrez and Claude | July 8-9, 2026 Reference document for Isak and Thomas Abshier This document records a philosophical exploration of eight theological questions raised during a fellowship call between Isak and Thomas."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/07/10/260710-cpp-theology-philosophy-and-the-hard-questions/"
 wp_id: 4235

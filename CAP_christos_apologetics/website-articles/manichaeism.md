@@ -5,7 +5,7 @@ date: 2026-03-09
 module: CAP
 secondary_modules: [CPP, CEA, CHR]
 domains: [theology, history, philosophy]
-topics: [immigration, dualism, historical_analysis, roman_empire, salvation, prophecy, election_predestination, cosmology]
+topics: [dualism, historical_analysis, roman_empire, salvation, prophecy, election_predestination, cosmology]
 mentions: ["Jesus", "Augustine"]
 thesis: "body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; max-width: 900px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333; background-color: #fafafa; } .header { background: linear-gradient(135deg, #2c3e50..."
 status: ESTABLISHED

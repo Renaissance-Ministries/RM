@@ -5,7 +5,7 @@ date: 2026-06-19
 module: CFE
 secondary_modules: [CCR]
 type: essay
-status: PUBLISHED
+status: ESTABLISHED
 register: pastoral_direct_address
 published_url: "https://renaissance-ministries.com/2026/06/20/260619-seeking-and-committing-to-a-path/"
 published_date: 2026-06-20

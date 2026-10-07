@@ -9,7 +9,7 @@ topics: [paul, baptism, new_testament, mormonism, prophecy, old_testament, acts,
 scripture: ["Deuteronomy 19:15", "Deuteronomy 4:2", "1 Chronicles 12:38", "Proverbs 27:17", "Isaiah 40:8", "Matthew 3:13", "Matthew 24:35", "Matthew 18:16", "John 5:31", "Acts 2:38", "Acts 8:36", "Acts 10:47", "Acts 20:29", "Acts 20:32", "Romans 6:3", "Corinthians 12:13", "Corinthians 11:13", "Corinthians 11:4", "Corinthians 13:1", "Corinthians 12:12"]
 mentions: ["Jesus", "Christ", "God the Father", "Moses", "Isaiah", "Denver Snuffer", "Joseph Smith"]
 thesis: "Reply to Leonard: Three Questions and the Many Voices Christos Fellowship — Renaissance Ministries In response to Leonards letter of clarification on the essay of 3 August 2026 Leonard, Before I answer anything, I want to acknowledge what your letter is."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/08/20/260809-the-great-commission-part-3/"
 wp_id: 4367

@@ -8,7 +8,7 @@ topics: [paul, prophecy, genesis, old_testament, metaphysics, psalms, proverbs_w
 scripture: ["Deuteronomy 18:22", "1 Chronicles 12:38", "Psalm 34:8", "Proverbs 27:17", "Proverbs 25:2", "Matthew 7:16", "Luke 1:1", "John 1:1", "John 4:1", "John 20:27", "John 7:17", "Acts 17:11", "Corinthians 15:6", "Thessalonians 5:21", "Timothy 4:3", "Hebrews 11:1", "1 Corinthians 15:6", "1 Thessalonians 5:21", "2 Timothy 4:3", "1 John 4:1"]
 mentions: ["Jesus", "Christ", "Moses", "Einstein"]
 thesis: "Does Physics Demand Belief? An Exchange with John on Science and Faith Fellowship Discussion Essay | 1 August 2026 Iron sharpeneth iron; so a man sharpeneth the countenance of his friend."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/08/01/260801-physics-and-belief/"
 wp_id: 4345

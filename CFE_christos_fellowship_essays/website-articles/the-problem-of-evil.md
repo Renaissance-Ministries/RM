@@ -5,11 +5,11 @@ date: 2026-03-04
 module: CFE
 secondary_modules: [CPP, CEA]
 domains: [theology, biblical_studies, philosophy]
-topics: [spiritual_warfare, angels_demons, creation, free_will, immigration, heaven_hell, consciousness, conscious_point_physics, metaphysics, isaiah, genesis, ezekiel, christos_framework, theodicy, judgment]
+topics: [spiritual_warfare, angels_demons, creation, free_will, heaven_hell, consciousness, conscious_point_physics, metaphysics, isaiah, genesis, ezekiel, christos_framework, theodicy, judgment]
 scripture: ["Genesis 50:20", "Genesis 1:1", "Exodus 24:10", "Isaiah 45:7", "Isaiah 14:12", "Isaiah 14", "Ezekiel 28:14", "Ezekiel 28", "Luke 10:18", "John 1:3", "John 8:44", "John 1:1", "Romans 8:28", "Colossians 1:16", "Hebrews 1:1", "James 1:13", "Peter 1:20", "Revelation 13:8", "Revelation 20", "Revelation 12:9"]
 mentions: ["Jesus", "Christ", "God the Father", "Isaiah", "Charlie", "Susan", "Michael"]
 thesis: "Gods Relationship to Evil by Thomas Lee Abshier, ND 3/4/2026 Consideration of Evil as Negation Evil has no independent existence (TLA: yes, there is no substance but Gods substance) Evil is the absence/rejection of Gods nature (TLA: yes, God has..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/03/04/the-problem-of-evil/"
 wp_id: 3564

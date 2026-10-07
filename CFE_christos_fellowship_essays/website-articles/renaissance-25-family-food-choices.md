@@ -8,7 +8,7 @@ domains: [theology, culture, philosophy]
 topics: [marriage_family, discipleship, prayer, education, suffering, world_war_2]
 mentions: ["Jesus", "Christ", "God the Father", "Charlie", "Susan"]
 thesis: "10/5/2025 Meeting Essay Let me identify the key parts of the conversation that relate to food choices and family: Armonds main dilemma: He wants his family to follow a no-meat household diet, but his wife is reluctant."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2025/10/05/renaissance-25-family-food-choices/"
 wp_id: 2879

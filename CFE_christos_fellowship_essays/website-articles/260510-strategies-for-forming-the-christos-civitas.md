@@ -9,7 +9,7 @@ topics: [historical_analysis, islam, governance, catholicism, paul, revelation_b
 scripture: ["Amos 5:25", "Jonah 3", "Matthew 5:15", "John 13:35", "John 17", "Corinthians 13:11", "Corinthians 6:17", "Corinthians 5:20", "Revelation 18:4", "Revelation 3:16", "1 Corinthians 13:11", "2 Corinthians 6:17", "2 Corinthians 5:20"]
 mentions: ["Jesus", "Christ", "God the Father", "Thomas Jefferson", "Ronald Reagan", "Hitler", "Charlie", "Susan", "Michael"]
 thesis: "The Bird, Babylon, and the Christian Underground: Strategies for Establishing a Christian Presence in a Captured Order Fellowship Discussion Essay | May 10, 2026 Occasion: Sundays gathering had last weeks fellowship summary as its formal seed text,..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/05/10/260510-strategies-for-forming-the-christos-civitas/"
 wp_id: 3904

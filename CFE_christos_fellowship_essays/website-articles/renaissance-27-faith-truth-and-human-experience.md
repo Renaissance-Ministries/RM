@@ -8,7 +8,7 @@ domains: [philosophy, theology, biblical_studies]
 topics: [creation, mormonism, discipleship, genesis, consciousness, suffering, stoicism, technology]
 mentions: ["Jesus", "Christ", "Joseph Smith", "Charlie"]
 thesis: "Determination of Ultimate Spiritual Authority Meeting #28 confronted a rich tapestry of philosophical and religious discourse that touched on fundamental questions of epistemology, theology, and spiritual practice."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2025/10/26/renaissance-27-faith-truth-and-human-experience/"
 wp_id: 3020

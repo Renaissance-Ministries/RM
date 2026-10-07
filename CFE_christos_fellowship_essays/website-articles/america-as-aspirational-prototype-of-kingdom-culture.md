@@ -9,7 +9,7 @@ topics: [consciousness, prayer, creation, kingdom_of_god, genesis, conscious_poi
 scripture: ["Genesis 2:7", "Psalm 8:4", "Jeremiah 31:33"]
 mentions: ["Jesus", "Christ", "Charlie", "Susan", "Michael"]
 thesis: "The Tool and the Temple AI, Consciousness, and Kingdom Culture in an Age of Transformation A Fellowship Discussion Essay Renaissance Ministries | April 12, 2026 And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/04/12/america-as-aspirational-prototype-of-kingdom-culture/"
 wp_id: 3747

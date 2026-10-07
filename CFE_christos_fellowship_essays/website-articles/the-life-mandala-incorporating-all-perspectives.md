@@ -8,7 +8,7 @@ topics: [art_beauty, consciousness, miracles, paul, creation, prayer, conscious_
 scripture: ["Genesis 1", "Psalm 46:10", "Isaiah 1:18", "Matthew 7:7", "John 1:1", "John 1:3", "Acts 17:28", "Galatians 2:20", "Colossians 1:17"]
 mentions: ["Jesus", "Christ", "God the Father", "Isaiah", "Hegel", "Michael"]
 thesis: "The Life Mandala Through the Christos Lens An Integration Analysis for Renaissance Ministries Renaissance Ministries | April 5, 2026 A Companion Document to the Easter 2026 Fellowship Discussion In the beginning was the Word, and the Word was with God, and the Word was God."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/04/06/the-life-mandala-incorporating-all-perspectives/"
 wp_id: 3712

@@ -9,7 +9,7 @@ topics: [islam, prayer, sanctification, heaven_hell, paul, judgment, education, 
 scripture: ["2 Chronicles 7:14", "2 Chronicles 16:9", "Matthew 10:37", "Mark 12:30", "Luke 12:49", "Romans 1:16", "Romans 10:14", "Ephesians 6:12", "Timothy 3:12", "Hebrews 12:14", "James 5:17", "Peter 1:16", "Revelation 3:15", "Revelation 3:17", "2 Timothy 3:12", "1 Peter 1:16"]
 mentions: ["Jesus", "Christ", "Abraham", "Elijah"]
 thesis: "THE FIRE AT THE CENTER A Call to Recovered Zeal for the Church in the West Renaissance Ministries | March 14, 2026 I know your works: you are neither cold nor hot."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/03/14/rekindling-our-passion-for-the-living-god/"
 wp_id: 3590

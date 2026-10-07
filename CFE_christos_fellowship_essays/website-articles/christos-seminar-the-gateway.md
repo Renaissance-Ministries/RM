@@ -5,11 +5,11 @@ date: 2026-03-06
 module: CFE
 secondary_modules: [CPP, CEA]
 domains: [theology, culture, politics]
-topics: [immigration, new_age, consciousness, education, christos_framework, conscious_point_physics, healthcare, electoral_system, art_beauty, wisdom_database, creation, new_testament, presidential_platform, spiritual_warfare, angels_demons]
+topics: [new_age, consciousness, education, christos_framework, conscious_point_physics, healthcare, electoral_system, art_beauty, wisdom_database, creation, new_testament, presidential_platform, spiritual_warfare, angels_demons]
 scripture: ["Isaiah 14", "Ezekiel 28", "Matthew 25:40", "John 4:8", "John 1:4", "John 8:44", "Timothy 2:15", "James 1:13", "2 Timothy 2:15", "1 John 4:8"]
 mentions: ["Christ", "God the Father", "Holy Spirit", "Isaiah", "Susan"]
 thesis: ":root { --primary-color: #2c3e50; --accent-color: #8b4513; --text-color: #333; --background-color: #faf8f5; --border-color: #d4c4b0; --seminar-color: #5d4037; --video-color: #c62828; --ai-color: #1565c0; --foundation-color: #2e7d32; --testing-color:..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/03/06/christos-seminar-the-gateway/"
 wp_id: 3569

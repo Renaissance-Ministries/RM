@@ -8,7 +8,7 @@ topics: [creation, free_will, sanctification, paul, suffering, justification, re
 scripture: ["1 Chronicles 12:38", "John 4:8", "John 1:3", "Romans 3:23", "Romans 5:8", "Corinthians 5:21", "Revelation 13:8", "2 Corinthians 5:21", "1 John 4:8"]
 mentions: ["Jesus", "Christ", "God the Father", "Moses", "Charlie"]
 thesis: "What Kind of World Would Require the Cross? The Plan of Existence, From First Principles Fellowship Discussion Essay | 25 June 2026 Occasion."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/06/27/260625-why-the-creation-required-the-cross/"
 wp_id: 4154

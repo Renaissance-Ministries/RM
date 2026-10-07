@@ -5,11 +5,11 @@ date: 2026-02-22
 module: CFE
 secondary_modules: [CEA]
 domains: [theology, politics, culture]
-topics: [immigration, pneumatology, marriage_family, presidential_platform, repentance, media, technology, eschatology, governance, christos_framework, judgment, discipleship, paul, surveillance_state, constitutional_law]
+topics: [pneumatology, marriage_family, presidential_platform, repentance, media, technology, eschatology, governance, christos_framework, judgment, discipleship, paul, surveillance_state, constitutional_law]
 scripture: ["Psalm 127:1", "Proverbs 27:17", "Proverbs 29:18", "Matthew 18:20", "Matthew 18:15", "Corinthians 12:12", "Corinthians 3:9", "Timothy 5:20", "Hebrews 10:24", "1 Corinthians 12:12", "1 Corinthians 3:9", "1 Timothy 5:20"]
 mentions: ["Jesus", "Christ", "Holy Spirit", "Charlie", "Susan"]
 thesis: ":root { --primary-color: #2c3e50; --accent-color: #8b4513; --text-color: #333; --background-color: #faf8f5; --quote-background: #f0ebe3; --border-color: #d4c4b0; --thomas-accent: #2e5a35; --susan-accent: #6a1b9a; --charlie-accent: #c62828;..."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/02/22/equipping-the-saints/"
 wp_id: 3485

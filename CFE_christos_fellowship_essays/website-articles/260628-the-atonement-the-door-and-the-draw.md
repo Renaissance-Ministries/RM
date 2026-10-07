@@ -8,7 +8,7 @@ topics: [salvation, sanctification, prayer, discipleship, consciousness, metaphy
 scripture: ["Genesis 1:27", "Exodus 3:14", "Exodus 33:22", "1 Chronicles 12:38", "Psalm 23:3", "Psalm 119:11", "Psalm 51:4", "Song of Solomon 1:4", "Matthew 5:8", "Matthew 13:3", "Matthew 25:14", "Mark 9:49", "Luke 23:43", "Luke 16:11", "Luke 19:17", "John 1:1", "John 10:30", "John 1", "John 6:44", "John 1:9"]
 mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Moses", "Solomon", "Charlie", "Susan"]
 thesis: "The Love of the Father: His Draw on the Hearts of His Children to Atonement and Sonship Fellowship Discussion Essay | 28 June 2026 Occasion."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/06/30/260628-the-atonement-the-door-and-the-draw/"
 wp_id: 4164

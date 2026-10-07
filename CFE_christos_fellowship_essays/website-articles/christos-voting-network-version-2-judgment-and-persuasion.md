@@ -7,7 +7,7 @@ secondary_modules: [CPP, CEA]
 domains: [politics, theology, biblical_studies]
 topics: [constitutional_law, electoral_system, presidential_platform, founders_vision, kingdom_of_god, new_age, proverbs_wisdom, conscious_point_physics, governance, economics]
 scripture: ["2 Chronicles 7:14", "Proverbs 23:23", "Proverbs 29:2", "Proverbs 14:34", "Acts 5:29", "Acts 17:26"]
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/04/09/christos-voting-network-version-2-judgment-and-persuasion/"
 wp_id: 3718

@@ -9,7 +9,7 @@ topics: [conscious_point_physics, theodicy, paul, historical_analysis, suffering
 scripture: ["Genesis 3", "Genesis 1", "Deuteronomy 30:19", "Joshua 24", "Joshua 24:15", "Job 38", "Isaiah 55", "Isaiah 55:8", "Daniel 10", "Romans 5", "Romans 8:28", "Romans 11", "Romans 5:12", "Romans 5:3", "Romans 11:33", "Galatians 5", "Galatians 5:13", "Ephesians 6", "Ephesians 1:11", "Ephesians 6:12"]
 mentions: ["Christ", "Isaiah", "Thomas Aquinas", "Augustine"]
 thesis: "Theodicy: A theodicy is a formal attempt to justify the goodness and justice of God despite the existence of evil."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/03/21/theodicy-definition/"
 wp_id: 3624

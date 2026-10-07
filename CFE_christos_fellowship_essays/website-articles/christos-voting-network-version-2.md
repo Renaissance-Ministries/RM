@@ -8,7 +8,7 @@ domains: [politics, theology, culture]
 topics: [electoral_system, presidential_platform, technology, metaphysics, prayer, discipleship, governance, surveillance_state, media, christian_nation]
 scripture: ["1 Chronicles 12:38", "John 13:35"]
 mentions: ["Jesus", "Christ", "Michael"]
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/04/06/christos-voting-network-version-2/"
 wp_id: 3702

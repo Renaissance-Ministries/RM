@@ -9,7 +9,7 @@ topics: [governance, marriage_family, conscious_point_physics, capitalism, gende
 scripture: ["Genesis 4:9", "Genesis 50:20", "Genesis 18:25", "Exodus 20:15", "Exodus 18:13", "Exodus 16:16", "Exodus 20:5", "Exodus 22:1", "Exodus 20:17", "Leviticus 25:23", "Leviticus 19:9", "Leviticus 19:15", "Deuteronomy 19:14", "Deuteronomy 25:13", "Deuteronomy 17:14", "Deuteronomy 1:13", "Deuteronomy 1:17", "Judges 21:25", "1 Samuel 8:5", "2 Samuel 12:7"]
 mentions: ["Jesus", "Christ", "God the Father", "Moses", "Solomon", "Elijah", "Isaiah", "George Washington", "Thomas Jefferson", "James Madison", "Ronald Reagan", "Donald Trump", "Thomas Aquinas", "Martin Luther", "Charlie"]
 thesis: "Transforming America First Overview Draft — edited from a conversation between Thomas Abshier and Isak Gutierrez, September 23, 2026 Editors Note on This Draft This manuscript is the backbone of the book, taken from a morning conversation between Thomas and Isak."
-status: ESTABLISHED
+status: PROVISIONAL
 type: transcript
 source_url: "https://renaissance-ministries.com/2026/09/23/260923-transforming-america-book/"
 wp_id: 4573

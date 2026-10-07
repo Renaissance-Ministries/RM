@@ -1,4 +1,4 @@
---- title: "Leaving Mormonism" author: "Thomas Lee Abshier, ND" date: 2026-09-23 module: CFE secondary_modules: [CEA, CHR, CAP] topics: [mormonism, eschatology, marriage_family, governance, historical_analysis, lordship, salvation, grace] status: ESTABLISHED type: transcript source_url: "https://renaissance-ministries.com/2026/09/23/260921-leaving-mormonism/" wp_id: 4567 wp_slug: "260921-leaving-mormonism" wp_categories: ["Sermon/Meeting/Discussion Transcripts"] ---
+--- title: "Leaving Mormonism" author: "Thomas Lee Abshier, ND" date: 2026-09-23 module: CFE secondary_modules: [CEA, CHR, CAP] topics: [mormonism, eschatology, marriage_family, governance, historical_analysis, lordship, salvation, grace] status: PROVISIONAL type: transcript source_url: "https://renaissance-ministries.com/2026/09/23/260921-leaving-mormonism/" wp_id: 4567 wp_slug: "260921-leaving-mormonism" wp_categories: ["Sermon/Meeting/Discussion Transcripts"] ---
 
 # 260921 - Leaving Mormonism
 
