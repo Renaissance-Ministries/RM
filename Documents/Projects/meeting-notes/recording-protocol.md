@@ -333,6 +333,122 @@ These Zoom settings should be configured once:
 
 ---
 
+## Remote Access — Editing & File Transfer
+
+### The Problem
+
+The ATEM records ISO files to a USB SSD physically connected to the ATEM, not to Thomas's computer. After the meeting, Thomas plugs the SSD into his PC (or it stays connected via a USB hub). The files sit on that drive — Isak has no access unless remote access is set up.
+
+### Option A: Parsec — Remote Desktop (Recommended)
+
+Edit on Thomas's machine remotely. His i9 (24-core, once the chip defect is patched) is more powerful than most editing machines. Parsec was built for remote GPU workloads — it streams Thomas's desktop to Isak's Mac at low latency with hardware-accelerated encoding.
+
+**What you can do with Parsec:**
+- Browse the ATEM SSD folders
+- Open the `.drp` project file in DaVinci Resolve on Thomas's PC
+- Do the full multicam edit (switch angles, color grade, mix audio)
+- Export the final cut
+- Transfer only the finished video (~1-2 GB) instead of the raw ISOs (~30-60 GB)
+- Start/stop OBS, manage files, troubleshoot — full desktop control
+
+#### Thomas Setup (One-Time — Windows)
+
+1. Download Parsec from parsec.app (free for personal use).
+2. Install and create a Parsec account.
+3. Sign in and leave Parsec running (it starts with Windows by default).
+4. In Parsec settings:
+   - Hosting → Hosting Enabled: **On**
+   - Hosting → Resolution: **1920×1080** (match his monitor)
+   - Hosting → Bandwidth Limit: **50 Mbps** (Thomas has gigabit fiber — this is fine)
+   - Hosting → H.265: **On** (better quality at lower bandwidth, i9 supports it)
+5. Share the Parsec account credentials with Isak, or add Isak as an approved user.
+
+#### Isak Setup (One-Time — macOS)
+
+1. Download Parsec from parsec.app.
+2. Install and sign in (same account, or Isak's own account if Thomas approved him).
+3. Thomas's PC will appear in the Computers list.
+4. Click to connect. Full desktop access.
+
+#### Using Parsec for Post-Production
+
+1. Connect to Thomas's PC via Parsec.
+2. Open the ATEM SSD in File Explorer — files are in `Video ISO Files/`, `Program/`, and `Project Files/`.
+3. Double-click the `.drp` file → opens in DaVinci Resolve with all ISOs pre-synced.
+4. Edit: Cut page for multicam switching, Edit page for detailed timeline work, Fairlight for audio.
+5. Import Isak's OBS recording if needed (transfer Isak's MP4 to Thomas's PC via Google Drive, Syncthing, or Parsec's file transfer — drag and drop files between machines).
+6. Export final video: Deliver page → H.264 for web (~1-2 GB/hr), ProRes for archival.
+7. Transfer finished video back to Isak's Mac (Parsec drag-and-drop, or Syncthing/Drive).
+
+#### Parsec During a Live Meeting
+
+Parsec can also run during a Zoom call — Isak can remotely control Thomas's OBS or ATEM Software Control while both are on Zoom. However, this uses significant bandwidth. On Thomas's gigabit fiber this should be fine, but test it first. If there's interference with Zoom quality, use the OBS WebSocket method instead (see below).
+
+### Option B: Syncthing — Automatic File Sync
+
+Syncthing is free, open-source, peer-to-peer file sync. No cloud, no monthly fee, encrypted. Files in a shared folder on Thomas's PC automatically appear on Isak's Mac.
+
+**Best for:** Getting raw files transferred without manual effort. Set it and forget it.
+
+**Trade-off:** Large files take time. A 2-hour session with 1 ATEM input + program (~30-35 GB) over typical fiber upload speeds (~35 Mbps) takes ~2+ hours to transfer. Gigabit symmetric fiber would be much faster, but most residential fiber is asymmetric.
+
+#### Thomas Setup (One-Time — Windows)
+
+1. Download Syncthing from syncthing.net (or install via `winget install Syncthing.Syncthing`).
+2. Open the Syncthing web UI (http://localhost:8384).
+3. Add a folder to share:
+   - Folder Label: "Recordings"
+   - Folder Path: Point to the location where ATEM SSD files get copied (e.g., `D:\Recordings\` — a folder on the internal drive, not the SSD itself)
+   - Or point directly to the OBS recording output folder (e.g., `C:\Users\Thomas\Videos\OBS\`)
+4. Under "Sharing" tab, share with Isak's device (add Isak's device ID — see below).
+
+#### Isak Setup (One-Time — macOS)
+
+1. Install Syncthing: `brew install syncthing` then `brew services start syncthing`.
+2. Open http://localhost:8384.
+3. Add Thomas's device (Actions → Add Remote Device → paste Thomas's Device ID).
+4. Accept the shared "Recordings" folder. Choose a local path (e.g., `~/Documents/Projects/recordings-sync/`).
+5. Files will automatically sync whenever both machines are online.
+
+#### Workflow with Syncthing
+
+1. After a meeting, Thomas copies ATEM SSD files to the shared `D:\Recordings\` folder.
+2. Syncthing detects new files and begins transferring to Isak's Mac.
+3. Isak gets a notification when sync is complete.
+4. Isak edits locally in DaVinci Resolve on his own machine.
+5. Optional: Isak puts the finished export in a "Finished" subfolder that syncs back to Thomas.
+
+### Option C: OBS Remote Control (Live Meeting Only)
+
+Control Thomas's OBS during a meeting without full desktop access. Lightweight — uses OBS's built-in WebSocket server.
+
+#### Thomas Setup (One-Time)
+
+1. In OBS: Tools → WebSocket Server Settings.
+2. Enable WebSocket Server: **On**.
+3. Server Port: **4455** (default).
+4. Set a password.
+5. If Thomas's router allows port forwarding: forward port 4455 to his PC's local IP. (If not, use Parsec or a Zoom screen share as fallback.)
+
+#### Isak Control
+
+1. Open a web-based OBS controller in your browser — e.g., **obs-web** (github.com/obsproject/obs-web) or **Streamer.bot** web UI.
+2. Enter Thomas's public IP + port 4455 + password.
+3. You can: start/stop recording, switch scenes, monitor audio levels, toggle sources — all from your browser during the Zoom call.
+
+### Recommendation
+
+| Need | Use |
+|------|-----|
+| Edit ATEM ISOs in Resolve remotely | **Parsec** — edit on Thomas's hardware |
+| Auto-transfer raw files to your Mac | **Syncthing** — set and forget |
+| Control OBS during a live meeting | **OBS WebSocket** — browser control panel |
+| Quick one-off file transfer | **Parsec drag-and-drop** or Google Drive |
+
+**Start with Parsec** — it solves remote editing AND is already on the action list for the i9 chip fix (g13). Syncthing is a nice add-on once you want automated transfers.
+
+---
+
 ## Troubleshooting
 
 | Problem | Solution |
@@ -345,3 +461,7 @@ These Zoom settings should be configured once:
 | Audio echo in recording | Wear headphones during call. Ensure Zoom speaker output goes to headphones, not speakers |
 | MKV file won't open | Remux to MP4 in OBS (File → Remux). MKV is crash-safe but some players don't handle it |
 | Canon R50 overheats | Use dummy battery (Canon DR-E12 + AC adapter). Don't record internally on the camera — only output via HDMI/USB |
+| Parsec laggy or choppy | Lower hosting resolution to 1080p, enable H.265, check Thomas's upload speed (need 15+ Mbps) |
+| Parsec can't connect | Ensure Parsec is running on Thomas's PC (check system tray). Check firewall isn't blocking it |
+| Syncthing not syncing | Both machines must be online. Check web UI (localhost:8384) for errors. Verify shared folder paths |
+| OBS WebSocket won't connect | Verify port 4455 is forwarded on Thomas's router, or use Parsec as fallback |
