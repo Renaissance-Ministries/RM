@@ -1,7 +1,7 @@
 # Meeting Index — Master Log
 
 **Purpose:** Single place to find every meeting, every topic, every document.
-**Updated:** 2026-10-05
+**Updated:** 2026-10-08
 **Convention:** Raw transcripts stay in `meeting-notes/YYYY-MM-DD/raw/`. Edited topic chapters go to their project folder. Thomas's docs are labeled `thomas-*`.
 
 ---
@@ -17,6 +17,36 @@
 | CHS | Christos Homeschool | `meeting-notes/chs/` |
 | TRD | Trading | `meeting-notes/trading/` |
 | GEN | General / cross-project | `meeting-notes/` |
+
+---
+
+## 2026-10-08
+**Participants:** Thomas, Isak
+- GEN: [Zoom Cloud Storage & Billing](2026-10-08/2026-10-08-zoom-storage-billing.md) — $10/mo charge for empty storage; Zoom support contacted; likely residual cache
+- RM: [YAML Front Matter & Transforming America](2026-10-08/2026-10-08-yaml-frontmatter-transforming-america.md) — front matter overwritten by open editor; merged back; moved article to President site; notification protocol agreed
+- GEN: [Royal Jelly Photos & Website](2026-10-08/2026-10-08-royal-jelly-photos-website.md) — ~15 Dropbox photos received; post then subdomain on NatureDocs
+- PRES: [Presidential Initiative Mind Map](2026-10-08/2026-10-08-presidential-mind-map.md) — mind map / progress tracker / PERT-Gantt for presidential platform; progress bars per topic
+- GEN: [New Repos & Site Deduplication](2026-10-08/2026-10-08-repos-and-site-deduplication.md) — NatureDocs/MyCounselor/TheoryOfAbsolutes repos confirmed; ToA vs President dedup; single-source-of-truth principle
+- RM: [CPP Articles Migration from Renaissance](2026-10-08/2026-10-08-cpp-articles-migration.md) — physics articles export to GitHub archive; verification scan before WP deletion
+- TRD: [Trading Recap](2026-10-08/2026-10-08-trading-recap.md) — ~$500 win; discipline discussion
+- GEN: [Meeting Summary](2026-10-08/2026-10-08-meeting-summary.md) — full summary with action items
+
+---
+
+## 2026-10-07
+**Participants:** Thomas, Isak
+- TRD: Trading recap — SPY 0DTE calls, ~$145 loss, rules-based trading discussion
+- PRES: [Meeting Transcript & Summary](2026-10-07/2026-10-07-meeting-transcript.md) — President repo YAML verification, campaign declaration ("coming out" moment), July 4 2027 timeline, FEC $5K threshold research, Joelle supportive
+- RM: CPP articles — move password-protected physics posts from RM to CPP repo archive folder, delete from WP after backup
+- GEN: New repos needed — NatureDocs, MyCounselor, TheoryOfAbsolutes
+- GEN: Theory of Absolutes vs President site deduplication — 146 duplicates found, deep comparison in progress
+- GEN: NatureDocs access obtained — Royal Jelly for Burns page planned (informational, not commercial)
+- GEN: Zoom cloud recordings — download all (~40 GB), run Otter, cancel $10/mo subscription
+- IDM: DME percentage research — call suppliers re: cuts on private insurance claims
+- GEN: Recording protocol — Canon R50, ATEM Mini Pro ISO, OBS/DaVinci workflow, lossless recording, Elgato teleprompter purchased ($242)
+- GEN: Intel i9-14900K chip defect — Parsec remote access needed, BIOS microcode fix attempt
+- GEN: Mika assistant role — deferred until infrastructure ready
+- CEA: Thorium reactor energy vision — detailed economic platform discussion (universal living wage, vertical agriculture, desalination, mass housing)
 
 ---
 
