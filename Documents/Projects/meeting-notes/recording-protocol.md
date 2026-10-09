@@ -1,7 +1,7 @@
 # Recording Protocol — Zoom Meetings & Article Sessions
 
 **Last updated:** 9 October 2026
-**Purpose:** Step-by-step technical guide for recording Thomas/Isak Zoom meetings at higher quality than Zoom's built-in recording. Covers OBS setup, ATEM ISO recording, audio routing, and post-production.
+**Purpose:** Step-by-step technical guide for producing high-quality video from Thomas/Isak Zoom meetings. Each person records their own camera locally at full quality. Zoom is only the communication layer — never the recording source. The two local recordings are synced and combined in post-production.
 
 ---
 
@@ -11,8 +11,8 @@
 
 | Item | Model | Connection | Notes |
 |------|-------|------------|-------|
-| Camera (primary) | Canon R50 (mirrorless, APS-C) | USB-C (webcam utility) or micro-HDMI (clean output) | Dummy battery on order — needed for sessions >30 min |
-| Camera (backup) | Canon T8i (DSLR) | USB (webcam utility) or mini-HDMI | Different HDMI cable than R50 |
+| Camera (primary) | Canon R50 (mirrorless, APS-C) | micro-HDMI → ATEM (recording), USB-C → computer (Zoom only) | Dummy battery on order — needed for sessions >30 min. **Always use HDMI for recording — never Webcam Utility (720p compressed).** |
+| Camera (backup) | Canon T8i (DSLR) | mini-HDMI → ATEM Input 2 | Different HDMI cable than R50. Second angle. |
 | Switcher/recorder | ATEM Mini Pro ISO | 4× HDMI in, USB-C (drive OR webcam), HDMI out | Cannot use USB for drive recording AND webcam simultaneously |
 | Audio interface | Focusrite Scarlett | USB | Connect mic here for best audio quality |
 | Teleprompter | Elgato 15" + 9" | Sits in front of camera lens | Beam splitter — read while looking at camera |
@@ -30,29 +30,113 @@
 
 ---
 
-## Recording Architecture
+## Recording Architecture — Dual Local Recording
 
-### Why Not Just Zoom's Recording?
+### The Core Principle
 
-Zoom compresses video heavily (~1-2 GB/hr at 1080p). For article recordings that become polished content, we want:
-- Full 1080p at high bitrate (~6-10 GB/hr)
-- Separate audio tracks (each person isolated for post-processing)
-- Multiple camera angles recorded independently
-- Crash-safe file format (MKV, not MP4)
+**Zoom is the telephone, not the camera.** Zoom video is heavily compressed (~1-2 Mbps, artifacts, resolution drops). It's fine for live conversation but unusable for polished video content.
+
+Instead: **each person records their own camera locally at full quality.** The two high-quality local recordings are synced and combined in post-production. The final video has broadcast-quality footage of both participants — no Zoom compression anywhere in the final product.
 
 ### What Records What
 
 | System | What it captures | Quality | Purpose |
 |--------|-----------------|---------|---------|
-| **OBS** (both stations) | Local camera + remote Zoom video + separate audio tracks | High (CRF 18-20, 1080p) | Primary recording |
-| **ATEM Mini Pro ISO** (Thomas only) | Each HDMI input as separate file + switched program | High (H.264, ~35 Mbps) | Multi-angle ISO recording |
-| **Zoom local recording** (both) | Combined call | Low-medium | Backup / quick reference |
+| **OBS** (both stations) | **Own camera only** + own mic (local, full quality) | High (CRF 16, 1080p, ~10-15 GB/hr) | **Primary recording — this is the final product source** |
+| **ATEM Mini Pro ISO** (Thomas only) | Each HDMI camera input as separate file | High (H.264, ~35 Mbps, 1080p) | Multi-angle ISO recording (redundant to OBS, higher bitrate) |
+| **Zoom local recording** (both) | Combined call (both sides, compressed) | Low-medium | Backup / sync reference only — never used in final edit |
+
+### Why This Works
+
+- Thomas's face: recorded by Thomas's ATEM (via HDMI, 1080p, ~35 Mbps) AND Thomas's OBS (full quality)
+- Isak's face: recorded by Isak's OBS (full quality, 1080p)
+- Both audio tracks: recorded locally through each person's mic, separate OBS tracks
+- Zoom carries the conversation but contributes nothing to the final video
+- In post: sync the two local recordings by audio waveform (3-second clap at start), combine into a polished two-person video
+
+### Quality Hierarchy
+
+The biggest factors in video quality, in order:
+
+1. **Lighting** — A $500 camera with good lighting beats a $5,000 camera in a dark room
+2. **Audio** — Viewers tolerate mediocre video but leave immediately for bad audio
+3. **Lens/glass** — Determines sharpness, depth of field, color
+4. **Sensor/camera** — Resolution, low-light performance, dynamic range
+5. **Recording settings** — Bitrate, codec, format (assuming you're recording locally, this is the easy part)
+6. **Framing/composition** — Rule of thirds, eye-level camera, clean background
 
 ---
 
-## Setup A: Standard Zoom Meeting Recording (Both Stations)
+## Production Quality Guide
 
-This is the everyday setup for recording article discussions and meetings.
+### Lighting (Most Important)
+
+Good lighting is the single biggest quality upgrade. A $200 light setup transforms the image more than a $3,000 camera upgrade.
+
+#### Minimum Setup (~$150-300)
+
+- **1 key light:** LED panel or softbox, positioned 45° to the side at eye level or slightly above. This is the main light on your face. A large, diffused source (softbox, umbrella, or panel with diffusion) eliminates harsh shadows.
+- **1 fill light or bounce:** Either a second, dimmer light on the opposite side, or a white foam board / reflector to bounce the key light. This fills in shadows without creating a second set of shadows.
+- **No overhead room lights.** Ceiling lights cast downward shadows under the eyes and nose ("raccoon eyes"). Turn them off and use only your key/fill.
+
+#### Upgrade Setup (~$500)
+
+- Key light + fill light + backlight (hair light). The backlight separates you from the background and adds depth.
+- Color temperature: All lights should match — either all daylight (5600K) or all tungsten (3200K). Mixed color temperatures look amateur.
+- If using green screen: light the green screen separately and evenly. Shadows on the green screen cause bad keying.
+
+#### Quick Fixes If You Have No Lights
+
+- Face a window. Natural window light is soft and flattering. The window is your key light.
+- Put a white sheet of paper or foam board on the opposite side of the window to bounce fill.
+- Never sit with a window behind you — that makes you a silhouette.
+
+### Audio (Second Most Important)
+
+Viewers tolerate mediocre video but leave for bad audio within seconds.
+
+#### Thomas
+
+- **Focusrite Scarlett + a condenser or dynamic mic** is the correct setup. This is already miles ahead of a camera-mounted or built-in mic.
+- Mic placement: 6-12 inches from mouth, slightly off-axis (not directly in front — reduces plosives).
+- Room treatment: If the room echoes, hang blankets or heavy curtains on the walls behind and beside the mic. Even a few blankets make a dramatic difference.
+- Pop filter: A $10 pop filter or foam windscreen eliminates plosive bursts on P/B sounds.
+
+#### Isak
+
+- **Minimum:** A decent USB mic (Audio-Technica AT2020 USB, Blue Yeti, or similar). Not the built-in MacBook mic — it picks up fan noise, keyboard, and room echo.
+- **Better:** An audio interface (Focusrite Scarlett Solo, ~$80) + a condenser mic (AT2020, ~$100). XLR connection, cleaner signal, proper gain control.
+- Same room treatment advice applies.
+
+#### Audio Settings in OBS
+
+- Monitor levels: peaks at **-12 dB to -6 dB**. Never hitting 0 dB (clipping).
+- OBS Filters (right-click mic source → Filters):
+  - **Noise Gate:** Close threshold -32 dB, Open threshold -26 dB. Cuts background noise when you're not speaking.
+  - **Compressor:** Ratio 3:1, Threshold -18 dB. Evens out loud/quiet moments.
+  - **Noise Suppression:** RNNoise (built into OBS). Removes constant background hum/fan noise.
+- Turn off Zoom's "Automatically adjust microphone volume" — you want manual control.
+
+### Framing & Composition
+
+- **Camera at eye level.** Not looking up from a laptop angle (unflattering, up-the-nose shot). Stack the laptop on books, or use an external camera on a tripod at eye level.
+- **Rule of thirds:** Your eyes should be roughly on the top third line of the frame, not dead center.
+- **Headroom:** Small gap between the top of your head and the top of frame. Not too much (floating head), not too little (cropped forehead).
+- **Background:** Clean and uncluttered. Green screen with composited background, or a real background that's intentional (bookshelf, office). Avoid visible clutter, open doors, bright windows behind you.
+- **Tight framing for teleprompter:** Head and shoulders. Not a wide shot showing the desk. Viewers connect with faces.
+
+### Green Screen (Thomas)
+
+- Light the green screen **separately** from yourself. Two small lights angled at the screen from each side, creating even coverage with no hot spots or shadows.
+- Stand/sit at least 3-4 feet away from the green screen to avoid green spill on your skin/clothes.
+- Don't wear green.
+- In OBS: Add a Chroma Key filter to the camera source (right-click → Filters → Chroma Key). Adjust Similarity and Smoothness until the edges look clean.
+
+---
+
+## Setup: Dual Local Recording (Both Stations)
+
+**Zoom is only the telephone.** Each person records their own camera locally. The two recordings are combined in post.
 
 ### Isak's Setup (macOS + OBS)
 
@@ -60,13 +144,13 @@ This is the everyday setup for recording article discussions and meetings.
 
 1. **Install required software:**
    - OBS Studio (free, obsproject.com)
-   - BlackHole (free virtual audio driver — github.com/ExistentialAudio/BlackHole) — needed on macOS to capture Zoom's audio in OBS
+   - BlackHole 2ch (free virtual audio driver — github.com/ExistentialAudio/BlackHole) — needed on macOS to capture Zoom's audio for the backup/reference track
 
 2. **Set up BlackHole audio routing (one-time):**
    - Open **Audio MIDI Setup** (Applications → Utilities)
    - Click "+" → Create Multi-Output Device
    - Check both your headphones/speakers AND "BlackHole 2ch"
-   - Set this Multi-Output Device as your system output (System Preferences → Sound → Output)
+   - Set this Multi-Output Device as your system output (System Settings → Sound → Output)
    - This sends audio to your ears AND to BlackHole simultaneously
 
 3. **Configure OBS settings:**
@@ -74,8 +158,8 @@ This is the everyday setup for recording article discussions and meetings.
    - Recording tab:
      - Recording Format: **MKV** (crash-safe — remux to MP4 after)
      - Encoder: **Apple VideoToolbox H.264** (hardware-accelerated)
-     - Rate Control: leave default or set CBR ~20,000 Kbps
-     - Audio Tracks: check **1, 2, 3**
+     - Rate Control: **CRF 16** (high quality — visually lossless for talking-head content)
+     - Audio Tracks: check **1, 2**
    - Settings → Video:
      - Base Resolution: 1920×1080
      - Output Resolution: 1920×1080
@@ -83,131 +167,127 @@ This is the everyday setup for recording article discussions and meetings.
    - Settings → Audio:
      - Sample Rate: 48 kHz
 
-4. **Add OBS sources (save as a Scene called "Zoom Meeting"):**
-   - **Source 1 — "My Camera":** Video Capture Device → select your webcam
-   - **Source 2 — "Zoom Remote":** Window Capture → select the Zoom window (pin Thomas's video in Zoom first, or pop it out to its own window for a clean capture)
-   - **Source 3 — "My Mic":** Audio Input Capture → select your USB mic
-   - **Source 4 — "Zoom Audio":** Audio Input Capture → select "BlackHole 2ch"
-   - Arrange sources on the canvas however you want (side by side, picture-in-picture, etc.)
+4. **Create OBS Scene — "My Camera Only":**
+   - **Source 1 — "My Camera":** Video Capture Device → select your webcam. **Make this fill the entire canvas (1920×1080).** This is the only video source — no Zoom window capture.
+   - **Source 2 — "My Mic":** Audio Input Capture → select your USB mic
+   - **Source 3 — "Zoom Audio (reference)":** Audio Input Capture → select "BlackHole 2ch" — this captures Thomas's voice as a reference track for syncing in post, but it will NOT be used in the final video's audio
 
 5. **Set up audio tracks (Advanced Audio Properties):**
    - In the Audio Mixer, click the gear icon → Advanced Audio Properties
-   - **My Mic:** Track 1 ✓, Track 2 ✓, Track 3 ✗
-   - **Zoom Audio:** Track 1 ✓, Track 2 ✗, Track 3 ✓
-   - Track 1 = mixed audio (both), Track 2 = your mic only, Track 3 = Zoom/Thomas only
+   - **My Mic:** Track 1 ✓, Track 2 ✗ — your voice, high quality, locally recorded
+   - **Zoom Audio:** Track 1 ✗, Track 2 ✓ — Thomas's voice (Zoom-compressed), reference/sync only
+   - Track 1 = your clean local mic. Track 2 = Zoom reference for syncing.
 
 6. **Set up OBS Virtual Camera for Zoom:**
-   - In OBS, your camera source feeds both OBS recording and Zoom
    - Click **Start Virtual Camera** in OBS
    - In Zoom → Settings → Video → select **"OBS Virtual Camera"**
-   - This sends your camera to Zoom through OBS
+   - This sends your camera to Zoom for the live conversation
+
+7. **Add OBS Filters to mic source** (right-click "My Mic" → Filters):
+   - Noise Suppression (RNNoise)
+   - Noise Gate (Close: -32 dB, Open: -26 dB)
+   - Compressor (Ratio: 3:1, Threshold: -18 dB)
 
 #### Per-Session Steps
 
-1. Open OBS. Verify the "Zoom Meeting" scene is loaded.
-2. Check all sources are active (camera preview showing, audio meters moving).
-3. **Start OBS recording** (click "Start Recording").
-4. Open Zoom, join the meeting.
-5. In Zoom: verify video source is "OBS Virtual Camera" and audio input is your mic.
-6. **Also start Zoom local recording** (Record → Record on This Computer) as backup.
-7. Do a **3-second countdown clap** at the start — this creates an audio spike for syncing in post.
-8. Conduct the meeting.
-9. When done: Stop Zoom recording first, then stop OBS recording.
-10. **Remux the MKV:** In OBS → File → Remux Recordings → select the .mkv → Remux. Creates an .mp4 in seconds, no quality loss.
-11. Verify all files are intact before closing anything.
+1. Set up lighting (key light on, room lights off).
+2. Open OBS. Verify "My Camera Only" scene is loaded.
+3. Check: camera preview fills the canvas at 1080p, audio meters moving when you speak.
+4. **Start OBS recording.**
+5. Open Zoom, join the meeting.
+6. In Zoom: verify video is "OBS Virtual Camera," mic is your USB mic.
+7. **Start Zoom local recording** (Record → Record on This Computer) as backup/reference.
+8. **3-second countdown clap** for sync — both Thomas and Isak clap simultaneously.
+9. Conduct the meeting.
+10. Stop Zoom recording, then stop OBS recording.
+11. **Remux MKV:** OBS → File → Remux Recordings → select .mkv → Remux.
+12. Verify file is playable.
+13. **Send your OBS file to Thomas** (via Syncthing, Google Drive, or Parsec file transfer) for post-production. Only Track 1 (your mic) will be used in the final edit.
+
+**What you get:** A single 1080p MKV of your face + your clean local audio. This is your half of the final video.
 
 ---
 
 ### Thomas's Setup (Windows + OBS + ATEM)
 
-Thomas has two configuration options depending on whether the ATEM is used for recording.
+#### Signal Flow
 
-#### Option 1: ATEM Records ISOs, Camera Goes Direct to Zoom (Recommended)
-
-This is the simplest high-quality setup. The ATEM handles multi-angle recording while the Canon feeds Zoom directly.
-
-**Signal flow:**
 ```
-Canon R50 ──HDMI──→ ATEM Input 1 ──records ISO to SSD
-                                  ──HDMI Out──→ (monitor, optional)
+Canon R50 ──micro-HDMI──→ ATEM Input 1 ──records ISO to SSD (1080p, ~35 Mbps)
+(Canon T8i ──mini-HDMI──→ ATEM Input 2, if second angle desired)
 
-Canon R50 ──USB-C──→ Computer (via Canon Webcam Utility)
-                         │
-                         ├──→ Zoom (as camera source)
-                         └──→ OBS (as video source, for composite recording)
+                          ATEM USB-C ──→ SSD (ExFAT, Samsung T7 or similar)
 
-Focusrite Scarlett ──USB──→ Computer
-                              ├──→ OBS Audio Track 2 (mic only)
-                              └──→ Zoom (as mic source)
+Canon R50 ──USB-C──→ Computer (Canon Webcam Utility — 720p)
+                         └──→ Zoom ONLY (for live conversation — NOT for recording)
 
-Zoom desktop audio ──→ OBS Audio Track 3 (remote participant)
+Focusrite Scarlett + mic ──USB──→ Computer
+                                    ├──→ OBS Audio Track 1 (local mic, high quality)
+                                    └──→ Zoom (mic source for conversation)
+
+Zoom desktop audio ──→ OBS Audio Track 2 (Isak's voice, reference/sync only)
 ```
 
-**One-time setup:**
+**Key point:** The Canon Webcam Utility (720p, compressed) is ONLY used for Zoom — so Isak can see Thomas during the conversation. The actual recording comes from the HDMI clean output (1080p, uncompressed) going to the ATEM. **Never use the Webcam Utility feed for the final video.**
 
-1. **Install Canon EOS Webcam Utility** (free from Canon — supports R50 on Windows).
-2. Connect Canon R50 via **both** micro-HDMI (to ATEM Input 1) and USB-C (to computer for Webcam Utility). The R50 can output on both simultaneously.
+#### One-Time Setup
+
+1. **Install Canon EOS Webcam Utility** (free from Canon).
+2. Connect Canon R50 via **both:**
+   - micro-HDMI → ATEM Input 1 (for high-quality recording)
+   - USB-C → computer (for Webcam Utility → Zoom only)
 3. **ATEM setup:**
-   - Connect a fast USB-C SSD (Samsung T7 or similar, ExFAT formatted) to the ATEM's USB-C port.
-   - In ATEM Software Control → Recording palette → verify drive is recognized.
-   - Set project video standard to 1080p 29.97.
-4. **OBS setup** (same as Isak's, with Windows differences):
-   - Encoder: **NVENC H.264** (if NVIDIA GPU) or **x264** with "veryfast" preset
-   - On Windows, OBS captures desktop audio natively — no BlackHole needed
-   - Add sources: "Canon Webcam" as video, Focusrite as mic, Desktop Audio for Zoom's sound
-   - Set up audio tracks same as Isak (Track 1 = mix, Track 2 = local mic, Track 3 = Zoom audio)
-5. **Zoom:** Settings → Video → select "Canon Webcam." Audio → select Focusrite Scarlett.
+   - Connect fast USB-C SSD (Samsung T7 or similar, ExFAT) to ATEM USB-C port.
+   - ATEM Software Control → Recording palette → verify drive recognized.
+   - Project video standard: **1080p 29.97**.
+4. **OBS setup:**
+   - Settings → Output → Advanced → Recording Format: **MKV**
+   - Encoder: **NVENC H.264** (NVIDIA GPU) or **x264** "veryfast" preset
+   - Rate Control: **CRF 16**
+   - Audio Tracks: check **1, 2**
+   - Video: 1920×1080, 30 FPS
+   - Audio: 48 kHz
+5. **OBS Scene — "My Camera Only":**
+   - If Thomas has a capture card (e.g., Elgato Cam Link): ATEM HDMI Out → capture card → OBS Video Capture Device. This gives OBS the same 1080p HDMI feed as the ATEM for a redundant local recording.
+   - If no capture card: OBS records Canon Webcam Utility feed as a lower-quality backup. The ATEM ISOs on SSD are the primary high-quality recording.
+   - Audio: Focusrite Scarlett on Track 1, Desktop Audio (Zoom/Isak) on Track 2 (reference only).
+6. **OBS Filters on Focusrite mic source:**
+   - Noise Suppression (RNNoise)
+   - Noise Gate (Close: -32 dB, Open: -26 dB)
+   - Compressor (Ratio: 3:1, Threshold: -18 dB)
+7. **Zoom:** Video → "Canon Webcam" (720p, for conversation only). Audio → Focusrite Scarlett.
 
-**Per-session steps:**
+#### Per-Session Steps
 
-1. Power on Canon R50 (use dummy battery for long sessions).
-2. Open ATEM Software Control. Verify SSD is connected and has space.
-3. **Press REC on the ATEM** — starts ISO recording to SSD.
-4. Open OBS. Verify sources. **Start OBS recording.**
-5. Join Zoom. Start Zoom local recording as backup.
-6. **3-second countdown clap** for sync.
-7. Conduct meeting.
-8. Stop Zoom → Stop OBS → Stop ATEM (press REC again).
-9. Remux OBS MKV → MP4.
-10. Verify all files.
+1. Set up lighting (key light, fill, green screen lights if using).
+2. Power on Canon R50 (dummy battery for sessions >30 min).
+3. Open ATEM Software Control. Verify SSD connected and has space.
+4. **Press REC on the ATEM** — ISO recording starts.
+5. Open OBS. Verify scene. **Start OBS recording.**
+6. Join Zoom. Verify camera is "Canon Webcam," mic is Focusrite.
+7. **Start Zoom local recording** as backup.
+8. **3-second countdown clap** — both participants clap simultaneously.
+9. Conduct meeting.
+10. Stop Zoom → Stop OBS → Stop ATEM.
+11. Remux OBS MKV → MP4.
+12. Verify all files.
 
 **What you get:**
-- ATEM SSD: Camera 1 ISO (.mp4) + program output (.mp4) + DaVinci Resolve project file (.drp)
-- OBS: Composite MKV with 3 audio tracks
-- Zoom: Backup recording
+- **ATEM SSD:** Camera 1 ISO (1080p, ~35 Mbps H.264) + program output + DaVinci Resolve project file (.drp). **This is the primary high-quality recording of Thomas.**
+- **OBS:** Backup MKV with local audio tracks.
+- **Zoom:** Low-quality backup/reference.
 
-#### Option 2: ATEM as Webcam for Zoom (No ISO Recording)
+#### Multi-Camera Option (When Available)
 
-Use this if the SSD isn't available or you only need one camera angle recorded.
-
-**Signal flow:**
 ```
-Canon R50 ──HDMI──→ ATEM Input 1
-                         │
-                         └──USB-C──→ Computer (ATEM acts as webcam)
-                                        │
-                                        ├──→ Zoom (as camera)
-                                        └──→ OBS (as video source)
-```
-
-- ATEM's USB-C port acts as a webcam — Zoom and OBS see "Blackmagic Design" as a camera.
-- No ISO recording (USB port is occupied).
-- OBS records the composite at high quality.
-- Simpler but no separate angle files.
-
-#### Option 3: Multi-Camera (Future)
-
-When Thomas has multiple cameras:
-```
-Camera 1 ──HDMI──→ ATEM Input 1
-Camera 2 ──HDMI──→ ATEM Input 2
-Camera 3 ──HDMI──→ ATEM Input 3
+Canon R50 ──HDMI──→ ATEM Input 1 (tight/medium shot)
+Canon T8i ──HDMI──→ ATEM Input 2 (wide shot or alternate angle)
                          │
                     ATEM records all ISOs to SSD
-                    ATEM HDMI Out → capture card → Zoom/OBS
+                    Each camera = separate file, synced, switchable in Resolve
 ```
 
-Each camera gets its own ISO file. Switch angles in DaVinci Resolve in post using the auto-generated .drp project file.
+The ATEM auto-generates a `.drp` project file with all ISOs on a multicam timeline. Open in DaVinci Resolve and switch angles in post as if you were live-switching.
 
 ---
 
@@ -220,60 +300,105 @@ Each camera gets its own ISO file. Switch angles in DaVinci Resolve in post usin
 | Encoder (Mac) | Apple VideoToolbox H.264 | Hardware-accelerated, low CPU |
 | Encoder (Windows/NVIDIA) | NVENC H.264 | Hardware-accelerated, low CPU |
 | Encoder (Windows/no GPU) | x264, "veryfast" preset | CPU-based fallback |
-| Rate Control | CRF 18-20 | 18 = near-lossless, 20 = very good. Lower = bigger files |
+| Rate Control | **CRF 16** | High quality. Visually lossless for talking-head content. ~10-15 GB/hr. |
 | Resolution | 1920×1080 | Full HD |
 | FPS | 30 | Standard for talking-head content |
 | Keyframe Interval | 2 seconds | Good for editing compatibility |
 | Audio Sample Rate | 48 kHz | Video standard |
 | Audio Bitrate | 320 kbps AAC per track | High quality |
-| Audio Tracks | 3 minimum | Track 1 = mix, Track 2 = local mic, Track 3 = remote audio |
+| Audio Tracks | 2 | Track 1 = **local mic only** (clean), Track 2 = Zoom reference (sync only) |
+
+**Why CRF 16 instead of 18-20?** For video that will be color graded, edited, and re-encoded for final delivery, starting with higher quality gives more headroom. CRF 16 is visually lossless — you cannot see the compression. The file size increase (~50% larger than CRF 20) is worth it for content meant to be polished.
 
 ---
 
 ## Audio Routing Summary
 
+In the dual local recording model, each person's clean audio is recorded locally. The remote participant's audio is captured only as a low-quality reference for syncing in post — it is never used in the final product.
+
 ### Isak (macOS)
 
-| What | How | OBS Track |
-|------|-----|-----------|
-| Your mic | USB mic → Audio Input Capture in OBS | Track 2 |
-| Thomas's voice | Zoom → system audio → BlackHole → Audio Input Capture "BlackHole 2ch" | Track 3 |
-| Mixed | Both routed to Track 1 | Track 1 |
-| Zoom hears you | USB mic selected directly in Zoom audio settings | — |
+| What | How | OBS Track | Used in final video? |
+|------|-----|-----------|---------------------|
+| **Your mic** | USB mic → Audio Input Capture in OBS | **Track 1** | **YES — this is your final audio** |
+| Thomas's voice (reference) | Zoom → BlackHole → Audio Input Capture | Track 2 | No — sync reference only |
+| Zoom hears you | USB mic selected directly in Zoom audio settings | — | — |
 
 ### Thomas (Windows)
 
-| What | How | OBS Track |
-|------|-----|-----------|
-| Your mic | Focusrite Scarlett → Audio Input Capture in OBS | Track 2 |
-| Isak's voice | Zoom → Desktop Audio (captured natively on Windows) | Track 3 |
-| Mixed | Both routed to Track 1 | Track 1 |
-| Zoom hears you | Focusrite selected in Zoom audio settings | — |
+| What | How | OBS Track | Used in final video? |
+|------|-----|-----------|---------------------|
+| **Your mic** | Focusrite Scarlett → Audio Input Capture in OBS | **Track 1** | **YES — this is your final audio** |
+| Isak's voice (reference) | Zoom → Desktop Audio (captured natively on Windows) | Track 2 | No — sync reference only |
+| Zoom hears you | Focusrite selected in Zoom audio settings | — | — |
+
+### Why This Matters
+
+In the old model, Thomas's audio on Isak's recording was Zoom-compressed (low bitrate, artifacts, network jitter). In this model, Thomas's final audio comes from Thomas's own Focusrite/mic recording — studio quality. Same for Isak's audio on Thomas's end.
 
 ---
 
 ## Post-Production in DaVinci Resolve
 
-### Importing Files
+### What You're Working With
 
-1. **OBS recordings:** Remux MKV → MP4 first (OBS → File → Remux). Import MP4 into Resolve's Media Pool.
-2. **ATEM ISO files:** Open the `.drp` file from the SSD directly in Resolve — all ISOs are pre-synced on a multicam timeline. Or import individual MP4s manually.
-3. **Zoom backup:** Import if needed for reference.
+After a session, you have:
 
-### Syncing OBS + ATEM Files
+| File | Source | Contains | Quality |
+|------|--------|----------|---------|
+| `Thomas_ATEM_Cam1.mp4` | ATEM SSD | Thomas's face (HDMI clean output) + Thomas's audio | **1080p, ~35 Mbps** — primary Thomas video |
+| `Thomas_OBS.mkv` → `.mp4` | Thomas's OBS | Thomas's face (backup) + Thomas mic (Track 1) + Isak ref (Track 2) | 1080p CRF 16 — backup video, primary audio |
+| `Isak_OBS.mkv` → `.mp4` | Isak's OBS | Isak's face + Isak mic (Track 1) + Thomas ref (Track 2) | **1080p CRF 16** — primary Isak video + audio |
+| `Zoom_backup.mp4` | Zoom | Both sides, compressed | Low — emergency backup only |
+| `.drp` project file | ATEM SSD | Pre-synced multicam timeline | — |
 
-OBS and the ATEM have no shared timecode, so sync in post:
+### Step 1: Get All Files in One Place
 
-1. **Audio waveform sync (best):** Select all clips → right-click → Auto Sync Audio → Based on Waveform. Works if both recordings captured the same audio.
-2. **Clap sync:** Find the clap spike at the start of the session on each recording's waveform. Align manually.
+Isak sends his OBS MP4 to Thomas's PC (via Syncthing, Google Drive, or Parsec drag-and-drop). Or Isak remotes into Thomas's PC via Parsec and pulls it directly.
 
-### Editing Workflow
+### Step 2: Import and Organize
 
-1. **Media page:** Organize into bins (Thomas Camera, ATEM ISOs, Isak OBS, Audio).
-2. **Edit page:** Build multicam clip if multiple angles exist (select synced clips → right-click → Create Multicam Clip → sync by Audio).
-3. **Cut between angles** in multicam mode during playback.
-4. **Fairlight page:** Mix audio tracks — EQ, compression, noise reduction per track.
-5. **Deliver page:** Export H.264 for web, ProRes for archival.
+1. Remux all MKV files to MP4 (OBS → File → Remux Recordings).
+2. Open DaVinci Resolve. Create a new project (or open the ATEM's `.drp` file as a starting point).
+3. Create bins in Media Pool:
+   - **Thomas Video** — ATEM ISO(s)
+   - **Isak Video** — Isak's OBS MP4
+   - **Audio** — Extract Track 1 from each OBS recording (each person's clean mic)
+   - **Reference** — Zoom backup (only if needed)
+
+### Step 3: Sync the Two Local Recordings
+
+The two OBS recordings and the ATEM ISOs have no shared timecode. Sync them using the 3-second clap:
+
+**Method 1 — Audio waveform sync (recommended):**
+1. Both recordings contain both voices (local clean + Zoom reference). The shared audio content lets Resolve align them automatically.
+2. Select all clips → right-click → **Auto Sync Audio → Based on Waveform.**
+3. Resolve matches the waveforms and aligns everything within a few frames.
+
+**Method 2 — Manual clap sync:**
+1. Find the clap transient at the start of each recording's waveform.
+2. Place a marker on each clap. Align the markers on the timeline.
+
+### Step 4: Build the Timeline
+
+1. **Two-person layout:** Place Thomas's ATEM ISO on Video Track 1, Isak's OBS on Video Track 2.
+2. **Audio:** Use Track 1 from Thomas's OBS (his clean Focusrite audio) on Audio Track 1. Use Track 1 from Isak's OBS (his clean mic audio) on Audio Track 2. Discard the Zoom reference tracks.
+3. **Switching:** For a conversation video, cut between the two camera angles based on who's speaking. Or use a side-by-side split-screen layout.
+4. **If Thomas has multiple ATEM ISOs** (multi-camera): use Resolve's multicam feature — right-click synced clips → Create Multicam Clip → switch angles in real-time playback on the Cut page.
+
+### Step 5: Color and Audio
+
+1. **Color page:** Grade each camera angle to match. The Canon R50 and Isak's webcam will have different color profiles, white balance, and exposure. Use Resolve's Color Match feature or manually adjust.
+2. **Fairlight page:** Per-track EQ, compression, noise reduction. Thomas's Focusrite audio will likely need less processing than Isak's USB mic.
+3. **Subtitles (optional):** Resolve can auto-generate subtitles from audio (Edit page → Timeline → Create Subtitles from Audio, or use Whisper externally).
+
+### Step 6: Export
+
+| Destination | Settings |
+|-------------|----------|
+| YouTube / web | H.264, 1080p, 15-20 Mbps CBR, AAC 320 kbps |
+| Archival master | ProRes 422 or DNxHR HQ (large but lossless for future re-edits) |
+| Quick share | H.264, 1080p, 8-10 Mbps (smaller file, still good quality) |
 
 ---
 
@@ -281,40 +406,54 @@ OBS and the ATEM have no shared timecode, so sync in post:
 
 | Source | Approx. Size/Hour |
 |--------|--------------------|
-| OBS H.264 CRF 18, 1080p30 | 6–10 GB |
-| OBS H.264 CRF 20, 1080p30 | 4–7 GB |
+| OBS H.264 CRF 16, 1080p30 | 10–15 GB |
 | ATEM ISO per input (H.264 ~35 Mbps) | 15–16 GB |
-| ATEM all 4 ISOs + program | 75–80 GB |
+| ATEM 2 ISOs + program | 45–48 GB |
 | Zoom local recording (1080p) | 1–2 GB |
+| Final export H.264 web (15 Mbps) | ~7 GB |
+| Final export ProRes 422 archival | 40–60 GB |
 
-**Typical 2-hour session (Thomas: 1 ATEM input + OBS + Zoom backup):** ~50–60 GB
-**Typical 2-hour session (Isak: OBS + Zoom backup):** ~15–25 GB
+**Typical 2-hour session:**
+- **Thomas (1 ATEM ISO + OBS + Zoom):** ~55–65 GB
+- **Isak (OBS + Zoom):** ~22–32 GB
+- **Transfer to combine:** Isak sends ~22-32 GB to Thomas (or edits remotely via Parsec)
 
 ---
 
 ## Pre-Session Checklist
 
-### Both Stations
+### Environment (Both Stations)
 
-- [ ] Verify storage space (check OBS recording path + ATEM SSD if applicable)
-- [ ] Open OBS, confirm "Zoom Meeting" scene is loaded
-- [ ] Verify camera preview is showing in OBS
-- [ ] Verify audio meters are moving when you speak
-- [ ] Start OBS recording BEFORE joining Zoom
-- [ ] Start ATEM recording BEFORE joining Zoom (Thomas only)
+- [ ] **Lighting on** — key light positioned, room lights OFF
+- [ ] **Camera at eye level** — not laptop angle
+- [ ] **Background clean** — green screen lit evenly (Thomas), or tidy background (Isak)
+- [ ] **Headphones on** — prevents echo in recording
+- [ ] **Quiet environment** — close windows, silence phone, shut door
+- [ ] **Dummy battery connected** (Thomas — Canon R50, sessions >30 min)
+
+### Technical (Both Stations)
+
+- [ ] Verify storage space (check OBS recording path + ATEM SSD)
+- [ ] Open OBS, confirm **"My Camera Only"** scene is loaded
+- [ ] Verify camera preview fills the canvas at 1080p
+- [ ] Verify audio meters are moving when you speak (peaks -12 to -6 dB)
+- [ ] Check OBS recording settings: MKV, CRF 16, 1080p, 30 FPS
+- [ ] **Start ATEM recording** BEFORE joining Zoom (Thomas only)
+- [ ] **Start OBS recording** BEFORE joining Zoom
 - [ ] Join Zoom, verify camera and mic sources are correct
-- [ ] Start Zoom local recording (Record → Record on This Computer)
-- [ ] 3-second countdown clap for sync reference
-- [ ] Confirm Thomas and Isak can see and hear each other
+- [ ] Start Zoom local recording (Record → Record on This Computer) as backup
+- [ ] **3-second countdown clap** — both participants clap simultaneously for sync
+- [ ] Confirm both can see and hear each other
 
 ### Post-Session
 
 - [ ] Stop Zoom recording
 - [ ] Stop OBS recording
 - [ ] Stop ATEM recording (Thomas)
-- [ ] Remux OBS MKV → MP4 (File → Remux Recordings)
+- [ ] Remux OBS MKV → MP4 (OBS → File → Remux Recordings)
 - [ ] Verify all files exist and are playable
 - [ ] Copy ATEM SSD files to archive drive (Thomas)
+- [ ] **Isak: send OBS MP4 to Thomas** (Syncthing, Drive, or Parsec)
 - [ ] Note session date/time and file locations
 
 ---
