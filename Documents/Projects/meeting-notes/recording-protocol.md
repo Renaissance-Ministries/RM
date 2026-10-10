@@ -291,6 +291,101 @@ The ATEM auto-generates a `.drp` project file with all ISOs on a multicam timeli
 
 ---
 
+## Guest Recording — NDI Capture via Zoom Business
+
+When guests join a Zoom meeting (fellowship members, Joelle, collaborators, interviewees), they won't have an OBS setup. Their video comes through Zoom. To get the cleanest possible capture of their feed, use Zoom's NDI output — it sends each participant as a separate, isolated video stream directly to OBS on Isak's machine.
+
+**The guest does nothing special.** They join Zoom normally. All the capture happens on Isak's end.
+
+### Requirements (Isak's Machine Only)
+
+| Requirement | Details |
+|-------------|---------|
+| Zoom plan | **Business** or higher (NDI is not available on Free or Pro) |
+| Zoom version | 6.0+ |
+| Zoom setting | Settings → General → ✓ "Use NDI for broadcasting" (may need admin to enable in web portal first) |
+| OBS plugin | **obs-ndi** — install from github.com/obs-ndi/obs-ndi (includes NDI runtime) |
+
+### One-Time Setup
+
+1. **Upgrade Zoom to Business** (zoom.us → account → billing).
+2. **Enable NDI in Zoom admin portal:**
+   - Sign in at zoom.us → Settings → In Meeting (Advanced) → "Allow use of NDI for broadcasting" → **On**
+   - This is an account-level setting, not per-meeting.
+3. **Install obs-ndi plugin:**
+   - Download from github.com/obs-ndi/obs-ndi/releases
+   - Install (includes the NDI runtime library)
+   - Restart OBS
+
+### Per-Session Setup (Guest Meetings)
+
+1. Start the Zoom meeting.
+2. **Enable NDI broadcasting in the meeting:** Click "..." (More) at the bottom of the Zoom window → select **"Allow NDI Broadcasting"** (or it may auto-enable based on your settings).
+3. In OBS, create a new Scene called **"Guest Meeting":**
+
+   **Sources:**
+   - **"My Camera"** — Video Capture Device → your webcam (local, high quality — same as always)
+   - **"Thomas NDI"** — NDI Source → select "ZOOM - Thomas Abshier" (each Zoom participant appears as a named NDI source)
+   - **"Guest NDI"** — NDI Source → select "ZOOM - [Guest Name]"
+   - **"My Mic"** — Audio Input Capture → your USB mic
+   - Add additional NDI sources for each guest
+
+4. **Layout the sources on the canvas:**
+   - Your camera: full 1080p, positioned however you want
+   - NDI feeds: sized and positioned as needed (side by side, grid, picture-in-picture)
+   - Each NDI source can be individually cropped, scaled, and color-corrected
+
+5. **Audio routing:**
+   - Track 1: Your mic (clean, local)
+   - Track 2: NDI audio from each guest (comes embedded in the NDI stream — each NDI source carries its own audio, which you can separate in Advanced Audio Properties)
+   - Note: NDI audio from Zoom is still Zoom-compressed, but it's isolated per participant — much better for post-processing than a single mixed Zoom audio track
+
+6. **Record in OBS** with the Source Record plugin (or record the composite). Each NDI source can also be recorded as its own file using Source Record filters.
+
+### What NDI Gives You vs. Regular Zoom Capture
+
+| | Window Capture (old method) | NDI Capture |
+|---|---|---|
+| Video quality | Zoom-compressed, same | Zoom-compressed, same |
+| Isolation | One big window — all participants mixed | **Each participant is a separate source** |
+| UI chrome | Zoom name tags, borders, reactions visible | **Clean video only — no UI** |
+| Audio | One mixed audio track | **Separate audio per participant** |
+| Scaling/cropping | Awkward — depends on Zoom window layout | **Full control per source** |
+| Color correction | Applied to entire window | **Per-participant in Resolve** |
+
+**The video resolution is still limited by what Zoom transmits** (typically 720p, up to 1080p on Business plan with good bandwidth). NDI doesn't magically make it sharper — but it gives you a clean, isolated, UI-free feed that you can work with professionally in post.
+
+### Guest Quality Tiers
+
+| Tier | Guest does... | Video quality | When to use |
+|------|--------------|---------------|-------------|
+| **Tier 1 — Local OBS** | Records locally in OBS, sends file after | Full 1080p, studio quality | Repeat guests, team members (Thomas, Joelle) |
+| **Tier 2 — NDI** | Nothing — just joins Zoom | 720p-1080p, clean isolated feed | Most guests — default approach |
+| **Tier 3 — Zoom backup** | Nothing — just joins Zoom | 720p-1080p, mixed with UI | Emergency fallback if NDI fails |
+
+### Guest Instruction Sheet (Tier 1 — For Repeat Guests)
+
+Send this to guests who will appear multiple times and are willing to record locally:
+
+> **Quick Recording Setup (5 minutes)**
+>
+> To help us get the best video quality, please record your camera locally during our Zoom call:
+>
+> 1. Download OBS Studio (free): obsproject.com
+> 2. Open OBS. You'll see a black canvas.
+> 3. Click "+" under Sources → Video Capture Device → select your webcam. It should fill the screen.
+> 4. Click "+" under Sources → Audio Input Capture → select your microphone.
+> 5. Settings → Output → Recording Format: MKV. Everything else can stay default.
+> 6. Click **"Start Recording"** before joining the Zoom call.
+> 7. Join Zoom normally — use your regular camera and mic in Zoom (OBS records separately in the background).
+> 8. At the start of the call, we'll do a **3-second countdown clap** together — please clap along. This helps us sync the recordings in editing.
+> 9. When the call ends, click **"Stop Recording"** in OBS.
+> 10. Send us the file: OBS → File → Remux Recordings (converts to MP4). Then share via Google Drive, Dropbox, or email.
+>
+> That's it! The file will be ~5-10 GB per hour. If you have any trouble, don't worry — we have a backup recording on our end.
+
+---
+
 ## OBS Recording Settings (Both Stations)
 
 | Setting | Value | Why |
