@@ -1,7 +1,7 @@
 # Meeting Index — Master Log
 
 **Purpose:** Single place to find every meeting, every topic, every document.
-**Updated:** 2026-10-08
+**Updated:** 2026-10-12
 **Convention:** Raw transcripts stay in `meeting-notes/YYYY-MM-DD/raw/`. Edited topic chapters go to their project folder. Thomas's docs are labeled `thomas-*`.
 
 ---
@@ -17,6 +17,41 @@
 | CHS | Christos Homeschool | `meeting-notes/chs/` |
 | TRD | Trading | `meeting-notes/trading/` |
 | GEN | General / cross-project | `meeting-notes/` |
+
+---
+
+## 2026-10-12
+**Participants:** Thomas, Isak, Joelle (~80 min)
+- CPP: Philosophy discussion — mind maps per essay, reductionism ("everywhere you look, you will find God"), photon/bush observation, conscious entities & identity
+- IDM: Delta Manufacturing (Tecate, Mexico) — willing to do small run of 10; waiting on cost estimate; sample shipment next
+- IDM: Financing — Great America encouraging ("I think this could work"); most others want 2 yrs history; hold application until photos ready
+- IDM: New contact — Boise woman owns 19 businesses (elder care, special needs, nationwide); "miraculous contact"
+- IDM: Traveler assembly — hex-drive motor installing today; 2-3 days to photographable unit after test passes; almost all soft goods done
+- IDM: Photo/video — rate-limiting step for everything; plan: motor test → assemble → shoot (vertical + horizontal, DADV demo)
+- IDM: Social media — Joelle creating Instagram (idio.motion or ideomotion.mobility), TikTok, X; existing YouTube ("New Lyft Walker") to rebrand not restart
+- IDM: DME — suppliers closed for holiday; pediatric model may be only viable DME path; direct sales + financing partner is primary
+- IDM: Soft goods — send sample to Delta after photos; Susan to start second batch in parallel; discontinued materials need alternatives
+- GEN: Joelle — moving into gallery space (2-3 wks), stop-motion workshop recap, AI tool "Instinct" recommendation, analog revival discussion
+- GEN: [Meeting Transcript](2026-10-12/2026-10-12-meeting-transcript.md) — cleaned transcript
+- GEN: [Meeting Summary](2026-10-12/2026-10-12-meeting-summary.md) — summary with 14 action items
+
+---
+
+## 2026-10-09
+**Participants:** Thomas, Isak (~25 min)
+- NDOC: Royal Jelly — lawyer needed for labeling/liability; website page ready to build
+- PRES: Mind map expanded — Hyperphysics-style clickable layers, multi-sort, mobile-responsive, drag-and-zoom
+- PRES: FEC lawyer — separate from Royal Jelly, campaign compliance verification
+- PRES: ERA framework — Energy, Righteousness, Accountability adopted as lens for all presidential content
+- PRES: Isaac version of President site — standalone build with mind map as key feature
+- RM: YAML status confirmed — all sites scanned and repos populated
+- CPP: YAML for Hyperphysics — new task to apply front matter to CPP articles with existing keywords
+- GEN: Green screen backgrounds — in progress, paid sites approved, blur for depth-of-field
+- GEN: Traffic counter — needed on all sites (HTML and WordPress)
+- GEN: Daily YAML scan — ongoing task as Thomas posts multiple articles daily
+- IDM: DME call — overdue, get pricing/terms for carrying Traveler
+- GEN: [Meeting Transcript](2026-10-09/2026-10-09-meeting-transcript.md) — cleaned transcript
+- GEN: [Meeting Summary](2026-10-09/2026-10-09-meeting-summary.md) — summary with 12 action items
 
 ---
 
