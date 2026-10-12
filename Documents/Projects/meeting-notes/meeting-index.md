@@ -22,18 +22,14 @@
 
 ## 2026-10-12
 **Participants:** Thomas, Isak, Joelle (~80 min)
-- CPP: Philosophy discussion — mind maps per essay, reductionism ("everywhere you look, you will find God"), photon/bush observation, conscious entities & identity
-- IDM: Delta Manufacturing (Tecate, Mexico) — willing to do small run of 10; waiting on cost estimate; sample shipment next
-- IDM: Financing — Great America encouraging ("I think this could work"); most others want 2 yrs history; hold application until photos ready
-- IDM: New contact — Boise woman owns 19 businesses (elder care, special needs, nationwide); "miraculous contact"
-- IDM: Traveler assembly — hex-drive motor installing today; 2-3 days to photographable unit after test passes; almost all soft goods done
-- IDM: Photo/video — rate-limiting step for everything; plan: motor test → assemble → shoot (vertical + horizontal, DADV demo)
-- IDM: Social media — Joelle creating Instagram (idio.motion or ideomotion.mobility), TikTok, X; existing YouTube ("New Lyft Walker") to rebrand not restart
-- IDM: DME — suppliers closed for holiday; pediatric model may be only viable DME path; direct sales + financing partner is primary
-- IDM: Soft goods — send sample to Delta after photos; Susan to start second batch in parallel; discontinued materials need alternatives
-- GEN: Joelle — moving into gallery space (2-3 wks), stop-motion workshop recap, AI tool "Instinct" recommendation, analog revival discussion
-- GEN: [Meeting Transcript](2026-10-12/2026-10-12-meeting-transcript.md) — cleaned transcript
-- GEN: [Meeting Summary](2026-10-12/2026-10-12-meeting-summary.md) — summary with 14 action items
+- CPP: [Reductionism, Perception & Conscious Entities](2026-10-12/2026-10-12-cpp-reductionism-and-conscious-entities.md) — mind maps per essay, photon/bush observation, "everywhere you look, you will find God", conscious entity theory, identity as observer-dependent
+- IDM: [Delta Manufacturing & Soft Goods](../ideomotion-core/meetings/2026-10-12/idm-delta-manufacturing-and-soft-goods-2026-10-12.md) — Tecate Mexico, small run of 10, sample shipment next, Susan second batch, discontinued materials
+- IDM: [Traveler Assembly & Photo/Video Plan](../ideomotion-core/meetings/2026-10-12/idm-traveler-assembly-and-photo-plan-2026-10-12.md) — hex-drive motor installing today, 2-3 days to photographable unit, DADV demo, vertical+horizontal video
+- IDM: [Financing & Sales Channels](../ideomotion-core/meetings/2026-10-12/idm-financing-and-sales-channels-2026-10-12.md) — Great America encouraging, DME pediatric-only path, new Boise contact (19 businesses, elder care, nationwide)
+- IDM: [Social Media Accounts](../ideomotion-core/meetings/2026-10-12/idm-social-media-accounts-2026-10-12.md) — Instagram/TikTok/X (Joelle), YouTube rebrand not restart (Isak), Instinct AI tool
+- GEN: [Joelle — Art Gallery & AI/Humanity](2026-10-12/2026-10-12-joelle-art-and-ai-humanity.md) — gallery consolidation (2-3 wks), stop-motion workshop, analog revival, Instinct AI tool
+- GEN: [Meeting Transcript](2026-10-12/2026-10-12-meeting-transcript.md) — full cleaned transcript
+- GEN: [Meeting Summary](2026-10-12/2026-10-12-meeting-summary.md) — summary with 14 action items, cross-references to ideomotion-core
 
 ---
 
