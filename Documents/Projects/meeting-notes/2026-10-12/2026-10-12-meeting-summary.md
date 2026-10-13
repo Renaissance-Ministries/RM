@@ -11,6 +11,7 @@
 ### In this repo (RM `meeting-notes/`)
 
 - CPP: [Reductionism, Perception & Conscious Entities](2026-10-12-cpp-reductionism-and-conscious-entities.md)
+- CPP: [Thomas — "Seeing the Source: Mind Maps, Light, and Identity"](thomas-seeing-the-source-2026-10-12.md) — Thomas's Claude write-up (via email 10/13)
 - GEN: [Joelle — Art Gallery & AI/Humanity Discussion](2026-10-12-joelle-art-and-ai-humanity.md)
 
 ### In `ideomotion-core/meetings/2026-10-12/`
@@ -19,6 +20,7 @@
 - IDM: [Traveler Assembly & Photo/Video Plan](../../../ideomotion-core/meetings/2026-10-12/idm-traveler-assembly-and-photo-plan-2026-10-12.md)
 - IDM: [Financing & Sales Channels](../../../ideomotion-core/meetings/2026-10-12/idm-financing-and-sales-channels-2026-10-12.md)
 - IDM: [Social Media Accounts](../../../ideomotion-core/meetings/2026-10-12/idm-social-media-accounts-2026-10-12.md)
+- IDM: [Thomas — Meeting Notes](../../../ideomotion-core/meetings/2026-10-12/thomas-meeting-notes-2026-10-12.md) — Thomas's Claude-generated full meeting summary (via email 10/12)
 
 ---
 

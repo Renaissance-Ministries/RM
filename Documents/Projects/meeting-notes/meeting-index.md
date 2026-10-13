@@ -28,6 +28,9 @@
 - IDM: [Financing & Sales Channels](../ideomotion-core/meetings/2026-10-12/idm-financing-and-sales-channels-2026-10-12.md) — Great America encouraging, DME pediatric-only path, new Boise contact (19 businesses, elder care, nationwide)
 - IDM: [Social Media Accounts](../ideomotion-core/meetings/2026-10-12/idm-social-media-accounts-2026-10-12.md) — Instagram/TikTok/X (Joelle), YouTube rebrand not restart (Isak), Instinct AI tool
 - GEN: [Joelle — Art Gallery & AI/Humanity](2026-10-12/2026-10-12-joelle-art-and-ai-humanity.md) — gallery consolidation (2-3 wks), stop-motion workshop, analog revival, Instinct AI tool
+- CPP: [Thomas — "Seeing the Source: Mind Maps, Light, and Identity"](2026-10-12/thomas-seeing-the-source-2026-10-12.md) — Thomas's Claude write-up of the CPP/philosophy discussion (via email 10/13)
+- IDM: [Thomas — Meeting Notes](../ideomotion-core/meetings/2026-10-12/thomas-meeting-notes-2026-10-12.md) — Thomas's Claude-generated full meeting summary (via email 10/12)
+- IDM: Thomas sent Apollo.io lead generation link to Joelle (cc Isak) — 10/13
 - GEN: [Meeting Transcript](2026-10-12/2026-10-12-meeting-transcript.md) — full cleaned transcript
 - GEN: [Meeting Summary](2026-10-12/2026-10-12-meeting-summary.md) — summary with 14 action items, cross-references to ideomotion-core
 
