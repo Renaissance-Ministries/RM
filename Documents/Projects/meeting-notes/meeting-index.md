@@ -1,7 +1,7 @@
 # Meeting Index — Master Log
 
 **Purpose:** Single place to find every meeting, every topic, every document.
-**Updated:** 2026-10-12
+**Updated:** 2026-10-14
 **Convention:** Raw transcripts stay in `meeting-notes/YYYY-MM-DD/raw/`. Edited topic chapters go to their project folder. Thomas's docs are labeled `thomas-*`.
 
 ---
@@ -17,6 +17,15 @@
 | CHS | Christos Homeschool | `meeting-notes/chs/` |
 | TRD | Trading | `meeting-notes/trading/` |
 | GEN | General / cross-project | `meeting-notes/` |
+
+---
+
+## 2026-10-13
+**Participants:** Thomas, Isak
+- IDM: [Thomas — Team Update (soft goods, photo plan, 350 lb load test)](../ideomotion-core/meetings/2026-10-13/thomas-meeting-notes-2026-10-13.md) — Susan nearly done, child-size thigh prompts, photo with rulers, $300 lighting/audio gear, DADD shoot with Freddy, load test method (winch 350 lb barbell, ISO 10535 safety margin, test to ~500 lb), releases needed
+- GEN: [Thomas — Music, Growing Up, and the Inner Voice](2026-10-13/thomas-music-growing-up-inner-voice-2026-10-13.md) — Led Zeppelin/Eagles/Beatles/Journey docs, first albums, Thomas's Taft/Texas childhood (no anger until age 28, people-pleaser/comedian survival), Isak's self-talk discovery, Johnny Cash and voice, Thomas on life as states of experience
+- TRD: Trading recap in conversation doc — lost $218 day before (ignored gut), made it back +$7 on 5 puts; range-bound pattern discussion
+- PRES: Essay organization system in conversation doc — Ranganathan faceted classification (5 axes), semantic similarity vectors, Zettelkasten cross-refs, gateway pages; Claude building prototype
 
 ---
 
