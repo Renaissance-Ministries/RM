@@ -1,7 +1,7 @@
 # Meeting Index — Master Log
 
 **Purpose:** Single place to find every meeting, every topic, every document.
-**Updated:** 2026-10-14
+**Updated:** 2026-11-03
 **Convention:** Raw transcripts stay in `meeting-notes/YYYY-MM-DD/raw/`. Edited topic chapters go to their project folder. Thomas's docs are labeled `thomas-*`.
 
 ---
@@ -17,6 +17,44 @@
 | CHS | Christos Homeschool | `meeting-notes/chs/` |
 | TRD | Trading | `meeting-notes/trading/` |
 | GEN | General / cross-project | `meeting-notes/` |
+
+---
+
+## 2026-11-03
+**Participants:** Thomas, Isak
+- TRD: [Trading — Election Day](2026-11-03/2026-11-03-trading-election-day.md) — SPY call trade +$90; market sideways on Election Day; Thomas's tech stock picks down ~$1,400 from peak; analyzing momentum-trade subscription service method (accelerating trends = near top); new signal expected ~11 AM
+- CHS: [Hyperphysics Subdomains and WordPress Setup](2026-11-03/2026-11-03-hyperphysics-subdomains-wordpress.md) — 6 new subdomains requested for school subjects (economics, history, philosophy, medicine, literature, mathematics).hyperphysics.com; WordPress only, no Divi; Steve to set up; custom HTML front pages via Claude; MyCounselor.com needs intro page (bypass Divi); Dr. Philosopher redirects to philosophy.hyperphysics.com; Steve already completed 5 previous blog subdomains ($375); Theory of Absolutes subdomains deferred
+- GEN: [Analytics and Monster Insights Setup](2026-11-03/2026-11-03-analytics-monster-insights.md) — Monster Insights on ToA connected to GA under TL Abshier (naturedocs email); successfully logged into analytics.google.com via drthomas@naturedocs.com; plan: new GA account for all sites; Thomas's old Gmail (drthomas@gmail.com) broken/inaccessible; install Monster Insights across all WordPress sites
+
+---
+
+## 2026-11-02
+**Participants:** Thomas, Isak, Joelle
+- TRD: [SPY 0DTE Options — Call trade +$280](2026-11-02/2026-11-02-trading-spy-options.md) — 5 contracts 760C 11/6, in at $6.30 out at $6.86; peace talks in Tehran; goalpost-moving strategy paid off; market kept climbing to $7.25 post-exit
+- PRES: [Unified Mind Map Update](2026-11-02/2026-11-02-unified-mind-map-update.md) — 926 articles indexed across President/RM/ToA sites with per-site toggles; daily Claude scan set up (remote, not Mac cron); bugs: missing/invisible links, ToA duplicates
+- IDM: [Walker Photo Shoot Planning](2026-11-02/2026-11-02-ideomotion-walker-photos.md) — Stills scheduled 11/3 noon at Charlie's shop (white backdrop + park/riverwalk); Charlie rebuilding kangaroo leather elbow/side pads from scratch, ankle weight redesign (cold-roll vs stainless), waterproofing spray test; video shoot at DADD TBD (contact Uncle Mike); Joelle needs stills for website + soft goods suppliers
+- PRES: [Website Strategy & Content Production](2026-11-02/2026-11-02-website-strategy-content-production.md) — AI video production strategy (signature animation style, voice clone, real-person foundation first); president site redesign from scratch (Joelle: simplify, curate, slow-release articles, embedded ElevenLabs reader); new sites: DrPhilosopher.com + institute.hyperphysics.com (Steve to set up); Thomas's studio: replace green screen with real bookshelves (Joelle curating); unified mind-map-as-front-page vision (spider/org/flow/Gantt/organism charts); SEO/AI chatbot optimization (GPT can't find the site — need structured metadata)
+- GEN: [Purpose of Life, AI, and the Journey](2026-11-02/2026-11-02-purpose-of-life-philosophy.md) — 722 AI math proofs as inflection point for human significance; Thomas's three acid dreams (rainbow pursuit, decaying flower, crumbling temple) as metaphors for impermanence; Proverbs 25:16 manna principle; Joelle's two-stones parable (Jewish); fellowship as core purpose ("two fellows in a ship"); pizza principle; AI as industrial revolution parallel
+- GEN: [Thomas's Health Remedies (sidebar)](2026-11-02/2026-11-02-thomas-health-remedies-sidebar.md) — Fever therapy (110degF bath), TDP far-infrared lamp (cleared COVID cough), near-infrared DIY (Home Depot lamp + clamp), portable sauna, contrast therapy; friend Todd's hotandcoldtherapeutics.com
+
+---
+
+## 2026-10-30
+**Participants:** Thomas, Isak
+- PRES: [The Map of Morality and Meaning](2026-10-30/2026-10-30-map-of-morality-and-meaning.md) — Psychedelics/neuroplasticity as lens for growth (precept vs. experience, learning by practice not pills), canvas-of-life metaphor (thought/speech/action as palette, windows = vision, doors = action), Bible vs. anti-Bible binary framework for organizing society, Islam vs. Christianity comparison (Meccan vs. Medinan periods, fruits test), "The Map of Morality and Meaning" book concept (people need a map to see where they are and could be), Philosopher King realization (Plato's concept applied to presidential mission — enrolling everyone to be their own philosopher king); mind map expansion to all 5 sites with per-site filtering + unified "All" view; Zoom built-in notes replaces Otter; president site progress (Capitol/White House photo fix, WordPress hybrid plan)
+
+---
+
+## 2026-10-23
+**Participants:** Thomas, Isak
+- PRES: [Christian-Centric Political and Religious Framework](2026-10-23/2026-10-23-christian-centric-political-religious-framework.md) — Democrat-Christian oxymoron argument, Islam as demonic revelation (Jabril = demon, taqiyya, jizya), dark triad personality types in power structures, stacked chessboards model (society vs. state), abortion as boundary case, yoke of Christ as enrollment, multiculturalism as dilution of Kingdom, side-by-side religion comparison, Stalin purge as satanic pattern, Saul/David parallel; agreed to edit into podcast/video
+
+---
+
+## 2026-10-21
+**Participants:** Thomas, Isak
+- RM: [Scott Lively Mormonism Essay & Faith Discussion](2026-10-21/2026-10-21-meeting-thomas-isak.md) — Thomas reads Lively's historical fraud taxonomy (Cardiff Giant → Joseph Smith); Isak researches Mormon history in real time (slavery, priesthood ban, philosemitism); "changing the authority figure" as Mormonism's core mechanism; Thomas proposes demonic near-perfect copy theory; Isak's personal faith statement (believes in Jesus, identifies with Peter, prays for Solomon's wisdom); organized religion as control; Israel/anti-Semitism/Christian Zionism; hat-screen metaphor and CPP; necessity of confusion and evil; evidence of 18-month transformation; "I want others to experience what I've experienced"; faith vs. knowledge framework
+- TRD: Trading sidebar — rough 0DTE SPY session, recovered to +$245
 
 ---
 
