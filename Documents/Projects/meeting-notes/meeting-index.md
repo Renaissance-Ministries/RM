@@ -1,7 +1,7 @@
 # Meeting Index — Master Log
 
 **Purpose:** Single place to find every meeting, every topic, every document.
-**Updated:** 2026-11-03
+**Updated:** 2026-11-17
 **Convention:** Raw transcripts stay in `meeting-notes/YYYY-MM-DD/raw/`. Edited topic chapters go to their project folder. Thomas's docs are labeled `thomas-*`.
 
 ---
@@ -17,6 +17,46 @@
 | CHS | Christos Homeschool | `meeting-notes/chs/` |
 | TRD | Trading | `meeting-notes/trading/` |
 | GEN | General / cross-project | `meeting-notes/` |
+
+---
+
+## 2026-11-17
+**Participants:** Thomas, Isak, Dave
+- IDM/PRES/GEN: [Ideomotion Walker Design and Production Strategy](2026-11-17/2026-11-17-ideomotion-walker-design-production.md) — Two engineering issues found during testing: power switch in non-ergonomic position (operator must lean down), diagonal cables show deflection under ~200 lb load; magnetic mount proposed for switch relocation; stress test planned (350–500 lbs at gym); Leonard prototyping proposal approved (take products through prototype cycle with Charlie reviewing, not manufacturing); bolt-vs-weld discussion (may go full weld + modular shipping); Dave offered to post 30-sec–1-min campaign videos on Instagram/TikTok/X; MyCounselor/Philosopher HTML front pages requested; RM + President repo essay sync broken since October (script fix in progress)
+
+---
+
+## 2026-11-10
+**Participants:** Thomas, Isak
+- TRD/IDM/GEN: [Trading Psychology, MonsterInsights Pro, Photo Shoot Planning](2026-11-10/2026-11-10-meeting-transcript.md) — SPY trade: -$1,900 loss (slow choppy decline, false recoveries); extended gambling psychology discussion; new rules: 30-min max, $200 stop loss, trailing stops, morning energy for real work; Thomas's AI stocks (Box/10B) near total loss; TNT Trader recommending VCEL (earnings beat play) but Thomas waiting for pullback; new strategy: follow earnings beats directly; MonsterInsights Pro purchased ($300/yr, 25 sites), installed on all WP sites; ToA switched to new GA4 account; chicken lost to predator; house drainage fix planned; photo shoot still pending (Freddie unavailable yesterday, trying again today)
+
+---
+
+## 2026-11-09
+**Participants:** Thomas, Isak, Joelle
+- TRD: [Trading, Theology, International Campaign, Content Strategy](2026-11-09/2026-11-09-meeting-transcript.md) — Isak +$1,000 on SPY puts; Thomas broke even (SpaceX/Tesla gains offset AI stock losses); garage studio set up for dedicated photo/video; product photo shoot planned (Cayenne + Freddie as models); soft goods to Joelle by end of week; deep theological discussion on "Can Satan be saved?" (structural polarity, God's oneness, monotheism as idol); campaign scope expanded to international (Islam, ASI, bioweapons as existential threats); July 4, 2027 launch; "happy warrior" tone; Joelle's YouTube viral marketing contact + AI-era authority marketing book; Bethany's campaign website template offered for free; drphilosopher.com requested from Steve (WordPress); Substack found and logged in (drthomas.substack.com); MonsterInsights completed on all 5 WordPress sites; bookshelf backdrop ordered (white, Joelle wanted dark brown)
+
+---
+
+## 2026-11-06
+**Participants:** Thomas, Isak
+- TRD/GEN/IDM/RM: [Trading Review and Content Operations Sync](2026-11-06/2026-11-06-trading-review-content-ops.md) — SPY options: up ~$1,000 then gave back to +$54 due to dual-strike error and sell-limit duplication locking out exit; $4,500 up for the week; single-strike rule adopted; ThinkorSwim order-edit protocol needed; Ideomotion product photos: editing existing shots, garage photo studio planned, detail-shot script needed; Hyperphysics subdomains confirmed on single WordPress (Steve); MonsterInsights reconnected for RM, Nature Talks + My Counselor still pending; YAML cron doesn't survive sleep — ran manually, investigating fix; Claude operating system templates for all repos (cross-domain prior-work lookup); CVN Iraq War article approved + "The Missing Lever" addendum; Substack / @ThomasAbshier handle raised
+
+---
+
+## 2026-11-05
+**Participants:** Thomas, Isak
+- GEN/CPP/RM: [AI Infrastructure, Singularity, and the Nature of Soul and Spirit](2026-11-05/2026-11-05-ai-infrastructure-singularity-soul-spirit.md) — AI stock downturn driven by data center infrastructure strain (water, power); grid can't support build-out; molten salt reactors 10+ yrs out; singularity definitions (recursive self-improvement vs. physical self-replication); Claude doing 90% own development; humanity too dependent to pull the plug; Harari cow analogy video; no red line for AI in legislation/adjudication; local minima problem for moral optimization; wokeness as false gods (partial goods idolized); soul vs. spirit distinction (soul = emergent from configuration, spirit = divine fiat unique to humans); CPP framework: soul as channel configuration between conscious points; biological AI on neural tissue; Nephilim parallel for AI-human mating; jury of peers and outsourcing judgment; new CPP insight: Father and Son both as infinite points; essay "Maps of Morality and Meaning" needs prior conversation material; Ideomotion photo shoot review and reshoot planning
+
+## 2026-11-04
+**Participants:** Thomas, Isak
+- RM: [Spiritual Vision & Evangelism](2026-11-04/2026-11-04-spiritual-vision-and-evangelism.md) — Thomas on having no supernatural vision yet recognizing truth; CPP as literal "in Him we live and move"; every feeling felt by God and permanently recorded; Isak on generational nihilism and outsourced wisdom; common man struggles with the unseen
+- PRES: [Iran Policy & Presidential Strategy](2026-11-04/2026-11-04-iran-policy-presidential-strategy.md) — Iran essay as "Death Star ventilation shaft"; $6 diesel as public attention hook; delivery plan (Thomas speaks animated, Isak produces video); lobbying model (go viral → senators → "look in your inbox"); supply line readiness concern; Snowden analogy for body-of-work release; hook/chorus/verse content model; "Heaven's Legislation"
+- RM: [Islam Theology & Ministry Approach](2026-11-04/2026-11-04-islam-theology-ministry-approach.md) — Mecca period acknowledged (anti-pagan, one God, Abrahamic morals); Medina period identified as demonic; ministry message: "your crusade against paganism was good, now worship the true God"; broadcast strategy; US repentance paired with gospel offer
+- PRES: [Security, Anonymity & Personal Risk](2026-11-04/2026-11-04-security-anonymity-personal-risk.md) — AI avatar vs. real face vs. bodyguard strategies; Spider-Man problem; Breitbart reference; "couple of guys in a diner" current status; discrediting more likely than assassination; Ender's Game / Benjamin Franklin anonymity parallels
+- PRES: [Content Production & Video Strategy](2026-11-04/2026-11-04-content-production-video-strategy.md) — OBS lossless compression research; DaVinci Resolve workflow; 4K degradation via Zoom; Zoom recordings backup (hundreds of GB); MinutePhysics as template; Thomas's beard as potential trademark ("anti-Hitler" / Gandalf sage look)
+- GEN: [Action Items Roundup](2026-11-04/2026-11-04-action-items-roundup.md) — Thomas reads sticky notes: president mind map/percent bar/org chart, green screen, FEC lawyer, Transforming America YAML check, copyright pass on all repos, logos for NatureDocs/MyCounselor/ToA/Hyperphysics, second-layer YAML AI, Royal Jelly website+lawyer, Ideomotion QuickBooks/DME/training videos, anecdotal database for NatureDocs
+- GEN: [Guitar & Time Management](2026-11-04/2026-11-04-guitar-time-management.md) — Thomas dropping Will Ripley (pro guitar teacher, 15 students) to focus on mission; "Admiral Striker" analogy from Navy; can't be Einstein + FDR + C.S. Lewis + Eric Clapton; David Capellian essay consumed 4 hours the night before
 
 ---
 
