@@ -1,3 +1,17 @@
+---
+title: "Protestantism vs Catholicism - The Authority Each Stands Upon"
+author: "Thomas Lee Abshier, ND"
+date: 2026-11-16
+module: CFE
+domains: [biblical_studies, theology, world_religions]
+topics: [catholicism, protestantism, roman_empire, prayer, worship, governance, paul, old_testament, new_testament, historical_analysis]
+scripture: ["Matthew 4:10", "Timothy 2:5", "Hebrews 7:25", "1 Timothy 2:5"]
+mentions: ["Jesus", "Christ", "John Calvin"]
+status: ESTABLISHED
+source_url: "https://renaissance-ministries.com/2026/11/16/261116-protestantism-vs-catholicism-the-authority-each-stands-upon/"
+wp_slug: "261116-protestantism-vs-catholicism-the-authority-each-stands-upon"
+---
+
 # 261116 - Protestantism vs Catholicism - The Authority Each Stands Upon
 
 # One Stool or Three? Authority, Interpretation, and the Place of Mary

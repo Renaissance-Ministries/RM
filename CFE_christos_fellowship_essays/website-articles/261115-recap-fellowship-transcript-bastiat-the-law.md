@@ -1,3 +1,17 @@
+---
+title: "Recap Fellowship Transcript - Bastiat - The Law"
+author: "Thomas Lee Abshier, ND"
+date: 2026-11-15
+module: CFE
+domains: [theology, biblical_studies, world_religions]
+topics: [governance, old_testament, paul, mormonism, heaven_hell, presidential_platform, genesis, islam, forgiveness, free_will, creation, miracles, prophecy, marriage_family, psalms]
+scripture: ["Genesis 2:17", "Genesis 4:9", "Exodus 20:13", "Exodus 20:7", "1 Samuel 12:14", "1 Samuel 12:25", "1 Samuel 8:7", "2 Samuel 24", "Ezra 8:21", "Psalm 139:20", "Psalm 139:14", "Psalm 111:10", "Isaiah 45:7", "Isaiah 2:4", "Malachi 4:6", "Matthew 25:21", "Matthew 5:48", "Matthew 7:20", "Matthew 5:23", "Matthew 6:15"]
+mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Moses", "Isaiah", "George Washington", "Joseph Smith", "Bastiat"]
+status: ESTABLISHED
+source_url: "https://renaissance-ministries.com/2026/11/15/261115-recap-fellowship-transcript-bastiat-the-law/"
+wp_slug: "261115-recap-fellowship-transcript-bastiat-the-law"
+---
+
 # 261115 - Recap Fellowship Transcript - Bastiat - The Law
 
 # Christos Fellowship, 15 November 2026:

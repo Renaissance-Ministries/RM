@@ -1,3 +1,17 @@
+---
+title: "Transforming America - The Book"
+author: "Thomas Lee Abshier, ND"
+date: 2026-09-24
+module: CFE
+domains: [economics, culture, biblical_studies]
+topics: [governance, marriage_family, islam, gender_sexuality, constitutional_law, paul, economics, old_testament, consciousness, capitalism, christian_nation, morality_ethics, communism, repentance, abortion]
+scripture: ["Genesis 4:9", "Genesis 2:15", "Genesis 3:17", "Genesis 2:24", "Genesis 16", "Genesis 29", "Genesis 1", "Genesis 50:20", "Genesis 18:25", "Genesis 3:5", "Genesis 1:27", "Exodus 20:15", "Exodus 18:13", "Exodus 16:16", "Exodus 21:10", "Exodus 20:5", "Exodus 22:1", "Exodus 20:17", "Exodus 32:1", "Leviticus 25:23"]
+mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Moses", "Abraham", "Solomon", "Elijah", "Isaiah", "George Washington", "Thomas Jefferson", "Abraham Lincoln", "James Madison", "Ronald Reagan", "Donald Trump"]
+status: ESTABLISHED
+source_url: "https://renaissance-ministries.com/2026/09/24/260924-transforming-america-the-book/"
+wp_slug: "260924-transforming-america-the-book"
+---
+
 # 260924 - Transforming America - The Book
 
 ## Transforming America

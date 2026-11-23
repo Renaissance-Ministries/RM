@@ -1,3 +1,17 @@
+---
+title: "Abortion as Demonic Ritual and Child Sacrifice"
+author: "Thomas Lee Abshier, ND"
+date: 2026-11-15
+module: CFE
+domains: [theology, biblical_studies, politics]
+topics: [abortion, old_testament, constitutional_law, judaism, judgment, healthcare, presidential_platform, governance, civil_liberties, marriage_family, psalms, worship, spiritual_warfare, genesis, repentance]
+scripture: ["Genesis 1:28", "Genesis 9:6", "Exodus 21:22", "Leviticus 18:21", "Leviticus 18:24", "Leviticus 19:15", "Leviticus 19:17", "Deuteronomy 12:31", "1 Kings 11:7", "2 Kings 21:6", "2 Kings 24:3", "Psalm 106:37", "Psalm 139:13", "Psalm 139", "Psalm 127:3", "Proverbs 24:11", "Isaiah 5:20", "Jeremiah 1:5", "Ezekiel 16:20", "Luke 1:44"]
+mentions: ["Jesus", "Christ", "God the Father", "Solomon", "Isaiah", "George Washington", "Donald Trump", "Joe Biden"]
+status: ESTABLISHED
+source_url: "https://renaissance-ministries.com/2026/11/15/261115-abortion-as-demonic-ritual-and-child-sacrifice/"
+wp_slug: "261115-abortion-as-demonic-ritual-and-child-sacrifice"
+---
+
 # 261115 - Abortion as Demonic Ritual and Child Sacrifice
 
 # Modern Demonic Rituals and the Embrace of Human Sacrifice in Trump's America

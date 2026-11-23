@@ -1,3 +1,18 @@
+---
+title: "How Biblical Reasoning  Defeats the Sin of Legalism"
+author: "Thomas Lee Abshier, ND"
+date: 2026-11-15
+module: CFE
+domains: [theology, biblical_studies, culture]
+topics: [jeremiah, worship, minor_prophets, covenant, judgment, prophecy, judaism, miracles, tithing, marriage_family]
+scripture: ["Exodus 32:15", "1 Kings 6:3", "Jeremiah 7:4", "Jeremiah 7:9", "Jeremiah 7:11", "Zechariah 5", "Zechariah 5:1", "Zechariah 5:3", "Matthew 21:13", "Matthew 5:17", "Matthew 5:21", "Matthew 5:27", "Matthew 22:37", "Matthew 12:11", "Matthew 25:40", "Matthew 23:23", "Mark 2:27", "Acts 9:4", "Romans 13:9"]
+mentions: ["Jesus", "Christ", "God the Father", "Solomon"]
+thesis: "# 261115 - How Biblical Reasoning Defeats the Sin of Legalism # The Soul of the Law: ### How Scripture Reads Its Own Commandments Thomas Lee Abshier, ND · 15 November 2026 ## A Scroll with Two Sins Written on It In this morning's study of Zechariah..."
+status: ESTABLISHED
+source_url: "https://renaissance-ministries.com/2026/11/15/261115-how-biblical-reasoning-defeats-the-sin-of-legalism/"
+wp_slug: "261115-how-biblical-reasoning-defeats-the-sin-of-legalism"
+---
+
 # 261115 - How Biblical Reasoning  Defeats the Sin of Legalism
 
 # The Soul of the Law:

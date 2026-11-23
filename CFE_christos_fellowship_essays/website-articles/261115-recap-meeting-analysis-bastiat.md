@@ -1,3 +1,17 @@
+---
+title: "Recap - Meeting Analysis - Bastiat"
+author: "Thomas Lee Abshier, ND"
+date: 2026-11-15
+module: CFE
+domains: [theology, biblical_studies, world_religions]
+topics: [paul, old_testament, new_testament, governance, marriage_family, mormonism, prophecy, psalms, forgiveness, creation, presidential_platform, spiritual_warfare, minor_prophets, islam, repentance]
+scripture: ["Genesis 2:18", "Exodus 23:29", "Deuteronomy 18:22", "Deuteronomy 13:1", "1 Samuel 12:14", "1 Samuel 8:7", "Psalm 24:1", "Psalm 139:22", "Psalm 103:1", "Psalm 111:10", "Psalm 34:8", "Proverbs 19:11", "Proverbs 29:2", "Proverbs 4:23", "Isaiah 45:7", "Jeremiah 29:7", "Ezekiel 18:20", "Amos 5:15", "Zephaniah 3:17", "Malachi 2:14"]
+mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Abraham", "Solomon", "Isaiah", "Joseph Smith", "Bastiat"]
+status: ESTABLISHED
+source_url: "https://renaissance-ministries.com/2026/11/15/261115-recap-meeting-analysis-bastiat/"
+wp_slug: "261115-recap-meeting-analysis-bastiat"
+---
+
 # 261115 - Recap - Meeting Analysis - Bastiat
 
 # The Playground and the Sword:

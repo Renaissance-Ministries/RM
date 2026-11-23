@@ -1,3 +1,17 @@
+---
+title: "America - Birthed from the Reformation not the Enlightenment"
+author: "Thomas Lee Abshier, ND"
+date: 2026-11-14
+module: CFE
+domains: [history, biblical_studies, world_religions]
+topics: [protestantism, governance, constitutional_law, reformation_history, buddhism, covenant, paul, new_testament, old_testament, morality_ethics, catholicism, historical_analysis, revolutionary_war, education, great_awakening]
+scripture: ["Leviticus 25:10", "Jeremiah 17:9", "Matthew 7:20", "Acts 5:29", "Romans 13", "Romans 13:4", "Romans 1:22", "Corinthians 3:17", "Galatians 5:1", "Peter 2:9", "2 Corinthians 3:17", "1 Peter 2:9"]
+mentions: ["Jesus", "Christ", "Moses", "Thomas Jefferson", "Abraham Lincoln", "James Madison", "Napoleon", "Augustine", "Martin Luther", "John Calvin"]
+status: ESTABLISHED
+source_url: "https://renaissance-ministries.com/2026/11/14/261114-america-birthed-from-the-reformation-not-the-enlightenment/"
+wp_slug: "261114-america-birthed-from-the-reformation-not-the-enlightenment"
+---
+
 # 261114 - America - Birthed from the Reformation not the Enlightenment
 
 # Here We Stand:

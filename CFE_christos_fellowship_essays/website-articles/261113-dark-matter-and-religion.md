@@ -1,3 +1,17 @@
+---
+title: "Dark Matter and Religion"
+author: "Thomas Lee Abshier, ND"
+date: 2026-11-13
+module: CFE
+domains: [physics, theology, biblical_studies]
+topics: [dark_energy, dark_matter, paul, gravity, creation, consciousness, conscious_point_physics, cosmology, electromagnetism]
+scripture: ["Romans 1:20", "Corinthians 13:12", "Colossians 1:17", "Hebrews 11:3", "1 Corinthians 13:12"]
+mentions: ["God the Father", "Newton"]
+status: ESTABLISHED
+source_url: "https://renaissance-ministries.com/2026/11/13/261113-dark-matter-and-religion/"
+wp_slug: "261113-dark-matter-and-religion"
+---
+
 # 261113 - Dark Matter and Religion
 
 # Through a Glass, Darkly — and Then Face to Face

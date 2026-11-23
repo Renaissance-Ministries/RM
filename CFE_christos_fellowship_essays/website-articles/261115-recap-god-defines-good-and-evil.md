@@ -1,3 +1,17 @@
+---
+title: "Recap - God Defines Good and Evil"
+author: "Thomas Lee Abshier, ND"
+date: 2026-11-15
+module: CFE
+domains: [philosophy, theology, biblical_studies]
+topics: [creation, suffering, free_will, heaven_hell, psalms, paul, morality_ethics, trinity, metaphysics, consciousness]
+scripture: ["Exodus 20:13", "Psalm 90:2", "Psalm 19:1", "Matthew 25:40", "Matthew 7:20", "Luke 12:48", "John 4:8", "John 1:1", "John 17:24", "John 7:17", "Acts 17:28", "Romans 2:15", "Romans 8:22", "Corinthians 13:12", "1 Corinthians 13:12", "1 John 4:8"]
+mentions: ["Jesus", "God the Father", "C.S. Lewis", "Augustine", "Plato"]
+status: ESTABLISHED
+source_url: "https://renaissance-ministries.com/2026/11/15/261115-recap-god-defines-good-and-evil/"
+wp_slug: "261115-recap-god-defines-good-and-evil"
+---
+
 # 261115 - Recap - God Defines Good and Evil
 
 # The Author and the Raindrop:

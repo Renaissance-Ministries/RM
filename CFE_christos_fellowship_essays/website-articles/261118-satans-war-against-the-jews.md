@@ -1,3 +1,17 @@
+---
+title: "Satan's War Against the Jews"
+author: "Thomas Lee Abshier, ND"
+date: 2026-11-18
+module: CFE
+domains: [theology, biblical_studies, world_religions]
+topics: [judaism, paul, catholicism, genesis, spiritual_warfare, governance, repentance, marriage_family, covenant, old_testament]
+scripture: ["Genesis 15", "Genesis 12:3", "Leviticus 18", "2 Chronicles 11:16", "Ezekiel 18:20", "Matthew 25:40", "Luke 23:34", "Luke 2:36", "Acts 26:7", "Romans 11:28", "Romans 11:13", "Romans 11:18", "Romans 9", "Hebrews 6:13", "Revelation 12:10"]
+mentions: ["Jesus", "Christ", "God the Father", "Abraham"]
+status: ESTABLISHED
+source_url: "https://renaissance-ministries.com/2026/11/18/261118-satans-war-against-the-jews/"
+wp_slug: "261118-satans-war-against-the-jews"
+---
+
 # 261118 - Satan's War Against the Jews
 
 # The Title, Not the Character:

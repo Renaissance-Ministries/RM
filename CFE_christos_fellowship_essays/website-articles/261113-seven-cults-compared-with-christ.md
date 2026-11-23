@@ -1,3 +1,17 @@
+---
+title: "Seven Cults Compared with Christ"
+author: "Thomas Lee Abshier, ND"
+date: 2026-11-13
+module: CFE
+domains: [theology, biblical_studies, world_religions]
+topics: [paul, prayer, marriage_family, scientology, salvation, heaven_hell, hinduism, prophecy, repentance, incarnation, judgment, old_testament, governance]
+scripture: ["Genesis 1:28", "Genesis 3:6", "Deuteronomy 18:10", "Deuteronomy 18:22", "Proverbs 22:3", "Jonah 3:10", "Matthew 7:15", "Matthew 23:9", "Matthew 11:28", "Matthew 6:10", "Matthew 24:23", "Matthew 24:27", "Matthew 6:6", "Mark 6:3", "Luke 15:2", "Luke 5:29", "Luke 15:20", "John 17:5", "John 4:9", "John 4:8"]
+mentions: ["Jesus", "Christ", "God the Father", "Holy Spirit", "Moses"]
+status: ESTABLISHED
+source_url: "https://renaissance-ministries.com/2026/11/13/261113-seven-cults-compared-with-christ/"
+wp_slug: "261113-seven-cults-compared-with-christ"
+---
+
 # 261113 - Seven Cults Compared with Christ
 
 # Seven Groups Called Cults, Measured Against Christ

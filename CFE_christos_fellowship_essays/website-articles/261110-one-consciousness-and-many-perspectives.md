@@ -1,3 +1,17 @@
+---
+title: "One Consciousness and Many Perspectives"
+author: "Thomas Lee Abshier, ND"
+date: 2026-11-10
+module: CFE
+domains: [theology, biblical_studies, philosophy]
+topics: [consciousness, paul, creation, nuclear_physics, buddhism, presidential_platform]
+scripture: ["Matthew 22:39", "John 21:25", "Acts 17:28", "Corinthians 12:12", "Ephesians 4:6", "Colossians 1:17", "1 Corinthians 12:12"]
+mentions: ["Jesus", "Christ"]
+status: ESTABLISHED
+source_url: "https://renaissance-ministries.com/2026/11/10/261110-one-consciousness-and-many-perspectives/"
+wp_slug: "261110-one-consciousness-and-many-perspectives"
+---
+
 # 261110 - One Consciousness and Many Perspectives
 
 # One Consciousness, Many Perspectives

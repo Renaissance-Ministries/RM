@@ -1,3 +1,17 @@
+---
+title: "Conscious Point Physics - Version 1, Part 5"
+author: "Thomas Lee Abshier, ND"
+date: 2026-01-01
+module: CFE
+domains: [physics, philosophy, economics]
+topics: [thermodynamics, conscious_point_physics, quantum_mechanics, electromagnetism, consciousness, dipole_sea, wave_theory, gravity, grid_point_lattice, inflation, cosmology, metaphysics, particle_physics, nuclear_physics, fine_structure]
+scripture: ["Genesis 4:74"]
+mentions: ["Einstein", "Newton"]
+status: ESTABLISHED
+source_url: "https://renaissance-ministries.com/conscious-point-physics-version-1-part-5/"
+wp_slug: "conscious-point-physics-version-1-part-5"
+---
+
 # Conscious Point Physics - Version 1, Part 5
 
 ## Appendix A: Supplementary Materials and Open Questions
